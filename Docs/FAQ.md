@@ -16,7 +16,7 @@
 	- [Automatically allocating memory failed](#automatically-allocating-memory-failed)
 	- [It says I am using more than 100 plugins](#it-says-i-am-using-more-than-100-plugins)
 - [**Gameplay Questions**](#gameplay-questions)
-	- [Have this really weird red/green/brown/black graphical issue on the bottom half of your screen?](#have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-your-screen)
+	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
 	- [My rain splashes are purple/pink!](#my-rain-splashes-are-purplepink)
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
 	- [Why isn’t my compass showing undiscovered locations?](#why-isnt-my-compass-showing-undiscovered-locations)
