@@ -41,7 +41,6 @@
 	- [When I drop items on the ground, they sometimes vanish](#when-i-drop-items-on-the-ground-they-sometimes-vanish)
 	- [My Lantern/Tent is asking me where I’d like it equipped](#my-lanterntent-is-asking-me-where-id-like-it-equipped)
 	- [How do I re-enable menus pausing?](#how-do-i-re-enable-menus-pausing)
-	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
 
 <!-- /TOC -->
 
@@ -105,6 +104,12 @@ Use version 7.6 Instead.
 ## Mod X has been updated, can I install that?
 
  No, For stability reasons - only the versions listed on the Ultimate Skyrim Manual Install webpage ([https://www.ultimateskyrim.com/manual-install](https://www.ultimateskyrim.com/manual-install)) are supported. 
+
+___
+
+## Can I remove/disable mod X?
+
+Many mods have a Mod Configuration Menu (MCM) where they can be turned off.  Also, some mods are considered optional, so they can be disabled or uninstalled in Mod Organizer.  For a list of optional mods refer to the official mod list page https://www.ultimateskyrim.com/master-modlist.  If you remove an optional mod that has an esp plugin, you will need to run the Reqtificator and possibly Automatic Variants patcher.  Refer to the manual installation guide for detailed steps.
 
 ___
 
@@ -309,11 +314,5 @@ ___
 ## How do I re-enable menus pausing?
 
 SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2` mod in the left pane -> Information -> ini files tab.
-
-___
-
-## Can I remove/disable mod X?
-
-Many mods have a Mod Configuration Menu (MCM) where they can be turned off.  Also, some mods are considered optional, so they can be disabled or uninstalled in Mod Organizer.  For a list of optional mods refer to the official mod list page https://www.ultimateskyrim.com/master-modlist.  If you remove an optional mod that has an esp plugin, you will need to run the Reqtificator and possibly Automatic Variants patcher.  Refer to the manual installation guide for detailed steps.
 
 ___
