@@ -11,6 +11,7 @@
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
 	- [I’m manually installing and "Fore's New Idles in Skyrim FNIS 7.4.5" is no longer available on nexus?](#im-manually-installing-and-fores-new-idles-in-skyrim-fnis-745-is-no-longer-available-on-nexus)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
+	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
 	- [Automatically allocating memory failed](#automatically-allocating-memory-failed)
