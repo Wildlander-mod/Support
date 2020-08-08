@@ -12,10 +12,12 @@
 	- [I’m manually installing and "Fore's New Idles in Skyrim FNIS 7.4.5" is no longer available on nexus?](#im-manually-installing-and-fores-new-idles-in-skyrim-fnis-745-is-no-longer-available-on-nexus)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
+- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
 	- [Automatically allocating memory failed](#automatically-allocating-memory-failed)
 	- [It says I am using more than 100 plugins](#it-says-i-am-using-more-than-100-plugins)
+	- [The Reqtificator won't start.  When I press "Run", MO2 locks up, then unlocks and nothing happens; or MO2 returns a "Directory name is invalid" error.](#the-reqtificator-wont-start--when-i-press-run-mo2-locks-up-then-unlocks-and-nothing-happens-or-mo2-returns-a-directory-name-is-invalid-error)
 - [**Gameplay Questions**](#gameplay-questions)
 	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
 	- [My rain splashes are purple/pink!](#my-rain-splashes-are-purplepink)
@@ -114,6 +116,12 @@ Many mods have a Mod Configuration Menu (MCM) where they can be turned off.  Als
 
 ___
 
+# Does This mod pack Support other languages? 
+
+No and if you try then SKSE crashes from Mod Organizer. You will need to install English Skyrim to play this modpack.
+
+___
+
 # **Reqtificator Questions**
 
 ## There was no consistency file found
@@ -139,6 +147,13 @@ ___
 Select ignore from now on
 
 ___
+
+## The Reqtificator won't start.  When I press "Run", MO2 locks up, then unlocks and nothing happens; or MO2 returns a "Directory name is invalid" error.
+
+In most cases this is due to a typo in the folder path for the Requiem Skyproc patcher.  The path should be:  **\<path to your Skyrim installation>\Data\SkyProc Patchers\Requiem**.  Many users omit the 's' at the end of "SkyProc Patchers" when creating the folder.  Also confirm that the "Start in" path in your MO2 Reqtificator configuration matches the path.
+
+___
+
                            
 # **Gameplay Questions**
 
