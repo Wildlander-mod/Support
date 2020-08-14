@@ -44,6 +44,7 @@
 	- [When I drop items on the ground, they sometimes vanish](#when-i-drop-items-on-the-ground-they-sometimes-vanish)
 	- [My Lantern/Tent is asking me where I’d like it equipped](#my-lanterntent-is-asking-me-where-id-like-it-equipped)
 	- [How do I re-enable menus pausing?](#how-do-i-re-enable-menus-pausing)
+	- [I keep hearing strange noises around me or objects floating around](#I-keep-hearing-strange-noises-around-me-or-objects-floating-around)
 
 <!-- /TOC -->
 
@@ -328,5 +329,11 @@ This is due to a bad ID, breaking down your lantern and recrafting it in the cra
 ## How do I re-enable menus pausing?
 
 SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2` mod in the left pane -> Information -> ini files tab.
+
+---
+
+## I keep hearing strange noises around me or objects floating around
+
+This is usually a symptom of a known physics engine limitation, causing game instability at framerates higher than 60 FPS.  The easiest workaround is to limit the framerate to 60 FPS, either in the ENB configuration (Shift+Enter opens it in-game), or in the GPU software.
 
 ---
