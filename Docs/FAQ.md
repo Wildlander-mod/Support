@@ -345,8 +345,8 @@ This is because the Snowfall ENB (Both Suki & Custom) are missing a entry in the
 
 To Fix: Close Skyrim, Open steamapps\common\Skyrim\enbseries\_weatherlist.ini and add the following entry (Note: if weather 58 already exists with a filename defined, use the next available number)
 
-[WEATHER058]
-FileName=MapWeather.ini
-WeatherIDs=a6858
-
+	[WEATHER058] 
+	FileName=MapWeather.ini 
+	WeatherIDs=a6858 
+	
 ---
