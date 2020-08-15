@@ -45,6 +45,7 @@
 	- [My Lantern/Tent is asking me where I’d like it equipped](#my-lanterntent-is-asking-me-where-id-like-it-equipped)
 	- [How do I re-enable menus pausing?](#how-do-i-re-enable-menus-pausing)
 	- [I keep hearing strange noises around me or objects floating around](#I-keep-hearing-strange-noises-around-me-or-objects-floating-around)
+	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
 
 <!-- /TOC -->
 
@@ -335,5 +336,17 @@ SkyrimSouls.ini controls which functions pause the game. You can edit the INI fi
 ## I keep hearing strange noises around me or objects floating around
 
 This is usually a symptom of a known physics engine limitation, causing game instability at framerates higher than 60 FPS.  The easiest workaround is to limit the framerate to 60 FPS, either in the ENB configuration (Shift+Enter opens it in-game), or in the GPU software.
+
+---
+
+## If you have Clouds on your Paper world map
+
+This is because the Snowfall ENB (Both Suki & Custom) are missing a entry in the *_weatherlist.ini* for the map weather **OR** you have downloaded the wrong ENB preset
+
+To Fix: Close Skyrim, Open steamapps\common\Skyrim\enbseries\_weatherlist.ini and add the following entry (Note: if weather 58 already exists with a filename defined, use the next available number)
+
+[WEATHER058]
+FileName=MapWeather.ini
+WeatherIDs=a6858
 
 ---
