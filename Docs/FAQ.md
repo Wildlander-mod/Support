@@ -197,11 +197,6 @@ Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
 
 ---
 
-## Items disappear when I drop them on the ground
-
-This tends to happen when dropping items in 1st person. Switch to 3rd person before dropping items.
-
----
 
 ## Why can't I select the first crafting perk?
 
