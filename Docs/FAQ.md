@@ -197,6 +197,12 @@ Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
 
 ---
 
+## Items disappear when I drop them on the ground
+
+This tends to happen when dropping items in 1st person. Switch to 3rd person before dropping items.
+
+---
+
 ## Why can't I select the first crafting perk?
 
 You need a book called The Craftsman’s Manual in your inventory. It can be purchased from most blacksmiths. Most of the Requiem crafting perks require their own books, some of which can be bought while others must be found in the world.
