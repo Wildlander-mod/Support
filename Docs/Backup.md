@@ -7,6 +7,7 @@
      *  **enblocal.ini**
      *  **enbseries.ini**
      *  **enbseries folder**
+     
 Note: I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143/?tab=description) or a similar tool to do this.  This is an app that can backup or restore your complete ENB setup with just a few mouse clicks, and can store multiple ENB configuration profiles.
 
 # Restoring UltSky from a backup:
