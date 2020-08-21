@@ -11,7 +11,7 @@
 
 # Restoring UltSky from a backup:
 1)  Start with a fresh installation of Skyrim Legendary Edition from Steam, or from a Steam backup.
-2)  Refer to the express install guide, and make sure that you have all additional requirements installed, such as the latest **64-bit Java** and **.NET framework**.
+2)  Refer to the express install guide(https://www.ultimateskyrim.com/getting-started), and make sure that you have all additional requirements installed, such as the latest **64-bit Java** and **.NET framework**.
 3)  Copy the main UltSky folder (the one with ModOrganizer.exe) from your backup to a location of  your choice, preferably on your OS drive.   Use a short path, close to the root directory, e.g. **C:\US** .
 4)  Start ModOrganizer.exe from the Ult Sky folder, go into **Settings > Paths**, and update the paths for **Base Directory** and **Downloads**.  Base Directory is the path to ModOrganizer.exe itself, and Downloads should point to the folder with all the mod archives from Nexus.
 5)  Complete the Post-installation steps from the express guide (https://www.ultimateskyrim.com/final-steps-express).
