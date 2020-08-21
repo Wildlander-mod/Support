@@ -2,11 +2,11 @@
 1)  Backup the main UltSky folder - the one with ModOrganizer.exe from which you start up the mod pack.
 2)  [Optional]  Back up the Downloads folder which contains all the mod archives downloaded from Nexus.  _While this is not required to play UltSky, it will prove useful to have handy in case you need to re-install the mod pack from scratch using Wabbajack.  Point the installer to this folder as the "Download location", and it should detect the available mods, in which case it will only download the ones that need to be updated.  This will reduce the installation time considerably._
 3)  [Recommended]  Backup the ENB binaries and configuration files from the Skyrim game folder (the folder with TESV.exe)
-       **d3d9.dll** 
-       **enbhost.exe**
-       **enblocal.ini**
-       **enbseries.ini**
-       **enbseries folder**
+     *  **d3d9.dll** 
+     *  **enbhost.exe** 
+     *  **enblocal.ini**
+     *  **enbseries.ini**
+     *  **enbseries folder**
        >>>>    Note: I recommend using ENB and ReShade Manager or a similar tool to do this (find it on the SSE Nexus website).  This is an app that can backup or restore your complete ENB setup with just a few mouse clicks, and can store multiple ENB configuration profiles.
 
 #Restoring UltSky from a backup:
