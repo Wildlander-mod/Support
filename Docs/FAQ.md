@@ -13,6 +13,7 @@
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
+	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
 	- [Automatically allocating memory failed](#automatically-allocating-memory-failed)
@@ -122,6 +123,12 @@ Many mods have a Mod Configuration Menu (MCM) where they can be turned off. Also
 ## Does This mod pack Support other languages?
 
 No and if you try then SKSE crashes from Mod Organizer. You will need to install English Skyrim to play this modpack.
+
+---
+
+## Can I backup and restore Ultimate Skyrim
+
+Yes, please follow this guide https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Backup.md
 
 ---
 
