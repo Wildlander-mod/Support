@@ -9,7 +9,7 @@
      *  **enbseries folder**
        >>>>    Note: I recommend using ENB and ReShade Manager or a similar tool to do this (find it on the SSE Nexus website).  This is an app that can backup or restore your complete ENB setup with just a few mouse clicks, and can store multiple ENB configuration profiles.
 
-#Restoring UltSky from a backup:
+# Restoring UltSky from a backup:
 1)  Start with a fresh installation of Skyrim Legendary Edition from Steam, or from a Steam backup.
 2)  Refer to the express install guide, and make sure that you have all additional requirements installed, such as the latest **64-bit Java** and **.NET framework**.
 3)  Copy the main UltSky folder (the one with ModOrganizer.exe) from your backup to a location of  your choice, preferably on your OS drive.   Use a short path, close to the root directory, e.g. **C:\US** .
