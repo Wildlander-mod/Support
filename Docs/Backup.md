@@ -1,6 +1,6 @@
 # Backing up UltSky: 
 1)  Back up the main UltSky folder - the one with ModOrganizer.exe from which you start the game.
-2)  [Optional]  Back up the Downloads folder which contains all the Nexus mod archives.  _While this is not required to play UltSky, it will come in handy in case you need to re-install the mod pack using Wabbajack. Just point the Wabbajack installer to this folder as the "Download location" and it should detect all available mods, in which case it will only download the ones that need to be updated from Nexus.  This will reduce the installation time considerably._
+2)  [Optional]  Back up the Downloads folder which contains all the Nexus mod archives.  (_While this is not required to play UltSky, it will come in handy in case you need to re-install the mod pack using Wabbajack. Just point the Wabbajack installer to this folder as the "Download location" and it should detect all available mods, in which case it will only download the ones that need to be updated from Nexus.  This will reduce the installation time considerably._)
 3)  [Recommended]  Backup the ENB binaries and configuration files from the Skyrim game folder (the folder with TESV.exe)
      *  **d3d9.dll** 
      *  **enbhost.exe** 
