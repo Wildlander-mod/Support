@@ -17,4 +17,4 @@ Note: I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyr
 4)  Start **ModOrganizer.exe** from the Ult Sky folder, go into **Settings > Paths**, and update the paths for **Base Directory** and **Downloads**.  Base Directory is the path to ModOrganizer.exe, and Downloads should point to the folder with all the Nexus mod archives.  The rest of the paths (Mods, Caches, Profiles, Overwrite) should already be correct and should begin with **%BASE_DIR%**/
 5)  Complete the Post-installation steps from the Wabbajack guide.
 
-If you wish to restore your ENB configuration from a backup, copy those files to the game folder.
+If you wish to restore your ENB configuration from a backup, copy the above files to the game folder.
