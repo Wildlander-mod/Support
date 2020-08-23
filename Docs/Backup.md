@@ -14,7 +14,7 @@ Note: I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyr
 1)  Start with a fresh installation of Skyrim Legendary Edition from Steam, or from a Steam backup.
 2)  Refer to the [Wabbajack install guide](https://docs.google.com/document/d/1JxbNnYpLp2seYQxfFfyUKWkXoVDpjGgUdk_HjA8-kDE/edit) and install any additional requirements such as the latest **64-bit Java** and **.NET framework**.
 3)  Copy the main UltSky folder (the one with ModOrganizer.exe) from your backup to a location of  your choice, preferably on your OS drive.   Use a short path, close to the root directory, e.g. **C:\US** .
-4)  Start ModOrganizer.exe from the Ult Sky folder, go into **Settings > Paths**, and update the paths for **Base Directory** and **Downloads**.  Base Directory is the path to ModOrganizer.exe itself, and Downloads should point to the folder with all the mod archives from Nexus.
+4)  Start **ModOrganizer.exe** from the Ult Sky folder, go into **Settings > Paths**, and update the paths for **Base Directory** and **Downloads**.  Base Directory is the path to ModOrganizer.exe, and Downloads should point to the folder with all the Nexus mod archives.  The rest of the paths (Mods, Caches, Profiles, Overwrite) should already be correct and should begin with **%BASE_DIR%**/
 5)  Complete the Post-installation steps from the Wabbajack guide.
 
 If you wish to restore your ENB configuration from a backup, copy those files to the game folder.
