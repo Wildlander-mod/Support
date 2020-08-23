@@ -238,7 +238,7 @@ This is caused by Darker Dungeons. If you would like to disable this option, ope
 
 ## My character is invincible - I get to zero health but don't die!
 
-You need a patch! (`[US 406 HF2] Ashes 0.02 patch v0.6.` in #ultsky-bug-submissions on official discord (incase link does't work).
+You need a patch! `[US 406 HF2] Ashes 0.02 patch v0.6.`  Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase below link doesn't work).
 
 [https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829](https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829)
 
