@@ -8,7 +8,7 @@
      *  **enbseries.ini**
      *  **enbseries folder**
      
-Note: I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143/?tab=description) or a similar tool to do this.  This is an app that can backup or restore your complete ENB setup with just a few mouse clicks, and can store multiple ENB configuration profiles.
+Note: I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143/?tab=description) or a similar tool for this.  The app can backup and store multiple ENB configuration profiles, and restore them with a few mouse clicks.
 
 # Restoring UltSky from a backup:
 1)  Start with a fresh installation of Skyrim Legendary Edition from Steam, or from a Steam backup.
