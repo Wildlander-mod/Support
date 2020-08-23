@@ -9,7 +9,6 @@
 	- [Game doesn't boot when launching SKSE, or receiving a d3dx9_43 error](#game-doesnt-boot-when-launching-skse-or-receiving-a-d3dx9_43-error)
 	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-_or_-possibly-running-out-of-memory)
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
-	- [I’m manually installing and "Fore's New Idles in Skyrim FNIS 7.4.5" is no longer available on nexus?](#im-manually-installing-and-fores-new-idles-in-skyrim-fnis-745-is-no-longer-available-on-nexus)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
@@ -104,10 +103,6 @@ Do not use L.O.O.T or rearrange Ultimate Skyrim’s default mods unless a guide 
 
 ---
 
-## I’m manually installing and "Fore's New Idles in Skyrim (FNIS) 7.4.5" is no longer available on nexus?
-
-Use version 7.6 Instead.
-
 ## Mod X has been updated, can I install that?
 
 No, For stability reasons - only the versions listed on the Ultimate Skyrim Manual Install webpage ([https://www.ultimateskyrim.com/manual-install](https://www.ultimateskyrim.com/manual-install)) are supported.
@@ -176,7 +171,7 @@ You probably messed up installing the custom INI files. Make sure you are instal
 
 ## My rain splashes are purple/pink!
 
-You need a patch! ([US 406 HF2] Fix for purple/pink rain splashes (Wonders of Weather). Install with MO2 and keep at the end of the mod list on the left side (no esp). in #ultsky-bug-submission channel incase link doesn't work).
+You need a patch! ([US 406 HF2] Fix for purple/pink rain splashes (Wonders of Weather). Install with MO2 and keep at the end of the mod list on the left side (no esp). Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase link doesn't work).
 
 [https://discordapp.com/channels/344256550640287755/566419501613318154/680786963615186946](https://discordapp.com/channels/344256550640287755/566419501613318154/680786963615186946)
 
@@ -243,7 +238,7 @@ This is caused by Darker Dungeons. If you would like to disable this option, ope
 
 ## My character is invincible - I get to zero health but don't die!
 
-You need a patch! (`[US 406 HF2] Ashes 0.02 patch v0.6.` in #ultsky-bug-submissions incase link does't work).
+You need a patch! (`[US 406 HF2] Ashes 0.02 patch v0.6.` in #ultsky-bug-submissions on official discord (incase link does't work).
 
 [https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829](https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829)
 
@@ -285,7 +280,11 @@ Disclaimer
 
 ## My game has no grass or has very little grass
 
-Ensure the following:
+If you have Installed Via Wabbajack on version 4.0.6HF2
+* The current list is missing "Grass on steroids 1.3a"
+	You either need to set `iMinGrassSize=40` in your Profile\Skyrim.INI or Manually download the missing mod and move it to the correct load Position as per [Official Modlist](https://www.ultimateskyrim.com/master-modlist)
+
+For all other installations ensure the following:
 
 1. Make sure that skyrim.ini has the settings `bAllowCreateGrass`, `bAllowLoadGrass`, and `bDrawShaderGrass` set to 1
 
