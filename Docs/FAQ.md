@@ -89,8 +89,8 @@ Ensure the following:
 
 If your game CTDs with an error from Crash Fixes saying "Skyrim has failed to allocate memory! Possibly running out of memory...", or it crashes during/after the character creation screen, the most likely cause is a bad ENB installation.
 
-1.  Re-do Step 4 from the Getting Started page https://www.ultimateskyrim.com/getting-started#install-enb-binaries. Make sure all 3 ENB files are present: d3d9.dll, enbhost.exe, and enblocal.ini, and confirm both memory settings in enblocal.ini: VideoMemorySize and ReservedMemorySize. You can use the !memsize [RAM][vram] command on Discosrd to confirm your VideoMemorySize.
-2.  If using the Snowfall Weathers mod, re-install the custom ENB files from Step 4 on the Finial Steps page https://www.ultimateskyrim.com/final-steps-express#install-snowfall-enb
+1.  Re-do Step 4 from the Getting Started page https://www.ultimateskyrim.com/getting-started#install-enb-binaries. Make sure all 3 ENB files are present: d3d9.dll, enbhost.exe, and enblocal.ini, and confirm both memory settings in enblocal.ini: VideoMemorySize and ReservedMemorySize. You can use the !memsize [RAM][vram] command on Official Discord to confirm your VideoMemorySize.
+2.  If using the Snowfall Weathers mod, re-install the custom ENB files from Step 4 on the Final Steps page https://www.ultimateskyrim.com/final-steps-express#install-snowfall-enb
 3.  If the above doesn't help, try changing the settings in enblocal.ini according to this guide https://wiki.step-project.com/ENBoost (this will disable all the ENB visual effects)
 
 ---
