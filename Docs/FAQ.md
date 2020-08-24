@@ -7,7 +7,7 @@
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [I’m missing master for HighResTexturePack01-03 or My game CTD after Skyrim Logo](#im-missing-master-for-highrestexturepack01-03-or-my-game-ctd-after-skyrim-logo)
 	- [Game doesn't boot when launching SKSE, or receiving a d3dx9_43 error](#game-doesnt-boot-when-launching-skse-or-receiving-a-d3dx9_43-error)
-	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-_or_-possibly-running-out-of-memory)
+	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-or-possibly-running-out-of-memory)
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
@@ -85,12 +85,12 @@ Ensure the following:
 
 ---
 
-## Skyrim has failed to allocate memory! _or_ Possibly running out of memory
+## Skyrim has failed to allocate memory! or Possibly running out of memory
 
 If your game CTDs with an error from Crash Fixes saying "Skyrim has failed to allocate memory! Possibly running out of memory...", or it crashes during/after the character creation screen, the most likely cause is a bad ENB installation.
 
-1.  Re-do Step 4 from the Getting Started page https://www.ultimateskyrim.com/getting-started#install-enb-binaries. Make sure all 3 ENB files are present: d3d9.dll, enbhost.exe, and enblocal.ini, and confirm both memory settings in enblocal.ini: VideoMemorySize and ReservedMemorySize. You can use the !memsize [RAM][vram] command on Official Discord to confirm your VideoMemorySize.
-2.  If using the Snowfall Weathers mod, re-install the custom ENB files from Step 4 on the Final Steps page https://www.ultimateskyrim.com/final-steps-express#install-snowfall-enb
+1.  Re-do Pages 2,3 and 4 from [Enb Getting Started](https://docs.google.com/viewer?url=https://github.com/phinocio/UltimateSkyrim/raw/master/Docs/Starter%20Guide%20to%20ENBSeries.pdf). Make sure all 3 ENB files are present: d3d9.dll, enbhost.exe, and enblocal.ini, and confirm both memory settings in enblocal.ini: VideoMemorySize and ReservedMemorySize. You can use the !memsize [RAM][vram] command on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) to confirm your VideoMemorySize.
+2.  If using the Snowfall Weathers mod, re-install the ENB files from page 5 (and 6 if you chose to use Suki) of [Enb Getting Started](https://docs.google.com/viewer?url=https://github.com/phinocio/UltimateSkyrim/raw/master/Docs/Starter%20Guide%20to%20ENBSeries.pdf)
 3.  If the above doesn't help, try changing the settings in enblocal.ini according to this guide https://wiki.step-project.com/ENBoost (this will disable all the ENB visual effects)
 
 ---
