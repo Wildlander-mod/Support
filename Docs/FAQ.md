@@ -14,6 +14,7 @@
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
 - [**Reqtificator Questions**](#reqtificator-questions)
+	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
 	- [Automatically allocating memory failed](#automatically-allocating-memory-failed)
 	- [It says I am using more than 100 plugins](#it-says-i-am-using-more-than-100-plugins)
@@ -81,7 +82,7 @@ Ensure the following:
 
 1. Check that your Antivirus is not flagging SKSE or any Skyrim related files
 
-2. Install DirectX End-User Runtimes from here [https://www.microsoft.com/en-us/download/details.aspx?id=8109](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+2. Install DirectX End-User Runtimes from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 
 ---
 
@@ -128,6 +129,20 @@ Yes, please follow this guide https://github.com/phinocio/UltimateSkyrim/blob/ma
 ---
 
 # **Reqtificator Questions**
+## How do i Install the Reqtificator?
+Firstly make sure you have Java installed in Program Files. the version in Program Files(x86) does not work. If you don't have it - you can download it [here](https://java.com/en/download/manual.jsp)
+
+after checking that -
+
+1) Simply visit this [page](https://requiem.atlassian.net/wiki/spaces/RS/pages/691470460/Installing+Requiem+with+Mod+Organizer+2), and begin with Step 4. (Steps 1, 2, and 3 have already been done for you.)
+
+2) When the patcher asks if you are running a new game, select “Yes, this is a new game.”
+
+3) When the patcher notifies you about having over 100 plugins, select “Ignore from now on”.
+
+4) You can leave everything default for Step 7.
+
+---
 
 ## There was no consistency file found
 
