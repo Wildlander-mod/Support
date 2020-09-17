@@ -44,7 +44,8 @@
 	- [When I equip my Belt items it doesn’t ask me which slot I want to put it in](#when-i-equip-my-belt-items-it-doesnt-ask-me-which-slot-i-want-to-put-it-in)
 	- [When I drop items on the ground, they sometimes vanish](#when-i-drop-items-on-the-ground-they-sometimes-vanish)
 	- [My Lantern/Tent is asking me where I’d like it equipped](#my-lanterntent-is-asking-me-where-id-like-it-equipped)
-	- [How do I re-enable menus pausing?](#how-do-i-re-enable-menus-pausing)
+	- [How do I re-enable menus pausing?](#My-characters-animations-are-stuck)
+	- [My character's animations are stuck.](#how-do-i-re-enable-menus-pausing)
 	- [I keep hearing strange noises around me or objects floating around](#I-keep-hearing-strange-noises-around-me-or-objects-floating-around)
 	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
 
@@ -352,6 +353,14 @@ This is due to a bad ID, breaking down your lantern and recrafting it in the cra
 ## How do I re-enable menus pausing?
 
 SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2` mod in the left pane -> Information -> ini files tab.
+
+---
+
+## My character's animations are stuck.
+This is a vanilla Skyrim bug, exacerbated by the scripted mods in Ultimate Skyrim. If jumping doesn’t fix the animation, try the following console commands:
+
+Pushactoraway 14 1
+SetPlayerAIDriven 0
 
 ---
 
