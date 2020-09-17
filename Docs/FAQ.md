@@ -359,8 +359,8 @@ SkyrimSouls.ini controls which functions pause the game. You can edit the INI fi
 ## My character's animations are stuck.
 This is a vanilla Skyrim bug, exacerbated by the scripted mods in Ultimate Skyrim. If jumping doesn’t fix the animation, try the following console commands:
 
-Pushactoraway 14 1
-SetPlayerAIDriven 0
+	Pushactoraway 14 1
+	SetPlayerAIDriven 0
 
 ---
 
