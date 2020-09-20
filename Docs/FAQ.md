@@ -3,6 +3,8 @@
 <!-- TOC -->
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
+- [**4.0.7 Issues**](#4.0.7-Issues)
+	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)
 - [**Install Questions**](#install-questions)
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
@@ -52,7 +54,12 @@
 
 <!-- /TOC -->
 
+
 ---
+# **4.0.7 Issues**
+## Can't Launch Ultimate Skyrim Bat file
+	Symptom: a screen flashes up for a half a second before disappearing 
+	Work Around: navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
 
 # **Install Questions**
 
