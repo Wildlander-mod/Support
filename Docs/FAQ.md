@@ -5,6 +5,7 @@
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
 - [**Install Questions**](#install-questions)
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
+	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
 	- [I’m missing master for HighResTexturePack01-03 or My game CTD after Skyrim Logo](#im-missing-master-for-highrestexturepack01-03-or-my-game-ctd-after-skyrim-logo)
 	- [Game doesn't boot when launching SKSE, or receiving a d3dx9_43 error](#game-doesnt-boot-when-launching-skse-or-receiving-a-d3dx9_43-error)
 	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-or-possibly-running-out-of-memory)
@@ -64,6 +65,11 @@ You can buy Legendary Edition from one of these places:
 [https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition](https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition)
 
 [https://uk.gamesplanet.com/game/the-elder-scrolls-v-skyrim-legendary-edition-steam-key--1057-5](https://uk.gamesplanet.com/game/the-elder-scrolls-v-skyrim-legendary-edition-steam-key--1057-5)
+
+---
+## How do i setup a steam library outside of program files
+
+The wabbajack team has a handy utility to help you do that [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)
 
 ---
 
