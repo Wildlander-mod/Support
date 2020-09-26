@@ -3,8 +3,9 @@
 <!-- TOC -->
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
-- [**4.0.7 Issues**](#4.0.7-Issues)
-	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)
+- [**Wabbajack Issues**](#Wabbajack-Issues)
+	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
+	- [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 - [**Install Questions**](#install-questions)
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
@@ -56,11 +57,36 @@
 
 
 ---
-# **4.0.7 Issues**
-## Can't Launch Ultimate Skyrim Bat file
-	Symptom: a screen flashes up for a half a second before disappearing 
-	Work Around: navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
+# **Wabbajack Issues**
+## Wabbajack Fails to install with GameFileSourceDownloader Error
+If you have Wabbajack Fail with the following messages
+![Image of GameFileSourceDownloader error](https://cdn.discordapp.com/attachments/348579495537803274/759424545957871616/unknown.png)
 
+There are three Known causes
+1) You have Skyrim installed in program files
+	Solution: Close and Run Wabbajack installer as a administrator.
+2) You have previously "cleaned" your DLC.
+	Solution: Have steam verify the game files. 
+3) You have moved your Skyrim Install from where you originally installed it.
+	Solution: Move it back, and use steam to move it to the new location.
+
+After doing the solution 2 or 3, you will need to restart wabbajack.
+
+---
+## Wabbajack Fails to download mods or hangs for a long time.
+Sometimes wabbajack gets stuck downloading.
+
+1) close and restart wabbajack - it will normally resume where it failed & complete the install without any further intervention.
+
+2) if above fails then manually download the file using the following procedure
+
+		Close wabbajack
+		Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
+		Use the search bar in top right to find the mod(s) which fail to download automatically
+		Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
+		Restart wabbajack - it will then proceed with the install
+
+---
 # **Install Questions**
 
 ## Does this mod pack support SSE?
@@ -104,9 +130,7 @@ Ensure the following:
 
 If your game CTDs with an error from Crash Fixes saying "Skyrim has failed to allocate memory! Possibly running out of memory...", or it crashes during/after the character creation screen, the most likely cause is a bad ENB installation.
 
-1.  Re-do Pages 2,3 and 4 from [Enb Getting Started](https://docs.google.com/viewer?url=https://github.com/phinocio/UltimateSkyrim/raw/master/Docs/Starter%20Guide%20to%20ENBSeries.pdf). Make sure all 3 ENB files are present: d3d9.dll, enbhost.exe, and enblocal.ini, and confirm both memory settings in enblocal.ini: VideoMemorySize and ReservedMemorySize. You can use the !memsize [RAM][vram] command on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) to confirm your VideoMemorySize.
-2.  If using the Snowfall Weathers mod, re-install the ENB files from page 5 (and 6 if you chose to use Suki) of [Enb Getting Started](https://docs.google.com/viewer?url=https://github.com/phinocio/UltimateSkyrim/raw/master/Docs/Starter%20Guide%20to%20ENBSeries.pdf)
-3.  If the above doesn't help, try changing the settings in enblocal.ini according to this guide https://wiki.step-project.com/ENBoost (this will disable all the ENB visual effects)
+Open  “enblocal.ini” in your Skyrfilm folder and then configure it according to this [guide](https://imgur.com/yfBDnJI).
 
 ---
 
