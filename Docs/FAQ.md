@@ -80,11 +80,11 @@ Sometimes wabbajack gets stuck downloading.
 
 2) if above fails then manually download the file using the following procedure
 
-		Close wabbajack
-		Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
-		Use the search bar in top right to find the mod(s) which fail to download automatically
-		Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
-		Restart wabbajack - it will then proceed with the install
+	1) Close wabbajack
+	2) Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
+	3) Use the search bar in top right to find the mod(s) which fail to download automatically
+	4) Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
+	5) Restart wabbajack - it will then proceed with the install
 
 ---
 # **Install Questions**
