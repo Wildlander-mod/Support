@@ -64,11 +64,16 @@ If you have Wabbajack Fail with the following messages
 
 There are three Known causes
 1) You have Skyrim installed in program files
-	*Solution: Close and Run Wabbajack installer as a administrator.
+
+	Solution: Close and Run Wabbajack installer as a administrator.
+	
 2) You have previously "cleaned" your DLC.
-	*Solution: Have steam verify the game files. 
+
+	Solution: Have steam verify the game files. 
+	
 3) You have moved your Skyrim Install from where you originally installed it.
-	*Solution: Move it back, and use steam to move it to the new location.
+
+	Solution: Move it back, and use steam to move it to the new location.
 
 After doing the solution 2 or 3, you will need to restart wabbajack.
 
