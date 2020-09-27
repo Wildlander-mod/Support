@@ -64,11 +64,11 @@ If you have Wabbajack Fail with the following messages
 
 There are three Known causes
 1) You have Skyrim installed in program files
-	Solution: Close and Run Wabbajack installer as a administrator.
+	*Solution: Close and Run Wabbajack installer as a administrator.
 2) You have previously "cleaned" your DLC.
-	Solution: Have steam verify the game files. 
+	*Solution: Have steam verify the game files. 
 3) You have moved your Skyrim Install from where you originally installed it.
-	Solution: Move it back, and use steam to move it to the new location.
+	*Solution: Move it back, and use steam to move it to the new location.
 
 After doing the solution 2 or 3, you will need to restart wabbajack.
 
@@ -76,9 +76,9 @@ After doing the solution 2 or 3, you will need to restart wabbajack.
 ## Wabbajack Fails to download mods or hangs for a long time.
 Sometimes wabbajack gets stuck downloading.
 
-1) close and restart wabbajack - it will normally resume where it failed & complete the install without any further intervention.
+1) Close and restart wabbajack - it will normally resume where it failed & complete the install without any further intervention.
 
-2) if above fails then manually download the file using the following procedure
+2) If above fails then manually download the file using the following procedure:-
 
 	1) Close wabbajack
 	2) Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
