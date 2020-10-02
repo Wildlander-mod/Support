@@ -6,6 +6,8 @@
 - [**Wabbajack Issues**](#Wabbajack-Issues)
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
 	- [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
+- [**4.0.7 Issues**](#4.0.7-Issues)
+	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
 - [**Install Questions**](#install-questions)
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
@@ -90,6 +92,12 @@ Sometimes wabbajack gets stuck downloading.
 	3) Use the search bar in top right to find the mod(s) which fail to download automatically
 	4) Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
 	5) Restart wabbajack - it will then proceed with the install
+
+---
+# **4.0.7 Issues**
+## Can't Launch Ultimate Skyrim Bat file
+	Symptom: a screen flashes up for a half a second before disappearing 
+	Work Around: navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
 
 ---
 # **Install Questions**
