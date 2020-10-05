@@ -28,7 +28,7 @@ With Automatic Variants, animal & creature appearances will differ realistically
 
 DynDOLOD is an optional mod that greatly improves the appearance of distant terrain. It can affect your framerate, but the impact isn’t too bad & I think the visual difference is well worth it.
 
-Click [here](https://www.nexusmods.com/skyrim/mods/59721?tab=files) to to download DynDOLOD. (You want the “Manual Download”, as shown [here](https://i.imgur.com/ONuUpNK.jpg)
+Click [here](https://www.nexusmods.com/skyrim/mods/59721?tab=files) to to download DynDOLOD. (You want the “Manual Download”, as shown [here](https://i.imgur.com/ONuUpNK.jpg) You will also want to download the Dyndalod Resources for the same version as DynDOLOD itself if you are running 4.0.7.
 
 Copy the downloaded files to a location of your choosing - preferably the same drive as your Skyrim install.
 
@@ -37,8 +37,8 @@ Open the folder where you installed Ultimate Skyrim and run ModOrganizer.exe.
 [Click the “Modify Executables” button](https://i.imgur.com/urDHApv.jpg), enter “DynDOLOD” as the Title, and then click the ellipses next to the “Binary” field.
 
 Navigate to where you placed the DynDOLOD files, select DynDOLOD.exe,  and then click “Add/Modify” to finalize the executable.
-Your button may show “Add” or "Modify” - either is fine.
+Your button may show “Add” or "Modify” - either is fine. 
 
 Click [here for a video tutorial on running DynDOLOD](https://youtu.be/thfOQIdW0Cg?t=1130) that was created for older versions of Ultimate Skyrim.
-The information is still generally correct and any slight differences are not a problem, except that you should not disable DynDOLOD.esp as the video instructs. That is an outdated instruction.
+The information is still generally correct and any slight differences are not a problem, except that you should not disable DynDOLOD.esp as the video instructs, Instead you should siable the entire mod on the left side. 
 Close the video once DynDOLOD installation is complete. Do not continue past DynDOLOD installation.
