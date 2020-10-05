@@ -54,6 +54,8 @@
 	- [My character's animations are stuck.](#how-do-i-re-enable-menus-pausing)
 	- [I keep hearing strange noises around me or objects floating around](#I-keep-hearing-strange-noises-around-me-or-objects-floating-around)
 	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
+	- [My Character Spawned Underwater](#My-Character-Spawned-Underwater)
+
 
 <!-- /TOC -->
 
@@ -229,6 +231,8 @@ In most cases this is due to a typo in the folder path for the Requiem Skyproc p
 
 ## I have this really weird red/green/brown/black graphical issue on the bottom half of my screen
 
+4.0.6 Issue
+
 ![Image of memory error](https://cdn.discordapp.com/attachments/348579495537803274/594565620096434192/unknown.png)
 
 You probably messed up installing the custom INI files. Make sure you are installing Skyrim.ini and SkyrimPrefs.ini in the `\Ultimate Skyrim 4.0.x\profiles\Ultimate Skyrim 4.0.x (Full)` folder!
@@ -236,6 +240,8 @@ You probably messed up installing the custom INI files. Make sure you are instal
 ---
 
 ## My rain splashes are purple/pink!
+
+4.0.6 Issue
 
 You need a patch! ([US 406 HF2] Fix for purple/pink rain splashes (Wonders of Weather). Install with MO2 and keep at the end of the mod list on the left side (no esp). Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase link doesn't work).
 
@@ -292,6 +298,8 @@ This can happen if you eat too many alchemy ingredients too quickly. Find and ea
 
 ## Why am I not leveling up!
 
+4.0.6 Issue
+
 You only get experience while sleeping - Take a nap!
 
 ---
@@ -303,6 +311,8 @@ This is caused by Darker Dungeons. If you would like to disable this option, ope
 ---
 
 ## My character is invincible - I get to zero health but don't die!
+
+4.0.6 Issue
 
 You need a patch! `[US 406 HF2] Ashes 0.02 patch v0.6.`  Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase below link doesn't work).
 
@@ -324,11 +334,15 @@ Enhanced Skyrim Factions - The Companions Guild adds new conversation options to
 
 ## I'm trying to load my template save and it says my character is dead.
 
+4.0.6 Issue
+
 This happens when you name your character the default name "Adventurer" and are killed by permadeath. To fix delete the .dead file in your `steamapps\common\Skyrim` folder and you will be able to load your save.
 
 ---
 
 ## My Character takes off of his/her clothes off when swimming
+
+4.0.6 Issue
 
 To stop this from happening, open Bathing in Skyrim MCM > Player Animations and _untick_ everything in the sections “Undress Before Bathing - Standard” and “Undress Before Bathing - Extended”
 
@@ -402,7 +416,7 @@ This is due to a bad ID, breaking down your lantern and recrafting it in the cra
 
 ## How do I re-enable menus pausing?
 
-SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2` mod in the left pane -> Information -> ini files tab.
+SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2` or  `Ultimate Skyrim 4.0.7 ore files` mod in the left pane -> Information -> ini files tab.
 
 ---
 
@@ -430,4 +444,9 @@ To Fix: Close Skyrim, Open steamapps\common\Skyrim\enbseries\_weatherlist.ini an
 	FileName=MapWeather.ini 
 	WeatherIDs=a6858 
 	
+---
+## My Character Spawned Underwater
+
+If you load into the game (or start a new character) and your character is underwater while outside, usually near either Whiterun or Markarth's bridges. The Fix is to Enter a nearby building then exit again to force skyrim to re-load the cell.
+
 ---
