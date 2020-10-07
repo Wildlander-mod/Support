@@ -87,7 +87,7 @@ Sometimes wabbajack gets stuck downloading.
 
 1) Close and restart wabbajack - it will normally resume where it failed & complete the install without any further intervention.
 
-2) If above fails then manually download the file using the following procedure:-
+2) If above fails then (with the exception to ultsky 4.0.7 Dyndalod.rar - this one must be downloaded via wabbajack) manually download the file using the following procedure:-
 
 	1) Close wabbajack
 	2) Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
