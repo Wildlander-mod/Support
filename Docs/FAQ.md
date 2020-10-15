@@ -280,7 +280,7 @@ You need a book called The Craftsman’s Manual in your inventory. It can be pur
 
 ## Why is my stamina going down for no reason?
 
-Requiem applies a stamina draining effect when you run, and when you wear heavy armor without the first perk in the heavy armor tree. Running is the normal speed you move at if you aren’t sprinting or specifically holding down the “walk” button. To combat this, make sure to buy food with a “Regenerate 1 stamina per second for X seconds” effect and keep that buff up at all times.
+Requiem applies a stamina draining effect when you run, and when you wear armor without the first perk in the heavy/evasion armor tree. Running is the normal speed you move at if you aren’t sprinting or specifically holding down the “walk” button. To combat this, make sure to buy food with a “Regenerate 1 stamina per second for X seconds” effect and keep that buff up at all times.
 
 ---
 
