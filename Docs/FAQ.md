@@ -19,7 +19,7 @@
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
-	- [iNeed's MCM is Blank](#Ineeds-mcm-is-blank)
+	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
