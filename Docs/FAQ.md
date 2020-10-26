@@ -56,7 +56,7 @@
 	- [I keep hearing strange noises around me or objects floating around](#I-keep-hearing-strange-noises-around-me-or-objects-floating-around)
 	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
 	- [My Character Spawned Underwater](#My-Character-Spawned-Underwater)
-
+	- [How Do I Become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
 
 <!-- /TOC -->
 
@@ -459,3 +459,12 @@ To Fix: Close Skyrim, Open steamapps\common\Skyrim\enbseries\_weatherlist.ini an
 If you load into the game (or start a new character) and your character is underwater while outside, usually near either Whiterun or Markarth's bridges. The Fix is to Enter a nearby building then exit again to force skyrim to re-load the cell.
 
 ---
+
+## How Do I Become Thane of Whiterun
+
+There is a new way of becoming a thane of Whiterun. Complete The Blessings of Nature quest(Danica by the Gildrergreen tree to start) and talk to Jarl Balgruuf when the Gildergreen tree is repaired\the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help the people of the hold and buy a house) will be available.
+
+
+----
+
+
