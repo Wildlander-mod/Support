@@ -104,9 +104,10 @@ Symptom: a screen flashes up for a half a second before disappearing
 Cause: Windows UAC is preventing running of this program. 
 	
 Work Around:
-	1) Open a Powershell windows as a administrator from the search bar and type **Set-ExecutionPolicy Bypass** 
+1) Open a Powershell windows as a administrator from the search bar and type **Set-ExecutionPolicy Bypass** 
 		Answering yes to any questions which follow
-	2) if 1) doesnt work - navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
+		
+2) if 1) doesnt work - navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
 
 ---
 # **Install Questions**
