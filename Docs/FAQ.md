@@ -17,6 +17,7 @@
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
+	- [Can I Add Additional mods?](#Can-I-Add-Additional-mods)
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
 	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
@@ -57,6 +58,7 @@
 	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
 	- [My Character Spawned Underwater](#My-Character-Spawned-Underwater)
 	- [How Do I Become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
+	- [Why cant I fast travel](#Why-Cant-I-Fast-Travel)
 
 <!-- /TOC -->
 
@@ -174,6 +176,20 @@ No, For stability reasons - only the versions listed on the Ultimate Skyrim Manu
 ## Can I remove/disable mod X?
 
 Many mods have a Mod Configuration Menu (MCM) where they can be turned off. Also, some mods are considered optional, so they can be disabled or uninstalled in Mod Organizer. For a list of optional mods refer to the official mod list page https://www.ultimateskyrim.com/master-modlist. If you remove an optional mod that has an esp plugin, you will need to run the Reqtificator and possibly Automatic Variants patcher. Refer to the manual installation guide for detailed steps.
+
+---
+
+## Can I Add Additional mods?
+
+The answer to this is "sometimes". 
+
+The following Types of mods are NOT Compatible
+* Any Alternate start mod.
+* Any Mod which affects the perk trees (E.g Ordinator)
+
+As a General rule - Anything without a ESP such as body replacers (E.g CBBE. UNP. S.o.S) and clutter textures can be added with no problems and no need to run the requiem patcher(Reqtificator).
+
+Please visit the Ultimate Skyrim Discord #ultsky-customsation channel - for install guides and advice for other type of mods.
 
 ---
 
@@ -473,5 +489,8 @@ There is a new way of becoming a thane of Whiterun. Complete The Blessings of Na
 
 
 ----
+## Why Can't I Fast Travel
 
+Requiem disables Fast travel. There are multiple methods of moving around the map quickly without using this - There are boats near most large area of water, and Carriage drivers at the cities.
 
+----
