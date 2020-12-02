@@ -28,8 +28,7 @@
 	- [It says I am using more than 100 plugins](#it-says-i-am-using-more-than-100-plugins)
 	- [The Reqtificator won't start. When I press "Run", MO2 locks up, then unlocks and nothing happens; or MO2 returns a "Directory name is invalid" error.](#the-reqtificator-wont-start-when-i-press-run-mo2-locks-up-then-unlocks-and-nothing-happens-or-mo2-returns-a-directory-name-is-invalid-error)
 - [**Gameplay Questions**](#gameplay-questions)
-	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
-	- [My rain splashes are purple/pink!](#my-rain-splashes-are-purplepink)
+	
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
 	- [Why isn’t my compass showing undiscovered locations?](#why-isnt-my-compass-showing-undiscovered-locations)
 	- [How do I start the main quest?](#how-do-i-start-the-main-quest)
@@ -37,13 +36,9 @@
 	- [Why is my stamina going down for no reason?](#why-is-my-stamina-going-down-for-no-reason)
 	- [Error: Incompatible menu fileMap.swf when opening the map.](#error-incompatible-menu-filemapswf-when-opening-the-map)
 	- [My vision is all Blurry/Messed up!](#my-vision-is-all-blurrymessed-up)
-	- [Why am I not leveling up!](#why-am-i-not-leveling-up)
 	- [The screen randomly went dark shortly after I entered &lt;insert name here>.](#the-screen-randomly-went-dark-shortly-after-i-entered-ltinsert-name-here)
-	- [My character is invincible - I get to zero health but don't die!](#my-character-is-invincible---i-get-to-zero-health-but-dont-die)
 	- [I tried to learn a spell from a Tome - the book disappeared but I still don't know it](#i-tried-to-learn-a-spell-from-a-tome---the-book-disappeared-but-i-still-dont-know-it)
 	- [Why does the NPC dialogue cut out when talking to Aela?](#why-does-the-npc-dialogue-cut-out-when-talking-to-aela)
-	- [I'm trying to load my template save and it says my character is dead.](#im-trying-to-load-my-template-save-and-it-says-my-character-is-dead)
-	- [My Character takes off of his/her clothes off when swimming](#my-character-takes-off-of-hisher-clothes-off-when-swimming)
 	- [What does the MCM guide mean about template saves?](#what-does-the-mcm-guide-mean-about-template-saves)
 	- [My game has no grass or has very little grass](#my-game-has-no-grass-or-has-very-little-grass)
 	- [Why is everything so expensive in shops?](#why-is-everything-so-expensive-in-shops)
@@ -57,9 +52,23 @@
 	- [I keep hearing strange noises around me or objects floating around](#I-keep-hearing-strange-noises-around-me-or-objects-floating-around)
 	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
 	- [My Character Spawned Underwater](#My-Character-Spawned-Underwater)
-	- [How Do I Become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
 	- [Why cant I fast travel](#Why-Cant-I-Fast-Travel)
-
+- [**4.0.6 Issues**](#4.0.6-Issues)	
+	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
+	- [My rain splashes are purple/pink!](#my-rain-splashes-are-purplepink)
+	- [Why am I not leveling up!](#why-am-i-not-leveling-up)
+	- [My character is invincible - I get to zero health but don't die!](#my-character-is-invincible---i-get-to-zero-health-but-dont-die)
+	- [I'm trying to load my template save and it says my character is dead.](#im-trying-to-load-my-template-save-and-it-says-my-character-is-dead)
+	- [My Character takes off of his/her clothes off when swimming](#my-character-takes-off-of-hisher-clothes-off-when-swimming)	
+	
+- [**Questing Questions**](#Questing-questions)
+	- [How do I start the main quest?](#how-do-i-start-the-main-quest)
+	- [How Do I Become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
+	- [I can’t start the Thieves Guild through Brynjolf](#I_cant_start_the_Thieves_Guild_through_Brynjolf)
+	- [How do I start the Dragonborn questline?](#How-do-I-start-the-Dragonborn-questline)
+	- [How do I start the Undeath questline?](#How-do-I-start-the-Undeath-questline)
+	
+	
 <!-- /TOC -->
 
 
@@ -261,24 +270,6 @@ In most cases this is due to a typo in the folder path for the Requiem Skyproc p
 
 # **Gameplay Questions**
 
-## I have this really weird red/green/brown/black graphical issue on the bottom half of my screen
-
-4.0.6 Issue
-
-![Image of memory error](https://cdn.discordapp.com/attachments/348579495537803274/594565620096434192/unknown.png)
-
-You probably messed up installing the custom INI files. Make sure you are installing Skyrim.ini and SkyrimPrefs.ini in the `\Ultimate Skyrim 4.0.x\profiles\Ultimate Skyrim 4.0.x (Full)` folder!
-
----
-
-## My rain splashes are purple/pink!
-
-4.0.6 Issue
-
-You need a patch! ([US 406 HF2] Fix for purple/pink rain splashes (Wonders of Weather). Install with MO2 and keep at the end of the mod list on the left side (no esp). Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase link doesn't work).
-
-[https://discordapp.com/channels/344256550640287755/566419501613318154/680786963615186946](https://discordapp.com/channels/344256550640287755/566419501613318154/680786963615186946)
-
 ---
 
 ## My Compass has disappeared!
@@ -328,27 +319,9 @@ This can happen if you eat too many alchemy ingredients too quickly. Find and ea
 
 ---
 
-## Why am I not leveling up!
-
-4.0.6 Issue
-
-You only get experience while sleeping - Take a nap!
-
----
-
 ## The screen randomly went dark shortly after I entered &lt;insert name here>.
 
 This is caused by Darker Dungeons. If you would like to disable this option, open up Darker Dungeons MCM > General Configuration > _untick_ Do Fadeout On Dungeon Entry.
-
----
-
-## My character is invincible - I get to zero health but don't die!
-
-4.0.6 Issue
-
-You need a patch! `[US 406 HF2] Ashes 0.02 patch v0.6.`  Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase below link doesn't work).
-
-[https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829](https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829)
 
 ---
 
@@ -364,25 +337,13 @@ Enhanced Skyrim Factions - The Companions Guild adds new conversation options to
 
 ---
 
-## I'm trying to load my template save and it says my character is dead.
-
-4.0.6 Issue
-
-This happens when you name your character the default name "Adventurer" and are killed by permadeath. To fix delete the .dead file in your `steamapps\common\Skyrim` folder and you will be able to load your save.
-
----
-
-## My Character takes off of his/her clothes off when swimming
-
-4.0.6 Issue
-
-To stop this from happening, open Bathing in Skyrim MCM > Player Animations and _untick_ everything in the sections “Undress Before Bathing - Standard” and “Undress Before Bathing - Extended”
-
----
-
 ## What does the MCM guide mean about template saves?
 
-A template save will be the save game you make _before_ clicking on _Start My Adventure_ in the Ultimate Skyrim MCM menu, you will want to do this so next time you start a new character you won’t have to re-configure everything before the Ultimate Skyrim MCM!
+There is unfortunately no way to Copy MCM settings over to a new character for every mod. 
+
+The closest thing is creating a "template save" by configuring the bulk of the MCM's. then loading this template save everytime you want to create a new character. You will then only need to do the "post-Start" MCM setups (approx the last 2 pages)
+
+A template save will be the save game you make _before_ clicking on _Begin My Adventure_ in the Ultimate Skyrim MCM menu, you will want to do this so next time you start a new character you won’t have to re-configure everything before the Ultimate Skyrim MCM!
 
 Disclaimer
 
@@ -468,24 +429,12 @@ This is usually a symptom of a known physics engine limitation, causing game ins
 
 ## If you have Clouds on your Paper world map
 
-This is because the Snowfall ENB (Both Suki & Custom) are missing a entry in the *_weatherlist.ini* for the map weather **OR** you have downloaded the wrong ENB preset
-
-To Fix: Close Skyrim, Open steamapps\common\Skyrim\enbseries\_weatherlist.ini and add the following entry (Note: if weather 58 already exists with a filename defined, use the next available number)
-
-	[WEATHER058] 
-	FileName=MapWeather.ini 
-	WeatherIDs=a6858 
+This is a Known issue - Please visit the Official discord #ultsky-FAQ channel for the list of known issues and correction instructions
 	
 ---
 ## My Character Spawned Underwater
 
 If you load into the game (or start a new character) and your character is underwater while outside, usually near either Whiterun or Markarth's bridges. The Fix is to Enter a nearby building then exit again to force skyrim to re-load the cell.
-
----
-
-## How Do I Become Thane of Whiterun
-
-There is a new way of becoming a thane of Whiterun. Complete The Blessings of Nature quest(Danica by the Gildrergreen tree to start) and talk to Jarl Balgruuf when the Gildergreen tree is repaired\the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help the people of the hold and buy a house) will be available.
 
 
 ----
@@ -494,3 +443,109 @@ There is a new way of becoming a thane of Whiterun. Complete The Blessings of Na
 Requiem disables Fast travel. There are multiple methods of moving around the map quickly without using this - There are boats near most large area of water, and Carriage drivers at the cities.
 
 ----
+## My game freezes during loading screens.
+
+> The game may appear frozen, but it's usually still loading in the background. This is caused by OneTweak's Windowless Bordered mode. 
+
+* Please make sure that Windows Task manager is not running.
+* Disable Save on wait and Save on travel and switch to using manual saves.
+
+----
+## How do I change the difficulty?
+
+> The in-game difficulty sliders do not work with Requiem. Use the Damage Dealt/Taken values in the Requiem MCM instead. The recommended setting for both sliders is 100%. Requiem increases the difficulty of the game significantly, so if you're having a hard time doing anything, take a look at the [Beginner Guide for New Requiem Players](https://www.reddit.com/r/skyrimrequiem/comments/1w5cej/surviving_the_first_few_hours_in_requiem_or/).
+
+----
+## I contracted Sanguinare Vampiris and now I can't sleep!
+
+> This is a Minor Arcana change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
+
+----
+# **4.0.6 Issues**
+
+
+## I have this really weird red/green/brown/black graphical issue on the bottom half of my screen
+
+4.0.6 Issue
+
+![Image of memory error](https://cdn.discordapp.com/attachments/348579495537803274/594565620096434192/unknown.png)
+
+You probably messed up installing the custom INI files. Make sure you are installing Skyrim.ini and SkyrimPrefs.ini in the `\Ultimate Skyrim 4.0.x\profiles\Ultimate Skyrim 4.0.x (Full)` folder!
+
+---
+
+## My rain splashes are purple/pink!
+
+4.0.6 Issue
+
+You need a patch! ([US 406 HF2] Fix for purple/pink rain splashes (Wonders of Weather). Install with MO2 and keep at the end of the mod list on the left side (no esp). Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase link doesn't work).
+
+[https://discordapp.com/channels/344256550640287755/566419501613318154/680786963615186946](https://discordapp.com/channels/344256550640287755/566419501613318154/680786963615186946)
+
+---
+
+## Why am I not leveling up!
+
+4.0.6 Issue
+
+You only get experience while sleeping - Take a nap!
+
+---
+
+## My character is invincible - I get to zero health but don't die!
+
+4.0.6 Issue
+
+You need a patch! `[US 406 HF2] Ashes 0.02 patch v0.6.`  Fix is on [Official UltSy discord](https://discordapp.com/invite/8VkDrfq) in #ultsky-bug-submission channel (incase below link doesn't work).
+
+[https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829](https://discordapp.com/channels/344256550640287755/566419501613318154/679539347854327829)
+
+---
+
+## I'm trying to load my template save and it says my character is dead.
+
+4.0.6 Issue
+
+This happens when you name your character the default name "Adventurer" and are killed by permadeath. To fix delete the .dead file in your `steamapps\common\Skyrim` folder and you will be able to load your save.
+
+---
+
+## My Character takes off of his/her clothes off when swimming
+
+4.0.6 Issue
+
+To stop this from happening, open Bathing in Skyrim MCM > Player Animations and _untick_ everything in the sections “Undress Before Bathing - Standard” and “Undress Before Bathing - Extended”
+
+---
+
+# **Questing Questions**
+
+## How do I start the main quest?
+
+Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
+
+---
+
+## How Do I Become Thane of Whiterun
+
+There is a new way of becoming a thane of Whiterun. Complete The Blessings of Nature quest(Danica by the Gildrergreen tree to start) and talk to Jarl Balgruuf when the Gildergreen tree is repaired\the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help the people of the hold and buy a house) will be available.
+
+---
+
+##I can’t start the Thieves Guild through Brynjolf.
+
+> **Thieves Guild Requirements** is included in the list, which requires a certain amount of pockets picked/items stolen.
+
+---
+
+## How do I start the Dragonborn questline?
+
+> Dragonborn content is available after completing "A Blade in the Dark" during the Main Quest.
+
+---
+
+## How do I start the Undeath questline?
+
+> Undeath content is available after level 30. A quest will appear in your journal with further instructions.
+
+---
