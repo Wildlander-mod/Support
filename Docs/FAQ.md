@@ -110,6 +110,8 @@ Sometimes wabbajack gets stuck downloading.
 	4) Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
 	5) Restart wabbajack - it will then proceed with the install
 
+3) If Dyndalod is the one Stuck, please try a free VPN such as nordvpn or proton and restart wabbajack. If this fails to work, please visit official discord and ask for assistence in the ultsky-support channel
+
 ---
 # **4.0.7 Issues**
 ## Can't Launch Ultimate Skyrim Bat file
@@ -157,9 +159,11 @@ If you have issues viewing the DL, try this work around https://www.reddit.com/r
 
 Ensure the following:
 
-1. Check that your Antivirus is not flagging SKSE or any Skyrim related files
+1. Check that your Antivirus is not flagging SKSE or any Skyrim related files (best Solution is to add Antivirus exceptions to  the Ultimate Skyrim & skyrim folders
 
 2. Install DirectX End-User Runtimes from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+
+3. Make sure you content folder contains usvfs_proxy_x64.exe & usvfs_proxy_x86.exe If these files are missing its likely your anti-virus has moved them to the virus vault.
 
 ---
 
@@ -187,7 +191,7 @@ No, For stability reasons - only the versions listed on the Ultimate Skyrim Manu
 
 ## Can I remove/disable mod X?
 
-Many mods have a Mod Configuration Menu (MCM) where they can be turned off. Also, some mods are considered optional, so they can be disabled or uninstalled in Mod Organizer. For a list of optional mods refer to the official mod list page https://www.ultimateskyrim.com/master-modlist. If you remove an optional mod that has an esp plugin, you will need to run the Reqtificator and possibly Automatic Variants patcher. Refer to the manual installation guide for detailed steps.
+Many mods have a Mod Configuration Menu (MCM) where they can be turned off. Also, some mods are considered optional, so they can be disabled or uninstalled in Mod Organizer. If you remove an optional mod that has an esp plugin, you will need to run the Reqtificator and possibly Automatic Variants patcher. 
 
 ---
 
@@ -198,8 +202,11 @@ The answer to this is "sometimes".
 The following Types of mods are NOT Compatible
 * Any Alternate start mod.
 * Any Mod which affects the perk trees (E.g Ordinator)
+* Truly Absorb Dragon Souls (prevents the main quest from firing upon killing a dragon)
 
 As a General rule - Anything without a ESP such as body replacers (E.g CBBE. UNP. S.o.S) and clutter textures can be added with no problems and no need to run the requiem patcher(Reqtificator).
+
+Follower and Quest mods will generally need Requiem patching so their NPC's stand a chance against you and your followers and followers stand a chance against NPCs. New ingredients can break Requiem's alchemy balance, new food will likely need iNeed patching, some equipment might require Frostfall patching, and so forth. 
 
 Please visit the Ultimate Skyrim Discord #ultsky-customsation channel - for install guides and advice for other type of mods.
 
@@ -313,11 +320,12 @@ You missed an MCM setting in SkyUI! Open SkyUI MCM Menu > Advanced > uncheck SWF
 
 ## My vision is all Blurry/Messed up!
 
-This can happen if you eat too many alchemy ingredients too quickly. Find and eat a Nirnroot to remove the effect.
+ 1) This can happen if you eat too many alchemy ingredients too quickly. Find and eat a Nirnroot to remove the effect.
+ 2) Check you active effects, you might have picked up a disease and require a potion of cleansing.
 
 ---
 
-## The screen randomly went dark shortly after I entered &lt;insert name here>.
+## The screen randomly went dark shortly after I entered &lt;insert name here &gt;.
 
 This is caused by Darker Dungeons. If you would like to disable this option, open up Darker Dungeons MCM > General Configuration > _untick_ Do Fadeout On Dungeon Entry.
 
@@ -351,11 +359,7 @@ Disclaimer
 
 ## My game has no grass or has very little grass
 
-If you have Installed Via Wabbajack on version 4.0.6HF2
-* The current list is missing "Grass on steroids 1.3a"
-	You either need to set `iMinGrassSize=40` in your Profile\Skyrim.INI or Manually download the missing mod and move it to the correct load Position as per [Official Modlist](https://www.ultimateskyrim.com/master-modlist)
-
-For all other installations ensure the following:
+Ensure the following are set in Content\Profiles\<Profile you play>\:
 
 1. Make sure that skyrim.ini has the settings `bAllowCreateGrass`, `bAllowLoadGrass`, and `bDrawShaderGrass` set to 1
 
