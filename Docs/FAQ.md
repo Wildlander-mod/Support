@@ -177,7 +177,7 @@ Open  “enblocal.ini” in your Skyrfilm folder and then configure it according
 
 ## Can someone help with my load order?
 
-The Ultimate Skyrim Support Team cannot assist with this issue as there are too many variables. Your load order should be the one specified on here [https://www.ultimateskyrim.com/master-modlist](https://www.ultimateskyrim.com/master-modlist)
+The Ultimate Skyrim Support Team cannot assist with this issue as there are too many variables. 
 
 Do not use L.O.O.T or rearrange Ultimate Skyrim’s default mods unless a guide from one of us specifically tells you to!
 
