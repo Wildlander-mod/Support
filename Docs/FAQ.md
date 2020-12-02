@@ -53,6 +53,9 @@
 	- [If you have Clouds on your Paper world map](#If-you-have-Clouds-on-your-Paper-world-map)
 	- [My Character Spawned Underwater](#My-Character-Spawned-Underwater)
 	- [Why cant I fast travel](#Why-Cant-I-Fast-Travel)
+	- [My game freezes during loading screens](#My-game-freezes-during-loading-screens)
+	- [How do I change the difficulty?](#How-do-I-change-the-difficulty)
+	- [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)	
 - [**4.0.6 Issues**](#4.0.6-Issues)	
 	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
 	- [My rain splashes are purple/pink!](#my-rain-splashes-are-purplepink)
@@ -286,11 +289,6 @@ iCompass hides the locations by default. To restore your compass to vanilla sett
 
 _Please note, installing or uninstalling mods during a playthrough may break your game and is not recommended_
 
----
-
-## How do I start the main quest?
-
-Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
 
 ---
 
@@ -445,7 +443,7 @@ Requiem disables Fast travel. There are multiple methods of moving around the ma
 ----
 ## My game freezes during loading screens.
 
-> The game may appear frozen, but it's usually still loading in the background. This is caused by OneTweak's Windowless Bordered mode. 
+The game may appear frozen, but it's usually still loading in the background. This is caused by OneTweak's Windowless Bordered mode. 
 
 * Please make sure that Windows Task manager is not running.
 * Disable Save on wait and Save on travel and switch to using manual saves.
@@ -453,12 +451,12 @@ Requiem disables Fast travel. There are multiple methods of moving around the ma
 ----
 ## How do I change the difficulty?
 
-> The in-game difficulty sliders do not work with Requiem. Use the Damage Dealt/Taken values in the Requiem MCM instead. The recommended setting for both sliders is 100%. Requiem increases the difficulty of the game significantly, so if you're having a hard time doing anything, take a look at the [Beginner Guide for New Requiem Players](https://www.reddit.com/r/skyrimrequiem/comments/1w5cej/surviving_the_first_few_hours_in_requiem_or/).
+The in-game difficulty sliders do not work with Requiem. Use the Damage Dealt/Taken values in the Requiem MCM instead. The recommended setting for both sliders is 100%. Requiem increases the difficulty of the game significantly, so if you're having a hard time doing anything, take a look at the [Beginner Guide for New Requiem Players](https://www.reddit.com/r/skyrimrequiem/comments/1w5cej/surviving_the_first_few_hours_in_requiem_or/).
 
 ----
 ## I contracted Sanguinare Vampiris and now I can't sleep!
 
-> This is a Minor Arcana change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
+This is a Minor Arcana change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
 
 ----
 # **4.0.6 Issues**
@@ -532,20 +530,20 @@ There is a new way of becoming a thane of Whiterun. Complete The Blessings of Na
 
 ---
 
-##I can’t start the Thieves Guild through Brynjolf.
+## I can’t start the Thieves Guild through Brynjolf.
 
-> **Thieves Guild Requirements** is included in the list, which requires a certain amount of pockets picked/items stolen.
+**Thieves Guild Requirements** is included in the list, which requires a certain amount of pockets picked/items stolen.
 
 ---
 
 ## How do I start the Dragonborn questline?
 
-> Dragonborn content is available after completing "A Blade in the Dark" during the Main Quest.
+Dragonborn content is available after completing "A Blade in the Dark" during the Main Quest.
 
 ---
 
 ## How do I start the Undeath questline?
 
-> Undeath content is available after level 30. A quest will appear in your journal with further instructions.
+Undeath content is available after level 30. A quest will appear in your journal with further instructions.
 
 ---
