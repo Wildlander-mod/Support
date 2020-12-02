@@ -67,7 +67,7 @@
 - [**Questing Questions**](#Questing-questions)
 	- [How do I start the main quest?](#how-do-i-start-the-main-quest)
 	- [How Do I Become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
-	- [I can’t start the Thieves Guild through Brynjolf](#I_cant_start_the_Thieves_Guild_through_Brynjolf)
+	- [I can’t start the Thieves Guild through Brynjolf](#i-cant-start-the-thieves-guild-through-brynjolf)
 	- [How do I start the Dragonborn questline?](#How-do-I-start-the-Dragonborn-questline)
 	- [How do I start the Undeath questline?](#How-do-I-start-the-Undeath-questline)
 	
