@@ -12,7 +12,8 @@
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
 	- [I’m missing master for HighResTexturePack01-03 or My game CTD after Skyrim Logo](#im-missing-master-for-highrestexturepack01-03-or-my-game-ctd-after-skyrim-logo)
-	- [Game doesn't boot when launching SKSE, or receiving a d3dx9_43 error](#game-doesnt-boot-when-launching-skse-or-receiving-a-d3dx9_43-error)
+	- [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse-Cannot-Start-SKSE-error)
+	- [Game Hard CTD on Splashscreen](#game-hard-CTD-on-SplashScreen)
 	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-or-possibly-running-out-of-memory)
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
@@ -155,15 +156,20 @@ If you have issues viewing the DL, try this work around https://www.reddit.com/r
 
 ---
 
-## Game doesn't boot when launching SKSE, or receiving a d3dx9_43 error
+## Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error
+![image of SKSE Error](https://cdn.discordapp.com/attachments/348579495537803274/784603401995681794/Capture.PNG)
 
 Ensure the following:
 
 1. Check that your Antivirus is not flagging SKSE or any Skyrim related files (best Solution is to add Antivirus exceptions to  the Ultimate Skyrim & skyrim folders
 
-2. Install DirectX End-User Runtimes from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+2. Make sure you content folder contains usvfs_proxy_x64.exe & usvfs_proxy_x86.exe If these files are missing its likely your anti-virus has moved them to the virus vault.
 
-3. Make sure you content folder contains usvfs_proxy_x64.exe & usvfs_proxy_x86.exe If these files are missing its likely your anti-virus has moved them to the virus vault.
+3. Restore Missing files from Mod Organiser Zip file in your Ultimate Skyrim\download directory if cannot find in virus vault
+---
+## Game Hard CTD on Splashscreen
+
+Install DirectX End-User Runtimes from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 
 ---
 
