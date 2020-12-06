@@ -12,7 +12,7 @@
 	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
 	- [I’m missing master for HighResTexturePack01-03 or My game CTD after Skyrim Logo](#im-missing-master-for-highrestexturepack01-03-or-my-game-ctd-after-skyrim-logo)
-	- [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse-Cannot-Start-SKSE-error)
+	- [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
 	- [Game Hard CTD on Splashscreen](#game-hard-CTD-on-SplashScreen)
 	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-or-possibly-running-out-of-memory)
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
