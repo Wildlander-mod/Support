@@ -22,6 +22,7 @@
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
 	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
+	- [I want to set rodericktech guide for fancy graphics - where are the patcher instructions](#ineeds-mcm-page-is-blank)
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
@@ -237,6 +238,14 @@ Solution 1) Reboot the MCM's - Open console and use command
 	_setstage ski_configmanagerinstance 1_ Then wait for the MCM's to finish loading in top left hand corner.
 	
 Solution 2) Create a brand new game, wait for MCM's to finish initialising(top left) and try again.
+
+---
+## I want to set rodericktech guide for fancy graphics - where are the patcher instructions.
+
+Reqtificator is located [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#how-do-i-install-the-reqtificator)
+Other Patchers are located [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
+
+---
 
 # **Reqtificator Questions**
 ## How do i Install the Reqtificator?
