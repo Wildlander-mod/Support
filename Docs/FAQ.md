@@ -22,7 +22,7 @@
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
 	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
-	- [I want to set rodericktech guide for fancy graphics - where are the patcher instructions](#ineeds-mcm-page-is-blank)
+	- [I want to set rodericktech guide for fancy graphics - where are the patcher instructions](#i-want-to-set-rodericktech-guide-for-fancy-graphics---where-are-the-patcher-instructions)
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
@@ -243,7 +243,8 @@ Solution 2) Create a brand new game, wait for MCM's to finish initialising(top l
 ## I want to set rodericktech guide for fancy graphics - where are the patcher instructions.
 
 Reqtificator is located [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#how-do-i-install-the-reqtificator)
-Other Patchers are located [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
+
+Other Patchers(AV, Dyndolod ect) are located [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
 
 ---
 
