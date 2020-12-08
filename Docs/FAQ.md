@@ -169,8 +169,15 @@ Ensure the following:
 3. Restore Missing files from Mod Organiser Zip file in your Ultimate Skyrim\download directory if cannot find in virus vault
 ---
 ## Game Hard CTD on Splashscreen
+note: You may get a error messages about missing d3dx9_43.dll.
 
-Install DirectX End-User Runtimes from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+1) Download DirectX End-User Runtimes from [here](https://www.microsoft.com/en-us/download/details.aspx?id=8109) Note: This will give you a zip file disguised as a EXE - not the actual installer itself
+
+2) Unpack the downloaded file into a directory (E.g C:\directX\)
+
+3) Open the directory and run Setup.exe. Follow onscreen instructions.
+
+4) (optional but recommended) Reboot your PC.
 
 ---
 
