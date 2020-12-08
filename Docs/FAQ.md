@@ -402,7 +402,11 @@ You’re Naked - Put some clothes on ya filthy animal!
 
 Make sure that you haven't included a comma in the memory field in ENBlocal.ini
 
-Close down any background programs which maybe injecting into direct X (graphics card software such as gefore experience and MSI afterburn are two culprits)
+Try turning off vsync & g-sync for Skyrim(TESV.exe) in the Graphics Card Settings.
+
+Close down any background programs which maybe injecting into direct X (graphics card software such as geforce experience and MSI afterburn are two culprits)
+
+Check your background processes. Skyrim is highly reliant on CPU - Core 0, so if your CPU is busy with other tasks it might be causing the stutters
 
 Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned in #ultsky-support).
 
