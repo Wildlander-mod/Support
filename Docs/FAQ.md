@@ -3,37 +3,44 @@
 <!-- TOC -->
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
+	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
+	
 - [**Wabbajack Issues**](#Wabbajack-Issues)
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
 	- [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
+	
 - [**4.0.7 Issues**](#4.0.7-Issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
+	
 - [**Install Questions**](#install-questions)
-	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
 	- [I’m missing master for HighResTexturePack01-03 or My game CTD after Skyrim Logo](#im-missing-master-for-highrestexturepack01-03-or-my-game-ctd-after-skyrim-logo)
 	- [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
 	- [Game Hard CTD on Splashscreen](#game-hard-CTD-on-SplashScreen)
 	- [Skyrim has failed to allocate memory! _or_ Possibly running out of memory](#skyrim-has-failed-to-allocate-memory-or-possibly-running-out-of-memory)
+	
+- [**Customization Questions**](#Customization-questions)
 	- [Can someone help with my load order?](#can-someone-help-with-my-load-order)
 	- [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
 	- [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
 	- [Can I Add Additional mods?](#Can-I-Add-Additional-mods)
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
-	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
 	- [I want to setup rodericktech guide for fancy graphics - where are the patcher instructions](#i-want-to-setup-rodericktech-guide-for-fancy-graphics---where-are-the-patcher-instructions)
+	
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
 	- [There was no consistency file found](#there-was-no-consistency-file-found)
 	- [Automatically allocating memory failed](#automatically-allocating-memory-failed)
 	- [It says I am using more than 100 plugins](#it-says-i-am-using-more-than-100-plugins)
 	- [The Reqtificator won't start. When I press "Run", MO2 locks up, then unlocks and nothing happens; or MO2 returns a "Directory name is invalid" error.](#the-reqtificator-wont-start-when-i-press-run-mo2-locks-up-then-unlocks-and-nothing-happens-or-mo2-returns-a-directory-name-is-invalid-error)
-- [**Gameplay Questions**](#gameplay-questions)
 	
+- [**MCM Questions**](#MCM-questions)	
+	- [What does the MCM guide mean about template saves?](#what-does-the-mcm-guide-mean-about-template-saves)
+	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
+	
+- [**Gameplay Questions**](#gameplay-questions)
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
-	- [Why isn’t my compass showing undiscovered locations?](#why-isnt-my-compass-showing-undiscovered-locations)
-	- [How do I start the main quest?](#how-do-i-start-the-main-quest)
 	- [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
 	- [Why is my stamina going down for no reason?](#why-is-my-stamina-going-down-for-no-reason)
 	- [Error: Incompatible menu fileMap.swf when opening the map.](#error-incompatible-menu-filemapswf-when-opening-the-map)
@@ -41,7 +48,6 @@
 	- [The screen randomly went dark shortly after I entered &lt;insert name here>.](#the-screen-randomly-went-dark-shortly-after-i-entered-ltinsert-name-here)
 	- [I tried to learn a spell from a Tome - the book disappeared but I still don't know it](#i-tried-to-learn-a-spell-from-a-tome---the-book-disappeared-but-i-still-dont-know-it)
 	- [Why does the NPC dialogue cut out when talking to Aela?](#why-does-the-npc-dialogue-cut-out-when-talking-to-aela)
-	- [What does the MCM guide mean about template saves?](#what-does-the-mcm-guide-mean-about-template-saves)
 	- [My game has no grass or has very little grass](#my-game-has-no-grass-or-has-very-little-grass)
 	- [Why is everything so expensive in shops?](#why-is-everything-so-expensive-in-shops)
 	- [I am getting a lot of stutter / CTD?](#i-am-getting-a-lot-of-stutter--ctd)
@@ -65,6 +71,7 @@
 	- [My character is invincible - I get to zero health but don't die!](#my-character-is-invincible---i-get-to-zero-health-but-dont-die)
 	- [I'm trying to load my template save and it says my character is dead.](#im-trying-to-load-my-template-save-and-it-says-my-character-is-dead)
 	- [My Character takes off of his/her clothes off when swimming](#my-character-takes-off-of-hisher-clothes-off-when-swimming)	
+	- [Why isn’t my compass showing undiscovered locations?](#why-isnt-my-compass-showing-undiscovered-locations)
 	
 - [**Questing Questions**](#Questing-questions)
 	- [How do I start the main quest?](#how-do-i-start-the-main-quest)
@@ -76,6 +83,16 @@
 	
 <!-- /TOC -->
 
+
+## Does this mod pack support SSE?
+
+Currently, Ultimate Skyrim is only for Skyrim Class Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off.
+
+You can buy Legendary Edition from one of these places:
+
+[https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition](https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition)
+
+[https://uk.gamesplanet.com/game/the-elder-scrolls-v-skyrim-legendary-edition-steam-key--1057-5](https://uk.gamesplanet.com/game/the-elder-scrolls-v-skyrim-legendary-edition-steam-key--1057-5)
 
 ---
 # **Wabbajack Issues**
@@ -130,17 +147,6 @@ Work Around:
 ---
 # **Install Questions**
 
-## Does this mod pack support SSE?
-
-Currently, Ultimate Skyrim is only for Skyrim Class Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off.
-
-You can buy Legendary Edition from one of these places:
-
-[https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition](https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition)
-
-[https://uk.gamesplanet.com/game/the-elder-scrolls-v-skyrim-legendary-edition-steam-key--1057-5](https://uk.gamesplanet.com/game/the-elder-scrolls-v-skyrim-legendary-edition-steam-key--1057-5)
-
----
 ## How do i setup a steam library outside of program files
 
 The wabbajack team has a handy utility to help you do that [here](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide)
@@ -189,6 +195,7 @@ Open  “enblocal.ini” in your Skyrfilm folder and then configure it according
 
 ---
 
+# **Customization Questions**
 ## Can someone help with my load order?
 
 The Ultimate Skyrim Support Team cannot assist with this issue as there are too many variables. 
@@ -236,15 +243,6 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 
 Yes, please follow this guide https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Backup.md
 
----
-## iNeeds MCM page is blank
-
-This happens when you start MCM config before the mod has finished initialising. 
-
-Solution 1) Reboot the MCM's - Open console and use command 
-	_setstage ski_configmanagerinstance 1_ Then wait for the MCM's to finish loading in top left hand corner.
-	
-Solution 2) Create a brand new game, wait for MCM's to finish initialising(top left) and try again.
 
 ---
 ## I want to setup rodericktech guide for fancy graphics - where are the patcher instructions.
@@ -301,6 +299,30 @@ In most cases this is due to a typo in the folder path for the Requiem Skyproc p
 
 ---
 
+# **MCM Questions**
+
+## What does the MCM guide mean about template saves?
+
+There is unfortunately no way to Copy MCM settings over to a new character for every mod. 
+
+The closest thing is creating a "template save" by configuring the bulk of the MCM's. then loading this template save everytime you want to create a new character. You will then only need to do the "post-Start" MCM setups (approx the last 2 pages)
+
+A template save will be the save game you make _before_ clicking on _Begin My Adventure_ in the Ultimate Skyrim MCM menu, you will want to do this so next time you start a new character you won’t have to re-configure everything before the Ultimate Skyrim MCM!
+
+Disclaimer
+
+*Certain elements of a game are *baked* into Skyrim the *exact moment* Start New Game is selected. These types of elements are; Locations of certain items*
+
+---
+## iNeeds MCM page is blank
+
+This happens when you start MCM config before the mod has finished initialising. 
+
+Solution 1) Reboot the MCM's - Open console and use command 
+	_setstage ski_configmanagerinstance 1_ Then wait for the MCM's to finish loading in top left hand corner.
+	
+Solution 2) Create a brand new game, wait for MCM's to finish initialising(top left) and try again.
+
 # **Gameplay Questions**
 
 ---
@@ -310,14 +332,6 @@ In most cases this is due to a typo in the folder path for the Requiem Skyproc p
 This is intentional. Immersive HUD hides this functionality by default. To make the compass _temporarily_ visible again press the delete key.
 
 -   To make it permanently visible, change the MCM setting in Immersive HUD > Compass Activation > Key Press Toggles. Be sure to change the hotkey away from DEL.
-
----
-
-## Why isn’t my compass showing undiscovered locations?
-
-iCompass hides the locations by default. To restore your compass to vanilla setting, _uninstall by unchecking_ iCompass in MO2 and rerun Reqtificator.
-
-_Please note, installing or uninstalling mods during a playthrough may break your game and is not recommended_
 
 
 ---
@@ -366,20 +380,6 @@ Enhanced Skyrim Factions - The Companions Guild adds new conversation options to
 
 ---
 
-## What does the MCM guide mean about template saves?
-
-There is unfortunately no way to Copy MCM settings over to a new character for every mod. 
-
-The closest thing is creating a "template save" by configuring the bulk of the MCM's. then loading this template save everytime you want to create a new character. You will then only need to do the "post-Start" MCM setups (approx the last 2 pages)
-
-A template save will be the save game you make _before_ clicking on _Begin My Adventure_ in the Ultimate Skyrim MCM menu, you will want to do this so next time you start a new character you won’t have to re-configure everything before the Ultimate Skyrim MCM!
-
-Disclaimer
-
-*Certain elements of a game are *baked* into Skyrim the *exact moment* Start New Game is selected. These types of elements are; Locations of certain items*
-
----
-
 ## My game has no grass or has very little grass
 
 Ensure the following are set in Content\Profiles\<Profile you play>\:
@@ -399,6 +399,10 @@ You’re Naked - Put some clothes on ya filthy animal!
 ---
 
 ## I am getting a lot of stutter / CTD?
+
+Make sure that you haven't included a comma in the memory field in ENBlocal.ini
+
+Close down any background programs which maybe injecting into direct X (graphics card software such as gefore experience and MSI afterburn are two culprits)
 
 Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned in #ultsky-support).
 
@@ -542,6 +546,12 @@ This happens when you name your character the default name "Adventurer" and are 
 To stop this from happening, open Bathing in Skyrim MCM > Player Animations and _untick_ everything in the sections “Undress Before Bathing - Standard” and “Undress Before Bathing - Extended”
 
 ---
+
+## Why isn’t my compass showing undiscovered locations?
+
+iCompass hides the locations by default. To restore your compass to vanilla setting, _uninstall by unchecking_ iCompass in MO2 and rerun Reqtificator.
+
+_Please note, installing or uninstalling mods during a playthrough may break your game and is not recommended_
 
 # **Questing Questions**
 
