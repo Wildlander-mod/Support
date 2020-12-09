@@ -145,9 +145,11 @@ Work Around:
 		
 2) if 1) doesnt work - navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
 
+---
 ## Can I see a list of Known issues?
 
 Sure - Here's a [link](https://docs.google.com/document/d/10jxUuBhmnLne5e4lb7ifAz9rByrTy_wEOpojmItyScM/preview)
+
 ---
 # **Install Questions**
 
