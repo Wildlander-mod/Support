@@ -11,6 +11,7 @@
 	
 - [**4.0.7 Issues**](#4.0.7-Issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
+	- [Can I see a list of other known issues?](#Can-i-see-a-list-of-known-issues)
 	
 - [**Install Questions**](#install-questions)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
@@ -144,6 +145,9 @@ Work Around:
 		
 2) if 1) doesnt work - navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
 
+## Can I see a list of Known issues?
+
+Sure - Here's a [link](https://docs.google.com/document/d/10jxUuBhmnLne5e4lb7ifAz9rByrTy_wEOpojmItyScM/preview)
 ---
 # **Install Questions**
 
