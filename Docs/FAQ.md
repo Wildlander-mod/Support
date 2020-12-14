@@ -51,7 +51,7 @@
 	- [Why does the NPC dialogue cut out when talking to Aela?](#why-does-the-npc-dialogue-cut-out-when-talking-to-aela)
 	- [My game has no grass or has very little grass](#my-game-has-no-grass-or-has-very-little-grass)
 	- [Why is everything so expensive in shops?](#why-is-everything-so-expensive-in-shops)
-	- [I am getting a lot of stutter / CTD?](#i-am-getting-a-lot-of-stutter--ctd)
+	- [I am getting a lot of stutter / CTD / Low FPS?](#i-am-getting-a-lot-of-stutter--ctd--LowFPS)
 	- [When I equip my Lantern/Backpack I get a pouch/book holder appearing in my inventory](#when-i-equip-my-lanternbackpack-i-get-a-pouchbook-holder-appearing-in-my-inventory)
 	- [When I equip my Belt items it doesn’t ask me which slot I want to put it in](#when-i-equip-my-belt-items-it-doesnt-ask-me-which-slot-i-want-to-put-it-in)
 	- [When I drop items on the ground, they sometimes vanish](#when-i-drop-items-on-the-ground-they-sometimes-vanish)
@@ -404,7 +404,7 @@ You’re Naked - Put some clothes on ya filthy animal!
 
 ---
 
-## I am getting a lot of stutter / CTD?
+## I am getting a lot of stutter / CTD / Low FPS?
 
 Make sure that you haven't included a comma in the memory field in ENBlocal.ini
 
@@ -417,6 +417,8 @@ Check your background processes. Skyrim is highly reliant on CPU - Core 0, so if
 Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned in #ultsky-support).
 
 [https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662](https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662)
+
+As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.0.7 Core Files\SKSE\Plugins\OneTweak.ini
 
 ---
 
