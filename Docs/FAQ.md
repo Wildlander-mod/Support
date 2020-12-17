@@ -52,7 +52,7 @@
 	- [My game has no grass or has very little grass](#my-game-has-no-grass-or-has-very-little-grass)
 	- [Why is everything so expensive in shops?](#why-is-everything-so-expensive-in-shops)
 	- [I am getting a lot of stutter / CTD / Low FPS?](#i-am-getting-a-lot-of-stutter--ctd--Low-FPS)
-	- [When I equip my Lantern/Backpack I get a pouch/book holder appearing in my inventory](#when-i-equip-my-lanternbackpack-i-get-a-pouchbook-holder-appearing-in-my-inventory)
+	- [When I equip my Lantern/Backpack I get a pouch/book/holder/carpet appearing in my inventory](#when-i-equip-my-lanternbackpack-i-get-a-pouchbook-holder-appearing-in-my-inventory)
 	- [When I equip my Belt items it doesn’t ask me which slot I want to put it in](#when-i-equip-my-belt-items-it-doesnt-ask-me-which-slot-i-want-to-put-it-in)
 	- [When I drop items on the ground, they sometimes vanish](#when-i-drop-items-on-the-ground-they-sometimes-vanish)
 	- [My Lantern/Tent is asking me where I’d like it equipped](#my-lanterntent-is-asking-me-where-id-like-it-equipped)
@@ -422,7 +422,7 @@ As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\cont
 
 ---
 
-## When I equip my Lantern/Backpack I get a pouch/book holder appearing in my inventory
+## When I equip my Lantern/Backpack I get a pouch/book/holder/carpet appearing in my inventory
 
 This is a bug - cause unknown. Although there is no permanent fix, you can _possibly_ solve it by either dropping and buying a new item OR by dropping your item and consoling one in.
 
