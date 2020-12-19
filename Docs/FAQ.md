@@ -191,6 +191,8 @@ note: You may get a error messages about missing d3dx9_43.dll.
 
 4) (optional but recommended) Reboot your PC.
 
+N.B: ASUS GPU TweakII has been known to cause this issue also.
+
 ---
 
 ## Skyrim has failed to allocate memory! or Possibly running out of memory
