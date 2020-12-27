@@ -47,6 +47,7 @@
 	- [Error: Incompatible menu fileMap.swf when opening the map.](#error-incompatible-menu-filemapswf-when-opening-the-map)
 	- [My vision is all Blurry/Messed up!](#my-vision-is-all-blurrymessed-up)
 	- [The screen randomly went dark shortly after I entered &lt;insert name here>.](#the-screen-randomly-went-dark-shortly-after-i-entered-ltinsert-name-here)
+	- 
 	- [I tried to learn a spell from a Tome - the book disappeared but I still don't know it](#i-tried-to-learn-a-spell-from-a-tome---the-book-disappeared-but-i-still-dont-know-it)
 	- [Why does the NPC dialogue cut out when talking to Aela?](#why-does-the-npc-dialogue-cut-out-when-talking-to-aela)
 	- [My game has no grass or has very little grass](#my-game-has-no-grass-or-has-very-little-grass)
@@ -373,6 +374,15 @@ You missed an MCM setting in SkyUI! Open SkyUI MCM Menu > Advanced > uncheck SWF
 ## The screen randomly went dark shortly after I entered &lt;insert name here &gt;.
 
 This is caused by Darker Dungeons. If you would like to disable this option, open up Darker Dungeons MCM > General Configuration > _untick_ Do Fadeout On Dungeon Entry.
+
+---
+## Lights are Flickering on and off
+
+Most noticabled in Breezehome but can happen everywhere.
+
+This is caused by Skyrim's engine limitation of 4 lightsources in a area. when you look in a area with more than 4 lightsurces they alternate/cycle and turn on and off.
+
+Only resolution is to use Cobb Positioner's to identify lightsources, and delete extra's.
 
 ---
 
