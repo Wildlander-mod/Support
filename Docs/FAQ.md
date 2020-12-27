@@ -47,7 +47,7 @@
 	- [Error: Incompatible menu fileMap.swf when opening the map.](#error-incompatible-menu-filemapswf-when-opening-the-map)
 	- [My vision is all Blurry/Messed up!](#my-vision-is-all-blurrymessed-up)
 	- [The screen randomly went dark shortly after I entered &lt;insert name here>.](#the-screen-randomly-went-dark-shortly-after-i-entered-ltinsert-name-here)
-	- 
+	- [Lights are flickering on and off](#lights-are-flickering-on-and-off)
 	- [I tried to learn a spell from a Tome - the book disappeared but I still don't know it](#i-tried-to-learn-a-spell-from-a-tome---the-book-disappeared-but-i-still-dont-know-it)
 	- [Why does the NPC dialogue cut out when talking to Aela?](#why-does-the-npc-dialogue-cut-out-when-talking-to-aela)
 	- [My game has no grass or has very little grass](#my-game-has-no-grass-or-has-very-little-grass)
