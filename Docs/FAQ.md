@@ -342,9 +342,7 @@ This is intentional. Immersive HUD hides this functionality by default. To make 
 
 -   To make it permanently visible, change the MCM setting in Immersive HUD > Compass Activation > Key Press Toggles. Be sure to change the hotkey away from DEL.
 
-
 ---
-
 
 ## Why can't I select the first crafting perk?
 
@@ -352,9 +350,20 @@ You need a book called The Craftsman’s Manual in your inventory. It can be pur
 
 ---
 
-## Why is my stamina going down for no reason?
+## Why Can't I Run or Why is my stamina going down for no reason?
 
 Requiem applies a stamina draining effect when you run, and when you wear armor without the first perk in the heavy/evasion armor tree. Running is the normal speed you move at if you aren’t sprinting or specifically holding down the “walk” button. To combat this, make sure to buy food with a “Regenerate 1 stamina per second for X seconds” effect and keep that buff up at all times.
+
+---
+
+## Why can't I get a blessing at a shrine?
+
+Requiem's Gods are unforgiving of crime. Too much crime and they will no longer bless you or heal you!
+
+---
+## Why arent I healing?
+
+Requiem disables passive health regeneration, you will need to obtain a healing poltice or a potion to regenerate health. 
 
 ---
 
@@ -579,11 +588,18 @@ iCompass hides the locations by default. To restore your compass to vanilla sett
 
 _Please note, installing or uninstalling mods during a playthrough may break your game and is not recommended_
 
+
 # **Questing Questions**
 
 ## How do I start the main quest?
 
 Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
+
+---
+
+## why can't I obtain the dragonstone?
+
+This quest is auto completed when you kill a dragon.
 
 ---
 
