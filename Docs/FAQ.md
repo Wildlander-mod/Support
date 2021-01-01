@@ -45,7 +45,8 @@
 	- [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
 	- [Why Cant I Run? Why is my stamina going down for no reason?](#why-cant-i-run-or-why-is-my-stamina-going-down-for-no-reason)
 	- [Why can't I get a blessing or cure at a shrine?](#why-cant-i-get-a-blessing-at-a-shrine)
-        - [Why am I not healing?](#why-arent-i-healing)
+	- [Why am I not healing?](#why-arent-i-healing)
+	- [My character is glowing Ugly orange patches at night](#my-character-is-glowing-Ugly-orange-patches-at-night)
 	- [Error: Incompatible menu fileMap.swf when opening the map.](#error-incompatible-menu-filemapswf-when-opening-the-map)
 	- [My vision is all Blurry/Messed up!](#my-vision-is-all-blurrymessed-up)
 	- [The screen randomly went dark shortly after I entered &lt;insert name here>.](#the-screen-randomly-went-dark-shortly-after-i-entered-ltinsert-name-here)
@@ -367,6 +368,11 @@ Requiem's Gods are unforgiving of crime. Too much crime and they will no longer 
 ## Why arent I healing?
 
 Requiem disables passive health regeneration, you will need to obtain a healing poltice or a potion to regenerate health. 
+
+---
+## My character is glowing ugly orange patches at night.
+
+This is how the ENB expresses the dirt shader - Take a bath!
 
 ---
 
