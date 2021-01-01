@@ -3,7 +3,7 @@
 <!-- TOC -->
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
-	- [Does this mod pack support SSE?](#does-this-mod-pack-support-sse)
+	- [Does this mod pack support SSE? When is SSE version going to be available?](#does-this-mod-pack-support-sse)
 	
 - [**Wabbajack Issues**](#Wabbajack-Issues)
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
@@ -43,7 +43,9 @@
 - [**Gameplay Questions**](#gameplay-questions)
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
 	- [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
-	- [Why is my stamina going down for no reason?](#why-is-my-stamina-going-down-for-no-reason)
+	- [Why Cant I Run? Why is my stamina going down for no reason?](#why-cant-i-run-or-why-is-my-stamina-going-down-for-no-reason)
+	- [Why can't I get a blessing or cure at a shrine?](#why-cant-i-get-a-blessing-at-a-shrine)
+        - [Why am I not healing?](#why-arent-i-healing)
 	- [Error: Incompatible menu fileMap.swf when opening the map.](#error-incompatible-menu-filemapswf-when-opening-the-map)
 	- [My vision is all Blurry/Messed up!](#my-vision-is-all-blurrymessed-up)
 	- [The screen randomly went dark shortly after I entered &lt;insert name here>.](#the-screen-randomly-went-dark-shortly-after-i-entered-ltinsert-name-here)
@@ -77,6 +79,7 @@
 	
 - [**Questing Questions**](#Questing-questions)
 	- [How do I start the main quest?](#how-do-i-start-the-main-quest)
+	- [Why Can't I Get the dragonstone quest?](#why-cant-i-obtain-the-dragonstone)
 	- [How Do I Become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
 	- [I can’t start the Thieves Guild through Brynjolf](#i-cant-start-the-thieves-guild-through-brynjolf)
 	- [How do I start the Dragonborn questline?](#How-do-I-start-the-Dragonborn-questline)
@@ -597,7 +600,7 @@ Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
 
 ---
 
-## why can't I obtain the dragonstone?
+## Why can't I obtain the dragonstone?
 
 This quest is auto completed when you kill a dragon.
 
