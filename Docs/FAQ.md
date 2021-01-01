@@ -192,7 +192,7 @@ note: You may get a error messages about missing d3dx9_43.dll.
 
 2) Unpack the downloaded file into a directory (E.g C:\directX\)
 
-3) Open the directory and run Setup.exe. Follow onscreen instructions.
+3) Open the directory and run DXSetup.exe. Follow onscreen instructions.
 
 4) (optional but recommended) Reboot your PC.
 
