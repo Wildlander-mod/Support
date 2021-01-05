@@ -140,7 +140,7 @@ Sometimes wabbajack gets stuck downloading.
 ---
 # **4.0.7 Issues**
 ## Can't Launch Ultimate Skyrim Bat file
-Symptom: a screen flashes up for a half a second before disappearing 
+Symptom: a screen flashes up for a half a second before disappearing. The launcher doesnt Start *at all* 
 	
 Cause: Windows UAC is preventing running of this program. 
 	
@@ -149,6 +149,8 @@ Work Around:
 		Answering yes to any questions which follow
 		
 2) if 1) doesnt work - navigate to the "\_shortcut" folder and start one of the batch files matching your prefered graphics settings
+
+Note: If the launcher does start but crashes after clicking "play" please see this faq entry [Game Hard CTD on Splashscreen](#game-hard-CTD-on-SplashScreen)
 
 ---
 ## Can I see a list of Known issues?
