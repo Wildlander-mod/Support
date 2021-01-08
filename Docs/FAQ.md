@@ -238,7 +238,7 @@ The answer to this is "sometimes".
 The following Types of mods are NOT Compatible
 * Any Alternate start mod.
 * Any Mod which affects the perk trees (E.g Ordinator)
-* Truly Absorb Dragon Souls (prevents the main quest from firing upon killing a dragon)
+* Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
 
 As a General rule - Anything without a ESP such as body replacers (E.g CBBE. UNP. S.o.S) and clutter textures can be added with no problems and no need to run the requiem patcher(Reqtificator).
 
