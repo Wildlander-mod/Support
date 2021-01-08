@@ -239,8 +239,10 @@ The following Types of mods are NOT Compatible
 * Any Alternate start mod.
 * Any Mod which affects the perk trees (E.g Ordinator)
 * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
+* Open Cities
+* Enhanced Blood Textures (Extremely script heavy, Will possibly break your game, Use at own risk)
 
-As a General rule - Anything without a ESP such as body replacers (E.g CBBE. UNP. S.o.S) and clutter textures can be added with no problems and no need to run the requiem patcher(Reqtificator).
+As a General rule - Anything without a ESP/ESM such as body replacers (E.g CBBE. UNP. S.o.S) and clutter textures can be added with no problems and no need to run the requiem patcher(Reqtificator).
 
 Follower and Quest mods will generally need Requiem patching so their NPC's stand a chance against you and your followers and followers stand a chance against NPCs. New ingredients can break Requiem's alchemy balance, new food will likely need iNeed patching, some equipment might require Frostfall patching, and so forth. 
 
