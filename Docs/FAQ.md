@@ -12,7 +12,7 @@
 - [**4.0.7 Issues**](#4.0.7-Issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
 	- [Can I see a list of other known issues?](#Can-i-see-a-list-of-known-issues)
-	- [What do the presets mean?](#)
+	- [What do the presets mean?](#what-do-the-presets-mean)
 	
 - [**Install Questions**](#install-questions)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
