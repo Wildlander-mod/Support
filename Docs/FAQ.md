@@ -12,6 +12,7 @@
 - [**4.0.7 Issues**](#4.0.7-Issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
 	- [Can I see a list of other known issues?](#Can-i-see-a-list-of-known-issues)
+	- [What do the presets mean?](#)
 	
 - [**Install Questions**](#install-questions)
 	- [How do I setup a steam library outside of program files](#How-do-i-setup-a-steam-library-outside-of-program-files)
@@ -156,6 +157,15 @@ Note: If the launcher does start but crashes after clicking "play" please see th
 ## Can I see a list of Known issues?
 
 Sure - Here's a [link](https://docs.google.com/document/d/10jxUuBhmnLne5e4lb7ifAz9rByrTy_wEOpojmItyScM/preview)
+
+---
+## What do the presets mean?
+
+High   - Intended for top end PC, grass is visible from maxium distance skyrim is capable of drawing (equivilent to Ultra)
+
+Medium - Intended for Mid-range PC's - grass is visible from aprrox 10 metres(equivilent to medium-high)
+
+Low    - Intended for minimum specification PC - grass is only drawn litrally a metre away - may have odd visual effects during heavy snow 
 
 ---
 # **Install Questions**
