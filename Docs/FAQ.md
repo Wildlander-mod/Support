@@ -547,6 +547,7 @@ Can also be caused by
 * Antivirus real-time scanning your Skyrim\ultimate skyrim folders. 
 * [Direct X](#game-hard-CTD-on-SplashScreen) and/or [C++](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) installations are broken (You’ll need both the 32-bit and the 64-bit versions of C++.)
 * You have lost permissions to write to "my documents\My Games\Skyrim" or ultimate skyrim install folder
+* Onedrive and/or dropbox is Syncing your "my documents\My Games\Skyrim" or ultimate skyrim install folder 
 
 ----
 ## How do I change the difficulty?
