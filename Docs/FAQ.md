@@ -542,9 +542,11 @@ Can also be caused by
 * Ultimate Skyrim folders(or subfolders) being read-only.
 * Ultimate skyrim being on a different drive to skyrim.
 * Ultimate skyrim being installed inside of program files.
-* Additional mods in skyrim\data folder from previous modding or workshop subscriptions.
+* Additional mods in skyrim\data folder from previous modding or workshop subscriptions are causing a conflict.
 * A Corrupt Skyrim installation (to check, launch skyrim from steam and see if it crashes on loading screen)
 * Antivirus real-time scanning your Skyrim\ultimate skyrim folders. 
+* (Direct X)[#game-hard-CTD-on-SplashScreen] and/or (C++)[https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads] installations are broken (You’ll need both the 32-bit and the 64-bit versions of C++.)
+* You have lost permissions to write to "my documents\My Games\Skyrim" or ultimate skyrim install folder
 
 ----
 ## How do I change the difficulty?
