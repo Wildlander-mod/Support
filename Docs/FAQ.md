@@ -537,6 +537,15 @@ The game may appear frozen, but it's usually still loading in the background. Th
 * Please make sure that Windows Task manager is not running.
 * Disable Save on wait and Save on travel and switch to using manual saves.
 
+Can also be caused by
+
+* Ultimate Skyrim folders(or subfolders) being read-only.
+* Ultimate skyrim being on a different drive to skyrim.
+* Ultimate skyrim being installed inside of program files.
+* Additional mods in skyrim\data folder from previous modding or workshop subscriptions.
+* A Corrupt Skyrim installation (to check, launch skyrim from steam and see if it crashes on loading screen)
+* Antivirus real-time scanning your Skyrim\ultimate skyrim folders. 
+
 ----
 ## How do I change the difficulty?
 
