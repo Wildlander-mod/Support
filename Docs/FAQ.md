@@ -96,6 +96,7 @@
 Currently, Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off. You can follow progress by catching the weekly streams - currently on mondays at 8pm GMT (announced on reddit, and in discord annoucement channel)
 
 You can buy Legendary Edition from one of these places:
+[Wabbajack:How to get Skyrim LE in 2021](https://www.reddit.com/r/wabbajack/comments/kx6ppr/how_to_get_skyrim_legendary_edition_in_2021/)
 
 [https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition](https://www.humblebundle.com/store/the-elder-scrolls-v-skyrim-legendary-edition)
 
