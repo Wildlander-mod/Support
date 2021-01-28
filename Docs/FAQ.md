@@ -198,7 +198,7 @@ Ensure the following:
 ## Game Hard CTD on Splashscreen
 note: You may get a error messages about missing d3dx9_43.dll.
 
-1) Download DirectX End-User Runtimes from [here](https://download.cnet.com/Microsoft-DirectX-Redistributable-June-2010/3001-2121_4-10176490.html) Note: This will give you a zip file disguised as a EXE - not the actual installer itself
+1) Download DirectX End-User Runtimes from [here](https://download.cnet.com/Microsoft-DirectX-Redistributable-June-2010/3000-2121_4-10176490.html) Note: This will give you a zip file disguised as a EXE - not the actual installer itself
 
 2) Unpack the downloaded file into a directory (E.g C:\directX\)
 
