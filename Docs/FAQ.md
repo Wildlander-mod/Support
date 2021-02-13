@@ -390,7 +390,7 @@ This is how the ENB expresses the dirt shader - Take a bath!
 
 ## Error: Incompatible menu file(Map.swf) when opening the map.
 
-You missed an MCM setting in SkyUI! Open SkyUI MCM Menu > Advanced > uncheck SWF Version Checking
+You missed an MCM setting in SkyUI! Open SkyUI MCM Menu > Advanced > uncheck 'Map menu' in  SWF Version Checking section.
 
 ---
 
