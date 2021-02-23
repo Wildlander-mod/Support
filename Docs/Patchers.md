@@ -34,7 +34,8 @@ Copy the downloaded files to a location of your choosing - preferably the same d
 
 Open the folder where you installed Ultimate Skyrim and run ModOrganizer.exe. 
 
-Install the Resources and enable like you would a new mod.
+Install the Resources and enable like you would a new mod. the Fomod Settings are as follows:-
+![Image of GameFileSourceDownloader error](https://cdn.discordapp.com/attachments/566109104360390657/813849527169318922/gbGjikg.png)
 
 [Click the “Modify Executables” button](https://i.imgur.com/urDHApv.jpg), enter “DynDOLOD” as the Title, and then click the ellipses next to the “Binary” field.
 
