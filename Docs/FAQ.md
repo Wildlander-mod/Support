@@ -29,6 +29,9 @@
 	- [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 	- [Can I backup and restore Ultimate Skyrim](#Can-I-backup-and-restore-Ultimate-Skyrim)
 	- [I want to setup rodericktech guide for fancy graphics - where are the patcher instructions](#i-want-to-setup-rodericktech-guide-for-fancy-graphics---where-are-the-patcher-instructions)
+	- [My PC cant handle the ENB - can I lower the Settings?](#my-pc-cant-handle-the-enb---can-i-reduce-the-settings)
+	- [It's too dark at night, can I make it brighter?](#its-too-dark-at-night-can-i-make-it-brighter)
+	- [My PC Can't handle the ENB even on low settings - can I remove it?](#my-pc-cant-handle-the-enb-even-on-low-settings---can-i-remove-it)
 	
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
@@ -282,7 +285,8 @@ Other Patchers(AV, Dyndolod ect) are located [here](https://github.com/phinocio/
 
 If you prefer to keep Dylan's lighting preferences - then open up ENBseries.ini in you Steam Skyrim folder and change the effects section to match the following
 ![image of Low ENB Settings](https://media.discordapp.net/attachments/348579495537803274/763697916992552970/unknown.png)
-If on the other hand you want absolute best performance, but retaining the ENB weather & lighting effects you can switch your ENBseries.ini in your Steam Skyrim folder with this one [link - enbseries](https://cdn.discordapp.com/attachments/785284178282676234/785284699240792084/enbseries.ini)  
+
+If on the other hand you want absolute best performance, but retaining the ENB weather & lighting effects you can switch your ENBseries.ini in your Steam Skyrim folder with this one [enbseries.ini](https://cdn.discordapp.com/attachments/785284178282676234/785284699240792084/enbseries.ini)  
 
 ---
 
@@ -295,7 +299,7 @@ Open ENB GUI in game with shift+enter. In the enbseries window, find the Environ
 When you want to save, hit save then apply in the enblocal window.
 
 For Nighteye Settings
-[link - ENNE NighteEye Settings] https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/
+[ENNE NightEye Settings] https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/
 
 ---
 
@@ -304,9 +308,9 @@ For Nighteye Settings
 1) Open Content\ModOrganiser.exe
 2) Select the graphics profile you play from the profiles drop down
 3) find on the left side Snowfall weathers and untick that
-4) find ultimate skyrim - snowfall weathers.esp on the rightside and untick that too
+4) find ultimate skyrim - snowfall weathers.esp on the right side and untick that too
 
-Delete ENBLocal.ini, ENBHost, d3d9.dll, ENBseries folder and ENBseries.ini from your Steam Skyrim folder
+Delete ENBLocal.ini, ENBHost.exe, d3d9.dll, ENBseries folder and ENBseries.ini from your Steam Skyrim folder
 
 ---
 
