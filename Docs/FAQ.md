@@ -278,6 +278,38 @@ Other Patchers(AV, Dyndolod ect) are located [here](https://github.com/phinocio/
 
 ---
 
+## My PC can't handle the ENB - Can I reduce the Settings?
+
+If you prefer to keep Dylan's lighting preferences - then open up ENBseries.ini in you Steam Skyrim folder and change the effects section to match the following
+![image of Low ENB Settings](https://media.discordapp.net/attachments/348579495537803274/763697916992552970/unknown.png)
+If on the other hand you want absolute best performance, but retaining the ENB weather & lighting effects you can switch your ENBseries.ini in your Steam Skyrim folder with this one [link - enbseries](https://cdn.discordapp.com/attachments/785284178282676234/785284699240792084/enbseries.ini)  
+
+---
+
+## It's too dark at night, can I make it brighter?
+
+for regular vision
+
+Open ENB GUI in game with shift+enter. In the enbseries window, find the Environment section, find Point lighting. There are several settings you can adjust here. Just play around with them to see how everything works and find what you like. If you screw something up and forget the default value or just want to revert to your previous saved settings, just hit load settings in the enblocal window. 
+
+When you want to save, hit save then apply in the enblocal window.
+
+For Nighteye Settings
+[link - ENNE NighteEye Settings] https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/
+
+---
+
+## My PC Can't handle the ENB even on low settings - Can I remove it?
+
+1) Open Content\ModOrganiser.exe
+2) Select the graphics profile you play from the profiles drop down
+3) find on the left side Snowfall weathers and untick that
+4) find ultimate skyrim - snowfall weathers.esp on the rightside and untick that too
+
+Delete ENBLocal.ini, ENBHost, d3d9.dll, ENBseries folder and ENBseries.ini from your Steam Skyrim folder
+
+---
+
 # **Reqtificator Questions**
 ## How do i Install the Reqtificator?
 Firstly make sure you have Java installed in Program Files. the version in Program Files(x86) does not work. If you don't have it - you can download it [here](https://java.com/en/download/manual.jsp)
