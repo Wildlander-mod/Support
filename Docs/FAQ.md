@@ -32,6 +32,7 @@
 	- [My PC cant handle the ENB - can I lower the Settings?](#my-pc-cant-handle-the-enb---can-i-reduce-the-settings)
 	- [It's too dark at night, can I make it brighter?](#its-too-dark-at-night-can-i-make-it-brighter)
 	- [My PC Can't handle the ENB even on low settings - can I remove it?](#my-pc-cant-handle-the-enb-even-on-low-settings---can-i-remove-it)
+	- [How do I Re-run Automatic variants, FINS or Dyndolod?](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
 	
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
@@ -310,12 +311,13 @@ For Nighteye Settings
 
 ## My PC Can't handle the ENB even on low settings - Can I remove it?
 
+Delete ENBLocal.ini, ENBHost.exe, d3d9.dll, ENBseries folder and ENBseries.ini from your Steam Skyrim folder
+
 1) Open Content\ModOrganiser.exe
 2) Select the graphics profile you play from the profiles drop down
 3) find on the left side Snowfall weathers and untick that
 4) find ultimate skyrim - snowfall weathers.esp on the right side and untick that too
-
-Delete ENBLocal.ini, ENBHost.exe, d3d9.dll, ENBseries folder and ENBseries.ini from your Steam Skyrim folder
+5) Setup and run the Reqtuificator as per [Instructions](#How-do-i-Install-the-Reqtificator)
 
 ---
 
