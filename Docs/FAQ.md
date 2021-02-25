@@ -108,7 +108,7 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 If you have Wabbajack Fail with the following messages
 ![Image of GameFileSourceDownloader error](https://cdn.discordapp.com/attachments/348579495537803274/759424545957871616/unknown.png)
 
-There are three Known causes
+There are Four Known causes
 1) You have Skyrim installed in program files
 
 	Solution: Close and Run Wabbajack installer as a administrator.
@@ -120,8 +120,12 @@ There are three Known causes
 3) You have moved your Skyrim Install from where you originally installed it.
 
 	Solution: Move it back, and use steam to move it to the new location.
+	
+4) You dont have the DLC installed.
 
-After doing the solution 2 or 3, you will need to restart wabbajack.
+	Solution: Install it, if you dont own it you can find a link to purchase it here [Wabbajack:How to get Skyrim LE in 2021](https://www.reddit.com/r/wabbajack/comments/kx6ppr/how_to_get_skyrim_legendary_edition_in_2021/) .
+	
+After doing the solution 2,3  or 4, you will need to restart wabbajack.
 
 ---
 ## Wabbajack Fails to download mods or hangs for a long time.
@@ -284,9 +288,10 @@ Other Patchers(AV, Dyndolod ect) are located [here](https://github.com/phinocio/
 ## My PC can't handle the ENB - Can I reduce the Settings?
 
 If you prefer to keep Dylan's lighting preferences - then open up ENBseries.ini in you Steam Skyrim folder and change the effects section to match the following
+
 ![image of Low ENB Settings](https://media.discordapp.net/attachments/348579495537803274/763697916992552970/unknown.png)
 
-If on the other hand you want absolute best performance, but retaining the ENB weather & lighting effects you can switch your ENBseries.ini in your Steam Skyrim folder with this one [enbseries.ini](https://cdn.discordapp.com/attachments/785284178282676234/785284699240792084/enbseries.ini)  
+If on the other hand you want absolute best performance, but retaining the ENB weather & lighting effects you can switch your ENBseries.ini in your Steam Skyrim folder with this one [enbseries ini](https://cdn.discordapp.com/attachments/785284178282676234/785284699240792084/enbseries.ini)  
 
 ---
 
@@ -299,7 +304,7 @@ Open ENB GUI in game with shift+enter. In the enbseries window, find the Environ
 When you want to save, hit save then apply in the enblocal window.
 
 For Nighteye Settings
-[ENNE NightEye Settings] https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/
+[ENNE NightEye Settings](https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/)
 
 ---
 
