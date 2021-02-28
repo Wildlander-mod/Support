@@ -341,6 +341,8 @@ after checking that -
 
 4) You can leave everything default for Step 7.
 
+Once reqtificator is running - Leave all options at defaults, Simply hit the patch button.
+
 ---
 
 ## There was no consistency file found
