@@ -105,7 +105,7 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 The current Roadmap & patchlist previewed in Dylans most recent stream are as follows
 
-[!Roadmap](https://cdn.discordapp.com/attachments/348579473727160321/815380593499308062/unknown.png)
+![Roadmap](https://cdn.discordapp.com/attachments/348579473727160321/815380593499308062/unknown.png)
 
 [Mod list](https://pastebin.com/UguDpVkK) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
