@@ -74,6 +74,9 @@
 	- [My game freezes during loading screens](#My-game-freezes-during-loading-screens)
 	- [How do I change the difficulty?](#How-do-I-change-the-difficulty)
 	- [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)	
+	- [My Grass/Tree's are shimmering]
+
+
 - [**4.0.6 Issues**](#4.0.6-Issues)	
 	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
 	- [My rain splashes are purple/pink!](#my-rain-splashes-are-purplepink)
@@ -609,6 +612,15 @@ The in-game difficulty sliders do not work with Requiem. Use the Damage Dealt/Ta
 This is a Minor Arcana change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
 
 ----
+## My Grass/Tree's in distance are shimmering/flickering
+This is caused by the ENB when used on some graphics cards. The following guide has shown improvement when both the step guide, and U/seq Comments are followed.
+
+https://www.reddit.com/r/ultimateskyrim/comments/gfdg6l/antialiasing_is_b_a_d/
+
+Note: this is the only 'fix' support are aware of at this time and if it does not work for you, we won't be able to assist you further
+
+---
+
 # **4.0.6 Issues**
 
 
