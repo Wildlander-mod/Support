@@ -74,7 +74,7 @@
 	- [My game freezes during loading screens](#My-game-freezes-during-loading-screens)
 	- [How do I change the difficulty?](#How-do-I-change-the-difficulty)
 	- [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)	
-	- [My Grass/Tree's are shimmering]
+	- [My Grass/Tree's are shimmering](#my-grasstrees-in-distance-are-shimmeringflickering)
 
 
 - [**4.0.6 Issues**](#4.0.6-Issues)	
