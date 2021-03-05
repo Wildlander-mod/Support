@@ -584,22 +584,24 @@ Requiem disables Fast travel. There are multiple methods of moving around the ma
 ----
 ## My game freezes during loading screens.
 
-The game may appear frozen, but it's usually still loading in the background. This is caused by OneTweak's Windowless Bordered mode. 
+The game may appear frozen or have a unusually long loading time, but it's usually still loading in the background. This is caused by OneTweak's Windowless Bordered mode. 
 
 * Please make sure that Windows Task manager is not running.
-* Disable Save on wait and Save on travel and switch to using manual saves.
+* Dont Alt-tab out of loading screens.
+* Disable Save on wait and Save on travel and switch to using manual saves if problem exists while moving between cells in-game.
 
 Can also be caused by
 
 * Ultimate Skyrim folders(or subfolders) being read-only.
-* Ultimate skyrim being on a different drive to skyrim.
-* Ultimate skyrim being installed inside of program files.
+* Ultimate skyrim being on a different drive to skyrim - Only resolution to this is to move Ultimate skyrim to same hard drive.
+* Ultimate skyrim being installed inside of program files - Move the ultimate skyrim to a folder outside of program files.
 * Additional mods in skyrim\data folder from previous modding or workshop subscriptions are causing a conflict.
 * A Corrupt Skyrim installation (to check, launch skyrim from steam and see if it crashes on loading screen)
-* Antivirus real-time scanning your Skyrim\ultimate skyrim folders. 
+* Antivirus real-time scanning your Skyrim\ultimate skyrim folders - add ultimate skyrim and skyrim folders to your exceptions. 
 * [Direct X](#game-hard-CTD-on-SplashScreen) and/or [C++](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) installations are broken (You’ll need both the 32-bit and the 64-bit versions of C++.)
 * You have lost permissions to write to "my documents\My Games\Skyrim" or ultimate skyrim install folder
 * Onedrive and/or dropbox is Syncing your "my documents\My Games\Skyrim" or ultimate skyrim install folder 
+* Can be caused by a corrupt save, you can try using [Savetool.exe](https://www.nexusmods.com/skyrim/mods/52363/?) to see if you can load your save if this also fails then you will need to revert to a previous save or start a new game.
 
 ----
 ## How do I change the difficulty?
