@@ -32,7 +32,7 @@
 	- [My PC cant handle the ENB - can I lower the Settings?](#my-pc-cant-handle-the-enb---can-i-reduce-the-settings)
 	- [It's too dark at night, can I make it brighter?](#its-too-dark-at-night-can-i-make-it-brighter)
 	- [My PC Can't handle the ENB even on low settings - can I remove it?](#my-pc-cant-handle-the-enb-even-on-low-settings---can-i-remove-it)
-	- [How do I Re-run Automatic variants, FINS or Dyndolod?](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
+	- [How do I Re-run Automatic variants, FNiS or Dyndolod?](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
 	
 - [**Reqtificator Questions**](#reqtificator-questions)
 	- [How do i Install the Reqtificator?](#How-do-i-Install-the-Reqtificator)
