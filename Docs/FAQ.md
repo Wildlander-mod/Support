@@ -138,7 +138,7 @@ There are Four Known causes
 After doing the solution 2,3  or 4, you will need to restart wabbajack.
 
 ---
-## Wabbajack Fails to download mods or hangs for a long time. {#ManualDownload}
+## Wabbajack Fails to download mods or hangs for a long time.
 Sometimes wabbajack gets stuck downloading.
 
 1) Close and restart wabbajack - it will normally resume where it failed & complete the install without any further intervention.
