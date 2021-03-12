@@ -43,7 +43,7 @@
 	
 - [**MCM Questions**](#MCM-questions)	
 	- [What does the MCM guide mean about template saves?](#what-does-the-mcm-guide-mean-about-template-saves)
-	- [iNeed's MCM is Blank](#ineeds-mcm-page-is-blank)
+	- [iNeed's MCM is Blank Or Requiem Cannot be added to a existing save](#ineeds-mcm-page-is-blank-or-requiem-cannot-be-added-to-a-existing-save)
 	
 - [**Gameplay Questions**](#gameplay-questions)
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
@@ -75,7 +75,7 @@
 	- [How do I change the difficulty?](#How-do-I-change-the-difficulty)
 	- [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)	
 	- [My Grass/Tree's are shimmering](#my-grasstrees-in-distance-are-shimmeringflickering)
-	- [Eorland Graymane wont temper/craft stuff for me](#)
+	- [Eorland Graymane wont temper/craft stuff for me](#eorland-graymane-wont-tempercraft-stuff-for-me)
 
 
 - [**4.0.6 Issues**](#4.0.6-Issues)	
