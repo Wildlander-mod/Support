@@ -75,6 +75,7 @@
 	- [How do I change the difficulty?](#How-do-I-change-the-difficulty)
 	- [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)	
 	- [My Grass/Tree's are shimmering](#my-grasstrees-in-distance-are-shimmeringflickering)
+	- [Eorland Graymane wont temper/craft stuff for me](#)
 
 
 - [**4.0.6 Issues**](#4.0.6-Issues)	
@@ -393,14 +394,19 @@ Disclaimer
 *Certain elements of a game are *baked* into Skyrim the *exact moment* Start New Game is selected. These types of elements are; Locations of certain items*
 
 ---
-## iNeeds MCM page is blank
+## iNeeds MCM page is blank Or Requiem Cannot be added to a existing save.
 
-This happens when you start MCM config before the mod has finished initialising. 
+This happens when you start MCM config before the mod has finished initialising - indicated by scrolling messages in the top left of your screen. 
 
-Solution 1) Reboot the MCM's - Open console and use command 
-	_setstage ski_configmanagerinstance 1_ Then wait for the MCM's to finish loading in top left hand corner.
-	
-Solution 2) Create a brand new game, wait for MCM's to finish initialising(top left) and try again.
+There is no way to recover you game once this occurs.
+
+1) You will need to close & re-open Skyrim, to remove partially loaded scripts from your session.
+2) Start a new game
+3) Wait for **all** messages in the top left to disappear
+4) Start MCM setup again.
+
+----
+
 
 # **Gameplay Questions**
 
@@ -620,6 +626,12 @@ This is caused by the ENB when used on some graphics cards. The following guide 
 https://www.reddit.com/r/ultimateskyrim/comments/gfdg6l/antialiasing_is_b_a_d/
 
 Note: this is the only 'fix' support are aware of at this time and if it does not work for you, we won't be able to assist you further
+
+---
+## Eorland Graymane wont temper/craft stuff for me
+Eorland Graymane is the best smith in the game, and as such reserves his services for members of the Circle for the companions.
+
+Note: you must be at least at the stage of "Kill the werewolf hunters" for the Quest "The silver hand"
 
 ---
 
