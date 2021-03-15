@@ -46,7 +46,7 @@
 	- [iNeed's MCM is Blank Or Requiem Cannot be added to a existing save](#ineeds-mcm-page-is-blank-or-requiem-cannot-be-added-to-a-existing-save)
 	
 - [**Gameplay Questions**](#gameplay-questions)
-	- [Why Are Auto-saves Disabled/ quicksaves not recommended for use in Ultsky]()
+	- [Why Are Auto-saves disabled / quicksaves not recommended for use in Ultsky](#why-are-auto-saves-disabled-or-quicksaves-not-recommended-for-use-in-ultsky)
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
 	- [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
 	- [Why Cant I Run? Why is my stamina going down for no reason?](#why-cant-i-run-or-why-is-my-stamina-going-down-for-no-reason)
@@ -412,7 +412,7 @@ There is no way to recover you game once this occurs.
 # **Gameplay Questions**
 
 ---
-## Why Are Auto-saves Disabled or quicksaves not recommended for use in Ultsky
+## Why are auto-saves disabled or quicksaves not recommended for use in Ultsky
 
 The problem in a heavily modded set up is that it has a ton of script heavy mods. Sometimes a script will get paused for saving, and that script won't be able to recover properly from it's paused state. This leads to a corrupted save. Another possibility is that your computer is already under so much strain from the scripts that the save function can actually cause a ctd when trying to save, usually during some script-intensive moment.
 
