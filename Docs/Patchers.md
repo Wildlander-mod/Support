@@ -39,9 +39,11 @@ Install the Resources and enable like you would a new mod. the Fomod Settings ar
 
 [Click the “Modify Executables” button](https://i.imgur.com/urDHApv.jpg), enter “DynDOLOD” as the Title, and then click the ellipses next to the “Binary” field.
 
-Navigate to where you placed the DynDOLOD files, select DynDOLOD.exe,  and then click “Add/Modify” to finalize the executable.
-Your button may show “Add” or "Modify” - either is fine. 
+Navigate to where you placed the DynDOLOD files, select DynDOLOD.exe,  and then click “Apply” to finalize the executable.
+Your button may show “Add” or "Modify” or "Apply" - Any are fine. 
 
 Click [here for a video tutorial on running DynDOLOD](https://youtu.be/thfOQIdW0Cg?t=1130) that was created for older versions of Ultimate Skyrim.
 The information is still generally correct and any slight differences are not a problem, except that you should not disable DynDOLOD.esp as the video instructs, Instead you should ##DISABLE## the entire mod on the left side. 
 Close the video once DynDOLOD installation is complete. Do not continue past DynDOLOD installation.
+
+Once complete
