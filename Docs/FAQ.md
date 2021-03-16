@@ -537,7 +537,7 @@ Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned i
 
 [https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662](https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662)
 
-As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.0.7 Core Files\SKSE\Plugins\OneTweak.ini
+As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.0.7 Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you ill also need to change BFullScreen to 1 in content\profiles\UltSky 4.0.7 (preset you play)\Skyrimpref.ini.
 
 ---
 
