@@ -130,6 +130,9 @@ https://www.nexusmods.com/skyrim/mods/103218?tab=files
 ## None ESP mods
 
 Toggle Enchantment lets you turn on/off your weapon's enchantment when you don't want to waste the charge. https://www.nexusmods.com/skyrim/mods/78134
-Faster Sleep Wait (SKSE). Decreases the time spent waiting between hours in the Sleep/Wait menu. No esp.  https://www.nexusmods.com/skyrim/mods/95796
+
+Faster Sleep Wait (SKSE). Decreases the time spent waiting between hours in the Sleep/Wait menu.  https://www.nexusmods.com/skyrim/mods/95796
+
+Disable Quick Save: This mod make the Quick-Save hot-key make a Full save instead. Use Main File - https://www.nexusmods.com/skyrim/mods/82951
 
 ----
