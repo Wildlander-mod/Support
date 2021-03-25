@@ -273,7 +273,7 @@ As a General rule - Anything without a ESP/ESM such as body replacers (E.g CBBE.
 
 Follower and Quest mods will generally need Requiem patching so their NPC's stand a chance against you and your followers and followers stand a chance against NPCs. New ingredients can break Requiem's alchemy balance, new food will likely need iNeed patching, some equipment might require Frostfall patching, and so forth. 
 
-Please visit the Ultimate Skyrim Discord #ultsky-customsation channel - for install guides and advice for other type of mods.
+Please visit [this page](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md) or the Ultimate Skyrim discord (customisation channel) for install guides and advice for other type of mods.
 
 ---
 
