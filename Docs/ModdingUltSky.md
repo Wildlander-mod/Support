@@ -32,7 +32,7 @@ If there isn't a specific guide, then as a general rule of thumb
 * Any mods which are NPC overhauls should follow the same installation process as Bijin (in the Wico/Bijin/EEO guide in pins)
 * Any mods which don't Add new NPCS, followers, Spells and weapons, should be installed below the Ultimate Skyrim patches, but above Warburg's Paper world map. (E.g Autosave manager, bathtubs Basins and beyond, tentpalooza)
 
-Setup and run the reqtificator as per the instructions in the FAQ 
+Setup and run the reqtificator as per the instructions in the [FAQ](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#reqtificator-questions)
 
 close mod organizer - and use the launcher to start the game
 
