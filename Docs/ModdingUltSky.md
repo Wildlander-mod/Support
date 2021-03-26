@@ -10,6 +10,7 @@
 - [SNBCJ's mods](#SNBCJs-mods)
 - [Rain Ash and Snow Shaders](#Rain-Ash-and-Snow-Shaders)
 - [None ESP mods](#None-ESP-mods)
+- [Other mods & Tweaks](#other-mods)
 
 <!-- /TOC -->
 
@@ -144,16 +145,18 @@ Requiem - Less Double-Vision (R-LDV) - Reduces the Blur/double vision you get wh
 Bathtubs Basins and Beyond - Wash up! Adds usable bathtubs, basins, towels and more, using the Campfire framework and optionally Bathing in Skyrim. https://www.nexusmods.com/skyrim/mods/102654 (grab both Bathing in Skyrim version & Ultimate Skyrim Patch ) Should be loaded after UltimateSkyrim.esp on the right pane
 
 Requiem - Noxcrab's Tweaks  https://www.nexusmods.com/skyrim/mods/78134
-Should all be loaded after UltimateSkyrim.esp on the right pane
-Toggle Enchantment - lets you turn on/off your weapon's enchantment when you don't want to waste the charge.
-Enemy Regeneration Tweak - Regeneration of mid-level enemies (Trolls and Spriggans) are simply reduced, and boss enemies (Dragonpriests and Enchanted Spheres) are rebalanced in a way that they are more interesting challenges instead of dps/powergame limiter. (Make sure you grab V3.1 from the old files)
-Requiem - Faster Crossbows - Makes Crossbows faster, but instead increase the stamina cost a bit.
-Requiem - Enchantment Tweaks - Fortify Magicka Regen magnitude changed : 25 -> 35 Fortify Health Regen and Magic Resist placable on head equips.
-Automaton Resistance Tweak - Automatons (including the Forgemaster) will be weaker to Frost as much as they are to Shock.
+- Should all be loaded after UltimateSkyrim.esp on the right pane
+- Toggle Enchantment - lets you turn on/off your weapon's enchantment when you don't want to waste the charge.
+- Enemy Regeneration Tweak - Regeneration of mid-level enemies (Trolls and Spriggans) are simply reduced, and boss enemies (Dragonpriests and Enchanted Spheres) are rebalanced in a way that they are more interesting challenges instead of dps/powergame limiter. (Make sure you grab V3.1 from the old files)
+- Requiem - Faster Crossbows - Makes Crossbows faster, but instead increase the stamina cost a bit.
+- Requiem - Enchantment Tweaks - Fortify Magicka Regen magnitude changed : 25 -> 35 Fortify Health Regen and Magic Resist placable on head equips.
+- Automaton Resistance Tweak - Automatons (including the Forgemaster) will be weaker to Frost as much as they are to Shock.
 
 PhinTweaks - Requiem and Ultimate Skyrim Tweaks. https://www.nexusmods.com/skyrim/mods/102978?tab=files
-Should all be loaded after UltimateSkyrim.esp on the right pane
-Toggleable Aetherium Helmet Night Vision - Changes the Aetherium Helmet's constant Night Vision into a toggleable power. Power is added on equip, and removed on unequip.
-UltSky - Armor Resistances Fix - Known issue patch for 4.0.7 
-UltSky - Inn Prices Fix  - Known issue patch for 4.0.7
-Wet and Cold - Non Enchantable Cloaks - Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
+- Should all be loaded after UltimateSkyrim.esp on the right pane
+- Toggleable Aetherium Helmet Night Vision - Changes the Aetherium Helmet's constant Night Vision into a toggleable power. Power is added on equip, and removed on unequip.
+- UltSky - Armor Resistances Fix - Known issue patch for 4.0.7 
+- UltSky - Inn Prices Fix  - Known issue patch for 4.0.7
+- Wet and Cold - Non Enchantable Cloaks - Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
+
+Ultimate Skyrim - Music mods patch https://www.nexusmods.com/skyrim/mods/99822 a ultimate skyrim patch to add a whole bunch of music mods to the game
