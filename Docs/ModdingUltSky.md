@@ -136,6 +136,75 @@ Faster Sleep Wait (SKSE). Decreases the time spent waiting between hours in the 
 
 Disable Quick Save: This mod make the Quick-Save hot-key make a Full save instead. Use Main File - https://www.nexusmods.com/skyrim/mods/82951
 
+Smaller Cursor: Very small but great mod. Simply makes the in-game cursor smaller instead of the GIANT default one. Use Main File - https://www.nexusmods.com/skyrim/mods/2317/
+
+Rudy HQ - More Lights for ENB - Bthardamz: highly recommended, no ESP required. In the left window, load after ENB particle patch if you have it installed 
+https://www.nexusmods.com/skyrim/mods/95614?tab=files 
+
+
+**The following were suggested by u/PeonTheGrate on Reddit **
+
+EZ2C DIALOGUE MENU: Makes the Dialogue menu look much nicer with a high amount of customization. I used the preset found below (Yes I know this says Skyrim Special Edition).
+- Use Main File - https://www.nexusmods.com/skyrim/mods/18466
+- YASHed Preset: - https://www.nexusmods.com/skyrimspecialedition/mods/23894?tab=files
+
+Sleep Tight SE Fixes: Use 3rd Main File (Without Yundao Hair) - https://www.nexusmods.com/skyrimspecialedition/mods/31620
+Same as above, this mod says Skyrim Special Edition, however its just a script file. It works 100% fine in LE. What it does it fixes the script to where NPCs will take off their boots, gauntlets, helmet, and cape if they wear them while going to sleep. This allows you to keep the MCM option friendly sleepwear to robed like US had in the past before the bug was discovered. This makes more sense logically, and also looks much better than taking off all their clothes in the cold land of Skyrim.
+
+Slower Lockpick : Use Main File - https://www.nexusmods.com/skyrim/mods/82373?tab=files&file_id=1000237877
+SKSE plugin that slows down (or speeds up) the lockpick on the lockpicking screen to allow more accurate control. AMAZING! I prefer changing it's ini file to 0.12 instead of the 0.5 default. This makes the lockpicking screen slower but not too slow.
+
+Cobb Bug Fixes: Use Main File - https://www.nexusmods.com/skyrim/mods/96734
+Little Plugin that fixes some bugs in the vanilla game.
+
+Load Game CTD Fixes: Use Main File - https://www.nexusmods.com/skyrim/mods/85443
+CTD Fix that will lessen even more crashes that US already fixes.
+
+Dog Bark Quiet : Use Main File - https://www.nexusmods.com/skyrim/mods/188/
+Small mod that makes the Dog bark a bit more quiet. Muh immersion.
+
+Animated Clutter: Use Main File - https://www.nexusmods.com/skyrim/mods/48287
+Fantastic mod that animates Clutter. Choose what you want animated in the FO-MOD. I recommend almost all of them.
+
+Full Screen MCM Menu for SkyUI (Option 4): - https://www.nexusmods.com/skyrim/mods/95924?tab=description
+Very nice organizational/UI mod. Makes the MCM menu larger. Looks very nice, I prefer Option 4
+
+Skeletons don't breathe: Use Main File - https://www.nexusmods.com/skyrim/mods/64312/
+Muh Immersion! Why should Skeletons make breathing noises if they don't have lungs?
+
+Hircine Restoration Project: Use Main File - https://www.nexusmods.com/skyrim/mods/90594/
+Make Hircine's voice sound more like the original games, very small and welcome change.
+
+Wash that Blood Off: Use Main File - https://www.nexusmods.com/skyrim/mods/98546
+Small Immersion mod that makes blood come off you while in water.
+
+To Your Face - Sensible NPC Commenting: Use Main File - https://www.nexusmods.com/skyrim/mods/87635
+Great mod that prevents NPC's telling you random comments just by walking behind you.
+
+Immersive Horses v2.5 Talking Fixes: Use Main File - https://www.nexusmods.com/skyrim/mods/100521
+Bug fix for Immersive Horses that makes you talk function choose the closest NPC instead of a random one.
+
+Srt Crash Fixes: Use Main File - https://www.nexusmods.com/skyrim/mods/100672
+Another crash fix mod that works with everything, helps prevent even more crashes.
+
+Quieter Thieves Guild Door: Use Main File - https://www.nexusmods.com/skyrim/mods/1826
+GREAT mod that lowers the volume of the ridiculously loud Thieves Guild secret entrance in Riften.
+
+Simple Lock Picking Menu: - https://www.nexusmods.com/skyrim/mods/26490?tab=files
+This mod removed unnecessary clutter from the Lock picking menu. I Recommend the Normal Version.
+
+Simple Reading UI (Take and Steal): - https://www.nexusmods.com/skyrim/mods/74434/
+Same as above however this mod is for the reading UI. I recommend the Take and Steal version.
+
+Markarth Waterfall fix for dark nights: Use Main File - https://www.nexusmods.com/skyrim/mods/97903
+I call this a bug fix for ENB. Fixes the meshes for the waterfalls in Markarth to not be bright white with a ENB at night.
+
+No Screenshot Pop up: Use Main File - https://www.nexusmods.com/skyrim/mods/95802
+Simple Plugin that makes the screenshot Pop Up go to the console instead of on the UI.
+
+No Poison dialogues: Use Main File - https://www.nexusmods.com/skyrim/mods/33916
+Removes the dialogue submission for putting on poisons.
+
 ----
 
 ## Other Mods
