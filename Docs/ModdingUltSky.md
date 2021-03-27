@@ -23,6 +23,8 @@ Installing Mods not covered by guides
 - find the mod in the list and right click > install
 - choose your settings if it has the then once its finished installing turn it on on the left side of the mod organizer.
 
+If you mod doesnt have any ESP/ESM's then thats it - otherwise continue!
+
 Sort your (right side) Plugins load order **manually** (LOOT IS THE DEVIL - ERASE its Existence from your memory) .
 
 Firstly There are specific guides in this document for a lot of the more popular mods, along with proper Ultksy patches & install instructions, so check those first!
