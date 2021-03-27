@@ -17,11 +17,11 @@
 ## Ultimate Skyrim Modding Basics
 Installing Mods not covered by guides 
 
-- Download it to your UltSky download folder
-- open content\mod organiser.exe select the profile you plan on playing
-- select download tab on right side
-- find the mod in the list and right click > install
-- choose your settings if it has the then once its finished installing turn it on on the left side of the mod organizer.
+- Download it to your UltSky download folder (this will be the directory you entered on the wabbajack installer when you first installed the list)
+- open <Ultimate Skyrim install directory>\content\mod organiser.exe. Once open - top left dropdown - select the profile you plan on playing.
+- select download tab on right side 
+- find the mod in the list and right click > install (you may need to click the refresh button to make it appear)
+- choose your settings (if it has install options) then once its finished installing turn it on on the left side of the mod organizer (should be at bottom of the list).
 
 If you mod doesnt have any ESP/ESM's then thats it - otherwise continue!
 
