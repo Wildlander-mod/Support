@@ -140,7 +140,7 @@ Disable Quick Save: This mod make the Quick-Save hot-key make a Full save instea
 
 Smaller Cursor: Very small but great mod. Simply makes the in-game cursor smaller instead of the GIANT default one. Use Main File - https://www.nexusmods.com/skyrim/mods/2317/
 
-Rudy HQ - More Lights for ENB - Bthardamz: highly recommended, no ESP required. In the left window, load after ENB particle patch if you have it installed 
+Rudy HQ - More Lights for ENB - Bthardamz: highly recommended, no ESP required. In the left window, load after Ultimate Skyrim 4.0.7 core files.
 https://www.nexusmods.com/skyrim/mods/95614?tab=files 
 
 
