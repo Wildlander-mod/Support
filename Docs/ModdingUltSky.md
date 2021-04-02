@@ -96,8 +96,13 @@ Finally
 ---
 ## EnaiSiaion mods
 
-Wintersun - Faiths of Skyrim [Patch updated 2020/01/28]
+*Wintersun - Faiths of Skyrim* [Guide updated 2021/04/02]
 https://www.reddit.com/r/ultimateskyrim/comments/bt3a1d/us_404_installing_wintersun_faiths_of_skyrim_with/
+For 4.0.7  replace Wintersun 3.1.5 - Seg 1.4 - UltSky 4.0.6 HF2 v2 patch with this one Wintersun 3.1.5 - Seg 1.4 - UltSky 407 (Thanks Plotinuz
+#5876)  https://drive.google.com/file/d/1hP53c8KQQz4plQGNl-qlLSpMnYFRVy0d/view?usp=sharing
+
+Changelog:
+Enabled the scripts from the mod Alternate House of Horrors. Without the scripts activated the mod would not work.
 
 Sacrosanct - Vampires of Skyrim with Seg's patch [Patch updated 2019/08/21]
 https://www.reddit.com/r/ultimateskyrim/comments/by32xk/us_404_installing_sacrosanct_vampires_of_skyrim/
@@ -113,7 +118,21 @@ For 4.0.7  replace Andromeda 1.0.9 - UltSky 4.x MCM Descriptions with this one A
 Immersive Divine Blessings, Immersive Abilities, Standing Stone Rebalance, Classic Alchemy Overhaul, Classic Food and Drink. 
 https://www.reddit.com/r/ultimateskyrim/comments/br61eo/us_404_installing_snbcjs_mods_immersive_divine/
 
-For 4.0.7  replace UltSky 4.x R-SSR MCM Standing Stone Info with this one Requiem - Standing Stone Rebalance  UltSky 4.0.7 R-SSR MCM Standing Stone Info https://mega.nz/file/vU8TiALY#3Xx6BdDhvI58gEsp8UWNlKXconHaXAJYq3vD2GdRclk
+**4.0.7 updates**
+
+*Requiem - Standing Stone Rebalance (R-SSR) v3.6*:  replace UltSky 4.x R-SSR MCM Standing Stone Info with this one Requiem - Standing Stone Rebalance  UltSky 4.0.7 R-SSR MCM Standing Stone Info https://mega.nz/file/vU8TiALY#3Xx6BdDhvI58gEsp8UWNlKXconHaXAJYq3vD2GdRclk
+
+Changelog:
+- Bugfix - Removes conflict with Skyrim unbound reborn so that MCM options are not messed up.
+
+*Requiem - Immersive Abilities (R-IA) v8.0*:  replace R-IA 1.6 UltSky 406 HF2 patch with this one R-Immersive Abilities 1.6 UltSky 407 patch.7z (Thanks Plotinuz
+#5876). https://drive.google.com/file/d/1G6MP_qGJnUUKoLrzR3_BizkcelddyWWx/view?usp=sharing
+
+Changelog:
+
+Updated Khajit and Argonian races (including vampire) to keep their Ultimate Skyrim perks.
+- Claw attack for argonian
+- Perkless lockpicking for Khajiit
 
 ---
 
