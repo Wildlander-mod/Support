@@ -166,24 +166,19 @@ Patch location: https://www.nexusmods.com/skyrim/mods/107219/
 
 Install Insturctions:
 
-There are three files. Most UltSky users will want:
-Buvarp UltSky patch with ETAC support.7z
-
-Those who have disabled ETAC use this one:
-Buvarp UltSky patch v1.7z
-
-For those with Wintersun and EtaC choose:
-Buvarp UltSky patch with ETAC and Wintersun UltSky patch compability.7z 
+There are three files. 
+- Most UltSky users will want: Buvarp UltSky patch with ETAC support.7z
+- Those who have disabled ETAC use this one: Buvarp UltSky patch v1.7z
+- For those with Wintersun and EtaC choose: Buvarp UltSky patch with ETAC and Wintersun UltSky patch compability.7z 
 
 On the RIGHT SIDE (plugins tab) in MO2:
-Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.
-
-None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
-
-Wintersun version put patch below:
-Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
+- Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.
+- None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
+- Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
 
 Beta release. Please give feedback if something is very wrong.
+
+---------------------------------------------------------------------------------------------------------------------
 
 ** from Phinocio#6969 **
 
