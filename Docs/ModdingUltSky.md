@@ -9,6 +9,7 @@
 - [EnaiSiaion mods](#EnaiSiaion-mods)
 - [SNBCJ's mods](#SNBCJs-mods)
 - [Rain Ash and Snow Shaders](#Rain-Ash-and-Snow-Shaders)
+- [Discord Community Patches](#Discord-Community-Patches)
 - [None ESP mods](#None-ESP-mods)
 - [Other mods & Tweaks](#other-mods)
 
@@ -153,6 +154,72 @@ In RASS disable Snowing, Swimming, and set the Raining option in Camera Visual E
 https://www.nexusmods.com/skyrim/mods/103218?tab=files
 
 ---
+## Discord Community Patches
+
+The following are custom patches developed by the discord community. Unless otherwise specified, all will require a new name and the Reqtuficator running after installation.
+
+** from Plotinuz#5876 **
+
+*Barely Used Vanilla Actors Recycle Project*(https://www.nexusmods.com/skyrim/mods/85540) 
+
+Patch location: https://www.nexusmods.com/skyrim/mods/107219/
+
+Install Insturctions:
+
+There are three files. Most UltSky users will want:
+Buvarp UltSky patch with ETAC support.7z
+
+Those who have disabled ETAC use this one:
+Buvarp UltSky patch v1.7z
+
+For those with Wintersun and EtaC choose:
+Buvarp UltSky patch with ETAC and Wintersun UltSky patch compability.7z 
+
+On the RIGHT SIDE (plugins tab) in MO2:
+Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.
+
+None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
+
+Wintersun version put patch below:
+Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
+
+Beta release. Please give feedback if something is very wrong.
+
+** from Phinocio#6969 **
+
+*Buffed nightingale armor* 
+
+Patch location: https://cdn.discordapp.com/attachments/566109104360390657/711400642190508082/BuffedNightingaleArmor.zip
+
+Changes Nightingale armor values to
+
+Hood: 20 Illusion, 25 Ranged, +30 Magicka
+
+Chest: 30% Magic Resist, 25% Sneak, 100% Poison Resist
+
+Gloves: +18 Lock Picking, +20 Lockpick expertise,  20% One handed, 35% Pickpocket
+
+Shoes: +100 Stamina, 100% Stamina Regen, Muffle 1
+
+Also changes Ancient Shrouded Cowl and Ancient Shrouded Boots to match the hood and boots respectively because Requiem is lazy and uses the same effect for both.
+
+Install Insturctions:
+
+Load anywhere after Requiem ESP. Left side doesn't matter.
+
+*Dwemer Hacker* https://www.nexusmods.com/skyrim/mods/80660
+
+Patch Loction: https://github.com/phinocio/Dwemer-Hacker-US-Patch/releases/tag/1.0.0
+
+Install Insturctions:
+
+Place the Dwemer Hacker ESP before Requiem.esp, left pane doesn't matter.
+
+Install Dwemer Hacker - US Patch from Github
+
+Place the ESP just anywhere after the Ultimate Skyrim.esp file.
+
+---
 
 ## None ESP mods
 
@@ -236,6 +303,8 @@ Removes the dialogue submission for putting on poisons.
 ## Other Mods
 
 Requiem - Less Double-Vision (R-LDV) - Reduces the Blur/double vision you get when you get a debuff. https://www.nexusmods.com/skyrim/mods/73666/
+
+Requiem - Blessings Ignore Crime - This patch removes crime gold, bounty, murder, and Thieves Guild/Dark Brotherhood membership, as conditions preventing blessings from the nine divines. https://www.nexusmods.com/skyrim/mods/50251?tab=description
 
 Bathtubs Basins and Beyond - Wash up! Adds usable bathtubs, basins, towels and more, using the Campfire framework and optionally Bathing in Skyrim. https://www.nexusmods.com/skyrim/mods/102654 (grab both Bathing in Skyrim version & Ultimate Skyrim Patch ) Should be loaded after UltimateSkyrim.esp on the right pane
 
