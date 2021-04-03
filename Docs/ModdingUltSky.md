@@ -204,6 +204,10 @@ RRR_3DNPC-Patch.esp
 for kFs_3DNPC_-_Requiem_Patch.esp
 anywhere between Requiem.esp and Ultimate Skyrim.esp
 ```
+Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
+![Blacksmith Fix](https://i.imgur.com/cepn8aX.png)
+
+
 ** from Plotinuz#5876 https://www.nexusmods.com/skyrim/users/655458 **
 
 Beta release's . Please give feedback if something is very wrong.
