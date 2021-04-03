@@ -98,7 +98,7 @@ Finally
 ---
 ## EnaiSiaion mods
 
-####Wintersun - Faiths of Skyrim* [Guide updated 2021/04/02]
+### Wintersun - Faiths of Skyrim* [Guide updated 2021/04/02]
     https://www.reddit.com/r/ultimateskyrim/comments/bt3a1d/us_404_installing_wintersun_faiths_of_skyrim_with/
 
 **For 4.0.7**  replace Wintersun 3.1.5 - Seg 1.4 - UltSky 4.0.6 HF2 v2 patch with this one Wintersun 3.1.5 - Seg 1.4 - UltSky 407 (Thanks Plotinuz
@@ -107,10 +107,10 @@ Finally
 Changelog:
 Enabled the scripts from the mod Alternate House of Horrors. Without the scripts activated the mod would not work.
 ```
-####Sacrosanct - Vampires of Skyrim with Seg's patch* [Patch updated 2019/08/21]
+### Sacrosanct - Vampires of Skyrim with Seg's patch* [Patch updated 2019/08/21]
     https://www.reddit.com/r/ultimateskyrim/comments/by32xk/us_404_installing_sacrosanct_vampires_of_skyrim/
 
-####Andromeda - Unique Standing Stones of Skyrim* [Guide updated 2020/09/15]
+### Andromeda - Unique Standing Stones of Skyrim* [Guide updated 2020/09/15]
     https://www.reddit.com/r/ultimateskyrim/comments/da780b/us_40x_installing_andromeda_unique_standing/
 
 **For 4.0.7**  replace Andromeda 1.0.9 - UltSky 4.x MCM Descriptions with this one Andromeda 1.0.9 - UltSky 4.0.7 MCM Descriptions   https://mega.nz/file/aVsl0YJa#6yaVKCFutL85qcqChc668d7udVCu8ASKO5YT9KhTBQU  
@@ -166,7 +166,7 @@ The following are custom patches developed by the discord community. Unless othe
 
 ### from kilted Frog#6208
 
-####Interesting NPCs*(https://www.nexusmods.com/skyrim/mods/8429/?) (Download & install, Main file, Update file, both Optional Files(hearthfire & Vampires)
+#### Interesting NPCs*(https://www.nexusmods.com/skyrim/mods/8429/?) (Download & install, Main file, Update file, both Optional Files(hearthfire & Vampires)
 
 Patch location: https://cdn.discordapp.com/attachments/566109104360390657/820459848423571486/kFs_3DNPC_-_Requiem_Patch.esp
 
@@ -208,7 +208,7 @@ Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
 
 Beta release's . Please give feedback if something is very wrong.
 
-#### Barely Used Vanilla Actors Recycle Project*(https://www.nexusmods.com/skyrim/mods/85540) 
+#### Barely Used Vanilla Actors Recycle Project (https://www.nexusmods.com/skyrim/mods/85540) 
 
 Patch location: https://www.nexusmods.com/skyrim/mods/107219/
 
@@ -250,7 +250,7 @@ Right side
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
-### from Phinocio#6969 **
+### from Phinocio#6969 
 
 #### Buffed nightingale armor 
 
@@ -270,7 +270,7 @@ because Requiem is lazy and uses the same effect for both.
 Install Instructions:
 > Load anywhere after Requiem ESP. Left side doesn't matter.
 > 
-####Dwemer Hacker https://www.nexusmods.com/skyrim/mods/80660
+#### Dwemer Hacker https://www.nexusmods.com/skyrim/mods/80660
 
 Patch Location: https://github.com/phinocio/Dwemer-Hacker-US-Patch/releases/tag/1.0.0
 
