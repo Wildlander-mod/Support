@@ -204,7 +204,8 @@ Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
-### from Plotinuz#5876 https://www.nexusmods.com/skyrim/users/655458 
+### from Plotinuz#5876 
+https://www.nexusmods.com/skyrim/users/655458 
 
 Beta release's . Please give feedback if something is very wrong.
 
@@ -234,7 +235,7 @@ Install Instructions:
 > - Install patch between Requiem and Ultsky on the right side in MO2. Left side should not matter.
 > - Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. What the heck those weapons are for, I do not know, but holy sh*te!)
 
-####  Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons (https://www.nexusmods.com/skyrim/mods/75779?tab=files)
+####  Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons https://www.nexusmods.com/skyrim/mods/75779?tab=files
 
 Important note: This patch for UltSky with additional SNBCJ mods Immersive Abilities and Immersive Divine Blessings. It will not work without those mods installed please see [SNBCJ's mods](#SNBCJs-mods) for install instructions.
 
