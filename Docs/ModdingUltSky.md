@@ -72,27 +72,28 @@ https://www.nexusmods.com/skyrim/mods/34842/
 
 Its also highly configurable so you can automate saves at more places than you would be able to in vanilla saves.
 
-To install: 
+Installation Instructions:
 
 Follow the guide in the basics, for right side load order, i place mine immidiatly below the Ultimate Skryim Patches (above paper world map)
 
 in the MCM - I use the following settings:-
-
+```
 In save events 
-- i have mine set to Manual save on Rest/Wait/Arrive at destination/ discover location/dungeon clear.
-- i have it set to do an Incremental every 30 mins.
-- i can do a manual save on f4
+i have mine set to Manual save on Rest/Wait/Arrive at destination/ discover location/dungeon clear.
+i have it set to do an Incremental every 30 mins.
+i can do a manual save on f4
 
 Save conditions tab
-- left as default
+left as default
 
 General settings tab
-- Save delay - 6 seconds
-- Script delay - as high as i could set it.
-- I also limited the amount of incremental saves to 15
+Save delay - 6 seconds
+Script delay - as high as i could set it.
+I also limited the amount of incremental saves to 15
 
 Finally
-- I disabled auto-saving via the skyrim settings menu completely.
+I disabled auto-saving via the skyrim settings menu completely.
+```
 
 ---
 ## EnaiSiaion mods
@@ -143,21 +144,65 @@ Updated Khajit and Argonian races (including vampire) to keep their Ultimate Sky
 ---
 
 ## Rain Ash and Snow Shaders 
-Rain Ash and Snow Shaders or R.A.S.S. is a shader overhaul all-in-one that aims to add slightly more realistic shaders and particle effects to NPC, Creatures and your Character.
+Rain Ash and Snow Shaders or R.A.S.S. is a shader overhaul all-in-one that aims to add slightly more realistic shaders and particle effects to NPC, Creatures and your Character. https://www.nexusmods.com/skyrim/mods/103218?tab=files
 
-once installed load after WetandCold - Ashes.esp in the right window and after Wet and Cold and Frostfall in the Left(it should be there by default anyway).
+Installation Instructions:
+Load after WetandCold - Ashes.esp in the right window and after Wet and Cold and Frostfall in the Left(it should be there by default anyway).
 
 In-Game Config(best results): 
+```
 Turn off shader effects from Frostfall
-In Wet and Cold: For player and NPCs: turn off the drips in wet section, leave soggy feet, snowy and breath in cold, and dusty in Ashes , 
-In RASS disable Snowing, Swimming, and set the Raining option in Camera Visual Effects to Off, this will stop disorientating focusing issues if you use the ENB's Anti-Aliasing and Depth of Field effects.
-https://www.nexusmods.com/skyrim/mods/103218?tab=files
+In Wet and Cold: For player and NPCs: turn off the drips in wet section, leave soggy feet, 
+snowy and breath in cold, and dusty in Ashes. 
+In RASS disable Snowing, Swimming, and set the Raining option in Camera Visual Effects to Off, 
+this will stop disorientating focusing issues if you use the ENB's Anti-Aliasing and Depth of Field effects.
+```
+
 
 ---
 ## Discord Community Patches
 
 The following are custom patches developed by the discord community. Unless otherwise specified, all will require a new name and the Reqtuficator running after installation.
 
+** from kilted Frog#6208 **
+*Interesting NPCs*(https://www.nexusmods.com/skyrim/mods/8429/?) (Download & install, Mainfile, Update file, Optional Files(hearth fire & Vampires)
+
+Patch location: https://cdn.discordapp.com/attachments/566109104360390657/820459848423571486/kFs_3DNPC_-_Requiem_Patch.esp
+
+Install Instructions:
+```
+Open RealisticRoomRental-Enhanced-25029-1-8-3.7z in your downloads folder and extract RRR_3Dnpc-patch.ESP to 
+content\Mods\Perseid's Inns and Taverns - Enhanced.
+Create a folder in Mods directory called "Interesting NPCs Requiem patch" and save the patch into that folder.
+Re-open or refresh Mod organiser.
+Install Interesting NPCs Main file, Merge Update file into "Interesting NPCs" mod folder. install both optional 
+files into their own unique names. 
+```
+ 
+Left Side
+```
+Inconsequential NPCs 
+Interesting NPCs
+Interesting NPCs - Hearthfire Patch
+Interesting NPCs - Dawnguard Meshes for Vampires
+
+Interesting NPCs Requiem patch can be left at the end - It doesnt matter.
+```
+
+Right side
+```
+For 3DNPC.esp:- Install below Inconsequential NPCs. Load order should be:-
+Immersive Patrols II.esp
+Inconsequential NPCs.esp
+3DNPC.esp
+
+for RRR_3Dnpc-patch.ESP
+RealisticRoomRental.esp
+RRR_3DNPC-Patch.esp
+
+for kFs_3DNPC_-_Requiem_Patch.esp
+anywhere between Requiem.esp and Ultimate Skyrim.esp
+```
 ** from Plotinuz#5876 **
 
 *Barely Used Vanilla Actors Recycle Project*(https://www.nexusmods.com/skyrim/mods/85540) 
@@ -165,7 +210,7 @@ The following are custom patches developed by the discord community. Unless othe
 Patch location: https://www.nexusmods.com/skyrim/mods/107219/
 
 Install Instructions:
-
+```
 There are three files. 
 - Most UltSky users will want: Buvarp UltSky patch with ETAC support.7z
 - Those who have disabled ETAC use this one: Buvarp UltSky patch v1.7z
@@ -175,7 +220,7 @@ On the RIGHT SIDE (plugins tab) in MO2:
 - Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.
 - None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
 - Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
-
+```
 Beta release. Please give feedback if something is very wrong.
 
 *Helgen Reborn*(https://www.nexusmods.com/skyrim/mods/35841) 
@@ -183,14 +228,14 @@ Beta release. Please give feedback if something is very wrong.
 Patch location: https://drive.google.com/file/d/16bVZFpcB1oCPhj1W5iJHzJm3DWBP4h3N/view?usp=sharing
 
 Install Instructions:
-
+```
 Install Helgen Reborn very high up in load order on both left and right side in MO2. (above Requiem at least. Further up to avoid chance of textureassets overriding other mods)
 
 Install patch between Requiem and Ultsky on the right side in MO2. 
 Left side should not matter.
 
 Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. What the heck those weapons are for, I do not know, but holy sh*te!)
-
+```
 ---------------------------------------------------------------------------------------------------------------------
 
 ** from Phinocio#6969 **
@@ -200,16 +245,15 @@ Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There a
 Patch location: https://cdn.discordapp.com/attachments/566109104360390657/711400642190508082/BuffedNightingaleArmor.zip
 
 Changes Nightingale armor values to
-
+```
 Hood: 20 Illusion, 25 Ranged, +30 Magicka
-
 Chest: 30% Magic Resist, 25% Sneak, 100% Poison Resist
-
 Gloves: +18 Lock Picking, +20 Lockpick expertise,  20% One handed, 35% Pickpocket
-
 Shoes: +100 Stamina, 100% Stamina Regen, Muffle 1
 
-Also changes Ancient Shrouded Cowl and Ancient Shrouded Boots to match the hood and boots respectively because Requiem is lazy and uses the same effect for both.
+Also changes Ancient Shrouded Cowl and Ancient Shrouded Boots to match the hood and boots respectively 
+because Requiem is lazy and uses the same effect for both.
+```
 
 Install Instructions:
 
@@ -220,13 +264,13 @@ Load anywhere after Requiem ESP. Left side doesn't matter.
 Patch Loction: https://github.com/phinocio/Dwemer-Hacker-US-Patch/releases/tag/1.0.0
 
 Install Instructions:
-
+```
 Place the Dwemer Hacker ESP before Requiem.esp, left pane doesn't matter.
 
 Install Dwemer Hacker - US Patch from Github
 
 Place the ESP just anywhere after the Ultimate Skyrim.esp file.
-
+```
 ---
 
 ## None ESP mods
@@ -317,18 +361,30 @@ Requiem - Blessings Ignore Crime - This patch removes crime gold, bounty, murder
 Bathtubs Basins and Beyond - Wash up! Adds usable bathtubs, basins, towels and more, using the Campfire framework and optionally Bathing in Skyrim. https://www.nexusmods.com/skyrim/mods/102654 (grab both Bathing in Skyrim version & Ultimate Skyrim Patch ) Should be loaded after UltimateSkyrim.esp on the right pane
 
 Requiem - Noxcrab's Tweaks  https://www.nexusmods.com/skyrim/mods/78134
-- Should all be loaded after UltimateSkyrim.esp on the right pane
-- Toggle Enchantment - lets you turn on/off your weapon's enchantment when you don't want to waste the charge.
-- Enemy Regeneration Tweak - Regeneration of mid-level enemies (Trolls and Spriggans) are simply reduced, and boss enemies (Dragonpriests and Enchanted Spheres) are rebalanced in a way that they are more interesting challenges instead of dps/powergame limiter. (Make sure you grab V3.1 from the old files)
-- Requiem - Faster Crossbows - Makes Crossbows faster, but instead increase the stamina cost a bit.
-- Requiem - Enchantment Tweaks - Fortify Magicka Regen magnitude changed : 25 -> 35 Fortify Health Regen and Magic Resist placable on head equips.
-- Automaton Resistance Tweak - Automatons (including the Forgemaster) will be weaker to Frost as much as they are to Shock.
+```
+ Should all be loaded after UltimateSkyrim.esp on the right pane
+ * Toggle Enchantment - lets you turn on/off your weapon's enchantment when you don't 
+   want to waste the charge.
+ * Enemy Regeneration Tweak - Regeneration of mid-level enemies (Trolls and Spriggans) are simply reduced, 
+   and boss enemies (Dragonpriests and Enchanted Spheres) are rebalanced in a way that they are more interesting 
+   challenges instead of dps/powergame limiter. (Make sure you grab V3.1 from the old files)
+ * Requiem - Faster Crossbows - Makes Crossbows faster, but instead increase the stamina cost a bit.
+ * Requiem - Enchantment Tweaks - Fortify Magicka Regen magnitude changed : 25 -> 35 Fortify Health Regen 
+   and Magic Resist placable on head equips.
+ * Automaton Resistance Tweak - Automatons (including the Forgemaster) will be weaker to Frost as much 
+   as they are to Shock.
+```
 
 PhinTweaks - Requiem and Ultimate Skyrim Tweaks. https://www.nexusmods.com/skyrim/mods/102978?tab=files
-- Should all be loaded after UltimateSkyrim.esp on the right pane
-- Toggleable Aetherium Helmet Night Vision - Changes the Aetherium Helmet's constant Night Vision into a toggleable power. Power is added on equip, and removed on unequip.
-- UltSky - Armor Resistances Fix - Known issue patch for 4.0.7 
-- UltSky - Inn Prices Fix  - Known issue patch for 4.0.7
-- Wet and Cold - Non Enchantable Cloaks - Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
+```
+ Should all be loaded after UltimateSkyrim.esp on the right pane
+ *  Toggleable Aetherium Helmet Night Vision - Changes the Aetherium Helmet's constant Night Vision into 
+    a toggleable power. Power is added on equip, and removed on unequip.
+ * UltSky - Armor Resistances Fix - Known issue patch for 4.0.7 
+ * UltSky - Inn Prices Fix  - Known issue patch for 4.0.7
+ * Wet and Cold - Non Enchantable Cloaks - Made with Ultimate Skyrim in mind. Can be used with Requiem 
+   no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them 
+   unenchantable. Requires W&C.
+```
 
 Ultimate Skyrim - Music mods patch https://www.nexusmods.com/skyrim/mods/99822 a ultimate skyrim patch to add a whole bunch of music mods to the game
