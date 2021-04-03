@@ -165,7 +165,8 @@ this will stop disorientating focusing issues if you use the ENB's Anti-Aliasing
 The following are custom patches developed by the discord community. Unless otherwise specified, all will require a new name and the Reqtuficator running after installation.
 
 ** from kilted Frog#6208 **
-*Interesting NPCs*(https://www.nexusmods.com/skyrim/mods/8429/?) (Download & install, Mainfile, Update file, Optional Files(hearth fire & Vampires)
+
+*Interesting NPCs*(https://www.nexusmods.com/skyrim/mods/8429/?) (Download & install, Mainfile, Update file, both Optional Files(hearthfire & Vampires)
 
 Patch location: https://cdn.discordapp.com/attachments/566109104360390657/820459848423571486/kFs_3DNPC_-_Requiem_Patch.esp
 
