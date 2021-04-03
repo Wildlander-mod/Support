@@ -246,7 +246,7 @@ Patch location: https://drive.google.com/file/d/1hhfb1ZpxLycDWQAOoLx-cDGrk4qXOLz
 Install Instructions:
 
 Right side
-> - Load Requiem - Unarmed Combat Enhancer Below Requiem.esp. 
+> - Load Requiem - Unarmed Combat Enhancer Below Requiem.esp and ABOVE UltimateSkyrim.esp. 
 > - Load patch on Right side below Ultimate Skyrim.esp and BELOW R-IA 1.6 UltSky 407 patch.
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
