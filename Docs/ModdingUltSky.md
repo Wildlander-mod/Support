@@ -171,42 +171,38 @@ The following are custom patches developed by the discord community. Unless othe
 Patch location: https://cdn.discordapp.com/attachments/566109104360390657/820459848423571486/kFs_3DNPC_-_Requiem_Patch.esp
 
 Install Instructions:
-```
-* Open RealisticRoomRental-Enhanced-25029-1-8-3.7z in your downloads folder and extract RRR_3Dnpc-patch.ESP to 
-  content\Mods\Perseid's Inns and Taverns - Enhanced.
-* Create a folder in Mods directory called "Interesting NPCs Requiem patch" and save the patch into that folder.
-* Re-open or refresh Mod organizer.
-* Install Interesting NPCs Main file, Merge Update file into "Interesting NPCs" mod folder. Install both optional 
-  files into their own unique names. 
-```
+> Open RealisticRoomRental-Enhanced-25029-1-8-3.7z in your downloads folder and extract RRR_3Dnpc-patch.ESP to content\Mods\Perseid's Inns and Taverns - Enhanced.\
+> Create a folder in Mods directory called "Interesting NPCs Requiem patch" and save the patch into that folder. \
+> Re-open or refresh Mod organizer.\
+> Install Interesting NPCs Main file, Merge Update file into "Interesting NPCs" mod folder. Install both optional files into their own unique names. 
+
  
 Left Side
-```
-Inconsequential NPCs 
-Interesting NPCs
-Interesting NPCs - Hearthfire Patch
-Interesting NPCs - Dawnguard Meshes for Vampires
+> - Inconsequential NPCs 
+> - Interesting NPCs
+> - Interesting NPCs - Hearthfire Patch
+> - Interesting NPCs - Dawnguard Meshes for Vampires
+> - Interesting NPCs Requiem patch can be left at the end - It doesn’t matter.
 
-Interesting NPCs Requiem patch can be left at the end - It doesn’t matter.
-```
 
 Right side
-```
-For 3DNPC.esp:- Install below Inconsequential NPCs. Load order should be: -
-Immersive Patrols II.esp
-Inconsequential NPCs.esp
-3DNPC.esp
 
-for RRR_3Dnpc-patch.ESP
-RealisticRoomRental.esp
-RRR_3DNPC-Patch.esp
+For *3DNPC.esp* :- Install below Inconsequential NPCs. Load order should be: - 
+> - Immersive Patrols II.esp 
+> - Inconsequential NPCs.esp 
+> - 3DNPC.esp 
 
-for kFs_3DNPC_-_Requiem_Patch.esp
-anywhere between Requiem.esp and Ultimate Skyrim.esp
-```
+For *RRR_3Dnpc-patch.esp* 
+> - RealisticRoomRental.esp 
+> - RRR_3DNPC-Patch.esp 
+
+For *kFs_3DNPC_-_Requiem_Patch.esp* 
+> anywhere between Requiem.esp and Ultimate Skyrim.esp
+
 Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
 ![Blacksmith Fix](https://i.imgur.com/cepn8aX.png)
 
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
 ** from Plotinuz#5876 https://www.nexusmods.com/skyrim/users/655458 **
 
@@ -217,36 +213,30 @@ Beta release's . Please give feedback if something is very wrong.
 Patch location: https://www.nexusmods.com/skyrim/mods/107219/
 
 Install Instructions:
-```
+
 There are three files. 
-* Most UltSky users will want: Buvarp UltSky patch with ETAC support.7z
-* Those who have disabled ETAC use this one: Buvarp UltSky patch v1.7z
-* For those with Wintersun and EtaC choose: Buvarp UltSky patch with ETAC and Wintersun UltSky patch compability.7z 
+> Most UltSky users will want: Buvarp UltSky patch with ETAC support.7z\
+> Those who have disabled ETAC use this one: Buvarp UltSky patch v1.7z\
+> For those with Wintersun and EtaC choose: Buvarp UltSky patch with ETAC and Wintersun UltSky patch compability.7z 
 
 On the RIGHT SIDE (plugins tab) in MO2:
-* Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.
-* None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
-* Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
-```
+> Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.\
+> None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.\
+> Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
+
 
 *Helgen Reborn*(https://www.nexusmods.com/skyrim/mods/35841) 
 
 Patch location: https://drive.google.com/file/d/16bVZFpcB1oCPhj1W5iJHzJm3DWBP4h3N/view?usp=sharing
 
 Install Instructions:
-```
-Install Helgen Reborn very high up in load order on both left and right side in MO2. (above Requiem at least. 
-Further up to avoid chance of texture assets overriding other mods)
 
-Install patch between Requiem and Ultsky on the right side in MO2. 
-Left side should not matter.
+> Install Helgen Reborn very high up in load order on both left and right side in MO2. (above Requiem at least. Further up to avoid chance of texture assets overriding other mods)\
+> Install patch between Requiem and Ultsky on the right side in MO2. Left side should not matter.\
+> Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. What the heck those weapons are for, I do not know, but holy sh*te!)
 
-Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are 
-not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. 
-What the heck those weapons are for, I do not know, but holy sh*te!)
-```
 
-** Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons** (https://www.nexusmods.com/skyrim/mods/75779?tab=files)
+*Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons* (https://www.nexusmods.com/skyrim/mods/75779?tab=files)
 
 Important note: This patch for UltSky with additional SNBCJ mods Immersive Abilities and Immersive Divine Blessings. It will not work without those mods installed please see [SNBCJ's mods](#SNBCJs-mods) for install instructions.
 
@@ -255,12 +245,12 @@ All credits to Noxcrab#2521
 Patch location: https://drive.google.com/file/d/1hhfb1ZpxLycDWQAOoLx-cDGrk4qXOLz5/view?usp=sharing
 
 Install Instructions:
+
 Right side
-```
-Load Requiem - Unarmed Combat Enhancer Below Requiem.esp. 
-Load patch on Right side below Ultimate Skyrim.esp and BELOW R-IA 1.6 UltSky 407 patch.
-```
----------------------------------------------------------------------------------------------------------------------
+> Load Requiem - Unarmed Combat Enhancer Below Requiem.esp. \
+> Load patch on Right side below Ultimate Skyrim.esp and BELOW R-IA 1.6 UltSky 407 patch.
+
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
 ** from Phinocio#6969 **
 
