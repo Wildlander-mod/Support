@@ -230,12 +230,15 @@ Patch location: https://drive.google.com/file/d/16bVZFpcB1oCPhj1W5iJHzJm3DWBP4h3
 
 Install Instructions:
 ```
-Install Helgen Reborn very high up in load order on both left and right side in MO2. (above Requiem at least. Further up to avoid chance of textureassets overriding other mods)
+Install Helgen Reborn very high up in load order on both left and right side in MO2. (above Requiem at least. 
+Further up to avoid chance of textureassets overriding other mods)
 
 Install patch between Requiem and Ultsky on the right side in MO2. 
 Left side should not matter.
 
-Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. What the heck those weapons are for, I do not know, but holy sh*te!)
+Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are 
+not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. 
+What the heck those weapons are for, I do not know, but holy sh*te!)
 ```
 ---------------------------------------------------------------------------------------------------------------------
 
