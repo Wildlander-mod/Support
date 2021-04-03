@@ -162,7 +162,7 @@ this will stop disorientating focusing issues if you use the ENB's Anti-Aliasing
 ---
 ## Discord Community Patches
 
-The following are custom patches developed by the discord community. Unless otherwise specified, all will require a new name and the Reqtuficator running after installation.
+The following are custom patches developed by the discord community. Unless otherwise specified, all will require a new save and the Reqtificator running after installation.
 
 ** from kilted Frog#6208 **
 
@@ -176,7 +176,7 @@ Open RealisticRoomRental-Enhanced-25029-1-8-3.7z in your downloads folder and ex
 content\Mods\Perseid's Inns and Taverns - Enhanced.
 Create a folder in Mods directory called "Interesting NPCs Requiem patch" and save the patch into that folder.
 Re-open or refresh Mod organiser.
-Install Interesting NPCs Main file, Merge Update file into "Interesting NPCs" mod folder. install both optional 
+Install Interesting NPCs Main file, Merge Update file into "Interesting NPCs" mod folder. Install both optional 
 files into their own unique names. 
 ```
  
@@ -204,7 +204,9 @@ RRR_3DNPC-Patch.esp
 for kFs_3DNPC_-_Requiem_Patch.esp
 anywhere between Requiem.esp and Ultimate Skyrim.esp
 ```
-** from Plotinuz#5876 **
+** from Plotinuz#5876 https://www.nexusmods.com/skyrim/users/655458 **
+
+Beta release's . Please give feedback if something is very wrong.
 
 *Barely Used Vanilla Actors Recycle Project*(https://www.nexusmods.com/skyrim/mods/85540) 
 
@@ -222,7 +224,6 @@ On the RIGHT SIDE (plugins tab) in MO2:
 - None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
 - Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
 ```
-Beta release. Please give feedback if something is very wrong.
 
 *Helgen Reborn*(https://www.nexusmods.com/skyrim/mods/35841) 
 
