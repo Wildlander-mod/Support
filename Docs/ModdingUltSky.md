@@ -245,6 +245,21 @@ Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There a
 not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. 
 What the heck those weapons are for, I do not know, but holy sh*te!)
 ```
+
+** Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons** (https://www.nexusmods.com/skyrim/mods/75779?tab=files)
+
+Important note: This patch for UltSky with additional SNBCJ mods Immersive Abilities and Immersive Divine Blessings. It will not work without those mods installed please see [SNBCJ's mods](#SNBCJs-mods) for install instructions.
+
+All credits to Noxcrab#2521
+
+Patch location: https://drive.google.com/file/d/1hhfb1ZpxLycDWQAOoLx-cDGrk4qXOLz5/view?usp=sharing
+
+Install Instructions:
+Right side
+```
+Load Requiem - Unarmed Combat Enhancer Below Requiem.esp. 
+Load patch on Right side below Ultimate Skyrim.esp and BELOW R-IA 1.6 UltSky 407 patch.
+```
 ---------------------------------------------------------------------------------------------------------------------
 
 ** from Phinocio#6969 **
