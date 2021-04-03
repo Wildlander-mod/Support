@@ -166,7 +166,7 @@ The following are custom patches developed by the discord community. Unless othe
 
 ### from kilted Frog#6208
 
-#### Interesting NPCs*(https://www.nexusmods.com/skyrim/mods/8429/?) (Download & install, Main file, Update file, both Optional Files(hearthfire & Vampires)
+#### Interesting NPCs https://www.nexusmods.com/skyrim/mods/8429/ (Download & install, Main file, Update file, both Optional Files(hearthfire & Vampires)
 
 Patch location: https://cdn.discordapp.com/attachments/566109104360390657/820459848423571486/kFs_3DNPC_-_Requiem_Patch.esp
 
@@ -208,7 +208,7 @@ Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
 
 Beta release's . Please give feedback if something is very wrong.
 
-#### Barely Used Vanilla Actors Recycle Project (https://www.nexusmods.com/skyrim/mods/85540) 
+#### Barely Used Vanilla Actors Recycle Project https://www.nexusmods.com/skyrim/mods/85540 
 
 Patch location: https://www.nexusmods.com/skyrim/mods/107219/
 
@@ -224,7 +224,7 @@ On the RIGHT SIDE (plugins tab) in MO2:
 > - None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
 > - Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
 
-#### Helgen Reborn(https://www.nexusmods.com/skyrim/mods/35841) 
+#### Helgen Reborn https://www.nexusmods.com/skyrim/mods/35841 
 
 Patch location: https://drive.google.com/file/d/16bVZFpcB1oCPhj1W5iJHzJm3DWBP4h3N/view?usp=sharing
 
