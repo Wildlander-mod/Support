@@ -243,6 +243,8 @@ On the RIGHT SIDE (plugins tab) in MO2:
 
 #### Dragon Combat Overhaul (DCO)  - https://www.nexusmods.com/skyrim/mods/32597
 
+This patch forwards Dragon Combat Overhaul (DCO) specific flying, acceleration and other DCO effects into a UltSky/Requiem optimized environment.
+
 This will hurt. Badly. Only the most masochistic player will want this in their load order.
 
 I heartily recommend to limit the Assault MCM option to only 1 dragon until you are at VERY high levels and are comfortable fighting these dragons.
