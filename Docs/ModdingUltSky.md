@@ -2,6 +2,7 @@
 
 <!-- TOC -->
 - [Ultimate Skyrim Basics](#ultimate-skyrim-modding-basics)
+- [How do I Re-run Automatic variants, FNiS or Dyndolod?](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
 - [Graphics Overhaul Guide](#ultimate-skyrim-Basics)
 - [NPC Overhaul Guide](#npc-overhaul-guide)
 - [BMX Gameplay Overhaul Guide](#bmx-gameplay-overhaul-guide)
