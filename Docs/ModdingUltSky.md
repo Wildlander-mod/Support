@@ -262,14 +262,14 @@ This will **HURT**.
 
 Patch Location: https://drive.google.com/file/d/1PBwAA7FTwnxmDy3dGZbPvnycDHbgUd_I/view?usp=sharing
 
-Install Instructions
+Install Instructions:
 
 On the RIGHT side:
-DCO above Requiem.
-Load patch BELOW Ultimate Skyrim, ABOVE Automatic Variants (and paper world map if you have this in your load order).
+> - DCO above Requiem.
+> - Load patch BELOW Ultimate Skyrim, ABOVE Automatic Variants (and paper world map if you have this in your load order).
 
 On the LEFT side:
-Doesn't matter unless you have a mod that overwrites scripts from DCO main file.
+> - Doesn't matter unless you have a mod that overwrites scripts from DCO main file.
 
 #### Helgen Reborn https://www.nexusmods.com/skyrim/mods/35841 
 
