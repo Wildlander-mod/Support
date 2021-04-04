@@ -241,6 +241,27 @@ On the RIGHT SIDE (plugins tab) in MO2:
 > - None Wintersun versions put patch below UltimateSkyrim - Expanded Towns and Cities.
 > - Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
 
+#### Dragon Combat Overhaul (DCO)  - https://www.nexusmods.com/skyrim/mods/32597
+
+This will hurt. Badly. Only the most masochistic player will want this in their load order.
+
+I heartily recommend to limit the Assault MCM option to only 1 dragon until you are at VERY high levels and are comfortable fighting these dragons.
+
+For those who are concerned about powercreep in the higher levels.... Don't worry. The Dragons are now.... bad.
+Just the DCO Soulfire curse that you can get from fighting these dragons will make you feel underleveled in a MOST immersive way.
+
+You have been warned.
+
+This will **HURT**.
+
+Patch Location: https://drive.google.com/file/d/1PBwAA7FTwnxmDy3dGZbPvnycDHbgUd_I/view?usp=sharing
+
+Install Instructions
+
+Right side 
+> - DCO above Requiem.
+> - Load patch below Ultimate Skyrim, above Paper World Map.
+
 #### Helgen Reborn https://www.nexusmods.com/skyrim/mods/35841 
 
 Patch location: https://drive.google.com/file/d/16bVZFpcB1oCPhj1W5iJHzJm3DWBP4h3N/view?usp=sharing
@@ -266,6 +287,7 @@ Install Instructions:
 Right side
 > - Load Requiem - Unarmed Combat Enhancer Below Requiem.esp and ABOVE UltimateSkyrim.esp. 
 > - Load patch on Right side below Ultimate Skyrim.esp and BELOW R-IA 1.6 UltSky 407 patch.
+
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
