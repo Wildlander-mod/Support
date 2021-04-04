@@ -243,14 +243,18 @@ On the RIGHT SIDE (plugins tab) in MO2:
 
 #### Dragon Combat Overhaul (DCO)  - https://www.nexusmods.com/skyrim/mods/32597
 
-This patch forwards Dragon Combat Overhaul (DCO) specific flying, acceleration and other DCO effects into a UltSky/Requiem optimized environment.
+What the patch does:
+- forwards Dragon Combat Overhaul (DCO) specific flying, acceleration and other DCO effects into a UltSky/Requiem optimized environment.
+- DCO changes to Alduin
+- Conflict resolving with Requiem/UltSky stats and perks in favor of vanilla, but DCO for specific traits.
 
+Why you DON'T want DCO with patch in your load order.
 This will hurt. Badly. Only the most masochistic player will want this in their load order.
 
 I heartily recommend to limit the Assault MCM option to only 1 dragon until you are at VERY high levels and are comfortable fighting these dragons.
 
 For those who are concerned about powercreep in the higher levels.... Don't worry. The Dragons are now.... bad.
-Just the DCO Soulfire curse that you can get from fighting these dragons will make you feel underleveled in a MOST immersive way.
+just the DCO Soulfire curse that you can get from fighting these dragons will make you feel underleveled in a MOST immersive way.
 
 You have been warned.
 
@@ -260,9 +264,12 @@ Patch Location: https://drive.google.com/file/d/1PBwAA7FTwnxmDy3dGZbPvnycDHbgUd_
 
 Install Instructions
 
-Right side 
-> - DCO above Requiem.
-> - Load patch below Ultimate Skyrim, above Paper World Map.
+On the RIGHT side:
+DCO above Requiem.
+Load patch BELOW Ultimate Skyrim, ABOVE Automatic Variants (and paper world map if you have this in your load order).
+
+On the LEFT side:
+Doesn't matter unless you have a mod that overwrites scripts from DCO main file.
 
 #### Helgen Reborn https://www.nexusmods.com/skyrim/mods/35841 
 
