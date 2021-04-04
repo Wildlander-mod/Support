@@ -297,6 +297,31 @@ Right side
 > - Load Requiem - Unarmed Combat Enhancer Below Requiem.esp and ABOVE UltimateSkyrim.esp. 
 > - Load patch on Right side below Ultimate Skyrim.esp and BELOW R-IA 1.6 UltSky 407 patch.
 
+#### Sofia - The Funny Fully Voiced Follower - https://www.nexusmods.com/skyrim/mods/54527?tab=description
+
+This file is an attempt at an update of the "Requiem 1.9.x - Sofia Follower Patch" (created by LosGrak) to UltSky Requiem.
+
+I have merely updated the perks in Tes5Edit, added some that seemed missing, and reinstated some of the vanilla stats that seemed appropriate 
+with regards to the perks. 
+
+In LosGrak's words:
+"This file is a patch to bring the Sofia follower, created by John Jarvis and Christine Slagman? more in line with the changes made by version 1.9.2 of the Requiem Roleplaying Overhaul. This means that her stats have been changed as well as her perks. A brief list of changes can be seen below:
+
+Base HP, Magicka and Stamina have been set to levels fitting a Nord character. However, because she is a spellsword, she has a slight Magicka offset of 15. She has no Health or Stamina offsets.
+
+Sofia's base combat stats have been reduced to bring her in line with a level 1 Nord character.
+
+Several perks have been added that are both appropriate and thematic to a spellsword.
+
+This patch does have its limitations. I am neither a true modder nor a coder. I am unable to remove control of Sofia's Health, Magicka and Stamina from her MCM, nor am I able to remove access to her infinite storage. It is up to you to not use these features.
+
+Patch location: https://drive.google.com/file/d/1xQ-PPfb1rK79TyrVbGlxK77KECLFtCyd/view?usp=sharing
+
+Install Instructions:
+
+Right Side: 
+> SofiaFollower.esp before Requiem.esp
+> Requiem - Sofia.esp after Requiem.esp
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
