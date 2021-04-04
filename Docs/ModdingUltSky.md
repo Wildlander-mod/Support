@@ -204,6 +204,21 @@ Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
 ![Blacksmith Fix](https://i.imgur.com/cepn8aX.png)
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
+### from Liz#7199
+
+#### Revert Notification Speed changes back to default.
+
+Patch location: https://cdn.discordapp.com/attachments/348579495537803274/828224038923927572/hudmenu.swf
+
+Install Instructions:
+
+> - Create Folder in Content\mods called "Notification Patch"
+> - Save patch to folder
+> - Reload/refresh mod organiser
+> - Make sure left side it is located after "ultimate skyrim 4.0.7 core files"
+> - enable, no need to run reqtificator.
+
+*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
 ### from Plotinuz#5876 
 https://www.nexusmods.com/skyrim/users/655458 
