@@ -174,7 +174,8 @@ Install Instructions:
 > - Open RealisticRoomRental-Enhanced-25029-1-8-3.7z in your downloads folder and extract RRR_3Dnpc-patch.ESP to content\Mods\Perseid's Inns and Taverns - Enhanced.
 > - Create a folder in Mods directory called "Interesting NPCs Requiem patch" and save the patch into that folder. 
 > - Re-open or refresh Mod organizer.
-> - Install Interesting NPCs Main file, Merge Update file into "Interesting NPCs" mod folder. Install both optional files into their own unique names. 
+> - Install Interesting NPCs Main file, Install Update file the same folder as "Interesting NPCs" main file - when asked what to do about overwrites -  select "Merge". 
+> - Install both optional files into their own unique names. 
 
  
 Left Side
@@ -235,13 +236,15 @@ Install Instructions:
 > - Install patch between Requiem and Ultsky on the right side in MO2. Left side should not matter.
 > - Nothing ELSE with Helgen Reborn has been done. Consider this very beta. (There are some weapons that are not fixed yet that had insane damage. 10000 from vanilla mod, turned 40000 in requiem for the indifferent. What the heck those weapons are for, I do not know, but holy sh*te!)
 
-####  Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons https://www.nexusmods.com/skyrim/mods/75779?tab=files
+####  Requiem - Unarmed Combat Enhancer WITH integrated Cosmetic UCE addons https://www.nexusmods.com/skyrim/mods/75779?tab=files (Download version 2.4.2 from OLD FILES)
+
+I have merged in the file "Requiem - UCE Addon" that add "Adds cosmetic Cestus and Claws that can be worn over gloves/gauntlets."
 
 Important note: This patch for UltSky with additional SNBCJ mods Immersive Abilities and Immersive Divine Blessings. It will not work without those mods installed please see [SNBCJ's mods](#SNBCJs-mods) for install instructions.
 
 All credits to Noxcrab#2521
 
-Patch location: https://drive.google.com/file/d/1hhfb1ZpxLycDWQAOoLx-cDGrk4qXOLz5/view?usp=sharing
+Patch location: https://drive.google.com/file/d/1utXH1-YniYzFq4TNN3O5HosCQcPhmurc/view?usp=sharing
 
 Install Instructions:
 
