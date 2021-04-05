@@ -108,9 +108,9 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 [Wabbajack:How to get Skyrim LE in 2021](https://www.reddit.com/r/wabbajack/comments/kx6ppr/how_to_get_skyrim_legendary_edition_in_2021/)
 
-The current Roadmap & patchlist previewed in Dylans most recent stream are as follows
+The current Roadmap & patchlist previewed in Dylans most recent stream are as follows (Green Complete, Purple In-progress, Orange to do)
 
-![Roadmap](https://cdn.discordapp.com/attachments/348579473727160321/815380593499308062/unknown.png)
+![Roadmap](https://cdn.discordapp.com/attachments/348579473727160321/828709899642339328/unknown.png)
 
 [Mod list](https://pastebin.com/UguDpVkK) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
