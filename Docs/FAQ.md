@@ -112,7 +112,7 @@ The current Roadmap & patchlist previewed in Dylans most recent stream are as fo
 
 ![Roadmap](https://cdn.discordapp.com/attachments/348579473727160321/828709899642339328/unknown.png)
 
-[Mod list](https://pastebin.com/UguDpVkK) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
+[Mod list](https://pastebin.com/8Puj9tz8) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
 ---
 # **Wabbajack Issues**
