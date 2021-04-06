@@ -100,7 +100,8 @@ Finally
 ## EnaiSiaion mods
 
 ### Wintersun - Faiths of Skyrim* [Guide updated 2021/04/02]
-    https://www.reddit.com/r/ultimateskyrim/comments/bt3a1d/us_404_installing_wintersun_faiths_of_skyrim_with/
+
+https://www.reddit.com/r/ultimateskyrim/comments/bt3a1d/us_404_installing_wintersun_faiths_of_skyrim_with/
 
 **For 4.0.7**  replace Wintersun 3.1.5 - Seg 1.4 - UltSky 4.0.6 HF2 v2 patch with this one Wintersun 3.1.5 - Seg 1.4 - UltSky 407 (Thanks Plotinuz
 #5876)  https://drive.google.com/file/d/1hP53c8KQQz4plQGNl-qlLSpMnYFRVy0d/view?usp=sharing
@@ -109,10 +110,12 @@ Changelog:
 Enabled the scripts from the mod Alternate House of Horrors. Without the scripts activated the mod would not work.
 ```
 ### Sacrosanct - Vampires of Skyrim with Seg's patch* [Patch updated 2019/08/21]
-    https://www.reddit.com/r/ultimateskyrim/comments/by32xk/us_404_installing_sacrosanct_vampires_of_skyrim/
+
+https://www.reddit.com/r/ultimateskyrim/comments/by32xk/us_404_installing_sacrosanct_vampires_of_skyrim/
 
 ### Andromeda - Unique Standing Stones of Skyrim* [Guide updated 2020/09/15]
-    https://www.reddit.com/r/ultimateskyrim/comments/da780b/us_40x_installing_andromeda_unique_standing/
+
+https://www.reddit.com/r/ultimateskyrim/comments/da780b/us_40x_installing_andromeda_unique_standing/
 
 **For 4.0.7**  replace Andromeda 1.0.9 - UltSky 4.x MCM Descriptions with this one Andromeda 1.0.9 - UltSky 4.0.7 MCM Descriptions   https://mega.nz/file/aVsl0YJa#6yaVKCFutL85qcqChc668d7udVCu8ASKO5YT9KhTBQU  
 ```
