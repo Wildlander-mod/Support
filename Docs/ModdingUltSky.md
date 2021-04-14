@@ -17,6 +17,17 @@
 <!-- /TOC -->
 
 ## Ultimate Skyrim Modding Basics
+Important Terms
+
+1) mod organiser      - The tool which makes everything work - Installed as part of the wabbajack installation in <Ultsky install directory>\Content\Mod Organizer.exe
+2) reqtificator       - The requiem patcher - Makes 3rd party mods compatible with the Ultsky install. If you are going to do any modding at all this must be setup first. Instructions for how to do this are [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#reqtificator-questions)
+3) reqtificator.ini   - The configuration paramayers for the requiem patcher - needed if you are going to make any appearance changes or add any new races. Located in 
+<Ultsky install directory>\Content\mods\UltSky 4.0.7 Core Files\SkyProc Patchers\Requiem
+4) [Dyndolod](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md#dyndolod)           - The tool which draws items in the distance, generally needed to be ran if adding mods which change the landscape or add new player homes
+5) [Automatic Varients](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md#automatic-variants) - The tool which makes creatures in the game have different appeances rather than all having the same appearance.
+6) Merging mods       - Advanced modding technique to combine multiple mods Plugin's into one.
+
+
 Installing Mods not covered by guides 
 
 - Download it to your UltSky download folder (this will be the directory you entered on the wabbajack installer when you first installed the list)
@@ -207,6 +218,46 @@ For *kFs_3DNPC_-_Requiem_Patch.esp*
 
 Finally in ETAC's MCM menu (below) check Morthal Blacksmith fix
 ![Blacksmith Fix](https://i.imgur.com/cepn8aX.png)
+
+If you would like to add some beauty/customization
+
+Download Both . 
+Cuyima Interesting NPCs LE https://www.nexusmods.com/skyrim/mods/92893
+Interesting NPCs Visual Overhaul https://www.nexusmods.com/skyrim/mods/104506
+
+Install Instructions:
+
+Left Side
+> - Inconsequential NPCs 
+> - Interesting NPCs
+> - Interesting NPCs - Hearthfire Patch
+> - Interesting NPCs - Dawnguard Meshes for Vampires
+> - Interesting NPCs Requiem patch can be left at the end - It doesn’t matter.
+> - Cuyima Interesting NPCs LE 
+> - Interesting NPCs Visual Overhaul 
+
+**If you know how to merge mods and have a merge mod tool installed**
+
+> - Make sure the .esp files in the right pane are in the same order. Cuyima’s first, then Visual Overhaul second. Leave them at the bottom of the load order.
+> - Use your favorite merging program to merge these 2 mods together. 
+> - Call the merge “iNPCs Visual.esp”. Make sure that load order has VO overwriting Cuyima (Interesting NPCs Visual Overhaul  on the bottom).
+> - Take your new merged mod and place it directly under Interesting NPCs Visual Overhaul in the left pane.
+> - Open “Information” for both Cuyima and VO and hide their respective .esp files.
+> - Take your new iNPCs Visual.esp in the right pane and place it directly below 3dNPC.esp.
+> - Open your Reqtificator.ini file.
+> - Add iNPCs Visual.esp under the [NPC Visuals] section.
+> - Rerun Reqtificator.
+
+**If you don't know how to merge mods**
+
+Right Side
+
+> - 3dNPC.esp
+> - Cuyima 3DNPC - Redone.esp
+> - 3DNPC Visual Overhaul.esp 
+> - Open your Reqtificator.ini file.
+> - Add both Cuyima 3DNPC - Redone.esp & 3DNPC Visual Overhaul.esp under the [NPC Visuals] section.
+> - Rerun Reqtificator.
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 ### from Liz#7199
