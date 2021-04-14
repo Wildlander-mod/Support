@@ -68,7 +68,7 @@ Issues with this guide should be directed to Bmxfreestyle357#6234 on discord
 ## Autosave Manager
 Auto-saves trigger when loading into a Cell - when all the scripts are running that can corrupt a save, and increase your load times massively.
 
-I use autosave manager because it is a mod itself - and therefore triggers the save a few seconds after entering a cell, by which time all of the scripts should have fired. The only drawback is the same freezes for a few seconds while making the save.
+I use autosave manager because it is a mod itself - and therefore triggers the save a few seconds after entering a cell, by which time all of the scripts should have fired. The only drawback is the game freezes for a few seconds while making the save.
 https://www.nexusmods.com/skyrim/mods/34842/
 
 It is also highly configurable so you can automate saves at more places than you would be able to in vanilla saves.
