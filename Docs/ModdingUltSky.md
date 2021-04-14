@@ -39,7 +39,7 @@ If there isn't a specific guide, then as a general rule of thumb
 
 Setup and run the reqtificator as per the instructions in the [FAQ](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#reqtificator-questions)
 
-close mod organizer - and use the launcher to start the game
+Close mod organizer - and use the launcher to start the game
 
 ---
 ## Graphics Overhaul Guide
@@ -75,9 +75,10 @@ It is also highly configurable so you can automate saves at more places than you
 
 Installation Instructions:
 
-Follow the guide in the basics, for right side load order, I place mine immediately below the Ultimate Skryim Patches (above paper world map)
+On the RIGHT side:
+> - Load patch BELOW Ultimate Skyrim's patches, ABOVE Automatic Variants (and paper world map if you have this in your load order).
 
-in the MCM - I use the following settings: -
+In the MCM - I use the following settings: -
 
 In save events 
 > * I have mine set to Manual save on Rest/Wait/Arrive at destination/ discover location/dungeon clear.
