@@ -636,7 +636,11 @@ This is a Minor Arcana change that prevents weak characters from acquiring Vampi
 
 ----
 ## My Grass/Tree's in distance are shimmering/flickering
-This is caused by the ENB when used on some graphics cards. The following guide has shown improvement when both the step guide, and U/seq Comments are followed.
+This is caused by the ENB when used on some graphics cards. 
+
+You can choose to add a "max FPS limit" on your graphics card for "TESV.exe" to "59" as this reducing flickering on some cards (especially if the moniter connected to the card has a high refresh rate)
+
+The following guide has also shown improvement when both the step guide, and U/seq Comments are followed.
 
 https://www.reddit.com/r/ultimateskyrim/comments/gfdg6l/antialiasing_is_b_a_d/
 
