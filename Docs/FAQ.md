@@ -77,7 +77,7 @@
 	- [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)	
 	- [My Grass/Tree's are shimmering](#my-grasstrees-in-distance-are-shimmeringflickering)
 	- [Eorland Graymane wont temper/craft stuff for me](#eorland-graymane-wont-tempercraft-stuff-for-me)
-
+	- [How Do i Enable Permadeath?](#How-Do-i-Enable-Permadeath)
 
 - [**4.0.6 Issues**](#4.0.6-Issues)	
 	- [I have this really weird red/green/brown/black graphical issue on the bottom half of my screen](#i-have-this-really-weird-redgreenbrownblack-graphical-issue-on-the-bottom-half-of-my-screen)
@@ -647,6 +647,13 @@ Note: this is the only 'fix' support are aware of at this time and if it does no
 Eorland Graymane is the best smith in the game, and as such reserves his services for members of the Circle for the companions.
 
 Note: you must be at least at the stage of "Kill the werewolf hunters" for the Quest "The silver hand"
+
+---
+
+## How Do I Enable Permadeath
+In short - You cant. Permadeath mod Ashes was removed from the build of ultimate skyrim back in september when 4.0.7 was released.
+
+Instead of a 'permadeath mod' the player, upon dying is presented with the Requiem death dialog telling you to load a save. If you wish to be permadeath, simply load your template save at this point and start a new character (manually deleting all of the saves for your dead character)
 
 ---
 
