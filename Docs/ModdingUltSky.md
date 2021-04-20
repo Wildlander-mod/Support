@@ -13,6 +13,7 @@
 - [Discord Community Patches](#Discord-Community-Patches)
 - [None ESP mods](#None-ESP-mods)
 - [Other mods & Tweaks](#other-mods)
+- [What About legacy of the Dragonborn](#What-About-legacy-of-the-Dragonborn)
 
 <!-- /TOC -->
 
@@ -517,4 +518,23 @@ PhinTweaks - Requiem and Ultimate Skyrim Tweaks. https://www.nexusmods.com/skyri
 
 
 Ultimate Skyrim - Music mods patch https://www.nexusmods.com/skyrim/mods/99822 a ultimate skyrim patch to add a whole bunch of music mods to the game.
+
+## What About legacy of the Dragonborn?
+
+This mod is recommended for experienced modders who are capabable of writing their own patches **only**. 
+Please dont ask support for step-by-step instructions on what to do to install this mod. No you cannot just ignore the "custom" patch
+
+As a rough guide
+1) Installed LoTD last (after all the other mods you plan on installing) so that it would detect what mods are active and add the appropriate content. the ESP for this should go as high in your load order as you can get it.
+2) Installed patches for the additional mods and LoTD/Requiem (https://www.nexusmods.com/skyrim/mods/72921/, need Legacy of the Dragonborn Patch Collection and Optional Mod Patches for Legacy at bare minimum for base install. https://www.nexusmods.com/skyrim/mods/57376/? also need this for realistic room rental compatibility.)
+3) Clean added mods
+4) Create merges for "Official" patches using your merge tool of choice - As you will have over 10 of them - Suggest loading this ESP just before Ultimate Skyrim.esp
+5) Check for texture conflicts on the new mods/patches (E.G ETAC/LOTD conflict in Falkreath where ETAC places a tree in the Kadjit camp for the moothpath of Elswyr quest)
+6) Create conflict resolution patch using Editing tool of choice - this ESP should be loaded just before paper world map in your load order. This should at minimum:-
+    1) Deal with any conflicts which arent taken care of by the above mods.  
+    2) To drastically reduce the complete OP-ness of the items it adds
+    3) LoTD conflicts with Book Covers of Skyrim (gives duplicates that you cant store at your museam), so you have to edit all those to replace with the LoTD item id, as well as levelled lists where the books drop.
+    4) Deal with Texture conflicts
+7)  Rerun Dyndolod
+8)  Rerun Requificator
 
