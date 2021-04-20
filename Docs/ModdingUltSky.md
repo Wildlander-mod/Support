@@ -521,8 +521,9 @@ Ultimate Skyrim - Music mods patch https://www.nexusmods.com/skyrim/mods/99822 a
 
 ## What About legacy of the Dragonborn?
 
-This mod is recommended for experienced modders who are capabable of writing their own patches **only**. 
-Please dont ask support for step-by-step instructions on what to do to install this mod. No you cannot just ignore the "custom" patch
+This mod is **NOT** recommended for install and only experienced modders who are capabable of writing their own patches should make a attempt.  
+
+It is only being included since Support are fed up about people asking what is required. Please dont ask support for step-by-step instructions on what to do to install this mod and before you ask - No you cannot just ignore the "custom" patch.
 
 As a rough guide
 1) Installed LoTD last (after all the other mods you plan on installing) so that it would detect what mods are active and add the appropriate content. the ESP for this should go as high in your load order as you can get it.
