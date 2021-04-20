@@ -521,21 +521,23 @@ Ultimate Skyrim - Music mods patch https://www.nexusmods.com/skyrim/mods/99822 a
 
 ## What About legacy of the Dragonborn?
 
-This mod is **NOT** recommended for install and only experienced modders who are capabable of writing their own patches should make a attempt.  
+This mod is **NOT** recommended for install and only experienced modders who are capabable of writing their own patches should even make a attempt.  
 
-It is only being included since Support are fed up about people asking what is required. Please dont ask support for step-by-step instructions on what to do to install this mod and before you ask - No you cannot just ignore the "custom" patch.
+It is only being included in this document because Support are fed up about people asking what is required. 
+
+Please dont ask for step-by-step instructions on what to do to write a custom patch, and before you ask - no you cannot just ignore the custom patch and no we won't write one for you.
 
 As a rough guide
-1) Installed LoTD last (after all the other mods you plan on installing) so that it would detect what mods are active and add the appropriate content. the ESP for this should go as high in your load order as you can get it.
-2) Installed patches for the additional mods and LoTD/Requiem (https://www.nexusmods.com/skyrim/mods/72921/, need Legacy of the Dragonborn Patch Collection and Optional Mod Patches for Legacy at bare minimum for base install. https://www.nexusmods.com/skyrim/mods/57376/? also need this for realistic room rental compatibility.)
+1) LoTD should be installed as the last mod you are going to add to your list, so that it's FOMOD detects what mods are active and enables the appropriate content. The ESP for this should go as high in your load order as you can get it.
+2) Install patches for the base install, any additional mods you have added and Requiem (https://www.nexusmods.com/skyrim/mods/72921/, you need Legacy of the Dragonborn Patch Collection and Optional Mod Patches for Legacy at bare minimum for base install. https://www.nexusmods.com/skyrim/mods/57376/? also need this for if you want your followers to sandbox in the safehouse.)
 3) Clean added mods
-4) Create merges for "Official" patches using your merge tool of choice - As you will have over 10 of them - Suggest loading this ESP just before Ultimate Skyrim.esp
-5) Check for texture conflicts on the new mods/patches (E.G ETAC/LOTD conflict in Falkreath where ETAC places a tree in the Kadjit camp for the moothpath of Elswyr quest)
+4) Create merges for patches using your merge tool of choice - As you will have over 10 of them - Suggest loading this ESP just before Ultimate Skyrim.esp
+5) Check for texture conflicts on the new mods/patches (E.G ETAC/LOTD conflict in Falkreath where ETAC places a tree in the Kadjit camp for the moonpath of Elswyr quest)
 6) Create conflict resolution patch using Editing tool of choice - this ESP should be loaded just before paper world map in your load order. This should at minimum:-
-    1) Deal with any conflicts which arent taken care of by the above mods.  
-    2) To drastically reduce the complete OP-ness of the items it adds
-    3) LoTD conflicts with Book Covers of Skyrim (gives duplicates that you cant store at your museam), so you have to edit all those to replace with the LoTD item id, as well as levelled lists where the books drop.
-    4) Deal with Texture conflicts
+    1) Deal with any conflicts which arent taken care of by the patches.  
+    2) To drastically reduce the complete OP-ness of the items lotd adds
+    3) LoTD conflicts with Book Covers of Skyrim (gives duplicates that you can't store at your museam), so you have to edit all those to replace with the LoTD item id, as well as levelled lists where the books drop.
+    4) Deal with Texture conflicts.
 7)  Rerun Dyndolod
 8)  Rerun Requificator
 
