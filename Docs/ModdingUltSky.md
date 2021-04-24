@@ -26,12 +26,10 @@ The following Mods are extremely script heavy, Will possibly break your game.
 > *  Sexlab Seperate Orgasms (known to cause fps degradation/script bloat)
 
 The following types of mods have Issues 
-> *  New creatures/enemies   (unless requiem patch available) - Note: This is because Requiem doesn’t know what to do with the creatures so they all spawn in at level 1 
+> *  New creatures/enemies/NPC's/followers   (unless requiem patch available) - Note: for enemies - they are generally added as unleveled, and in requiem this means they are always level 1. for NPC's and Followers - they will be missing the requiem perks and may also be unleveled (ergo level 1)
 > *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
 > *  Important Information Overhaul (Just doesn’t work with our ENB)
 > *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
-> *  New followers  (unless requiem patch available) - Generally means they are really weak or really really strong
-
 
 ---
 
