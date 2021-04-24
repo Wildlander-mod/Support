@@ -14,7 +14,7 @@
 ## Guides list
 <!-- TOC -->
 - [Ultimate Skyrim Basics - READ ME!!!!](#ultimate-skyrim-modding-basics)
-- [Known Mod Issues/Incompatibilities] (#known-mod-issuesincompatibilities)
+- [Known Mod Issues or Incompatibilities](#known-mod-issuesincompatibilities)
 - [How do I Re-run Automatic variants, FNiS or Dyndolod?](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
 - [Graphics Overhaul Guide](#ultimate-skyrim-Basics)
 - [NPC Overhaul Guide](#npc-overhaul-guide)
