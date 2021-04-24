@@ -11,6 +11,29 @@
 6) Merging mods       - Advanced modding technique to combine multiple mods Plugin's into one.
 
 ---
+## Known Mod Issues/Incompatibilities
+
+The following Types of mods are NOT Compatible. (cause game breaking bugs)
+> * Any Alternate start mod. (Ultimate Skyrim reborn is included in the list, which acts as a alternate start mod)
+> * Any Mod which affects the perk trees E.g. Ordinator 
+> * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
+> * UltSky Starting items for 4.0.6hf2 (Breaks Ultimate Skyrim reborn, character wont teleport after creating and doesn’t have the promised items anyway!)
+> * New Races                          (unless requiem patch available) Requiem won’t start and will return you to the main menu.
+
+The following Mods are extremely script heavy, Will possibly break your game.
+> *  Enhanced Blood Textures (known to cause fps degradation/script bloat)
+> *  Open Cities (also requires a tonne of manual patching)
+> *  Sexlab Seperate Orgasms (known to cause fps degradation/script bloat)
+
+The following types of mods have Issues 
+> *  New creatures/enemies   (unless requiem patch available) - Note: This is because Requiem doesn’t know what to do with the creatures so they all spawn in at level 1 
+> *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
+> *  Important Information Overhaul (Just doesn’t work with our ENB)
+> *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
+> *  New followers  (unless requiem patch available) - Generally means they are really weak or really really strong
+
+
+---
 
 ## Guides list
 <!-- TOC -->
