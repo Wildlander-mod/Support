@@ -10,32 +10,11 @@
 5) [Automatic Varients](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md#automatic-variants) - The tool which makes creatures in the game have different appearances rather than all having the same appearance.
 6) Merging mods       - Advanced modding technique to combine multiple mods Plugin's into one.
 
----
-## Known Mod Issues/Incompatibilities
-
-The following Types of mods are NOT Compatible. (cause game breaking bugs)
-> * Any Alternate start mod. (Ultimate Skyrim reborn is included in the list, which acts as a alternate start mod)
-> * Any Mod which affects the perk trees E.g. Ordinator 
-> * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
-> * UltSky Starting items for 4.0.6hf2 (Breaks Ultimate Skyrim reborn, character wont teleport after creating and doesn’t have the promised items anyway!)
-> * New Races                          (unless requiem patch available) Requiem won’t start and will return you to the main menu.
-
-The following Mods are extremely script heavy, Will possibly break your game.
-> *  Enhanced Blood Textures (known to cause fps degradation/script bloat)
-> *  Open Cities (also requires a tonne of manual patching)
-> *  Sexlab Seperate Orgasms (known to cause fps degradation/script bloat)
-
-The following types of mods have Issues 
-> *  New creatures/enemies/NPC's/followers   (unless requiem patch available) - Note: for enemies - they are generally added as unleveled, and in requiem this means they are always level 1. for NPC's and Followers - they will be missing the requiem perks and may also be unleveled (ergo level 1)
-> *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
-> *  Important Information Overhaul (Just doesn’t work with our ENB)
-> *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
-
----
 
 ## Guides list
 <!-- TOC -->
-- [Ultimate Skyrim Basics](#ultimate-skyrim-modding-basics)
+- [Ultimate Skyrim Basics - READ ME!!!!](#ultimate-skyrim-modding-basics)
+- [Known Mod Issues/Incompatibilities] (#known-mod-issuesincompatibilities)
 - [How do I Re-run Automatic variants, FNiS or Dyndolod?](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md)
 - [Graphics Overhaul Guide](#ultimate-skyrim-Basics)
 - [NPC Overhaul Guide](#npc-overhaul-guide)
@@ -51,7 +30,9 @@ The following types of mods have Issues
 
 <!-- /TOC -->
 
+
 ---
+
 ## Ultimate Skyrim Modding Basics
 
 Installing Mods not covered by guides. 
@@ -81,6 +62,29 @@ Setup and run the reqtificator as per the instructions in the [FAQ](https://gith
 Close mod organizer - and use the launcher to start the game.
 
 ---
+
+## Known Mod Issues/Incompatibilities
+
+The following Types of mods are NOT Compatible. (cause game breaking bugs)
+> * Any Alternate start mod. (Ultimate Skyrim reborn is included in the list, which acts as a alternate start mod)
+> * Any Mod which affects the perk trees E.g. Ordinator 
+> * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
+> * UltSky Starting items for 4.0.6hf2 (Breaks Ultimate Skyrim reborn, character wont teleport after creating and doesn’t have the promised items anyway!)
+> * New Races                          (unless requiem patch available) Requiem won’t start and will return you to the main menu.
+
+The following Mods are extremely script heavy, Will possibly break your game.
+> *  Enhanced Blood Textures (known to cause fps degradation/script bloat)
+> *  Open Cities (also requires a tonne of manual patching)
+> *  Sexlab Seperate Orgasms (known to cause fps degradation/script bloat)
+
+The following types of mods have Issues 
+> *  New creatures/enemies/NPC's/followers   (unless requiem patch available) - Note: for enemies - they are generally added as unleveled, and in requiem this means they are always level 1. for NPC's and Followers - they will be missing the requiem perks and may also be unleveled (ergo level 1)
+> *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
+> *  Important Information Overhaul (Just doesn’t work with our ENB)
+> *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
+
+---
+
 ## Graphics Overhaul Guide
 
 The discord staff have updated the old Rodricktech graphics guide to 4.0.7. 
