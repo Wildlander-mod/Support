@@ -459,9 +459,9 @@ https://www.nexusmods.com/skyrim/mods/95614?tab=files
 
 **The following were suggested by u/PeonTheGrate on Reddit **
 
-EZ2C DIALOGUE MENU: Makes the Dialogue menu look much nicer with a high amount of customization. I used the preset found below (Yes, I know this says Skyrim Special Edition).
+EZ2C DIALOGUE MENU: Makes the Dialogue menu look much nicer with a high amount of customization. I used the preset found below (Yes, I know this says Skyrim Special Edition - the author of the preset does have a habit of hiding his mod frequently so you can try asking on his discord).
 - Use Main File - https://www.nexusmods.com/skyrim/mods/18466
-- YASHed Preset: - https://www.nexusmods.com/skyrimspecialedition/mods/23894?tab=files
+- YASHed/Northern Experience Preset: - https://www.nexusmods.com/skyrimspecialedition/mods/23894?tab=files
 
 Sleep Tight SE Fixes: Use 3rd Main File (Without Yundao Hair) - https://www.nexusmods.com/skyrimspecialedition/mods/31620
 Same as above, this mod says Skyrim Special Edition, however it’s just a script file. It works 100% fine in LE. What it does it fixes the script to where NPCs will take off their boots, gauntlets, helmet, and cape if they wear them while going to sleep. This allows you to keep the MCM option friendly sleepwear to robed like US had in the past before the bug was discovered. This makes more sense logically, and also looks much better than taking off all their clothes in the cold land of Skyrim.
