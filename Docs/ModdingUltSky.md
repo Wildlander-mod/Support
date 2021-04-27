@@ -66,7 +66,7 @@ Close mod organizer - and use the launcher to start the game.
 ## Known Mod Issues/Incompatibilities
 
 The following Types of mods are NOT Compatible. (cause game breaking bugs)
-> * Any Alternate start mod. (Ultimate Skyrim reborn is included in the list, which acts as a alternate start mod)
+> * Any Alternate start mod. (Ultimate Skyrim reborn is included in the list, which acts as a alternate start mod. It cannot be removed and replaced with somthing else)
 > * Any Mod which affects the perk trees E.g. Ordinator 
 > * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
 > * UltSky Starting items for 4.0.6hf2 (Breaks Ultimate Skyrim reborn, character wont teleport after creating and doesn’t have the promised items anyway!)
