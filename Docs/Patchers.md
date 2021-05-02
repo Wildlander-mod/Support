@@ -46,4 +46,4 @@ Click [here for a video tutorial on running DynDOLOD](https://youtu.be/thfOQIdW0
 The information is still generally correct and any slight differences are not a problem, except that you should not disable DynDOLOD.esp as the video instructs, Instead you should ##DISABLE## the entire mod on the left side. 
 Close the video once DynDOLOD installation is complete. Do not continue past DynDOLOD installation.
 
-Once complete
+Once complete, copy your Dyndolod output folder to your content\mods\ folder, re-open mod organiser and activate the "dyndolod_output" mod. Place the Dyndolod.esp just above requiem of the indifferent on the right side of the load order. Do not disable the Dyndolod resources mod. 
