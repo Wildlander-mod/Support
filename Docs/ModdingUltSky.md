@@ -416,6 +416,9 @@ Right Side:
 
 Patch notes:
 
+Forwarded UltSky values for a consistent gameworld.
+Except where the mod author intended that guards are also expert marksmen with full suite of requiem perks to back that up.
+
 Set up tempering recipes to be consistent with material and crafting perks.
 You will need advanced smithing to temper guard armor. Ebony for ebony armor and dwarven for Markath. 
 
@@ -433,11 +436,16 @@ You will need to install Main file through MO2.
 
 It is **strongly** recommended a completely new play-through. Template save might work. But I do not know.
 
+In Content\mods folder
+> - Create Folder called "Guards armour Patch"
+> - Save patch to folder.
+
 On the left side in MO2
-> - place below UltSky.
+> - place Guards armour replacer (Main mod) below UltSky.
+> - Place Guards armour Patch below Guards armour replacer
 
 On the Right side 
-> - place ESP between Ultsky and Paper World Map.
+> - place Guards_Armor_Replacer.esp between Ultsky and Paper World Map.
 
 As always - You have to run Reqtificator.
 
