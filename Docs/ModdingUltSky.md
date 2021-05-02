@@ -295,6 +295,8 @@ Right Side
 
 #### Revert Notification Speed changes back to default.
 
+Quick patch to revert the notification scroll speed back to vanilla defaults, can be added mid-playthrough. No need to run Reqtuificator.
+
 Patch location: https://cdn.discordapp.com/attachments/348579495537803274/828224038923927572/hudmenu.swf
 
 Install Instructions:
