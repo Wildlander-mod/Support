@@ -410,6 +410,34 @@ Right Side:
 > SofiaFollower.esp before Requiem.esp
 > Requiem - Sofia.esp after Requiem.esp
 
+#### Guards Armor Replacer https://www.nexusmods.com/skyrim/mods/95719?tab=files
+
+Patch notes:
+
+Set up tempering recipes to be consistent with material and crafting perks.
+You will need advanced smithing to temper guard armor. Ebony for ebony armor and dwarven for Markath. 
+
+(It was a mix of basic crafting for some cuirasses, but advanced for helmets and such. Also advanced for ebony armor, and for Markaths dwarven based armor. Made little sense).
+
+Changed armortype to steel for Solitude and Whiterun (Dwarven for Markath, Iron for the other holds) to reflect their intended status as rich holds and to ensure the reqtificator add in proper armor resistances.
+
+Are considering to set Solitude to Steel Plate....."
+
+Patch location: https://drive.google.com/file/d/1haUrgT2wGr_oFi97napiadaMk_MfM0d6/view?usp=sharing
+
+Install Instructions:
+
+You will need to install Main file through MO2.
+It is **strongly** recommeneded a completely new playthrough.
+
+On the left side in MO2
+> - place below UltSky.
+
+On the Right side 
+> - place ESP between Ultsky and Paper World Map.
+
+As always - You have to run Reqtificator.
+
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
 ### from Phinocio#6969 
