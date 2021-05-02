@@ -430,7 +430,8 @@ Patch location: https://drive.google.com/file/d/1haUrgT2wGr_oFi97napiadaMk_MfM0d
 Install Instructions:
 
 You will need to install Main file through MO2.
-It is **strongly** recommeneded a completely new playthrough.
+
+It is **strongly** recommended a completely new play-through. Template save might work. But I do not know.
 
 On the left side in MO2
 > - place below UltSky.
