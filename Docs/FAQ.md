@@ -112,6 +112,22 @@ The current Roadmap & patchlist previewed in Dylans most recent stream are as fo
 
 ![Roadmap](https://cdn.discordapp.com/attachments/648152435197607938/839229281854292021/aoQS3xV.png)
 
+From Most recent stream:
+
+With ~1400 different NPC variants tested & sorted, I'm happy to say that NPC appearances are finalized. I'm personally quite pleased with the results, and I hope y'all will be too. 
+
+This frees me up for the final tasks: MCM Automation, and Testing/Bugfixing/Polishing.
+
+We've spoken at length about the MCM's, so here's some functional definitions for "Testing", "Bugfixing", and "Polishing":
+     
+    Testing: Playtesting the game to find bugs & issues not yet fixed.
+     
+    Bugfixing: Designing, implementing, and verifying solutions to bugs & issues found during testing.
+     
+    Polishing: Rounding out unfinished & under-baked features. This can include UX changes, updating mods that have grown out-of-date, etc.
+
+To be clear, I expect this to be a multi-week process, with guaranteed unknown timesinks. Like all of you, I'm very excited at the nearing release, so I want to be clear as possible with the timelines.
+
 [Mod list](https://pastebin.com/8Puj9tz8) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
 ---
