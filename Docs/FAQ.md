@@ -46,6 +46,7 @@
 	- [iNeed's MCM is Blank Or Requiem Cannot be added to a existing save](#ineeds-mcm-page-is-blank-or-requiem-cannot-be-added-to-a-existing-save)
 	
 - [**Gameplay Questions**](#gameplay-questions)
+ 	- [My Keyboard isnt working!](#My-Keyboard-isnt-working)
 	- [Why Are Auto-saves disabled / quicksaves not recommended for use in Ultsky](#why-are-auto-saves-disabled-or-quicksaves-not-recommended-for-use-in-ultsky)
 	- [My Compass has disappeared!](#my-compass-has-disappeared)
 	- [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
@@ -440,14 +441,22 @@ Auto/Quicksaves are not bad intrinsically (in and of themselves), it's that ther
 
 TL;DR  Auto/Quicksaves are ok, but timing is what determines if they're safe or more likely to corrupt.  Having multiple saves to use limits the amount of play lost to script-death.
 
+---
 
+## My Keyboard isnt working
+
+Normally occurs if you have ran special Edition version of skyrim prior to loading Ultimate skyrim. Special edition doesnt release all of the files Legendary edition needs to run so disables the keyboard.
+
+1) Some users report that closing and reopening steam itself is enough to make it work
+2) Reboot your PC.
+3) 
 ---
 
 ## My Compass has disappeared!
 
-This is intentional. Immersive HUD hides this functionality by default. To make the compass _temporarily_ visible again press the delete key.
+This is intentional. Immersive HUD hides this functionality by default. To make the compass _temporarily_ visible again press the 'N' key.
 
--   To make it permanently visible, change the MCM setting in Immersive HUD > Compass Activation > Key Press Toggles. Be sure to change the hotkey away from DEL.
+-   To make it permanently visible, change the MCM setting in Immersive HUD > Compass Activation > Key Press Toggles.
 
 ---
 
@@ -545,7 +554,7 @@ Make sure that you haven't included a comma in the "VideoMemorySizeMb" field in 
 
 Make sure you haven't changed "FPSLimit" field in the limiter section in ENBlocal.ini (default is 59.900002)
 
-Try turning off vsync & g-sync for Skyrim(TESV.exe) in the Graphics Card Settings.
+Try turning off vsync & g-sync for Skyrim(TESV.exe) in the Graphics Card Settings. 
 
 Close down any background programs which maybe injecting into direct X (graphics card software such as geforce experience and MSI afterburn are two culprits)
 
