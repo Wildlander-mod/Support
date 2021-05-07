@@ -449,7 +449,7 @@ Normally occurs if you have ran special Edition version of skyrim prior to loadi
 
 1) Some users report that closing and reopening steam itself is enough to make it work
 2) Reboot your PC.
-3) 
+
 ---
 
 ## My Compass has disappeared!
