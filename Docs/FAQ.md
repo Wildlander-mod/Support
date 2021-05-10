@@ -337,15 +337,18 @@ For Nighteye Settings
 
 ---
 
-## My PC Can't handle the ENB even on low settings - Can I remove it?
+## My PC Can't handle the ENB Graphics even on low settings - Can I remove it?
 
-Delete ENBLocal.ini, ENBHost.exe, d3d9.dll, ENBseries folder and ENBseries.ini from your Steam Skyrim folder
+Skyrim can't handle modern PC's RAM capacity So if you PC has more than 4GB you cannot disable the ENB entirely - so the most you are able to do is deactive the ENB graphics and just use the memory boost (ENBboost) aspects.
+
+Delete ENBseries folder and ENBseries.ini from your Steam Skyrim folder
 
 1) Open Content\ModOrganiser.exe
 2) Select the graphics profile you play from the profiles drop down
 3) find on the left side Snowfall weathers and untick that
 4) find ultimate skyrim - snowfall weathers.esp on the right side and untick that too
 5) Setup and run the Reqtuificator as per [Instructions](#How-do-i-Install-the-Reqtificator)
+6) Open Skyrim\Enblocal.ini, Change UsePatchSpeedhackWithoutGraphics to true.
 
 ---
 
