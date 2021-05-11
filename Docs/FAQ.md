@@ -242,7 +242,10 @@ note: You may get a error messages about missing d3dx9_43.dll.
 
 4) (optional but recommended) Reboot your PC.
 
-N.B: ASUS GPU TweakII has been known to cause this issue also.
+Other things which can cause this issue:-
+* ASUS GPU TweakII running at the same time as Skyrim
+* You have moved your "my documents" folder to a different hard drive - SKSE requires this to be on your System drive.
+* You have overlay's running (Steam, Discord, geforce experience, overwolf ect)
 
 ---
 
@@ -265,7 +268,7 @@ Do not use L.O.O.T or rearrange Ultimate Skyrim’s default mods unless a guide 
 
 ## Mod X has been updated, can I install that?
 
-No, For stability reasons - only the versions listed on the Ultimate Skyrim Manual Install webpage ([https://www.ultimateskyrim.com/manual-install](https://www.ultimateskyrim.com/manual-install)) are supported.
+No, For stability reasons - only the versions installed by wabbajack are supported.
 
 ---
 
@@ -647,6 +650,7 @@ Can also be caused by
 * Ultimate skyrim being on a different drive to skyrim - Only resolution to this is to move Ultimate skyrim to same hard drive.
 * Ultimate skyrim being installed inside of program files - Move the ultimate skyrim to a folder outside of program files.
 * Additional mods in skyrim\data folder from previous modding or workshop subscriptions are causing a conflict.
+* Conflict between 5000 & 6000 series AMD drivers and the ENB - only resolution to this is to either roll back until you find working AMD drivers or disable ENB graphics using [step 6 of]( https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#my-pc-cant-handle-the-enb-graphics-even-on-low-settings---can-i-remove-it) until a working driver is available.
 * A Corrupt Skyrim installation (to check, launch skyrim from steam and see if it crashes on loading screen)
 * Antivirus real-time scanning your Skyrim\ultimate skyrim folders - add ultimate skyrim and skyrim folders to your exceptions. 
 * [Direct X](#game-hard-CTD-on-SplashScreen) and/or [C++](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) installations are broken (You’ll need both the 32-bit and the 64-bit versions of C++.)
