@@ -357,7 +357,7 @@ Delete ENBseries folder and ENBseries.ini from your Steam Skyrim folder
 
 # **Reqtificator Questions**
 ## How do i Install the Reqtificator?
-Firstly make sure you have Java installed in Program Files. the version in Program Files(x86) does not work. If you don't have it - you can download it [here](https://java.com/en/download/manual.jsp)
+Firstly make sure you have Java installed in Program Files. the version in Program Files(x86) does not work. If you don't have it - you can download it [here](https://java.com/en/download/manual.jsp) The version you want is Windows Offline (64-bit).
 
 after checking that -
 
