@@ -41,7 +41,8 @@ Installing Mods not covered by guides.
 - open < Ultimate Skyrim install directory >\content\mod organiser.exe. Once open - top left dropdown - select the profile you plan on playing.
 - select download tab on right side 
 - find the mod in the list and right click > install (you may need to click the refresh button to make it appear)
-- choose your settings (if it has installation options) then once its finished installing turn it on, on the left side of the mod organizer (should be at bottom of the list).
+- choose your settings (if it has installation options) then once its finished installing turn it on, on the left side of the mod organizer (should be at bottom of the list). 
+- **Important** if patching from "Requiem patch central" Untick any ticked patches for mods in the base Ultsky install, and only tick ones for mods you are adding yourself.
 
 If you mod doesn’t have any ESP/ESM's then that’s it - otherwise continue!
 
@@ -306,6 +307,33 @@ Install Instructions:
 > - Reload/refresh mod organizer.
 > - Make sure left side it is located after "Ultimate Skyrim 4.0.7 core files".
 > - enable, no need to run reqtificator.
+
+#### Liz's Campfire Placeables
+
+Very very Beta releases. Please give feedback if something is very wrong.
+
+Choose 1 only
+* Tentpalooza UltSky patch containing Craftable & Placeable Wooden Bathtub, and Craftable & Placeable Crafting table https://drive.google.com/file/d/1BlG23P0r9Dl7x2xUfAQCjjpFDEWpUrB_/view?usp=sharing
+* Combined   Craftable & Placeable Crafting table & Wooden Bathtub https://drive.google.com/file/d/1_RGhyWsJtQ0HIEfZlj3_vR1hujhAJPWh/view?usp=sharing
+* StandAlone Craftable & Placeable Wooden Bathtub https://drive.google.com/file/d/1hgd9ExLKyNDb95XWwtkQm9CNVfehDaUR/view?usp=sharing
+* StandAlone Craftable & Placeable Crafting table https://drive.google.com/file/d/1A6DFEWl0MApe5iWwlmIhlxPDpmpRSYRy/view?usp=sharing
+
+TentPalooza patch makes the following changes
+>- Disables the chest items which grant you infinate storage which you can pick up and fit in your backpack.
+>- Adds all items to a suitable crafting station (mostly the crafting table).
+>- Adds all items to the crafting ledger.
+>- Replaces deactivated materiels with UltSky equivilents
+>- Adjusted materiel requirements for the more powerful tents in line with existing receipes in Ultsky.
+>- Integrates Bathing in skyrim functionality to tentpalooza bathtubs.
+>- Adds a User craftable crafting table which you can move with your camp. (requires Wood, Nails, Iron hammer)
+>- Adds 4 new placeable beds, Linen Hammock, Coffin, White & red linen bedrolls. 
+>- Adds a Simple Wooden bathtub (like you see in inn's) which you can move with you camp.  (requires Wood, Iron ingots, Beehive husks)
+
+Install Instructions:
+
+Right side
+> - After Ultimate Skyrim patches. 
+> - If installing TentPalooza Patch - then this needs to go after Tentpalooza.esp as well.
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 
