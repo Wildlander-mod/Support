@@ -1,5 +1,7 @@
 # Ultimate Skyrim Modding Guides
 
+If you have issues with any of the guides below - you can submit feedback here https://forms.gle/jG4DadrizsRz3bwT9
+
 ## Important Terms
 
 1) mod organizer      - The tool which makes everything work - Installed as part of the wabbajack installation in <Ultsky install directory>\Content\Mod Organizer.exe
