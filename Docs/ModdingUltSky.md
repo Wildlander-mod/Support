@@ -296,7 +296,9 @@ Right Side
 
 *_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_*_
 ### from Liz#7199
-
+    
+Beta releases. Please give [feedback](https://forms.gle/jG4DadrizsRz3bwT9) if something is very wrong.
+    
 #### Revert Notification Speed changes back to default.
 
 Quick patch to revert the notification scroll speed back to vanilla defaults, can be added mid-playthrough. No need to run Reqtuificator.
@@ -310,16 +312,28 @@ Install Instructions:
 > - Reload/refresh mod organizer.
 > - Make sure left side it is located after "Ultimate Skyrim 4.0.7 core files".
 > - enable, no need to run reqtificator.
+    
+#### Wounds Crafting patch.
+Patch to move the crafting recipes for wounds to the crafting table and crafting ledger where appropriate. Also replaced Firewood with Wood.   
+I have also merged in the file "Requiem - Wounds" https://www.nexusmods.com/skyrim/mods/94958 (all credits to Atardecer), and added compatibility to leveled lists between the requiem patch & Ultimateskyrim.esp
+    
+Patch location:     
+    
+Install Instructions:    
+> - Wounds.esp above requiem.esp     
+> - Ultsky - Wounds.Esp After Ultimate Skyrim patches.   
 
 #### Liz's Campfire Placeables
-
-Very very Beta releases. Please give feedback if something is very wrong.
+    
+Updates 
+    > - 05/19/21 12:30 PST - Added Spinning wheel, Added craftman perk required to make crafting stations, corrections to mismatched carry weights between Standalone & all-in-one versions. 
 
 Choose 1 only
-* Tentpalooza UltSky patch containing Craftable & Placeable Wooden Bathtub, and Craftable & Placeable Crafting table https://drive.google.com/file/d/1BlG23P0r9Dl7x2xUfAQCjjpFDEWpUrB_/view?usp=sharing
-* Combined   Craftable & Placeable Crafting table & Wooden Bathtub https://drive.google.com/file/d/1_RGhyWsJtQ0HIEfZlj3_vR1hujhAJPWh/view?usp=sharing
+* Tentpalooza UltSky patch containing Craftable & Placeable Wooden Bathtub, Spinning Wheel & Crafting table https://drive.google.com/file/d/1BlG23P0r9Dl7x2xUfAQCjjpFDEWpUrB_/view?usp=sharing
+* Combined   Craftable & Placeable Crafting table, Spinning Wheel & Wooden Bathtub https://drive.google.com/file/d/1_RGhyWsJtQ0HIEfZlj3_vR1hujhAJPWh/view?usp=sharing
 * StandAlone Craftable & Placeable Wooden Bathtub https://drive.google.com/file/d/1hgd9ExLKyNDb95XWwtkQm9CNVfehDaUR/view?usp=sharing
 * StandAlone Craftable & Placeable Crafting table https://drive.google.com/file/d/1A6DFEWl0MApe5iWwlmIhlxPDpmpRSYRy/view?usp=sharing
+* StandAlone Craftable & placeable Spinning Wheel https://drive.google.com/file/d/1buwKj2yzb_GH7dP5iU_0OcTTN5eSS11j/view?usp=sharing    
 
 TentPalooza patch makes the following changes
 >- Disables the chest items which grant you infinate storage which you can pick up and fit in your backpack.
@@ -331,6 +345,7 @@ TentPalooza patch makes the following changes
 >- Adds a User craftable crafting table which you can move with your camp. (requires Wood, Nails, Iron hammer)
 >- Adds 4 new placeable beds, Linen Hammock, Coffin, White & red linen bedrolls. 
 >- Adds a Simple Wooden bathtub (like you see in inn's) which you can move with you camp.  (requires Wood, Iron ingots, Beehive husks)
+>- Adds a Spinning Wheel which you can move with you camp.  (requires Wood, Iron Fittings)
 
 Install Instructions:
 
@@ -343,7 +358,7 @@ Right side
 ### from Plotinuz#5876 
 https://www.nexusmods.com/skyrim/users/655458 
 
-Beta releases. Please give feedback if something is very wrong.
+Beta releases. Please give [feedback](https://forms.gle/jG4DadrizsRz3bwT9) if something is very wrong.
 
 #### Barely Used Vanilla Actors Recycle Project https://www.nexusmods.com/skyrim/mods/85540 
 
