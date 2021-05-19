@@ -325,8 +325,8 @@ Install Instructions:
 
 #### Liz's Campfire Placeables
     
-Updates 
-    > - 05/19/21 12:30 PST - Added Spinning wheel, Added craftman perk required to make crafting stations, corrections to mismatched carry weights between Standalone & all-in-one versions. 
+Updates: 
+> - 05/19/21 12:30 PST - Added Spinning wheel, Added craftman perk required to make crafting stations, corrections to mismatched carry weights between Standalone & all-in-one versions. 
 
 Choose 1 only
 * Tentpalooza UltSky patch containing Craftable & Placeable Wooden Bathtub, Spinning Wheel & Crafting table https://drive.google.com/file/d/1BlG23P0r9Dl7x2xUfAQCjjpFDEWpUrB_/view?usp=sharing
