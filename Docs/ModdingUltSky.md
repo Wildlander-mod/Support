@@ -317,7 +317,7 @@ Install Instructions:
 Patch to move the crafting recipes for wounds to the crafting table and crafting ledger where appropriate. Also replaced Firewood with Wood.   
 I have also merged in the file "Requiem - Wounds" https://www.nexusmods.com/skyrim/mods/94958 (all credits to Atardecer), and added compatibility to leveled lists between the requiem patch & Ultimateskyrim.esp
     
-Patch location:     
+Patch location:  https://drive.google.com/file/d/1C0YrkWymLxT--OLWvA2YNzH3zYCrMBCS/view?usp=sharing   
     
 Install Instructions:    
 > - Wounds.esp above requiem.esp     
