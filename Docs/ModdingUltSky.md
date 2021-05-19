@@ -101,7 +101,7 @@ if you want to suggest mods which you think should be in this guide or broken li
 We have an updated WICO, Bijin and EEO guide for 4.0 courtesy of @SuperSurferDave.
 Please note that this will ONLY work on a NEW game, NO save or template will be compatible with this guide!
 
-https://docs.google.com/document/d/1-YzjWXf749Og-9ieLXyUeWPgqJp0szpoCieIanfZBPM/edit?usp=sharing
+https://docs.google.com/document/d/1V0W74f-WdmsFP2PwYDRgs9zVtPoJ3wjNPBvBRUeRiss/edit?usp=sharing
 
 ---
 ## BMX Gameplay Overhaul Guide
