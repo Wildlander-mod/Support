@@ -94,21 +94,22 @@ The discord staff have updated the old Rodricktech graphics guide to 4.0.7.
 
 https://docs.google.com/document/d/1VriFJt2qWrGNuA_gT1NwD7Qr_ewBTG7jnlUNSXE02yU/preview
 
-if you want to suggest mods which you think should be in this guide or broken links you can do so to /u/Mieeka on reddit or Liz#7199 / 𝕽𝖊𝖘𝖎𝖉𝖊𝖓𝖙 𝕿𝖍𝖎𝖊𝖛𝖚𝖑#6745 on discord.
+if you want to suggest mods which you think should be in this guide or broken links you can do so to /u/Mieeka on reddit, Liz#7199 / Resident Thievul
+#6745 on discord Or by filling in the feedback form here https://forms.gle/jG4DadrizsRz3bwT9
 
 ---
 ## NPC Overhaul Guide
-We have an updated WICO, Bijin and EEO guide for 4.0 courtesy of @SuperSurferDave.
+We have an updated WICO, Bijin and EEO guide.
 Please note that this will ONLY work on a NEW game, NO save or template will be compatible with this guide!
 
-https://docs.google.com/document/d/1V0W74f-WdmsFP2PwYDRgs9zVtPoJ3wjNPBvBRUeRiss/edit?usp=sharing
+https://docs.google.com/document/d/1V0W74f-WdmsFP2PwYDRgs9zVtPoJ3wjNPBvBRUeRiss/preview
 
 ---
 ## BMX Gameplay Overhaul Guide
 This guide (updated regularly) is aimed at helping players create an even more immersive playthrough by implementing some quality-of-life improvements, UI aesthetics along with further gameplay enhancements that allow for a better roleplay experience
-https://docs.google.com/document/d/1CVO9m8v72BLvwQAqZlG9z7mYFxJPgUOqhP1SDScIoIA/edit
+https://docs.google.com/document/d/1CVO9m8v72BLvwQAqZlG9z7mYFxJPgUOqhP1SDScIoIA/preview
 
-Issues with this guide should be directed to Bmxfreestyle357#6234 on discord.
+Issues with this guide should be directed to Bmxfreestyle357#6234 on discord or by filling in the feedback form here https://forms.gle/jG4DadrizsRz3bwT9
 
 ---
 ## Autosave Manager
