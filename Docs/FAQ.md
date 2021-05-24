@@ -556,6 +556,8 @@ You’re Naked - Put some clothes on ya filthy animal!
 
 ## I am getting a lot of stutter / CTD / Low FPS?
 
+Never have Task manager open while running skyrim (not even minimised to task bar). If your CTD are occuring during a loading screen - this is your cause.
+
 Make sure that you haven't included a comma in the "VideoMemorySizeMb" field in ENBlocal.ini
 
 Make sure you haven't changed "FPSLimit" field in the limiter section in ENBlocal.ini (default is 59.900002)
