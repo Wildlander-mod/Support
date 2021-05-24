@@ -160,17 +160,22 @@ After doing the solution 2,3  or 4, you will need to restart wabbajack.
 ## Wabbajack Fails to download mods or hangs for a long time.
 Sometimes wabbajack gets stuck downloading.
 
-1) Close and restart wabbajack - it will normally resume where it failed & complete the install without any further intervention.
+1) Close and restart wabbajack - Start the Ultimate Skyrim install process again, entering same criteria as originally. Wababjack will the CRC check your existing files and will normally resume where it failed & complete the install without any further intervention.
+2) If you are experiencing issues with Wabbajack repeatedly failing to download one or more files (same files every time), try enabling the Network Workaround in Wabbajack settings.
 
-2) If above fails then (with the exception to ultsky 4.0.7 Dyndolod.rar - this one must be downloaded via wabbajack) manually download the file using the following procedure:-
+![img](https://images-ext-2.discordapp.net/external/OPoB5v1OsNQl7I1_Y--cj9gRugU7YsOFUSkGc244WSc/https/i.ibb.co/FDPDrfk/Discord-VPN.png)
+
+3) If that does not resolve the issue, try using a VPN service such as Cloudflare WARP or ProtonVPN. (Ultimate Skyrim is not affiliated with and does not endorse any specific VPN service. We does not provide user support for VPN services. Use at your own discretion.)
+
+4) If above fails then (with the exception to ultsky 4.0.7 Dyndolod.rar) manually download the file using the following procedure:-
 
 	1) Close wabbajack
 	2) Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
-	3) Use the search bar in top right to find the mod(s) which fail to download automatically
+	3) Use the search bar in top right to find the mod(s) which fails to download automatically
 	4) Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
 	5) Restart wabbajack - it will then proceed with the install
 
-3) If Dyndolod is the one Stuck, please try a free VPN such as nordvpn or proton and restart wabbajack. If this fails to work, please visit official discord and ask for assistence in the ultsky-support channel
+5) If ultsky 4.0.7 Dyndolod.rar is the one Stuck, please visit official discord and ask for assistence in the ultsky-support channel (Liz has a Mirror, but she is on UK timezone so you may need to be patient)
 
 ---
 # **4.0.7 Issues**
