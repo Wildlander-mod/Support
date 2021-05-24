@@ -74,6 +74,7 @@ The following Types of mods are NOT Compatible. (cause game breaking bugs)
 > * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
 > * UltSky Starting items for 4.0.6hf2 (Breaks Ultimate Skyrim reborn, character wont teleport after creating and doesn’t have the promised items anyway!)
 > * New Races                          (unless requiem patch available) Requiem won’t start and will return you to the main menu.
+> * Skyrim Together (Just doesnt work)    
 
 The following Mods are extremely script heavy, Will possibly break your game.
 > *  Enhanced Blood Textures (known to cause fps degradation/script bloat)
