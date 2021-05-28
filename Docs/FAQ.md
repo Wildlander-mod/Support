@@ -239,6 +239,8 @@ Ensure the following:
 ## Game Hard CTD on Splashscreen
 note: You may get a error messages about missing d3dx9_43.dll.
 
+Attempt starting Skyrim from steam - if this crashes as well then
+
 1) Download DirectX End-User Runtimes from [Here](https://web.archive.org/web/20190616115008/https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe) or [here](https://download.cnet.com/Microsoft-DirectX-Redistributable-June-2010/3000-2121_4-10176490.html) Note: This will give you a zip file disguised as a EXE - not the actual installer itself
 
 2) Unpack the downloaded file into a directory (E.g C:\directX\)
@@ -246,6 +248,12 @@ note: You may get a error messages about missing d3dx9_43.dll.
 3) Open the directory and run DXSetup.exe. Follow onscreen instructions.
 
 4) (optional but recommended) Reboot your PC.
+
+If Skyrim Launches from steam 
+
+	1) Go in the Windows control panel, Region. 
+	
+	2) Click "Additional settings..." at the bottom, then "Reset" in the window that opens.
 
 Other things which can cause this issue:-
 * ASUS GPU TweakII running at the same time as Skyrim
