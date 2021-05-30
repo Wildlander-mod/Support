@@ -661,6 +661,7 @@ The game may appear frozen or have a unusually long loading time, but it's usual
 
 Can also be caused by
 
+* Your PC being below the minimum requirements to play the pack as shown on the install Readme. You can try removing the ENB [using]( https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#my-pc-cant-handle-the-enb-graphics-even-on-low-settings---can-i-remove-it).	
 * Ultimate Skyrim folders(or subfolders) being read-only.
 * Ultimate skyrim being on a different drive to skyrim - Only resolution to this is to move Ultimate skyrim to same hard drive.
 * Ultimate skyrim being installed inside of program files - Move the ultimate skyrim to a folder outside of program files.
@@ -672,6 +673,7 @@ Can also be caused by
 * You have lost permissions to write to "my documents\My Games\Skyrim" or ultimate skyrim install folder
 * Onedrive and/or dropbox is Syncing your "my documents\My Games\Skyrim" or ultimate skyrim install folder 
 * Can be caused by a corrupt save, you can try using [Savetool.exe](https://www.nexusmods.com/skyrim/mods/52363/?) to see if you can load your save if this also fails then you will need to revert to a previous save or start a new game.
+
 
 ----
 ## How do I change the difficulty?
