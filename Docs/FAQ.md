@@ -103,7 +103,7 @@
 
 ## Does this mod pack support SSE?
 
-Currently, Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off. You can follow progress by catching the weekly streams - currently on mondays at 8pm GMT (announced on reddit, and in discord annoucement channel) Summaries for each stream is posted on the [patreon](https://www.patreon.com/dylanbperry)
+Currently, Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off. You can follow progress by catching the weekly streams - currently on Mndays/Tuesdays/Wednesdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
 
 You can buy Legendary Edition from one of the places linked in wabbajack's reddit post:
 
