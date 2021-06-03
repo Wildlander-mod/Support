@@ -111,7 +111,7 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple In-progress, Orange to do)
 
-![Roadmap](https://cdn.discordapp.com/attachments/648152435197607938/839229281854292021/aoQS3xV.png)
+![Roadmap](https://cdn.discordapp.com/attachments/344256550640287755/844125015557668864/unknown.png)
 
 From Most recent stream:
 
