@@ -43,7 +43,7 @@ Navigate to where you placed the DynDOLOD files, select DynDOLOD.exe,  and then 
 Your button may show “Add” or "Modify” or "Apply" - Any are fine. 
 
 Click [here for a video tutorial on running DynDOLOD](https://youtu.be/thfOQIdW0Cg?t=1130) that was created for older versions of Ultimate Skyrim.
-The information is still generally correct and any slight differences are not a problem, except that you should not disable DynDOLOD.esp as the video instructs, Instead you should ##DISABLE## the entire mod on the left side. 
+The information is still generally correct and any slight differences are not a problem, except that you should not disable DynDOLOD.esp as the video instructs, Instead you should ##DISABLE## the entire Ultsky 4.0.7 Dyndolod mod on the left side. 
 Close the video once DynDOLOD installation is complete. Do not continue past DynDOLOD installation.
 
 Once complete, copy your Dyndolod output folder to your content\mods\ folder, re-open mod organiser and activate the "dyndolod_output" mod. Place the Dyndolod.esp just above requiem of the indifferent on the right side of the load order. Do not disable the Dyndolod resources mod. 
