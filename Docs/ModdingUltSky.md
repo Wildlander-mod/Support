@@ -86,6 +86,7 @@ The following types of mods have Issues
 > *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
 > *  Important Information Overhaul (Just doesn’t work with our ENB)
 > *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
+> *  3Tweaks we use Requiem 3.0.2, 3tweaks requies 3.4. It also changes so much stuff, that it won't be compatible with anything without 3tweaks dedicated patch - which just dont exist for the bulk of the mods in the list.     
 
 ---
 
