@@ -109,7 +109,7 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 [Wabbajack:How to get Skyrim LE in 2021](https://www.reddit.com/r/wabbajack/comments/kx6ppr/how_to_get_skyrim_legendary_edition_in_2021/)
 
-The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple In-progress, Orange to do)
+The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple to do, Black Maybe needed depend on the quantity of updates)
 
 ![Roadmap](https://user-images.githubusercontent.com/26418143/122818785-88cbfd80-d2d1-11eb-8953-3167e274a865.png)
 
