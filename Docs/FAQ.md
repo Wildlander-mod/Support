@@ -111,23 +111,26 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple In-progress, Orange to do)
 
-![Roadmap](https://cdn.discordapp.com/attachments/344256550640287755/844125015557668864/unknown.png)
+![Roadmap](https://user-images.githubusercontent.com/26418143/122818785-88cbfd80-d2d1-11eb-8953-3167e274a865.png)
 
 From Most recent stream:
+*Essentials to Do list*
 
-With ~1400 different NPC variants tested & sorted, I'm happy to say that NPC appearances are finalized. I'm personally quite pleased with the results, and I hope y'all will be too. 
+MCM Config - 80% complete
 
-This frees me up for the final tasks: MCM Automation, and Testing/Bugfixing/Polishing.
+Optimazation Pass - (at least a week) of making the game smooth
 
-We've spoken at length about the MCM's, so here's some functional definitions for "Testing", "Bugfixing", and "Polishing":
-     
-    Testing: Playtesting the game to find bugs & issues not yet fixed.
-     
-    Bugfixing: Designing, implementing, and verifying solutions to bugs & issues found during testing.
-     
-    Polishing: Rounding out unfinished & under-baked features. This can include UX changes, updating mods that have grown out-of-date, etc.
+File Updates - (unknown timescale - depends how many mods are mandatory) combine in any updates released since Dylan created his alpha build
 
-To be clear, I expect this to be a multi-week process, with guaranteed unknown timesinks. Like all of you, I'm very excited at the nearing release, so I want to be clear as possible with the timelines.
+
+*Nice to have*
+
+Crafting Enhancements - polish to the crafting system, make sure all receipes are where they are supposed to be.
+
+Overhaul to the starting experiance - character classes, starting quiz, starting gear, start loaction.
+![image](https://user-images.githubusercontent.com/26418143/122817779-4655f100-d2d0-11eb-80c7-fac9243df053.png)
+
+
 
 [Mod list](https://pastebin.com/8Puj9tz8) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
