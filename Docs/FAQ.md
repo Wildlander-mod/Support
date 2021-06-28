@@ -132,7 +132,7 @@ Overhaul to the starting experiance - character classes, starting quiz, starting
 
 
 
-[Mod list](https://pastebin.com/8Puj9tz8) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
+[Mod list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
 ---
 # **Wabbajack Issues**
