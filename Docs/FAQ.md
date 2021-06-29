@@ -9,7 +9,7 @@
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
 	- [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 	
-- [**4.0.7 Issues**](#4.0.7-Issues)
+- [**4.1.0 Issues**](#4.1.0-Issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
 	- [Can I see a list of other known issues?](#Can-i-see-a-list-of-known-issues)
 	- [What do the presets mean?](#what-do-the-presets-mean)
@@ -170,7 +170,7 @@ Sometimes wabbajack gets stuck downloading.
 
 3) If that does not resolve the issue, try using a VPN service such as Cloudflare WARP or ProtonVPN. (Ultimate Skyrim is not affiliated with and does not endorse any specific VPN service. We does not provide user support for VPN services. Use at your own discretion.)
 
-4) If above fails then (with the exception to ultsky 4.0.7 Dyndolod.rar) manually download the file using the following procedure:-
+4) If above fails then manually download the file using the following procedure:-
 
 	1) Close wabbajack
 	2) Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Ultimate skyrim in the list - then select Archive search in bottom right hand corner
@@ -178,10 +178,10 @@ Sometimes wabbajack gets stuck downloading.
 	4) Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
 	5) Restart wabbajack - it will then proceed with the install
 
-5) If ultsky 4.0.7 Dyndolod.rar is the one Stuck, please visit official discord and ask for assistence in the ultsky-support channel (Liz has a Mirror, but she is on UK timezone so you may need to be patient)
+
 
 ---
-# **4.0.7 Issues**
+# **4.1.0 Issues**
 ## Can't Launch Ultimate Skyrim Bat file
 Symptom: a screen flashes up for a half a second before disappearing. The launcher doesnt Start *at all* 
 	
@@ -588,7 +588,7 @@ Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned i
 
 [https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662](https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662)
 
-As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.0.7 Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you ill also need to change BFullScreen to 1 in content\profiles\UltSky 4.0.7 (preset you play)\Skyrimpref.ini.
+As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.1.0 Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you ill also need to change BFullScreen to 1 in content\profiles\UltSky 4.1.0 (preset you play)\Skyrimpref.ini.
 
 ---
 
@@ -620,7 +620,7 @@ This is due to a bad ID, breaking down your lantern and recrafting it in the cra
 
 ## How do I re-enable menus pausing?
 
-SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2` or  `Ultimate Skyrim 4.0.7 ore files` mod in the left pane -> Information -> ini files tab.
+SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2`, `Ultimate Skyrim 4.0.7 core files` or  `Ultimate Skyrim 4.1.0 core files` mod in the left pane -> Information -> ini files tab.
 
 ---
 
