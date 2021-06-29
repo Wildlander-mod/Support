@@ -9,7 +9,7 @@
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
 	- [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 	
-- [**4.1.0 Issues**](#4.1.0-Issues)
+- [**4.1.0 Issues**](#410-issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
 	- [Can I see a list of other known issues?](#Can-i-see-a-list-of-known-issues)
 	- [What do the presets mean?](#what-do-the-presets-mean)
