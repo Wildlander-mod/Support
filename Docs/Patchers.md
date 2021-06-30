@@ -2,7 +2,7 @@
 
 ## Nemesis
 
-Nemesis (Fore’s New Idles for Skyrim) is a utility that allows mods to use new animations. It’s already installed on your machine, but if you need to rerun it.
+Nemesis (replaces Fore’s New Idles for Skyrim) and is a utility that allows mods to use new animations. It’s already installed on your machine, but if you need to rerun it.
 
 Open the folder where you installed Ultimate Skyrim and run ModOrganizer.exe. 
 
