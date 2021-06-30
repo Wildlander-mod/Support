@@ -1,24 +1,22 @@
 # Ultimate Skyrim FAQ - 4.0.7 Known Issues
 
 <!-- TOC -->
-[**ENB Questions**](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#enb-questions)
-  - [When I enter a cell everything goes really Bright OR My Nightvision has a blue tint OR i get white-outs on a blizzard](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#when-i-enter-a-cell-everything-goes-really-bright-or-my-nightvision-has-a-blue-tint-or-i-get-white-outs-on-a-blizzard)  
-  - [Instincts is blindingly bright when looking at hanging moss (and other herbs)](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#instincts-is-blindingly-bright-when-looking-at-hanging-moss-and-other-herbs)  
-  - [Map is very foggy/unreadable](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#map-is-very-foggyunreadable)  
-  - [Weird Graphical Effect during certain weathers / times of day](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#weird-graphical-effect-during-certain-weathers--times-of-day)  
-  - [Purple water/lakes at some times of the day](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#purple-waterlakes-at-some-times-of-the-day)  
-  - 
-[**Graphics Questions**](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#graphics-questions)
-  - [Twitching Piles of Lumber at lumber Mills](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#twitching-piles-of-lumber-at-lumber-mills)  
-  - [Crash to desktop near honneybrew meadary near whiterun.](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#crash-to-desktop-near-honneybrew-meadary-near-whiterun)  
-  - 
-[**Gameplay Questions**](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#gameplay-questions)
-  - [Requiem Starting stats not being applied correctly.](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#requiem-starting-stats-not-being-applied-correctly)
-  - [ Inn’s are charging the incorrect price(50g) Vs. what is listed in the MCM](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#inns-are-charging-the-incorrect-price50g-vs-what-is-listed-in-the-mcm)
-  - [Entering waist keep water unequips your weapons & other Misc Fixes](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#entering-waist-keep-water-unequips-your-weapons--other-misc-fixes)
-  - [Several armours missing requiem resistances (Wolf Armor & Stahlrim Light/Heavy & Nordic Carved)](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/407KnownIssues.md#several-armours-missing-requiem-resistances-wolf-armor--stahlrim-lightheavy--nordic-carved)
-
-
+[**ENB Questions**](#enb-questions)
+  - [When I enter a cell everything goes really Bright OR My Nightvision has a blue tint OR i get white-outs on a blizzard](#when-i-enter-a-cell-everything-goes-really-bright-or-my-nightvision-has-a-blue-tint-or-i-get-white-outs-on-a-blizzard)  
+  - [Instincts is blindingly bright when looking at hanging moss (and other herbs)](#instincts-is-blindingly-bright-when-looking-at-hanging-moss-and-other-herbs)  
+  - [Map is very foggy/unreadable](#map-is-very-foggyunreadable)  
+  - [Weird Graphical Effect during certain weathers / times of day](#weird-graphical-effect-during-certain-weathers--times-of-day)  
+  - [Purple water/lakes at some times of the day](#purple-waterlakes-at-some-times-of-the-day)  
+   
+[**Graphics Questions**](#graphics-questions)
+  - [Twitching Piles of Lumber at lumber Mills](#twitching-piles-of-lumber-at-lumber-mills)  
+  - [Crash to desktop near honneybrew meadary near whiterun.](#crash-to-desktop-near-honneybrew-meadary-near-whiterun)  
+   
+[**Gameplay Questions**](#gameplay-questions)
+  - [Requiem Starting stats not being applied correctly.](#requiem-starting-stats-not-being-applied-correctly)
+  - [ Inn’s are charging the incorrect price(50g) Vs. what is listed in the MCM](#inns-are-charging-the-incorrect-price50g-vs-what-is-listed-in-the-mcm)
+  - [Entering waist keep water unequips your weapons & other Misc Fixes](#entering-waist-keep-water-unequips-your-weapons--other-misc-fixes)
+  - [Several armours missing requiem resistances (Wolf Armor & Stahlrim Light/Heavy & Nordic Carved)](#several-armours-missing-requiem-resistances-wolf-armor--stahlrim-lightheavy--nordic-carved)
   
 <!-- /TOC -->  
 
