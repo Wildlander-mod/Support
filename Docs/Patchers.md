@@ -1,14 +1,12 @@
 # Extra Patchers
 
-## FNIS (Fore’s New Idles for Skyrim) 
+## Nemesis
 
-FNIS (Fore’s New Idles for Skyrim) is a utility that allows mods to use new animations. It’s already installed on your machine, but if you need to rerun it.
+Nemesis (Fore’s New Idles for Skyrim) is a utility that allows mods to use new animations. It’s already installed on your machine, but if you need to rerun it.
 
 Open the folder where you installed Ultimate Skyrim and run ModOrganizer.exe. 
 
-Click [here](https://youtu.be/thfOQIdW0Cg?t=78) for a video tutorial on installing FNIS that was created for older versions of Ultimate Skyrim.
-The information is still correct, though your Mod Organizer folder will be wherever you installed Ultimate Skyrim.
-Close the video once FNIS installation is complete. Do not continue past FNIS installation.
+Click [here](https://www.youtube.com/watch?v=ki2bghy2Mvo) for a video tutorial on installing nemesis in mod organiser.
 
 
 ## AUTOMATIC VARIANTS 
