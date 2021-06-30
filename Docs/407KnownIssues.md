@@ -1,6 +1,7 @@
 # Ultimate Skyrim FAQ - 4.0.7 Known Issues
 
 <!-- TOC -->
+[Help! i've screwed up my load order!](#enb-questions)
 [**ENB Questions**](#enb-questions)
   - [When I enter a cell everything goes really Bright OR My Nightvision has a blue tint OR i get white-outs on a blizzard](#when-i-enter-a-cell-everything-goes-really-bright-or-my-nightvision-has-a-blue-tint-or-i-get-white-outs-on-a-blizzard)  
   - [Instincts is blindingly bright when looking at hanging moss (and other herbs)](#instincts-is-blindingly-bright-when-looking-at-hanging-moss-and-other-herbs)  
@@ -14,11 +15,17 @@
    
 [**Gameplay Questions**](#gameplay-questions)
   - [Requiem Starting stats not being applied correctly.](#requiem-starting-stats-not-being-applied-correctly)
-  - [ Inn’s are charging the incorrect price(50g) Vs. what is listed in the MCM](#inns-are-charging-the-incorrect-price50g-vs-what-is-listed-in-the-mcm)
+  - [Inn’s are charging the incorrect price(50g) Vs. what is listed in the MCM](#inns-are-charging-the-incorrect-price50g-vs-what-is-listed-in-the-mcm)
   - [Entering waist keep water unequips your weapons & other Misc Fixes](#entering-waist-keep-water-unequips-your-weapons--other-misc-fixes)
   - [Several armours missing requiem resistances (Wolf Armor & Stahlrim Light/Heavy & Nordic Carved)](#several-armours-missing-requiem-resistances-wolf-armor--stahlrim-lightheavy--nordic-carved)
   
 <!-- /TOC -->  
+# Help! i've screwed up my load order!
+A zipped up copy of your profiles folder is located [here](https://cdn.discordapp.com/attachments/348579495537803274/823992115859947591/profiles.rar)
+
+To Correct delete the folder you have broken and unpack from the zip file.
+
+Note: Any additional mods you have added will need to be re-activated and repositioned in your load order. Reqtificator will then need to be re-ran. 
 
 #**ENB Questions**
 ---
