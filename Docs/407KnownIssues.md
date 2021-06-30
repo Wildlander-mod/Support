@@ -23,9 +23,9 @@
 <!-- /TOC -->  
 
 # Help! I've screwed up my load order!
-A zipped up copy of your profiles folder is located [here](https://cdn.discordapp.com/attachments/348579495537803274/823992115859947591/profiles.rar)
+A zipped up copy of the default profiles folder is located [here](https://cdn.discordapp.com/attachments/348579495537803274/823992115859947591/profiles.rar)
 
-To Correct delete the folder you have broken and unpack from the zip file.
+To Correct delete the profile you have broken from content\profiles and replace with the default from the zip file.
 
 Note: Any additional mods you have added will need to be re-activated and repositioned in your load order. Reqtificator will then need to be re-ran. 
 
