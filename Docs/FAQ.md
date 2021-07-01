@@ -364,9 +364,11 @@ If on the other hand you want absolute best performance, but retaining the ENB w
 
 for regular vision
 
-Open ENB GUI in game with shift+enter. In the enbseries window, find the Environment section, find Point lighting. There are several settings you can adjust here. Just play around with them to see how everything works and find what you like. If you screw something up and forget the default value or just want to revert to your previous saved settings, just hit load settings in the enblocal window. 
+Open ENB GUI in game with shift+enter. In the enbseries window, find the weather toggle and tyrn that on. In the weather pane, find the Environment section, find Point lighting. There are several settings you can adjust here. Just play around with them to see how everything works and find what you like. If you screw something up and forget the default value or just want to revert to your previous saved settings, just hit load settings in the enblocal window. 
 
 When you want to save, hit save then apply in the enblocal window.
+
+If you want to use Lizzy's Lighting preferences which are a lot lighter than standard - you can simply replace your Skyrim\enbseries folder with the one [here](https://cdn.discordapp.com/attachments/648152435197607938/860160020381040660/Lizzy_enbseries.rar)
 
 For Nighteye Settings
 [ENNE NightEye Settings](https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/)
