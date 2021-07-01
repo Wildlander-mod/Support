@@ -1,4 +1,4 @@
-# Ultimate Skyrim v4.1.0 Changelog
+# Ultimate Skyrim v4.1.0 (Phizzy Release) Changelog
 
 ## Updates
 - Updated MO2 from `2.3.2` to `2.4.2`
