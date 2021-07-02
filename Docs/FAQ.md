@@ -321,7 +321,7 @@ Before you begin modding Please read the [basics](https://github.com/phinocio/Ul
 
 ▶️ **YOU CANT USE LOOT**  ◀️
 
-The support Team has put together a set of guides for addiing additional mods.
+The support Team has put together a set of guides for adding popularaly requested additional mods.
 
 Please visit [this page](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#guides-list) for install guides or the Ultimate Skyrim discord (customisation channel) advice for other type of mods.
 
