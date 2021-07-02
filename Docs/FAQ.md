@@ -335,6 +335,8 @@ Many mods have a Mod Configuration Menu (MCM) where they can be turned off. Also
 
 ## Can I Add Additional mods?
 
+Firstly: The wabbajack discord had strict rules regarding the addition of mods to list and therefore you should not ask for any further support from that discord should you proceed any further. If you require support it should be done via the Ultsky-customization channel on the official Dyaln perry discord *not* via Ultsky-support.
+
 The answer to this is "sometimes". 
 
 For a list of known mods which have Issues/Incompatibilities/ please click [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#known-mod-issuesincompatibilities)
