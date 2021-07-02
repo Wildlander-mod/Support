@@ -4,8 +4,8 @@
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
 	- [Does this mod pack support SSE? When is SSE version going to be available? Where can I buy legendary Edition](#does-this-mod-pack-support-sse)
-	- [How Do I Update?]()
-	- [How Do i Uninstall]()
+	- [How Do I Update?](#how-do-i-update-to-the-current-version)
+	- [How Do i Uninstall](#how-do-i-uninstall)
 	
 - [**Wabbajack Issues**](#Wabbajack-Issues)
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
