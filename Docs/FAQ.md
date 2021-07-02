@@ -155,6 +155,7 @@ Overhaul to the starting experiance - character classes, starting quiz, starting
 
 ---
 # How Do I Update to the current Version.
+Please note the 4.1 is not save game compatible. Updating will require a fresh game with new MCM setup.
 
 If Updating from a Older version than 4.0.7 - then remove your old Ultsky install folder completly -  follow the install instructions from [here](https://www.ultimateskyrim.com/ultsky-install)
 
