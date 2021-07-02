@@ -169,7 +169,7 @@ Then you follow the install guide from step 2.3 [here](https://www.ultimateskyri
 	
 Were sorry to see you leave!
 	
-Installing Ultsky is a simple matter of removing the files from your steam skyrim folder that you copied from game folder files(below). Then deleting the Ultimate Skyrim installation folder.
+Uninstalling Ultsky is a simple matter of removing the files from your steam skyrim folder that you copied from game folder files(below). Then deleting the Ultimate Skyrim installation folder.
 	
 ![image](https://user-images.githubusercontent.com/26418143/124308354-1674dc00-db61-11eb-92d5-11ff65d4e601.png)
 	
