@@ -158,7 +158,7 @@ Overhaul to the starting experiance - character classes, starting quiz, starting
 
 If Updating from a Older version than 4.0.7 - then remove your old Ultsky install folder completly -  follow the install instructions from [here](https://www.ultimateskyrim.com/ultsky-install)
 
-If updating from 4.0.7 - you would delete the contents of your <Ultsky install folder>\content With the exception to downloads.
+If updating from 4.0.7 - you would delete the contents of your _Ultsky install folder_\content With the exception to downloads.
 	
 Then you follow the install guide from step 2.3 [here](https://www.ultimateskyrim.com/ultsky-install)
 	
