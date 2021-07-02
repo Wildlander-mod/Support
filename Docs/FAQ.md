@@ -4,6 +4,8 @@
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
 	- [Does this mod pack support SSE? When is SSE version going to be available? Where can I buy legendary Edition](#does-this-mod-pack-support-sse)
+	- [How Do I Update?]()
+	- [How Do i Uninstall]()
 	
 - [**Wabbajack Issues**](#Wabbajack-Issues)
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
@@ -151,6 +153,23 @@ Overhaul to the starting experiance - character classes, starting quiz, starting
 
 [Mod list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
+---
+# How Do I Update to the current Version.
+
+If Updating from a Older version than 4.0.7 - then remove your old Ultsky install folder completly -  follow the install instructions from (here)[https://www.ultimateskyrim.com/ultsky-install]
+If updating from 4.0.7 - you would delete the contents of your <Ultsky install folder>\content With the exception to downloads.
+then you follow the install guide from step 2.3 (here)[https://www.ultimateskyrim.com/ultsky-install]
+	
+---
+	
+# How do I Uninstall?
+	
+Were sorry to see you leave!
+	
+Installing Ultsky is a simple matter of removing the files from your steam skyrim folder that you copied from game folder files(below). Then deleting the Ultimate Skyrim installation folder.
+	
+![image](https://user-images.githubusercontent.com/26418143/124308354-1674dc00-db61-11eb-92d5-11ff65d4e601.png)
+	
 ---
 # **Wabbajack Issues**
 ## Wabbajack Fails to install with GameFileSourceDownloader Error
