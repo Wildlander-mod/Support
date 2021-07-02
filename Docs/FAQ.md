@@ -315,18 +315,15 @@ Many mods have a Mod Configuration Menu (MCM) where they can be turned off. Also
 
 The answer to this is "sometimes". 
 
-The following Types of mods are NOT Compatible
-* Any Alternate start mod.
-* Any Mod which affects the perk trees (E.g Ordinator)
-* Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
-* Open Cities
-* Enhanced Blood Textures (Extremely script heavy, Will possibly break your game, Use at own risk)
+For a list of known mods which have Issues/Incompatibilities/ please click [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#known-mod-issuesincompatibilities)
 
-As a General rule - Anything without a ESP/ESM such as body replacers (E.g CBBE. UNP. S.o.S) and clutter textures can be added with no problems and no need to run the requiem patcher(Reqtificator).
+Before you begin modding Please read the [basics](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#ultimate-skyrim-modding-basics) which contains the rules for modding in ultsky and are slightly different to other modlists you might have tried. The most important rule is
 
-Follower and Quest mods will generally need Requiem patching so their NPC's stand a chance against you and your followers and followers stand a chance against NPCs. New ingredients can break Requiem's alchemy balance, new food will likely need iNeed patching, some equipment might require Frostfall patching, and so forth. 
+▶️ **YOU CANT USE LOOT**  ◀️
 
-Please visit [this page](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md) or the Ultimate Skyrim discord (customisation channel) for install guides and advice for other type of mods.
+The support Team has put together a set of guides for addiing additional mods.
+
+Please visit [this page](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#guides-list) for install guides or the Ultimate Skyrim discord (customisation channel) advice for other type of mods.
 
 ---
 
