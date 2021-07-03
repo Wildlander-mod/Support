@@ -612,7 +612,7 @@ You’re Naked - Put some clothes on ya filthy animal!
 
 ## I am getting a lot of stutter / CTD / Low FPS?
 
-** Ultimate skyrim will never go above 60 FPS due to limitations of skyrim's engine. if you think 60fps is low - too bad. It cannot run any higher*
+*Ultimate skyrim will never go above 60 FPS due to limitations of skyrim's engine. if you think 60fps is low - too bad. It cannot run any higher.*
 
 Never have Task manager open while running skyrim (not even minimised to task bar). If your CTD are occuring during a loading screen - this is your cause.
 
