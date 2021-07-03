@@ -612,6 +612,8 @@ You’re Naked - Put some clothes on ya filthy animal!
 
 ## I am getting a lot of stutter / CTD / Low FPS?
 
+** Ultimate skyrim will never go above 60 FPS due to limitations of skyrim's engine. if you think 60fps is low - too bad. It cannot run any higher*
+
 Never have Task manager open while running skyrim (not even minimised to task bar). If your CTD are occuring during a loading screen - this is your cause.
 
 Make sure that you haven't included a comma in the "VideoMemorySizeMb" field in ENBlocal.ini
@@ -628,7 +630,15 @@ Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned i
 
 [https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662](https://discordapp.com/channels/344256550640287755/348579495537803274/729035407282667662)
 
-As a last resort - attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.1.0 Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you ill also need to change BFullScreen to 1 in content\profiles\UltSky 4.1.0 (preset you play)\Skyrimpref.ini.
+Once you have checked all of those you can apply the following tweaks.
+
+1) Attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.1.0 Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you will also need to change BFullScreen to 1 in content\profiles\UltSky 4.1.0 (preset you play)\Skyrimpref.ini.  (This makes your computer focuses on the game and give a good +10 fps boost, at the expense of speedy alt-tabs)
+	
+2) Lower your Graphics preset, or adjust content\profiles\UltSky 4.1.0 (preset you play)\Skyrimpref.ini	reduce the iShadowMapResolution (can be changed to 1024 or 512), fShadowDistance and fGrassMaxStartFadeDistance.
+	
+3) Open Mod Organiser, Disable the Mod Ultsky <version> Dyndolod on the left pane, setup and run the reqtificator [guide here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#how-do-i-install-the-reqtificator). (This one affects the performance by about 3 to 6 fps in certain open areas at the expense of  a better looking far landscape
+	
+4) [Lower](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#my-pc-cant-handle-the-enb---can-i-reduce-the-settings) or [uninstall](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#my-pc-cant-handle-the-enb-graphics-even-on-low-settings---can-i-remove-it) the ENB	
 
 ---
 
