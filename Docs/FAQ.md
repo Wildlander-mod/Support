@@ -1,4 +1,4 @@
-# Ultimate Skyrim FAQ
+# Ultimate Skyrim Questions & Answers
 
 <!-- TOC -->
 
