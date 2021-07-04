@@ -1,8 +1,18 @@
+# Ultimate Skyrim v4.1.1 (Phizzy Release v2) Changelog
+
+## Added
+- Added `Simple Follower Extension` by `ekagames` to replace `Nether's Follower Framework`.
+- Added Liz's tweaked starting items scripts that Hazzardus originally made.
+
+## Removed
+- Removed `Nether's Follower Framework` due to being removed from the Nexus and uploaded to a very questionable site.
+
+-----
+
 # Ultimate Skyrim v4.1.0 (Phizzy Release) Changelog
 
 ## Updates
 - Updated MO2 from `2.3.2` to `2.4.2`
-- Updated `Nether's Follower Framework` from `2.7.0` to `2.7.7`
 - Updated `Immersive College of Winterhold` from `6.1` to `6.2`
 - Updated `XP32 Maximum Skeleton Extended` from `4.51` to `4.80`
 - Updated `Ultimate Skyrim.esp` conflict resolution patch with changes needed for updated mods/fixes
