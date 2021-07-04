@@ -2,7 +2,7 @@
 
 ## Added
 - Added `Simple Follower Extension` by `ekagames` to replace `Nether's Follower Framework`.
-- Added Liz's tweaked starting items scripts that Hazzardus originally made.
+- Added Liz's tweaked starting items scripts that Hazzardus originally made. [Here for more info](https://discord.com/channels/344256550640287755/746090937167642696/861319688671985704)
 
 ## Removed
 - Removed `Nether's Follower Framework` due to being removed from the Nexus and uploaded to a very questionable site.
