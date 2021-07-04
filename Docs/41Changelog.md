@@ -1,4 +1,4 @@
-# Ultimate Skyrim v4.1.1 (Phizzy Release v2) Changelog
+# Ultimate Skyrim v4.2.0 (Phizzy Release v2) Changelog
 
 ## Added
 - Added `Simple Follower Extension` by `ekagames` to replace `Nether's Follower Framework`.
