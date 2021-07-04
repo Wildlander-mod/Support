@@ -11,7 +11,7 @@
 	- [Wabbajack Fails to install with GameFileSourceDownloader Error](#Wabbajack-Fails-to-install-with-GameFileSourceDownloader-Error)
 	- [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 	
-- [**4.1.0 Issues**](#410-issues)
+- [**Current Version Issues**](#Current-Version-issues)
 	- [Can't Launch Ultimate Skyrim Bat file](#Cant-Launch-Ultimate-Skyrim-Bat-file)	
 	- [Can I see a list of other known issues?](#Can-i-see-a-list-of-known-issues)
 	- [What do the presets mean?](#what-do-the-presets-mean)
@@ -155,7 +155,7 @@ Overhaul to the starting experiance - character classes, starting quiz, starting
 
 ---
 # How Do I Update to the current Version.
-Please note the 4.1 is not save game compatible. Updating will require a fresh game with new MCM setup.
+Please note the 4.2 is not save game compatible. Updating will require a fresh game with new MCM setup.
 
 If Updating from a Older version than 4.0.7 - then remove your old Ultsky install folder completly -  follow the install instructions from [here](https://www.ultimateskyrim.com/ultsky-install)
 
@@ -220,7 +220,7 @@ Sometimes wabbajack gets stuck downloading.
 
 
 ---
-# **4.1.0 Issues**
+# **Current Version Issues**
 ## Can't Launch Ultimate Skyrim Bat file
 Symptom: a screen flashes up for a half a second before disappearing. The launcher doesnt Start *at all* 
 	
@@ -632,9 +632,9 @@ Run Bmxfreestyle’s Stability Guide and follow the recommended tweaks (pinned i
 
 Once you have checked all of those you can apply the following tweaks.
 
-1) Attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky 4.1.0 Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you will also need to change BFullScreen to 1 in content\profiles\UltSky 4.1.0 (preset you play)\Skyrimpref.ini.  (This makes your computer focuses on the game and give a good +10 fps boost, at the expense of speedy alt-tabs)
+1) Attempt to disable borderless winow in <ultimate Skyrim>\content\mods\UltSky (Version Number) Core Files\SKSE\Plugins\OneTweak.ini. If you want to play Fullscreen after doing this instead of windowed you will also need to change BFullScreen to 1 in content\profiles\UltSky (preset you play)\Skyrimpref.ini.  (This makes your computer focuses on the game and give a good +10 fps boost, at the expense of speedy alt-tabs)
 	
-2) Lower your Graphics preset, or adjust content\profiles\UltSky 4.1.0 (preset you play)\Skyrimpref.ini	reduce the iShadowMapResolution (can be changed to 1024 or 512), fShadowDistance and fGrassMaxStartFadeDistance.
+2) Lower your Graphics preset, or adjust content\profiles\UltSky (preset you play)\Skyrimpref.ini	reduce the iShadowMapResolution (can be changed to 1024 or 512), fShadowDistance and fGrassMaxStartFadeDistance.
 	
 3) Open Mod Organiser, Disable the Mod Ultsky <version> Dyndolod on the left pane, setup and run the reqtificator [guide here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#how-do-i-install-the-reqtificator). (This one affects the performance by about 3 to 6 fps in certain open areas at the expense of  a better looking far landscape
 	
@@ -670,7 +670,7 @@ This is due to a bad ID, breaking down your lantern and recrafting it in the cra
 
 ## How do I re-enable menus pausing?
 
-SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2`, `Ultimate Skyrim 4.0.7 core files` or  `Ultimate Skyrim 4.1.0 core files` mod in the left pane -> Information -> ini files tab.
+SkyrimSouls.ini controls which functions pause the game. You can edit the INI file from Mod Organiser. Right click the `Ultimate Skyrim 4.0.6 hf2`, `Ultimate Skyrim 4.0.7 core files` or  `Ultimate Skyrim 4.1.0 core files` or  `Ultimate Skyrim 4.2.0 core files` mod in the left pane -> Information -> ini files tab.
 
 ---
 
