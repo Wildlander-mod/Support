@@ -14,10 +14,7 @@
 - Fixed Signy still occassionally being attacked by gaurds.
 - Fixed some apothecarys being locked when they shouldn't be.
 
-## Internals
-- Got rid of the version number in the `Core Files`, `DynDOLOD`, and `Post Install` folders to make future compiles easier/less chance of missing those
-- Got rid of the version number in the profiles to make future compiles easier/less chance of missing those
-- Added a separator below the Official DLC on the left pane to indicate the current verison of Ultimate Skyrim
+In Addition - Added a separator below the Official DLC on the left pane to indicate the current verison of Ultimate Skyrim
 
 -----
 
