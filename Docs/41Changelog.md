@@ -1,11 +1,23 @@
 # Ultimate Skyrim v4.2.0 (Phizzy Release v2) Changelog
 
+## Updated
+- Updated `Ultimate Skyrim.esp` CRP to yeet NFF.
+
 ## Added
 - Added `Simple Follower Extension` by `ekagames` to replace `Nether's Follower Framework`.
 - Added Liz's tweaked starting items scripts that Hazarduss  originally made. [Here for more info](https://cdn.discordapp.com/attachments/746090937167642696/861319688515878942/Extra_starting_items.txt)
 
 ## Removed
 - Removed `Nether's Follower Framework` due to being removed from the Nexus and uploaded to a very questionable site.
+
+## Fixed
+- Fixed Signy still occassionally being attacked by gaurds.
+- Fixed some apothecarys being locked when they shouldn't be.
+
+## Internals
+- Got rid of the version number in the `Core Files`, `DynDOLOD`, and `Post Install` folders to make future compiles easier/less chance of missing those
+- Got rid of the version number in the profiles to make future compiles easier/less chance of missing those
+- Added a separator below the Official DLC on the left pane to indicate the current verison of Ultimate Skyrim
 
 -----
 
