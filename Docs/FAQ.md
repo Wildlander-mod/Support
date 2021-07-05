@@ -319,6 +319,21 @@ The Ultimate Skyrim Support Team cannot assist with this issue as there are too 
 
 Do not use L.O.O.T or rearrange Ultimate Skyrim’s default mods unless a guide from one of us specifically tells you to!
 
+
+**If you have broken you load order and want to get back to the original**
+* Close Mod Organiser
+* If you have profile specific saves - Back these up first (they will be in <install path>\content\profiles\profile you play\saves).
+
+* delete everything from <install path>\content\profiles\
+Download the appropriate zip file for the version of Ultsky you currently have installed:-	
+* For 4.0.7 Installs https://cdn.discordapp.com/attachments/348579495537803274/823992115859947591/profiles.rar
+* For 4.1   Installs https://cdn.discordapp.com/attachments/648152435197607938/859890685175267397/4.1_profiles.rar 
+* for 4.2   Installs https://cdn.discordapp.com/attachments/648152435197607938/861579734811148358/4.2_profiles.rar
+* Unpack the contents of the correct zip file for your installation into <install path>\content\profiles\.
+
+If you have added additional Mods - you will need to re-enable & re-organise your load order. 
+Finally if you had profile specific saves - recreated th saves directory and restore your saves from your backup.
+
 ---
 
 ## Mod X has been updated, can I install that?
