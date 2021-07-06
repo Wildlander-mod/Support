@@ -137,7 +137,7 @@ The current Roadmap & patchlist previewed in Dylans most recent stream are as fo
 
 *Essentials to Do list*
 
-MCM Config - 80% complete
+MCM Config - now complete
 
 Optimazation Pass - (at least a week) of making the game smooth
 
