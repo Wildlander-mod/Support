@@ -130,10 +130,11 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple to do, Black Maybe needed depend on the quantity of updates)
 
-07/06/21 - roadmap update
+07/06/21 - roadmap update.
+
 ![Roadmap](https://user-images.githubusercontent.com/26418143/124654839-f7df4f80-de96-11eb-955e-055ecfd1f881.png)
 
-From Most recent stream:
+
 *Essentials to Do list*
 
 MCM Config - 80% complete
