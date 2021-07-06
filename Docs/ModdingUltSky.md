@@ -634,6 +634,13 @@ PhinTweaks - Requiem and Ultimate Skyrim Tweaks. https://www.nexusmods.com/skyri
 > * UltSky - Armor Resistances Fix - Known issue patch for 4.0.7 
 > * UltSky - Inn Prices Fix - Known issue patch for 4.0.7
 > * Wet and Cold - Non Enchantable Cloaks - Made with Ultimate Skyrim in mind. Can be used with Requiem no problem (technically only requires `Wet and Cold`). Simply adds keyword to the cloaks making them unenchantable. Requires W&C.
+    
+Better Dead Thralls & Patch https://www.nexusmods.com/skyrim/mods/58069 & https://www.nexusmods.com/skyrim/mods/95859?tab=files
+
+    Makes Undead summons less braindead 😉
+> Better Dead Thralls.esp before Requiem.esp
+> Requiem - BDT Patch.esp  after Requiem.esp    
+As always - You have to run Reqtificator.    
 
 
 Ultimate Skyrim - Music mods patch https://www.nexusmods.com/skyrim/mods/99822 a ultimate Skyrim patch to add a whole bunch of music mods to the game.
