@@ -31,7 +31,7 @@ Note: Any additional mods you have added will need to be re-activated and reposi
 
 ---
 
-#**ENB Questions**
+# ENB Questions
 ---
 ## When I enter a cell everything goes really Bright OR My Nightvision has a blue tint OR i get white-outs on a blizzard
 
