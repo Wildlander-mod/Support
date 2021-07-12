@@ -12,7 +12,7 @@
 .
 
 ## Fixed
-- Fixed Signy still occassionally being attacked by gaurds.
+- Fixed Signy still occassionally being attacked by guards.
 - Fixed some apothecarys being locked when they shouldn't be.
 
 In Addition - Added a separator below the Official DLC on the left pane to indicate the current verison of Ultimate Skyrim
