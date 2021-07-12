@@ -8,7 +8,8 @@
 - Added Liz's tweaked starting items scripts that Hazarduss  originally made. [Here for more info](https://cdn.discordapp.com/attachments/746090937167642696/861319688515878942/Extra_starting_items.txt)
 
 ## Removed
-- Removed `Nether's Follower Framework` due to being removed from the Nexus and uploaded to a very questionable site.
+- Removed `Nether's Follower Framework` due to being removed from the Nexus and uploaded to a very questionable site (We know it is available on both loverslab & his patreon, these are not the sites we have a issue with)
+.
 
 ## Fixed
 - Fixed Signy still occassionally being attacked by gaurds.
