@@ -334,7 +334,7 @@ Download the appropriate zip file for the version of Ultsky you currently have i
 * Unpack the contents of the correct zip file for your installation into <install path>\content\profiles\.
 
 If you have added additional Mods - you will need to re-enable & re-organise your load order. 
-Finally if you had profile specific saves - recreated th saves directory and restore your saves from your backup.
+Finally if you had profile specific saves - recreated the saves directory and restore your saves from your backup.
 
 ---
 
