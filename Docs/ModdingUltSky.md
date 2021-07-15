@@ -75,7 +75,6 @@ The following Types of mods are NOT Compatible. (cause game breaking bugs)
 > * UltSky Starting items for 4.0.6hf2 (Breaks Ultimate Skyrim reborn, character wont teleport after creating and doesn’t have the promised items anyway!)
 > * New Races                          (unless requiem patch available) Requiem won’t start and will return you to the main menu.
 > * Skyrim Together (Just doesnt work)  
-> * Summermyst - The enchantments of skyrim (game crashes on start up)
 
 The following Mods are extremely script heavy, Will possibly break your game.
 > *  Enhanced Blood Textures (known to cause fps degradation/script bloat)
