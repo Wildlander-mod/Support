@@ -130,16 +130,16 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple to do, Black Maybe needed depend on the quantity of updates)
 
-07/06/21 - roadmap update.
+16/07/21 - roadmap update.
 
-![Roadmap](https://user-images.githubusercontent.com/26418143/124654839-f7df4f80-de96-11eb-955e-055ecfd1f881.png)
+![image](https://user-images.githubusercontent.com/26418143/125918830-31508fb8-9c0d-47fe-986c-0fe7c8179559.png)
 
 
 *Essentials to Do list*
 
 MCM Config - now complete
 
-Optimazation Pass - (at least a week) of making the game smooth
+Optimazation Pass - (at least a week) of making the game smooth - delayed until after nexus mod delete grace period finishes.
 
 File Updates - (unknown timescale - depends how many mods are mandatory) combine in any updates released since Dylan created his alpha build
 
