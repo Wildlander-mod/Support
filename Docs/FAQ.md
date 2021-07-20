@@ -408,10 +408,10 @@ When you want to save, hit save then apply in the enblocal window.
 
 If you want to use Lizzy's Lighting preferences which are a lot lighter than standard - you can simply replace your Skyrim\enbseries folder with the one [here](https://cdn.discordapp.com/attachments/648152435197607938/860160020381040660/Lizzy_enbseries.rar)
 	
-If you find interiors too dark using Lizzy's lighting preferences, you can adjust the  Ambientcolourfilteramountinterior as below (weather pane). I find values between 0.25 for "poor" weather considtions and 0.6 for good weather conditions give the best lighting.
-![img](https://cdn.discordapp.com/attachments/348579473727160321/862377095372079154/enb_2021_07_07_17_58_17_35.png)
+In addition to the above, I also adjust my lighting based on the conditions i'm playing in so if you find nights too light - you can adjust the field EENE Cal Offset Night in the enbeffect tab in game from the enb shift + enter menu. If i'm playing in daytime I reduce mine to 0.06, if i'm playing at night i set it to 0.12.	
 	
-I also adjust my lighting based on the conditions i'm playing in so if you find nights too light - you can adjust the field EENE Cal Offset Night in the enbeffect tab in game from the enb shift + enter menu. if i'm playing in daytime I reduce mine to 0.06, if i'm playing at night i set it to 0.12.
+If you find interiors too dark using Lizzy's lighting preferences, you can adjust the Ambientcolourfilteramountinterior as below in the weather window (To access weather pane in ENBSERIES.ini frame turn on "show weather window"). I find values between 0.25 for "poor" weather considtions and 0.6 for good weather conditions give the best lighting.
+![img](https://cdn.discordapp.com/attachments/348579473727160321/862377095372079154/enb_2021_07_07_17_58_17_35.png)
 
 For Nighteye Settings
 [ENNE NightEye Settings](https://www.reddit.com/r/ultimateskyrim/comments/bpk1js/adjusting_night_eyeeene_for_better_visibility/)
