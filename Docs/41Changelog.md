@@ -1,4 +1,4 @@
-# Ultimate Skyrim V 4.3.0 (Phizzy Release) Changelog
+# Ultimate Skyrim V 4.3.0 (Phizzy Release V3) Changelog
 
 ## Removed
 - Cutting room floor
