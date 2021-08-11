@@ -1,3 +1,15 @@
+# Ultimate Skyrim V 4.3.0 (Phizzy Release) Changelog
+
+## Removed
+- Cutting room floor
+- CRF related patches/CRP records
+
+## Replaced
+- Replaced `The Paarthunax Dilemma` with `The Paarthunax Resolution` by Epic Crab
+- Replaced `Point the Way` with `Waymark - A Road Signs Mod - LE Backport` by lordkenyonkmp, backported by Phinocio
+
+-----
+
 # Ultimate Skyrim v4.2.0 (Phizzy Release v2) Changelog
 
 ## Updated
