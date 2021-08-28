@@ -21,6 +21,7 @@ If you have issues with any of the guides below - you can submit feedback here h
 - [Graphics Overhaul Guide](#ultimate-skyrim-Basics)
 - [NPC Overhaul Guide](#npc-overhaul-guide)
 - [BMX Gameplay Overhaul Guide](#bmx-gameplay-overhaul-guide)
+- [Anna Gameplay Overhaul Guide](#Anna-gameplay-overhaul-guide)   
 - [Autosave Manager](#autosave-manager)
 - [EnaiSiaion mods](#EnaiSiaion-mods)
 - [SNBCJ's mods](#SNBCJs-mods)
@@ -112,8 +113,32 @@ This guide (updated regularly) is aimed at helping players create an even more i
 https://docs.google.com/document/d/1CVO9m8v72BLvwQAqZlG9z7mYFxJPgUOqhP1SDScIoIA/preview
 
 Issues with this guide should be directed to Bmxfreestyle357#6234 on discord or by filling in the feedback form here https://forms.gle/jG4DadrizsRz3bwT9
-
+    
 ---
+## Anna Gameplay Overhaul Guide
+
+If you enjoy the following playstyles and themes, these MCM settings and extra mods might be perfect for you:
+
+> - Deadly, realistic combat with longer-term consequences.
+> - Immersive world experience with minimally intrusive HUD/mechanical elements.
+> - Enhanced NPC interactions with more in-world characters.
+> - Warrior, thief, and lower magic playstyles.
+> - Civil War and military playthroughs.
+> - Slower, grindier pace of play. 
+> - *EXTREMELY HARDCORE*    
+
+You can get a lot of this experience from the default UltSky list, but the added mods and plugins in this guide really turn it up to 11 for me.   
+    
+Please note: 
+This guide was designed using the 4.0.7 modpack, and some of the mods featured in the MCM setup area and no longer included (Nether’s Follower Framework), BURVARP now requires wintersun, and Phintweaks is included in the base build so installation is no longer nessisary. You can see Anna's modwatch here https://modwat.ch/u/cascadianna/plugins . 
+
+https://unearthedarcanna.wordpress.com/ultimate-skyrim-annas-mcm-mod-roleplay-setup/
+ 
+    
+    
+---
+ 
+    
 ## Autosave Manager
 Auto-saves trigger when loading into a Cell - when all the scripts are running that can corrupt a save and increase your load times massively.
 
@@ -153,7 +178,7 @@ Finally
 
 https://www.reddit.com/r/ultimateskyrim/comments/bt3a1d/us_404_installing_wintersun_faiths_of_skyrim_with/
 
-**For 4.0.7** replace Wintersun 3.1.5 - Seg 1.4 - Ultsky 4.0.6 HF2 v2 patch with this one Wintersun 3.1.5 - Seg 1.4 - Ultsky 407 (Thanks Plotinuz#5876)  https://drive.google.com/file/d/1hP53c8KQQz4plQGNl-qlLSpMnYFRVy0d/view?usp=sharing
+**For 4.0.7 Onwards** replace Wintersun 3.1.5 - Seg 1.4 - Ultsky 4.0.6 HF2 v2 patch with this one Wintersun 3.1.5 - Seg 1.4 - Ultsky 407 (Thanks Plotinuz#5876)  https://drive.google.com/file/d/1hP53c8KQQz4plQGNl-qlLSpMnYFRVy0d/view?usp=sharing
 ```
 Changelog:
 Enabled the scripts from the mod Alternate House of Horrors. Without the scripts activated the mod would not work.
@@ -166,7 +191,7 @@ https://www.reddit.com/r/ultimateskyrim/comments/by32xk/us_404_installing_sacros
 
 https://www.reddit.com/r/ultimateskyrim/comments/da780b/us_40x_installing_andromeda_unique_standing/
 
-**For 4.0.7** replace Andromeda 1.0.9 - Ultsky 4.x MCM Descriptions with this one Andromeda 1.0.9 - Ultsky 4.0.7 MCM Descriptions   https://mega.nz/file/aVsl0YJa#6yaVKCFutL85qcqChc668d7udVCu8ASKO5YT9KhTBQU  
+**For 4.0.7 onwards** replace Andromeda 1.0.9 - Ultsky 4.x MCM Descriptions with this one Andromeda 1.0.9 - Ultsky 4.0.7 MCM Descriptions   https://mega.nz/file/aVsl0YJa#6yaVKCFutL85qcqChc668d7udVCu8ASKO5YT9KhTBQU  
 ```
 Changelog:
 - Bugfix - Removes conflict with Skyrim unbound reborn so that MCM options are not messed up.
@@ -179,7 +204,7 @@ Changelog:
 Immersive Divine Blessings, Immersive Abilities, Standing Stone Rebalance, Classic Alchemy Overhaul, Classic Food and Drink. 
     https://www.reddit.com/r/ultimateskyrim/comments/br61eo/us_404_installing_snbcjs_mods_immersive_divine/
 
-**4.0.7 updates**
+**4.0.7 Onwards needs these updates**
 
 *Requiem - Standing Stone Rebalance (R-SSR) v3.6*:  replace Ultsky 4.x R-SSR MCM Standing Stone Info with this one Requiem - Standing Stone Rebalance Ultsky 4.0.7 R-SSR MCM Standing Stone Info https://mega.nz/file/vU8TiALY#3Xx6BdDhvI58gEsp8UWNlKXconHaXAJYq3vD2GdRclk
 ```
@@ -367,18 +392,17 @@ Beta releases. Please give [feedback](https://forms.gle/jG4DadrizsRz3bwT9) if so
 #### Barely Used Vanilla Actors Recycle Project https://www.nexusmods.com/skyrim/mods/85540 
 
 Patch location: https://www.nexusmods.com/skyrim/mods/107219/
+    
+Requires : Wintersun & Patch from here [EnaiSiaion mods](#EnaiSiaion-mods)
 
 Install Instructions:
 
-There are three files. 
-> - Most Ultsky users will want: Buvarp Ultsky patch with ETAC support.7z
-> - Those who have disabled ETAC use this one: Buvarp Ultsky patch v1.7z
-> - For those with Wintersun and EtaC choose: Buvarp Ultsky patch with ETAC and Wintersun Ultsky patch compability.7z 
+There are two files - you want the main file. 
+> - Buvarp Ultsky patch with ETAC and Wintersun Ultsky patch compability.7z 
 
 On the RIGHT SIDE (plugins tab) in MO2:
 > - Put Buvarp.esp below relationship Dialogue Overhaul, and above Ultsky.
-> - None Wintersun versions put patch below Ultimate Skyrim - Expanded Towns and Cities.
-> - Wintersun version put patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
+> - Patch below: Wintersun 3.1.5 - Seg 1.4 - Ultsky patch
 
 #### Dragon Combat Overhaul (DCO) - https://www.nexusmods.com/skyrim/mods/32597
 
