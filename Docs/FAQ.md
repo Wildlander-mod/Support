@@ -130,28 +130,15 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple to do, Black Maybe needed depend on the quantity of updates)
 
-16/07/21 - roadmap update.
-
-![image](https://user-images.githubusercontent.com/26418143/125918830-31508fb8-9c0d-47fe-986c-0fe7c8179559.png)
-
+09/02/21 - roadmap update.
 
 *Essentials to Do list*
-
-MCM Config - now complete
-
-Optimazation Pass - (at least a week) of making the game smooth - delayed until after nexus mod delete grace period finishes.
+Optimazation Pass - (at least a week) of making the game smooth - In progress.
 
 File Updates - (unknown timescale - depends how many mods are mandatory) combine in any updates released since Dylan created his alpha build
 
 
-*Nice to have*
-
-Crafting Enhancements - polish to the crafting system, make sure all receipes are where they are supposed to be.
-
-Overhaul to the starting experiance - character classes, starting quiz, starting gear, start loaction.
-![image](https://user-images.githubusercontent.com/26418143/122817779-4655f100-d2d0-11eb-80c7-fac9243df053.png)
-
-
+09/02/21 - Modlist updated with "Yeeting Arthmoor" version.
 
 [Mod list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
 
