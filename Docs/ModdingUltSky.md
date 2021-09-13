@@ -7,7 +7,7 @@ If you have issues with any of the guides below - you can submit feedback here h
 1) mod organizer      - The tool which makes everything work - Installed as part of the wabbajack installation in <Ultsky install directory>\Content\Mod Organizer.exe
 2) reqtificator       - The requiem patcher - Makes 3rd party mods compatible with the Ultsky install. If you are going to do any modding at all this must be setup first. Instructions for how to do this are [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#reqtificator-questions)
 3) reqtificator.ini   - The configuration parameters for the requiem patcher - needed if you are going to make any appearance changes or add any new races. Located in 
-<Ultsky install directory>\Content\mods\Ultsky 4.0.7 Core Files\SkyProc Patchers\Requiem
+<Ultsky install directory>\Content\mods\Ultsky Core Files\SkyProc Patchers\Requiem
 4) [Dyndolod](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md#dyndolod)           - The tool which draws items in the distance, generally needed to be ran if adding mods which change the landscape or add new player homes
 5) [Automatic Varients](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Patchers.md#automatic-variants) - The tool which makes creatures in the game have different appearances rather than all having the same appearance.
 6) Merging mods       - Advanced modding technique to combine multiple mods Plugin's into one.
@@ -93,7 +93,7 @@ The following types of mods have Issues
 
 ## Graphics Overhaul Guide
 
-The discord staff have updated the old Rodricktech graphics guide to 4.0.7. 
+The discord staff have updated the old Rodricktech graphics guide to 4.0.7 and beyond. 
 
 https://docs.google.com/document/d/1VriFJt2qWrGNuA_gT1NwD7Qr_ewBTG7jnlUNSXE02yU/preview
 
@@ -335,7 +335,7 @@ Patch location: https://www.nexusmods.com/skyrim/mods/107926/?tab=files
 Install Instructions:
 
 > - Download Revert Notification Speed changes back to default. & Install Via Mod Organiser
-> - Make sure left side it is located after "Ultimate Skyrim 4.0.7 core files".
+> - Make sure left side it is located after "Ultimate Skyrim core files".
 > - enable, no need to run reqtificator.
     
 #### Wounds Crafting patch.
@@ -566,7 +566,7 @@ Disable Quick Save: This mod makes the Quick-Save hot-key make a Full save inste
 
 Smaller Cursor: Very small but great mod. Simply makes the in-game cursor smaller instead of the GIANT default one. Use Main File - https://www.nexusmods.com/skyrim/mods/2317/
 
-Rudy HQ - More Lights for ENB - Bthardamz: highly recommended, no ESP required. In the left window, load after Ultimate Skyrim 4.0.7 core files.
+Rudy HQ - More Lights for ENB - Bthardamz: highly recommended, no ESP required. In the left window, load after Ultimate Skyrim core files.
 https://www.nexusmods.com/skyrim/mods/95614?tab=files 
 
 
