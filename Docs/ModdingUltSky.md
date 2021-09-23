@@ -433,6 +433,30 @@ On the RIGHT side:
 
 On the LEFT side:
 > - Doesn't matter unless you have a mod that overwrites scripts from DCO main file.
+    
+
+#### Realistic Armor https://www.nexusmods.com/skyrim/mods/102963
+
+Patch location: https://drive.google.com/file/d/1qOZmcoCWNs4pUbzWdbdk4cj_HRdMHei6/view?usp=sharing
+    
+What it does: Forwarded UltSky records, flags and stats where applicaple.
+
+Be aware. Several armortypes that previously were flagged as light/evasion, are now classified as Heavy Armor.
+
+Recipes of existing armors (that are already in UltSky and are overwritten by this mod) have for the most part crafting recipes as in UltSky.
+
+New armors have been left untouched for now.
+
+To be done.
+
+Crafting recipes. Will be done when I have too much time on my hands (and I get annoyed enough).
+
+Install Instructions:
+
+On the RIGHT SIDE (plugins tab) in MO2:
+
+Load Mod & patch BELOW Ultimate Skyrim, ABOVE Automatic Variants (and paper world map if you have this in your load order).
+    
 
 #### Helgen Reborn https://www.nexusmods.com/skyrim/mods/35841 
 
