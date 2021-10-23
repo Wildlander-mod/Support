@@ -756,6 +756,8 @@ You can choose to add a "max FPS limit" on your graphics card for "TESV.exe" to 
 The following guide has also shown improvement when both the step guide, and U/seq Comments are followed.
 
 https://www.reddit.com/r/ultimateskyrim/comments/gfdg6l/antialiasing_is_b_a_d/
+	
+The original site has long gone - but a mirror of the injector is available here https://www.softpedia.com/get/Tweak/Video-Tweak/injectSMAA.shtml#download	
 
 Note: this is the only 'fix' support are aware of at this time and if it does not work for you, we won't be able to assist you further
 
