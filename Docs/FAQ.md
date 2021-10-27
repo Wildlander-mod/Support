@@ -122,25 +122,16 @@
 
 ## Does this mod pack support SSE?
 
-Currently, Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off. You can follow progress by catching the weekly streams - currently on Mndays/Tuesdays/Wednesdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
+Currently, Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off. You can follow progress by catching the weekly streams - currently on Thursdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
 
 You can buy Legendary Edition from one of the places linked in wabbajack's reddit post:
 
 [Wabbajack:How to get Skyrim LE in 2021](https://www.reddit.com/r/wabbajack/comments/kx6ppr/how_to_get_skyrim_legendary_edition_in_2021/)
 
-The current Roadmap & patchlist previewed in Dylans most recent stream are as follows:-  (Green Complete, Purple to do, Black Maybe needed depend on the quantity of updates)
 
-09/02/21 - roadmap update.
+SSE Status — 10/08/2021 - Currently released to staff / selected streamers for testing. 
 
-*Essentials to Do list*
-Optimazation Pass - (at least a week) of making the game smooth - In progress.
-
-File Updates - (unknown timescale - depends how many mods are mandatory) combine in any updates released since Dylan created his alpha build
-
-
-09/02/21 - Modlist updated with "Yeeting Arthmoor" version.
-
-[Mod list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change.
+[Mod list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change. (Note: this is not the build the staff are testing as there are a few changes, because i'm too busy testing it to update the document ;) )
 
 ---
 # How Do I Update to the current Version.
