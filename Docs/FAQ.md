@@ -3,7 +3,7 @@
 <!-- TOC -->
 
 - [Ultimate Skyrim FAQ](#ultimate-skyrim-faq)
-	- [Does this mod pack support SSE? When is SSE version going to be available? Where can I buy legendary Edition](#does-this-mod-pack-support-sse)
+	- [Does this mod pack support SSE/AE? When is SSE/AE version going to be available? Where can I buy legendary Edition](#does-this-mod-pack-support-sse)
 	- [How Do I Update?](#how-do-i-update-to-the-current-version)
 	- [How Do I Uninstall](#how-do-I-uninstall)
 	
@@ -122,20 +122,32 @@
 
 ## Does this mod pack support SSE?
 
-Currently, Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition. A port to SSE is in the works, but still a ways off. You can follow progress by catching the weekly streams - currently on Thursdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
+#### Does this mod pack support SSE/AE?
+Ultimate Skyrim is only for Legal copies of Skyrim Classic Edition w/ All DLC’s, otherwise known as Skyrim Legendary Edition.
 
+#### Where can I buy legendary Edition?
 You can buy Legendary Edition from one of the places linked in wabbajack's reddit post:
 
 [Wabbajack:How to get Skyrim LE in 2021](https://www.reddit.com/r/wabbajack/comments/kx6ppr/how_to_get_skyrim_legendary_edition_in_2021/)
 
+#### When is SSE/AE version going to be available?
 
-SSE Status — 10/08/2021 - Currently released to staff / selected streamers for testing. 
+Wildlander - Releplaying evolved is currently under development for Special edition, it is currently released to staff / selected streamers for beta testing. It is considered the spiritual sucessor to Ultimate skyrim, not a direct sequal or port.
 
-[Mod list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview) This is an unreleased experimental version of UltSky SE. Mods and features are subject to change. (Note: this is not the build the staff are testing as there are a few changes, because i'm too busy testing it to update the document ;) )
+You can follow progress by catching the weekly streams - currently on Thursdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
+
+It *will not* be compatible with aniversary edition at launch, but if you have already upgraded to aniversary edition - Dont panic. Dylan is looking at various solutions to allow you to play regardless.
+
+Based on the current beta build.
+> [Mod List](https://loadorderlibrary.com/lists/internal-redacted-build)
+
+> [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
+
+> [Feature list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview)
 
 ---
 # How Do I Update to the current Version.
-Please note the 4.2 is not save game compatible. Updating will require a fresh game with new MCM setup.
+Please note the 4.3 is not save game compatible. Updating will require a fresh game with new MCM setup.
 
 If Updating from a Older version than 4.0.7 - then remove your old Ultsky install folder completly -  follow the install instructions from [here](https://www.ultimateskyrim.com/ultsky-install)
 
@@ -309,6 +321,7 @@ Download the appropriate zip file for the version of Ultsky you currently have i
 * For 4.0.7 Installs https://cdn.discordapp.com/attachments/348579495537803274/823992115859947591/profiles.rar
 * For 4.1   Installs https://cdn.discordapp.com/attachments/648152435197607938/859890685175267397/4.1_profiles.rar 
 * for 4.2   Installs https://cdn.discordapp.com/attachments/648152435197607938/861579734811148358/4.2_profiles.rar
+* for 4.3   Installs https://cdn.discordapp.com/attachments/648152435197607938/909046409045606420/4.3_profiles.zip
 * Unpack the contents of the correct zip file for your installation into <install path>\content\profiles\.
 
 If you have added additional Mods - you will need to re-enable & re-organise your load order. 
