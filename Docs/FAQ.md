@@ -290,7 +290,7 @@ If Skyrim Launches from steam
 	2) Click "Additional settings..." at the bottom, then "Reset" in the window that opens.
 
 Other things which can cause this issue:-
-* ASUS GPU TweakII running at the same time as Skyrim
+* ASUS GPU TweakII, Xtrem tuner or MSI afterburner running at the same time as Skyrim
 * You have moved your "my documents" folder to a different hard drive - SKSE requires this to be on your System drive.
 * You have overlay's running (Steam, Discord, geforce experience, overwolf ect)
 
