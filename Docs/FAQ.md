@@ -132,7 +132,7 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 #### When is SSE/AE version going to be available?
 
-Wildlander - Releplaying evolved is currently under development for Special edition, it is currently released to staff / selected streamers for beta testing. It is considered the spiritual sucessor to Ultimate skyrim.
+Wildlander - Releplaying evolved is currently under development for Special edition, it is currently released to staff / selected streamers for beta testing. It is considered the spiritual successor to Ultimate skyrim.
 
 You can follow progress by catching the weekly streams - currently on Thursdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
 
