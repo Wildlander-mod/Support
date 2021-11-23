@@ -1,4 +1,4 @@
-# Ultimate Skyrim Modding Guides
+# Modding Guides
 
 If you have issues with any of the guides below - you can submit feedback here https://forms.gle/jG4DadrizsRz3bwT9
 
