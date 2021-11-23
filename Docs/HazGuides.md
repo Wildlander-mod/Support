@@ -65,7 +65,7 @@ If you install this mod mid-game, the standing stones in Skyrim will be updated,
 
 -----
 
-## **[US 4.0.4] Installing Sacrosanct - Vampires of Skyrim with Seg's patch**
+## **[Installing Sacrosanct - Vampires of Skyrim with Seg's patch**
 
 Refer to the[ Sacrosanct](https://www.nexusmods.com/skyrim/mods/80159?tab=description) page for mod features, and also see the change log for[ Segolia94's Sacrosanct-Requiem Patch v1.2](https://www.nexusmods.com/skyrim/mods/95859?tab=description) which tweaks a few minor aspects of the mod for better synergy with Requiem.
 
