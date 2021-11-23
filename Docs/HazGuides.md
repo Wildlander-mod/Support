@@ -158,13 +158,6 @@ _To install:_
 4. _Run the [Reqtificator](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/FAQ.md#reqtificator-questions). Done. (**Note: Remember to re-run both patchers if you remove IDB from your load order later on.**)_
 
 
-
-
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
-
 _*Installing **R-IDB** on an existing save: All shrines and amulets should work right off the bat, but make sure to clear any active effects from old blessings._
 
 
@@ -186,7 +179,7 @@ _To install:_
 
 _*Installing **R-IA** mid-game is not recommended._
 
-_Requiem - Standing Stone Rebalance (R-SSR) v3.6_
+### Requiem - Standing Stone Rebalance (R-SSR) v3.6
 
 **_[Mod works with US 4.0.6 HF2 out of the box]_**
 
