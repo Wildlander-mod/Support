@@ -176,22 +176,18 @@ Finally
 
 ### Wintersun - Faiths of Skyrim* [Guide updated 2021/04/02]
 
-https://www.reddit.com/r/ultimateskyrim/comments/bt3a1d/us_404_installing_wintersun_faiths_of_skyrim_with/
-
-**For 4.0.7 Onwards** replace Wintersun 3.1.5 - Seg 1.4 - Ultsky 4.0.6 HF2 v2 patch with this one Wintersun 3.1.5 - Seg 1.4 - Ultsky 407 (Thanks Plotinuz#5876)  https://drive.google.com/file/d/1hP53c8KQQz4plQGNl-qlLSpMnYFRVy0d/view?usp=sharing
+https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/HazGuides.md#installing-wintersun---faiths-of-skyrim-with-segs-patch
 ```
 Changelog:
 Enabled the scripts from the mod Alternate House of Horrors. Without the scripts activated the mod would not work.
 ```
 ### Sacrosanct - Vampires of Skyrim with Seg's patch* [Patch updated 2019/08/21]
 
-https://www.reddit.com/r/ultimateskyrim/comments/by32xk/us_404_installing_sacrosanct_vampires_of_skyrim/
+https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/HazGuides.md#installing-sacrosanct---vampires-of-skyrim-with-segs-patch
 
 ### Andromeda - Unique Standing Stones of Skyrim* [Guide updated 2020/09/15]
-
-https://www.reddit.com/r/ultimateskyrim/comments/da780b/us_40x_installing_andromeda_unique_standing/
-
-**For 4.0.7 onwards** replace Andromeda 1.0.9 - Ultsky 4.x MCM Descriptions with this one Andromeda 1.0.9 - Ultsky 4.0.7 MCM Descriptions   https://mega.nz/file/aVsl0YJa#6yaVKCFutL85qcqChc668d7udVCu8ASKO5YT9KhTBQU  
+    
+https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/HazGuides.md#installing-andromeda---unique-standing-stones-of-skyrim
 ```
 Changelog:
 - Bugfix - Removes conflict with Skyrim unbound reborn so that MCM options are not messed up.
@@ -202,23 +198,14 @@ Changelog:
 ## SNBCJ's mods
 
 Immersive Divine Blessings, Immersive Abilities, Standing Stone Rebalance, Classic Alchemy Overhaul, Classic Food and Drink. 
-    https://www.reddit.com/r/ultimateskyrim/comments/br61eo/us_404_installing_snbcjs_mods_immersive_divine/
-
-**4.0.7 Onwards needs these updates**
-
-*Requiem - Standing Stone Rebalance (R-SSR) v3.6*:  replace Ultsky 4.x R-SSR MCM Standing Stone Info with this one Requiem - Standing Stone Rebalance Ultsky 4.0.7 R-SSR MCM Standing Stone Info https://mega.nz/file/vU8TiALY#3Xx6BdDhvI58gEsp8UWNlKXconHaXAJYq3vD2GdRclk
+    https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/HazGuides.md#installing-snbcjs-mods-immersive-divine-blessings-immersive-abilities-standing-stone-rebalance
 ```
 Changelog:
 - Bugfix - Removes conflict with Skyrim unbound reborn so that MCM options are not messed up.
-```
-*Requiem - Immersive Abilities (R-IA) v8.0*:  replace R-IA 1.6 Ultsky 406 HF2 patch with this one R-Immersive Abilities 1.6 Ultsky 407 patch.7z (Thanks Plotinuz
-#5876). https://drive.google.com/file/d/1G6MP_qGJnUUKoLrzR3_BizkcelddyWWx/view?usp=sharing
-```
-Changelog:
 
-Updated Khajit and Argonian races (including vampire) to keep their Ultimate Skyrim perks.
-- Claw attack for argonian
-- Perkless lockpicking for Khajiit
+- Updated Khajit and Argonian races (including vampire) to keep their Ultimate Skyrim perks.
+    - Claw attack for argonian
+    - Perkless lockpicking for Khajiit
 ```
 ---
 
