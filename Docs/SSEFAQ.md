@@ -235,3 +235,39 @@ Eorland Graymane is the best smith in the game, and as such reserves his service
 Note: you must be at least at the stage of "Kill the werewolf hunters" for the Quest "The silver hand"
 
 ----------
+
+# **Questing Questions**
+
+## How do I start the main quest?
+
+Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
+
+----------
+
+## Why can't I obtain the dragonstone?
+
+This quest is auto completed when you kill a dragon.
+
+----------
+
+## How Do I Become Thane of Whiterun
+
+There is a new way of becoming a thane of Whiterun. Complete The Blessings of Nature quest(Danica by the Gildrergreen tree to start) and talk to Jarl Balgruuf when the Gildergreen tree is repaired\the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help the people of the hold and buy a house) will be available.
+
+----------
+
+## I can’t start the Thieves Guild through Brynjolf.
+
+**Thieves Guild Requirements** is included in the list, which requires a certain amount of pockets picked/items stolen.
+
+----------
+
+## How do I start the Dragonborn questline?
+
+Dragonborn content is available after completing "A Blade in the Dark" during the Main Quest.
+
+----------
+
+## How do I start the Undeath questline?
+
+Undeath content is available after level 30. A quest will appear in your journal with further instructions.
