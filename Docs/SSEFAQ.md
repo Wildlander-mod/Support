@@ -39,7 +39,7 @@
 ---
 # How Do I Update to the Current Version
 
-To update a Modlist, simply run Wabbajack again and get the newest list file from the Browse Modlists section. Select the same Download and Install folders you chose previously, and select the "Overwrite" option on the bottom right. Backup any changes you have made to the modlist since your original install as these will be lost. If you want to keep any mods you've added to your personal install, rename those mods to start with `[NoDelete]` to force Wabbajack to skip those files. Note that support still won't be officially provided; use this feature at your own discretion. [here](https://www.ultimateskyrim.com/ultsky-install)
+To update a Modlist, simply run Wabbajack again and get the newest list file from the Browse Modlists section. Select the same Download and Install folders you chose previously, and select the "Overwrite" option on the bottom right. Backup any changes you have made to the modlist since your original install as these will be lost. If you want to keep any mods you've added to your personal install, rename those mods to start with `[NoDelete]` to force Wabbajack to skip those files. Note that support still won't be officially provided; use this feature at your own discretion. [here](https://www.Wildlander.com/Wildlander-install)
 
 Please Note: Some Updates will require a brand new game and are not save compatible.
 
@@ -47,7 +47,7 @@ Please Note: Some Updates will require a brand new game and are not save compati
 
 We're sorry to see you leave!
 
-Uninstalling Ultsky is a simple matter of deleting the installation folder.
+Uninstalling Wildlander is a simple matter of deleting the installation folder.
 
 ---
 # Wabbajack Issues
@@ -161,6 +161,8 @@ Requiem's Gods are unforgiving of crime. Too much crime and they will no longer 
 
 Requiem disables passive health regeneration, you will need to obtain a healing poltice or a potion to regenerate health.
 
+----------
+
 ## Lights are Flickering on and off
 
 Most noticabled in Breezehome but can happen everywhere.
@@ -231,3 +233,5 @@ This is a Minor Arcana change that prevents weak characters from acquiring Vampi
 Eorland Graymane is the best smith in the game, and as such reserves his services for members of the Circle for the companions.
 
 Note: you must be at least at the stage of "Kill the werewolf hunters" for the Quest "The silver hand"
+
+----------
