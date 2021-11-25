@@ -241,11 +241,11 @@ Note: you must be at least at the stage of "Kill the werewolf hunters" for the Q
 
 ## How do I start the main quest?
 
-Kill a dragon. Make sure you’re set as Dragonborn in the Ultimate Skyrim MCM.
+Kill a dragon. 
 
 ----------
 
-## Why can't I obtain the dragonstone?
+## Why Can't I obtain the dragonstone?
 
 This quest is auto completed when you kill a dragon.
 
