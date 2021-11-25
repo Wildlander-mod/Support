@@ -7,9 +7,9 @@
 -   [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 -   [Getting a download failed on Elswaps Speed trees](#Getting-a-download-failed-on-Elswaps-Speed-trees)
 
-[**Launcher Issues**](#Current-Version-issues)
+[**Launcher Issues**](#launcher-issues)
 -   [What do the presets mean?](#what-do-the-presets-mean)
-- [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
+-   [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
 -   [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 
 [**Gameplay Questions**](https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/FAQ.md#gameplay-questions)
