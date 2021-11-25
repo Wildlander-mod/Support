@@ -1,6 +1,7 @@
 # Wildlander Questions & Answers
 ---
 [How Do I Update?](#how-do-i-update-to-the-current-version)
+
 [How Do I Uninstall?](#how-do-I-uninstall)
 
 [**Wabbajack Issues**](#Wabbajack-Issues)
