@@ -1,4 +1,6 @@
-# Wildlander Questions & Answers
+![image](https://user-images.githubusercontent.com/26418143/144291957-c00567fb-bc21-44e7-b36d-6e8453d277d7.png)
+
+# Questions & Answers
 ---
 [How Do I Update?](#how-do-i-update-to-the-current-version)
 
