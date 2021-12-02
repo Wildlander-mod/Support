@@ -269,8 +269,4 @@ There is a new way of becoming a thane of Whiterun. Complete The Blessings of Na
 
 Dragonborn content is available after completing "A Blade in the Dark" during the Main Quest.
 
-----------
 
-## How do I start the Undeath questline?
-
-Undeath content is available after level 30. A quest will appear in your journal with further instructions.
