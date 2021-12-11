@@ -88,7 +88,7 @@ Wildlander requires Aniversary edition, If you get any of the following - update
 - Unable to download SkyrimSE.exe (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrimse.exe)
 - Unable to download Data_Dawnguard.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\dawnguard.esm)
 - Unable to download Data_Dragonborn.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\dragonborn.esm)
- - Unable to download Data_HearthFires.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\hearthfires.esm)
+- Unable to download Data_HearthFires.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\hearthfires.esm)
 - Unable to download Data_Skyrim - Animations.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - animations.bsa)
 - Unable to download Data_Skyrim - Interface.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - interface.bsa)
 - Unable to download Data_Skyrim - Meshes0.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - meshes0.bsa)
@@ -142,7 +142,7 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 ## Does this pack support Ultrawide resolutions?
 Unfortunatly, the UI is not capable of supporting Fullscreen Ultrawide resolutions. the end result is as below.
 
-[!image of Ultrawide](https://images-ext-1.discordapp.net/external/9k9DqRoR6FRhhN9lDgtSPKZF8waQxM5yQx4_gqCLxXg/%3Fwidth%3D1831%26height%3D771/https/media.discordapp.net/attachments/392456419137552404/908017472660193390/unknown.png)
+[!image of Ultrawide](https/media.discordapp.net/attachments/392456419137552404/908017472660193390/unknown.png)
 
 The recommended resoltions to run from the launcher for ultrawide moniters are as follows 
 - 1. Ultrawide 5120 * 1440 :  2560 * 1440 
