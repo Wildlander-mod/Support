@@ -142,7 +142,8 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 ## Does this pack support Ultrawide resolutions?
 Unfortunatly, the UI is not capable of supporting Fullscreen Ultrawide resolutions. the end result is as below.
 
-[!image of Ultrawide](https/media.discordapp.net/attachments/392456419137552404/908017472660193390/unknown.png)
+![image](https://user-images.githubusercontent.com/26418143/145678355-6c1376e3-86de-4033-be4c-08e9b14779bd.png)
+
 
 The recommended resoltions to run from the launcher for ultrawide moniters are as follows 
 - 1. Ultrawide 5120 * 1440 :  2560 * 1440 
