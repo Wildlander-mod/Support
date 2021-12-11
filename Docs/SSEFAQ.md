@@ -9,11 +9,13 @@
 [**Wabbajack Issues**](#Wabbajack-Issues)
 -   [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 -   [Getting a download failed on Elswaps Speed trees](#Getting-a-download-failed-on-Elswaps-Speed-trees)
+-   [Getting a download failed on Original Skyrim files](#Getting-a-download-failed-on-Original-Skyrim-files)
 
 [**Launcher Issues**](#launcher-issues)
 -   [What do the presets mean?](#what-do-the-presets-mean)
 -   [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
 -   [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
+-   [Does this pack support Ultrawide resolutions](#Does-this-pack-support-Ultrawide-resolutions)
 
 [**Gameplay Questions**](https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/FAQ.md#gameplay-questions)
 -   [Can I see a list of known issues?](#Can-i-see-a-list-of-known-issues)
@@ -78,6 +80,36 @@ Sometimes wabbajack gets stuck downloading.
 
 If you are unable to download MEGA files through Wabbajack You can [download](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM) the file manually and save the Zip to the Folder you entered as your "download location" from the wabbajack interface.
 
+## Getting a download failed on Original Skyrim files
+
+Wildlander requires Aniversary edition, If you get any of the following - update your Skyrim.
+
+- Unable to download Skyrim.ccc (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim.ccc)
+- Unable to download SkyrimSE.exe (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrimse.exe)
+- Unable to download Data_Dawnguard.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\dawnguard.esm)
+- Unable to download Data_Dragonborn.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\dragonborn.esm)
+ - Unable to download Data_HearthFires.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\hearthfires.esm)
+- Unable to download Data_Skyrim - Animations.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - animations.bsa)
+- Unable to download Data_Skyrim - Interface.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - interface.bsa)
+- Unable to download Data_Skyrim - Meshes0.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - meshes0.bsa)
+- Unable to download Data_Skyrim - Meshes1.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - meshes1.bsa)
+- Unable to download Data_Skyrim - Misc.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - misc.bsa)
+- Unable to download Data_Skyrim - Shaders.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - shaders.bsa)
+- Unable to download Data_Skyrim - Sounds.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - sounds.bsa)
+- Unable to download Data_Skyrim.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim.esm)
+- Unable to download Data_Update.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\update.esm)
+- Unable to download Data_Skyrim - Textures3.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures3.bsa)
+- Unable to download Data_Skyrim - Textures5.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures5.bsa)
+- Unable to download Data_Skyrim - Textures7.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures7.bsa)
+- Unable to download Data_Skyrim - Textures8.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures8.bsa)
+- Unable to download Data_Skyrim - Textures2.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures2.bsa)
+- Unable to download Data_Skyrim - Textures4.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures4.bsa)
+- Unable to download Data_Skyrim - Textures0.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures0.bsa)
+
+If you get the following error - Validate your game files in steam, from the steam > right click > properties > Local files tab
+- Unable to download Skyrim_Default.ini (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim_default.ini)
+- 
+
 ---
 # **Launcher Issues**
 
@@ -106,6 +138,15 @@ Ensure the following:
 ## Does This mod pack Support other languages?
 
 No and if you try then SKSE crashes from Mod Organizer. You will need to install English Skyrim - Special Edition to play this modpack.
+
+## Does this pack support Ultrawide resolutions?
+Unfortunatly, the UI is not capable of supporting Fullscreen Ultrawide resolutions. the end result is as below.
+
+[!image of Ultrawide](https://images-ext-1.discordapp.net/external/9k9DqRoR6FRhhN9lDgtSPKZF8waQxM5yQx4_gqCLxXg/%3Fwidth%3D1831%26height%3D771/https/media.discordapp.net/attachments/392456419137552404/908017472660193390/unknown.png)
+
+The recommended resoltions to run from the launcher for ultrawide moniters are as follows 
+- 1. Ultrawide 5120 * 1440 :  2560 * 1440 
+- 2. Ultrawide 3840 * 1080 :  2560 * 1080 or 1920 * 1080
 
 
 # **Customization Questions**
