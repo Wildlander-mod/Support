@@ -114,13 +114,15 @@ Wildlander requires Aniversary edition, If you get any of the following - update
 
 ## What do the presets mean?
 
-Ultra - Everything on, All the bells and whistles - For "beast" PC's
+Ultra  - Everything on, All the bells and whistles - For "beast" PC's
 
-High - Reduced Draw distaces compared to Ultra, but still the full mod package.
+High   - Reduced Draw distaces compared to Ultra, but still the full mod package.
 
 Medium - Reduced Draw distaces compared to High, but still the full mod package.
 
-Potato - Stripped down lists for PC's which were build when pokemon was first released.
+Low    - No grass, no shadows, but still the full mod package.
+
+Potato - Stripped down lists for PC's which were build when oldrim was first released. 
 
 ## Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error
 
@@ -172,7 +174,7 @@ Any modifications are done at your own risk and will deny you access to support.
 
 ## Can I see a list of Known issues?
 
-Sure - Here's a [link]()
+Sure - Here's a [link](https://github.com/Wildlander-mod/Support/blob/master/Docs/KnownIssues.MD)
 
 ----------
 
