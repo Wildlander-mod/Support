@@ -82,6 +82,9 @@ If you are unable to download MEGA files through Wabbajack You can [download](ht
 
 ## Getting a download failed on Original Skyrim files
 
+If you get the following error - Validate your game files in steam, from the steam > right click > properties > Local files tab
+- Unable to download Skyrim_Default.ini (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim_default.ini)
+
 Wildlander requires Aniversary edition, If you get any of the following - update your Skyrim.
 
 - Unable to download Skyrim.ccc (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim.ccc)
@@ -105,10 +108,6 @@ Wildlander requires Aniversary edition, If you get any of the following - update
 - Unable to download Data_Skyrim - Textures2.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures2.bsa)
 - Unable to download Data_Skyrim - Textures4.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures4.bsa)
 - Unable to download Data_Skyrim - Textures0.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures0.bsa)
-
-If you get the following error - Validate your game files in steam, from the steam > right click > properties > Local files tab
-- Unable to download Skyrim_Default.ini (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim_default.ini)
-- 
 
 ---
 # **Launcher Issues**
