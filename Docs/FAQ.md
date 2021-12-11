@@ -139,7 +139,7 @@ You can follow progress by catching the weekly streams - currently on Thursdays 
 It *will not* be compatible with aniversary edition at launch, but if you have already upgraded to aniversary edition - Dont panic. Dylan is looking at various solutions to allow you to play regardless.
 
 Based on the current beta build.
-> [Mod List](https://loadorderlibrary.com/lists/internal-redacted-build)
+> [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
 
 > [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
 
