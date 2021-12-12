@@ -1,6 +1,6 @@
 # Known Issues
 
-This document will contain all of the Known issues. It excludes any graphical issues, EG Clipping textures.
+This document will contain all of the Known gameplay related issues. It excludes any graphical issues, EG Clipping textures.
 
 ---
 
