@@ -144,7 +144,8 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from out testing is as below.
 
 ![image](https://user-images.githubusercontent.com/26418143/145678355-6c1376e3-86de-4033-be4c-08e9b14779bd.png)
-![image](https://user-images.githubusercontent.com/26418143/146073735-7b9130c3-244e-4b8b-ab8a-c64cd944376f.png)
+![image](https://user-images.githubusercontent.com/26418143/146077138-966a88f8-3b23-43f0-8183-11931ffc97ef.png)
+
 
 The recommended resoltions to run from the launcher for ultrawide moniters are as follows 
 - 1. Ultrawide X by 1440 :  2560 * 1440 
