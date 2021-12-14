@@ -6,7 +6,7 @@ This document will contain all of the Known gameplay related issues. It excludes
 
 ## Character creation issues
 1) Several of the presets have options you cannot remove, E.g facepaint, scars.
-2) You cannot start as a werewolf or Vampire
+2) You cannot start as a Werewolf or Vampire
 3) Several racemenu options are mislabeled.
 
 ---
