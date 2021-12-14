@@ -141,14 +141,14 @@ Ensure the following:
 No and if you try then SKSE crashes from Mod Organizer. You will need to install English Skyrim - Special Edition to play this modpack.
 
 ## Does this pack support Ultrawide resolutions?
-Unfortunatly, the UI is not capable of supporting Fullscreen Ultrawide resolutions. the end result is as below.
+Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from out testing is as below.
 
 ![image](https://user-images.githubusercontent.com/26418143/145678355-6c1376e3-86de-4033-be4c-08e9b14779bd.png)
-
+![image](https://user-images.githubusercontent.com/26418143/146073735-7b9130c3-244e-4b8b-ab8a-c64cd944376f.png)
 
 The recommended resoltions to run from the launcher for ultrawide moniters are as follows 
-- 1. Ultrawide 5120 * 1440 :  2560 * 1440 
-- 2. Ultrawide 3840 * 1080 :  2560 * 1080 or 1920 * 1080
+- 1. Ultrawide X by 1440 :  2560 * 1440 
+- 2. Ultrawide X by 1080 :  2560 * 1080 or 1920 * 1080
 
 
 # **Customization Questions**
