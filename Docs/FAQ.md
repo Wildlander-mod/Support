@@ -132,13 +132,9 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 #### When is SSE/AE version going to be available?
 
-Wildlander - Releplaying evolved is currently under development for Special edition, it is currently released to staff / selected streamers for beta testing. It is  the successor to Ultimate skyrim.
+7Th January, 2022. 
 
-You can follow progress by catching the weekly streams - currently on Thursdays at 8pm GMT (announced on reddit, and in discord annoucement channel) or for catchup on the [youtube](https://www.youtube.com/channel/UC-Bq60LjSeYd-_uEBzae5ww) channel 
-
-It *will not* be compatible with aniversary edition at launch, but if you have already upgraded to aniversary edition - Dont panic. Dylan is looking at various solutions to allow you to play regardless.
-
-Based on the current beta build.
+Based on the current Gold build.
 > [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
 
 > [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
