@@ -12,7 +12,7 @@
 -   [Getting a download failed on Original Skyrim files](#Getting-a-download-failed-on-Original-Skyrim-files)
 
 [**Launcher Issues**](#launcher-issues)
--   [What do the presets mean?](#what-do-the-presets-mean)
+-   [What do the Dropdowns mean?](#what-do-the-Dropdowns-mean)
 -   [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
 -   [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 -   [Does this pack support Ultrawide resolutions](#Does-this-pack-support-Ultrawide-resolutions)
@@ -112,17 +112,29 @@ Wildlander requires Aniversary edition, If you get any of the following - update
 ---
 # **Launcher Issues**
 
-## What do the presets mean?
+## What do the Dropdowns mean?
 
-Ultra  - Everything on, All the bells and whistles - For "beast" PC's
+Quality Drop down
 
-High   - Reduced Draw distaces compared to Ultra, but still the full mod package.
+These are your standard Skyrim paramaters. The Graphics dropdown determines the quality of basic graphical elements, such as the draw distance of grass and shadows, the number of effects visible at once, and the quality of distant objects. These elements use a mix of CPU and GPU.
 
-Medium - Reduced Draw distaces compared to High, but still the full mod package.
+- Ultra  - Everything on, All the bells and whistles - For "beast" PC's
+- High   - Reduced Draw distaces compared to Ultra, but still the full mod package.
+- Medium - Reduced Draw distaces compared to High, but still the full mod package.
+- Low    - No grass, no shadows, but still the full mod package.
+- Potato - Stripped down lists for PC's which were build when oldrim was first released. 
 
-Low    - No grass, no shadows, but still the full mod package.
+Shaders Drop down
 
-Potato - Stripped down lists for PC's which were build when oldrim was first released. 
+These control the level of ENB Shaders being applied. The Shaders dropdown determines the quality of post-processing effects, such as environment lighting, particle lighting, ambient occlusion, sun rays, and water effects. These elements are very heavy on the GPU.
+
+- Ultra  - Default Zangdar's ENB Everything on, All the bells and whistles 
+- Medium - Zangdar ENB Performance preset 
+- Low    - Zangdar ENB Performance preset W/o Ambient Occlusion 
+- No ENB - Run without shaders at all
+
+
+
 
 ## Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error
 
