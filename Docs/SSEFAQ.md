@@ -143,7 +143,7 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 ## Does this pack support Ultrawide resolutions?
 Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from out testing is as below.
 
-* Camera issues - Too zoomed in during character creation, Streching, Fish-eye
+* Camera issues - Too zoomed in during character creation, Fish-eye camera (E.g NPC's close to you are distorted/streched)
 * UI Elements misaligned, being drawn partially off screen, some elements which should be centred far to the right or just plain missing completely
 * Blank "pop-ups" E.g Informational messages during the new game process.
 
