@@ -143,13 +143,15 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 ## Does this pack support Ultrawide resolutions?
 Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from out testing is as below.
 
+* Camera issues - Too zoomed in during character creation, Streching, Fish-eye
+* UI Elements misalighen, being drawn partially off screen or just plain missing completely
+* Blank "pop-ups" E.g Informational messages during the new game process.
+
 ![image](https://user-images.githubusercontent.com/26418143/145678355-6c1376e3-86de-4033-be4c-08e9b14779bd.png)
 ![image](https://user-images.githubusercontent.com/26418143/146077138-966a88f8-3b23-43f0-8183-11931ffc97ef.png)
 
 
-The recommended resoltions to run from the launcher for ultrawide moniters are as follows 
-- 1. Ultrawide X by 1440 :  2560 * 1440 
-- 2. Ultrawide X by 1080 :  2560 * 1080 or 1920 * 1080
+The launcher has therefore disabled any resolution known to cause the above issues, No support will be provided to allow ultrawide resultions. Any attempts by yourself to do so will be considered a unsupported custom install - this will deny you access to support.
 
 
 # **Customization Questions**
