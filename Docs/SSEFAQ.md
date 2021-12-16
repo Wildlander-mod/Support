@@ -218,8 +218,6 @@ Most noticabled in Breezehome but can happen everywhere.
 
 This is caused by Skyrim's engine limitation of 4 lightsources in a area. when you look in a area with more than 4 lightsurces they alternate/cycle and turn on and off.
 
-Only resolution is to use Cobb Positioner's to identify lightsources, and delete extra's.
-
 ----------
 
 ## Why does the NPC dialogue cut out when talking to Aela?
