@@ -132,7 +132,9 @@ You can buy Legendary Edition from one of the places linked in wabbajack's reddi
 
 #### When is SSE/AE version going to be available?
 
-7Th January, 2022. 
+Annoucement Trailer - https://youtu.be/-8MYFRBJX8U 
+
+Release date: 7Th January, 2022. 
 
 Based on the current Gold build.
 > [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
