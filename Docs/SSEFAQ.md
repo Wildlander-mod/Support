@@ -6,6 +6,8 @@
 
 [How Do I Uninstall?](#how-do-I-uninstall)
 
+[Can I remove the downloads Folder?](#Can-I-remove-the-downloads-folder)
+
 [**Wabbajack Issues**](#Wabbajack-Issues)
 -   [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 -   [Getting a download failed on Elswaps Speed trees](#Getting-a-download-failed-on-Elswaps-Speed-trees)
@@ -53,6 +55,12 @@ Please Note: Some Updates will require a brand new game and are not save compati
 We're sorry to see you leave!
 
 Uninstalling Wildlander is a simple matter of deleting the installation folder.
+
+# Can I remove the downloads Folder?
+
+Yes - But if you want to install a update, or repair your install - you would need to redownload all 500+ Mods. 
+
+You can however safely move your download folder to another harddrive.
 
 ---
 # Wabbajack Issues
