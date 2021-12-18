@@ -91,31 +91,31 @@ If you are unable to download MEGA files through Wabbajack You can [download](ht
 ## Getting a download failed on Original Skyrim files
 
 If you get the following error - Validate your game files in steam, from the steam > right click > properties > Local files tab
-- Unable to download Skyrim_Default.ini (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim_default.ini)
+- Unable to download Skyrim_Default.ini 
 
 Wildlander requires Aniversary edition, If you get any of the following - update your Skyrim.
 
-- Unable to download Skyrim.ccc (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrim.ccc)
-- Unable to download SkyrimSE.exe (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|skyrimse.exe)
-- Unable to download Data_Dawnguard.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\dawnguard.esm)
-- Unable to download Data_Dragonborn.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\dragonborn.esm)
-- Unable to download Data_HearthFires.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\hearthfires.esm)
-- Unable to download Data_Skyrim - Animations.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - animations.bsa)
-- Unable to download Data_Skyrim - Interface.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - interface.bsa)
-- Unable to download Data_Skyrim - Meshes0.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - meshes0.bsa)
-- Unable to download Data_Skyrim - Meshes1.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - meshes1.bsa)
-- Unable to download Data_Skyrim - Misc.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - misc.bsa)
-- Unable to download Data_Skyrim - Shaders.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - shaders.bsa)
-- Unable to download Data_Skyrim - Sounds.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - sounds.bsa)
-- Unable to download Data_Skyrim.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim.esm)
-- Unable to download Data_Update.esm (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\update.esm)
-- Unable to download Data_Skyrim - Textures3.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures3.bsa)
-- Unable to download Data_Skyrim - Textures5.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures5.bsa)
-- Unable to download Data_Skyrim - Textures7.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures7.bsa)
-- Unable to download Data_Skyrim - Textures8.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures8.bsa)
-- Unable to download Data_Skyrim - Textures2.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures2.bsa)
-- Unable to download Data_Skyrim - Textures4.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures4.bsa)
-- Unable to download Data_Skyrim - Textures0.bsa (GameFileSourceDownloader+State|SkyrimSpecialEdition|1.6.323.0|data\skyrim - textures0.bsa)
+- Unable to download Skyrim.ccc 
+- Unable to download SkyrimSE.exe 
+- Unable to download Data_Dawnguard.esm 
+- Unable to download Data_Dragonborn.esm 
+- Unable to download Data_HearthFires.esm 
+- Unable to download Data_Skyrim - Animations.bsa 
+- Unable to download Data_Skyrim - Interface.bsa
+- Unable to download Data_Skyrim - Meshes0.bsa
+- Unable to download Data_Skyrim - Meshes1.bsa 
+- Unable to download Data_Skyrim - Misc.bsa 
+- Unable to download Data_Skyrim - Shaders.bsa 
+- Unable to download Data_Skyrim - Sounds.bsa 
+- Unable to download Data_Skyrim.esm
+- Unable to download Data_Update.esm 
+- Unable to download Data_Skyrim - Textures3.bsa 
+- Unable to download Data_Skyrim - Textures5.bsa 
+- Unable to download Data_Skyrim - Textures7.bsa
+- Unable to download Data_Skyrim - Textures8.bsa 
+- Unable to download Data_Skyrim - Textures2.bsa 
+- Unable to download Data_Skyrim - Textures4.bsa 
+- Unable to download Data_Skyrim - Textures0.bsa 
 
 ---
 # **Launcher Issues**
