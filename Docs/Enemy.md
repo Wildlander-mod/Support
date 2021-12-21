@@ -20,8 +20,9 @@
 -   stamina 25
 -   Speed: 100
 -   Unarmed: 7.5
- 	**Strengths**
--   frost resist: 50
+
+    **Strengths**
+	 - frost resist: 50
 
 **Cow**
 -   health:150   
@@ -66,8 +67,9 @@
 -   stamina: 50 
 -   speed: 100
 -   Unarmed: 5
-	**Strengths**
-	* generally diseased 
+
+    **Strengths**
+	 - generally diseased 
     
 
 **Horker**
@@ -76,12 +78,14 @@
 -   stamina: 185
 -   speed: 100
 -   Unarmed: 35
-	**Strengths**    
-	-   knockdown immunity
-	-   resist frost: 50%
-	-   waterbreathing
-	**Weaknesses**
-	-   These guys are slow as all hell. just go in close to bait an attack, dodge or block and than attack. rinse and repeat
+
+     **Strengths**    
+	 - knockdown immunity
+	 - resist frost: 50%
+	 - waterbreathing
+
+     **Weaknesses**
+	 - These guys are slow as all hell. just go in close to bait an attack, dodge or block and than attack. rinse and repeat
     
 
 ## Wolves
@@ -123,6 +127,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 -   speed: 100   
 -   Unarmed: 10   
 -   armor rating: 400
+
     **Strengths**    
 	-   waterbreathing
     
@@ -134,7 +139,8 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 -   speed: 100    
 -   Unarmed: 35    
 -   armor rating: 550
-    **Strengths**  
+
+    **Strengths**    
 	-   waterbreathing
     
 
@@ -145,6 +151,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 -   speed: 100
 -   Unarmed: 60
 -   armor rating: 600
+
     **Strengths**  
 	-   armor pen: 75%
 	-   arrow resist: 80%
@@ -158,6 +165,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 -   speed: 60
 -   Unarmed: 610
 -   armor rating: 1150
+
     **Strengths**      
 	-   armor pen: 75%
 	-   arrow resist: 70%   
@@ -175,6 +183,7 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 -   stamina: 395   
 -   speed: 110
 -   Unarmed: 60
+
     **Strengths**         
 	-   armor pen: 25%    
 	-   knockdown immunity
@@ -187,6 +196,7 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 -   stamina: 395  
 -   speed: 110
 -   Unarmed: 60
+
     **Strengths**         
 	-   armor pen: 25%    
 	-   knockdown immunity
@@ -199,6 +209,7 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 -   stamina: 505
 -   speed: 110
 -   Unarmed: 60
+
     **Strengths**         
 	-   armor pen: 25%    
 	-   knockdown immunity
@@ -215,7 +226,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   stamina: 200
 -   speed: 175
 -   Unarmed: 55
-    **Strengths**        
+
+     **Strengths**        
 	-   armor pen: 25%
 	-  Knockdown charge attack
     
@@ -226,6 +238,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   stamina: 250   
 -   speed:175   
 -   Unarmed: 55
+
     **Strengths**        
 	-   resist frost: 50%
 	-   armor pen: 25%
@@ -240,6 +253,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   stamina: 30
 -   speed: 100  
 -   Unarmed: 5   
+
     **Strengths**   
 	-   waterbreathing
     
@@ -250,7 +264,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   stamina: 3030
 -   speed: 150
 -   Unarmed: 10000000.00
-     **Strengths**   
+
+    **Strengths**   
 	-   waterbreathing
 	-   armor pen: 75%
 	-   arrow resist: 70% 
@@ -263,6 +278,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   stamina: 3030
 -   speed: 150
 -   Unarmed: 10000000.00
+    
     **Strengths**   
 	-   waterbreathing
 	-   arrow resist: 70%
@@ -277,16 +293,18 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   stamina: 
 -   speed: 
 -   unarmed damage: 60
+    
     **Strengths**   
 	-   armor pen: 25%
 	-   restore health: 60/s
-    -   Frost Resist : 25
+    	-   Frost Resist : 25
 	-   Shock Resist : 0%
 	-   Poison Resist : 0%
 	-   Arrows resistant: 40% arrow reduction
-	**Weaknesses**
-		-   weakness to fire:50%
-		-   taking fire damage halts health restoration
+
+     **Weaknesses**
+	-   weakness to fire:50%
+	-   taking fire damage halts health restoration
 
 **Frost Troll**
 -   Health: 550
@@ -294,6 +312,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Unarmed damage: 65
+
     **Strengths**   
 	-   armor pen: 25%
 	-   restore health: 80/s
@@ -301,9 +320,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 	-   Shock Resist : 0%
 	-   Poison Resist : 0%
 	-   Arrows resistant: 40% arrow reduction
-	**Weaknesses**
-		-   weakness to fire:50%
-		-   taking fire damage halts health restoration
+
+    **Weaknesses**
+	-   weakness to fire:50%
+	-   taking fire damage halts health restoration
 
 ## Spriggan
 **Spriggan**
@@ -312,8 +332,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
 
 **Spriggan Matron**
 -   Health: 
@@ -321,8 +343,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**     
     
 **Spriggan Earthmother**
 -   Health: 
@@ -330,8 +354,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
     
 ## Hagraven
 -   Health: 
@@ -339,8 +365,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**     
 
 ## Dwemer
 
@@ -350,7 +378,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
+   
+   **Strengths**   
 -   Fire Resist : 80%
 -   Frost Resist : 80%
 -   Shock Resist : 25%
@@ -363,7 +392,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
+   
+   **Strengths**   
 -   Fire Resist : 80%
 -   Frost Resist : 80%
 -   Shock Resist : 25%
@@ -376,7 +406,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
+   
+   **Strengths**   
 -   Fire Resist : 80%
 -   Frost Resist : 80%
 -   Shock Resist : 25%
@@ -389,8 +420,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
     
 **Malfunctioning Sphere**
 -   Health: 
@@ -398,8 +431,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
 
 ## Falmer
 -   Health: 
@@ -407,11 +442,12 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+
     **Strengths**   
--   Fire Resist : -20% 
--   Frost Resist : 0%
--   Shock Resist : 0%
--   Poison Resist : 75%
+	-   Fire Resist : -20% 
+	-   Frost Resist : 0%
+	-   Shock Resist : 0%
+	-   Poison Resist : 75%
 
 ## Chaurus 
 
@@ -421,8 +457,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
     
 ## Frostbite Spiders
 **Baby**
@@ -431,8 +469,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
     
 **Tiny**
 -   Health: 
@@ -440,8 +480,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**    
     
 **Standard**
 -   Health: 
@@ -449,8 +491,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
     
 **Large**
 -   Health: 
@@ -458,8 +502,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**   
     
 **Giant**
 -   Health: 
@@ -467,24 +513,28 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+  
+   **Weaknesses**    
 
     
 ## Undead
-**[ Draugrs (normal) ]**
+**Draugrs (normal)**
 -   Health: 
 -   Magicka: 
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
-		-   Frost Resist : 85%
-		-   Shock Resist : 50%
-		-   Poison Resist : 100%
+	-   Frost Resist : 85%
+	-   Shock Resist : 50%
+	-   Poison Resist : 100%
+	
     **Weaknesses**  
-	    - Silver
-	    -   Fire Resist : -50%
+    - Silver
+    - Fire Resist : -50%
 
 **[ Draugrs (magic) ]** (Magic using ones)
 -   Health: 
@@ -492,11 +542,13 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+	
 	**Strengths**   
 		-   Fire Resist : 0%    
 		-   Frost Resist : 100%
 		-   Shock Resist : 0%
 		-   Poison Resist : 100%
+	
 	**Weaknesses**  
 	- Silver
 
@@ -507,7 +559,9 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
+    
     **Weaknesses**   
 
 **Mammoth**
@@ -516,7 +570,9 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+   
     **Strengths**   
+    
     **Weaknesses**   
 
 ## Atronach
@@ -526,7 +582,9 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
+    
     **Weaknesses**   
     
 **Storm**
@@ -535,7 +593,9 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
+    
     **Weaknesses**   
     
 **Ice**
@@ -544,7 +604,9 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
+    
     **Weaknesses**   
 
 ## Riekling
@@ -555,7 +617,9 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
+    
     **Weaknesses**   
 
 ## Soultorn Entity
@@ -579,7 +643,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 	-   fire resistance: 85
 	-   armor rating: 600 or 72% reduction perks
 
-	**Weaknesses**
+     **Weaknesses**
 	-   physical damage
 	-   melee
 
@@ -590,13 +654,15 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
--   Fire Resist :   90
--   Frost Resist : -75
--   Shock Resist : 0%
--   Poison Resist : 0%
+	-   Fire Resist :   90
+	-   Frost Resist : -75
+	-   Shock Resist : 0%
+	-   Poison Resist : 0%
+    
     **Weaknesses**   
-    -Frost Damage
+    	-Frost Damage
     
 **Frost**
 -   Health: 
@@ -604,13 +670,15 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
--   Fire Resist :   90/-75%
--   Frost Resist : -75/90%
--   Shock Resist : 0%
--   Poison Resist : 0%
+   
+   **Strengths**   
+	-   Fire Resist :   90/-75%
+	-   Frost Resist : -75/90%
+	-   Shock Resist : 0%
+	-   Poison Resist : 0%
+    
     **Weaknesses**   
-    -Fire Damage
+   	-   Fire Damage
     
 ## Dragon Priests
 -   Health: 
@@ -618,12 +686,14 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
 	-   Fire Resist : 50%
 	-   Frost Resist : 90%
 	-   Shock Resist : 85%
 	-   Poison Resist : 100%
 	-   restore health: Bonkers!
+    
     **Weaknesses**   
     -  Sun spells 
 
@@ -634,8 +704,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **Ulik** : Giant Troll
 -   Health: 
@@ -643,8 +715,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **Kru'ul** : Giant Frost Troll
 -   Health: 
@@ -652,8 +726,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**    
     
 **Giant Slaughterfish** : 
 -   Health: 
@@ -661,8 +737,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **(Giant Chaurus Reaper)** :
 -   Health: 
@@ -670,8 +748,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **Mudcrab King** : Giant Mudcrab
 -   Health: 
@@ -679,8 +759,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**    
     
 **Ragnok** : A Frost Giant
 -   Health: 
@@ -688,8 +770,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **Gorak the Trollslayer** : Named Giant
 -   Health: 
@@ -697,8 +781,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**    
     
 **Nimhe** : Named giant Frostbite Spider
 -   Health: 
@@ -706,8 +792,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**    
     
 **Karstaag** : Powerful ghostly Frost Giant.
 -   Health: 
@@ -715,8 +803,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **The Pale Lady** : Named Wispmother.
 -   Health: 
@@ -724,8 +814,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
+    
     **Strengths**   
 	    - Immune to Paralysis
+    
     **Weaknesses**   
     
 **Thunder** : Giant Storm Atronach
@@ -743,8 +835,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
     
 **Ron the Crow**: Human Bandit.
 -   Health: 
@@ -752,8 +846,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
 
 **Elsi the Spiker**:Human Bandit.
 -   Health: 
@@ -761,8 +857,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
+   
+   **Strengths**   
+    
+   **Weaknesses**   
 
 ** Mistress of the Dark** Shadow Banshee
 -   Health: 
@@ -770,7 +868,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Stamina: 
 -   Speed: 
 -   Damage: 
-    **Strengths**   
-    **Weaknesses**   
-
+   
+   **Strengths**   
+    
+   **Weaknesses**   
 
