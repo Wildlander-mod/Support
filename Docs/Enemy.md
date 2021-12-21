@@ -295,16 +295,16 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   unarmed damage: 60
     
     **Strengths**   
-	- armor pen: 25%
-	- restore health: 60/s
-    	- frost Resist : 25
-	- Shock Resist : 0%
-	- Poison Resist : 0%
-	- Arrows resistant: 40% arrow reduction
+    - Armor pen: 25%
+    - Restore health: 60/s
+    - Frost Resist : 25
+    - Shock Resist : 0%
+    - Poison Resist : 0%
+    - Arrows resistant: 40% arrow reduction
 
      **Weaknesses**
-	-   weakness to fire:50%
-	-   taking fire damage halts health restoration
+	-   Weakness to fire:50%
+	-   Taking fire damage halts health restoration
 
 **Frost Troll**
 -   Health: 550
@@ -314,16 +314,16 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Unarmed damage: 65
 
     **Strengths**   
-	-   armor pen: 25%
-	-   restore health: 80/s
-	-   resist frost: 33%
+	-   Armor pen: 25%
+	-   Restore health: 80/s
+	-   Resist frost: 33%
 	-   Shock Resist : 0%
 	-   Poison Resist : 0%
 	-   Arrows resistant: 40% arrow reduction
 
     **Weaknesses**
-	-   weakness to fire:50%
-	-   taking fire damage halts health restoration
+	-   Weakness to fire: 50%
+	-   Taking fire damage halts health restoration
 
 ## Spriggan
 **Spriggan**
@@ -334,6 +334,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
    
    **Strengths**   
+-   Sneak Attack Immune  
   
    **Weaknesses**   
 
@@ -345,6 +346,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
    
    **Strengths**   
+-   Sneak Attack Immune
   
    **Weaknesses**     
     
@@ -356,7 +358,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
    
    **Strengths**   
-  
+-   Sneak Attack Immune
+ 
    **Weaknesses**   
     
 ## Hagraven
@@ -384,6 +387,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Frost Resist : 80%
 -   Shock Resist : 25%
 -   Poison Resist : 100%
+-   Sneak Attack Immune
     **Weaknesses**   
     
 **Sphere**
@@ -398,6 +402,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Frost Resist : 80%
 -   Shock Resist : 25%
 -   Poison Resist : 100%
+-   Sneak Attack Immune
     **Weaknesses**   
     
 **Spider**
@@ -412,6 +417,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Frost Resist : 80%
 -   Shock Resist : 25%
 -   Poison Resist : 100%
+-   Sneak Attack Immune
     **Weaknesses**   
     
 **Enchanted sphere**
@@ -422,7 +428,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
    
    **Strengths**   
-  
+-   Sneak Attack Immune
+
    **Weaknesses**   
     
 **Malfunctioning Sphere**
@@ -433,7 +440,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
    
    **Strengths**   
-  
+-   Sneak Attack Immune
+
    **Weaknesses**   
 
 ## Falmer
@@ -459,6 +467,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
    
    **Strengths**   
+   -   Sneak Attack Immune
   
    **Weaknesses**   
     
@@ -552,6 +561,47 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 	**Weaknesses**  
 	- Silver
 
+**Skeletons**
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed: 
+-   Damage: 
+    
+    **Strengths**   
+    -   Sneak Attack Immune    
+    
+    **Weaknesses**  
+    - Silver
+
+
+**Death Hounds**
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed: 
+-   Damage: 
+    
+    **Strengths**   
+    -   Sneak Attack Immune    
+    
+    **Weaknesses**  
+    - Silver
+
+**Vampires**
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed: 
+-   Damage: 
+    
+    **Strengths**   
+    - Sneak Attack Immune    
+    - Minor Knockdown Immunity
+    
+    **Weaknesses**  
+    - Silver
+
 ## Giant Camps
 **Giant**
 -   Health: 
@@ -584,7 +634,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
     
     **Strengths**   
-    
+    - Sneak Attack Immune
+
     **Weaknesses**   
     
 **Storm**
@@ -595,7 +646,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
     
     **Strengths**   
-    
+    - Sneak Attack Immune
+
     **Weaknesses**   
     
 **Ice**
@@ -606,6 +658,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
     
     **Strengths**   
+    - Sneak Attack Immune
     
     **Weaknesses**   
 
@@ -619,7 +672,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
     
     **Strengths**   
-    
+    -   Sneak Attack Immune 
+ 
     **Weaknesses**   
 
 ## Soultorn Entity
@@ -688,11 +742,12 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Damage: 
     
     **Strengths**   
-	-   Fire Resist : 50%
-	-   Frost Resist : 90%
-	-   Shock Resist : 85%
-	-   Poison Resist : 100%
-	-   restore health: Bonkers!
+    -   Fire Resist : 50%
+    -   Frost Resist : 90%
+    -   Shock Resist : 85%
+    -   Poison Resist : 100%
+    -   restore health: Bonkers!
+    -   Sneak Attack Immune
     
     **Weaknesses**   
     -  Sun spells 
