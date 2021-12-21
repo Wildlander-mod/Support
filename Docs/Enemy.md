@@ -295,12 +295,12 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   unarmed damage: 60
     
     **Strengths**   
-	-   armor pen: 25%
-	-   restore health: 60/s
-    	-   Frost Resist : 25
-	-   Shock Resist : 0%
-	-   Poison Resist : 0%
-	-   Arrows resistant: 40% arrow reduction
+	- armor pen: 25%
+	- restore health: 60/s
+    	- frost Resist : 25
+	- Shock Resist : 0%
+	- Poison Resist : 0%
+	- Arrows resistant: 40% arrow reduction
 
      **Weaknesses**
 	-   weakness to fire:50%
