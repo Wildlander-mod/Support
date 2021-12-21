@@ -458,19 +458,39 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 	-   Poison Resist : 75%
 
 ## Chaurus 
-
-## Wispmother
+**Chaurus Reaper**
 -   Health: 
 -   Magicka: 
 -   Stamina: 
--   Speed: 
+-   Speed:   100
 -   Damage: 
    
    **Strengths**   
-   -   Sneak Attack Immune
   
    **Weaknesses**   
-    
+   
+**Chaurus**
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed:  100
+-   Damage: 
+   
+   **Strengths**   
+  
+   **Weaknesses**      
+   
+**Chaurus Hunter**
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed:  100
+-   Damage: 
+   
+   **Strengths**   
+  
+   **Weaknesses**    
+       
 ## Frostbite Spiders
 **Baby**
 -   Health: 
@@ -545,7 +565,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
     - Silver
     - Fire Resist : -50%
 
-**[ Draugrs (magic) ]** (Magic using ones)
+** Draugrs (magic)** 
 -   Health: 
 -   Magicka: 
 -   Stamina: 
@@ -572,6 +592,19 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
     -   Sneak Attack Immune    
     
     **Weaknesses**  
+    - Silver
+
+**Wispmother**
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed:    90
+-   Damage: 
+   
+   **Strengths**   
+   -   Sneak Attack Immune
+  
+   **Weaknesses**   
     - Silver
 
 
@@ -703,10 +736,10 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 
 ## Dragons
 **Fire**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
+-   Health:  Varies
+-   Magicka: Varies
+-   Stamina: Varies
+-   Speed:   100
 -   Damage: 
     
     **Strengths**   
@@ -714,31 +747,33 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 	-   Frost Resist : -75
 	-   Shock Resist : 0%
 	-   Poison Resist : 0%
+	-   Armor pen: 30  
     
     **Weaknesses**   
-    	-Frost Damage
+    -Frost Damage
     
 **Frost**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
+-   Health:  Varies
+-   Magicka: Varies
+-   Stamina: Varies 
+-   Speed:   100
+-   Damage:  Frost Damage
    
    **Strengths**   
-	-   Fire Resist :   90/-75%
-	-   Frost Resist : -75/90%
-	-   Shock Resist : 0%
-	-   Poison Resist : 0%
+   -   Fire Resist :   90/-75%
+   -   Frost Resist : -75/90%
+   -   Shock Resist : 0%
+   -   Poison Resist : 0%
+   -   Armor pen: 30  
     
-    **Weaknesses**   
-   	-   Fire Damage
+   **Weaknesses**   
+   -   Fire Damage
     
 ## Dragon Priests
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
+-   Health:  Varies
+-   Magicka: Varies
+-   Stamina: Varies 
+-   Speed:   100
 -   Damage: 
     
     **Strengths**   
