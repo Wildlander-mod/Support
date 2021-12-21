@@ -388,6 +388,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Shock Resist : 25%
 -   Poison Resist : 100%
 -   Sneak Attack Immune
+-   90% resistance to physical damage.
+
     **Weaknesses**   
     
 **Sphere**
@@ -403,6 +405,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Shock Resist : 25%
 -   Poison Resist : 100%
 -   Sneak Attack Immune
+-   75% resistance to physical damage.
+
     **Weaknesses**   
     
 **Spider**
@@ -418,6 +422,8 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 -   Shock Resist : 25%
 -   Poison Resist : 100%
 -   Sneak Attack Immune
+-   75% resistance to physical damage.
+
     **Weaknesses**   
     
 **Enchanted sphere**
@@ -668,6 +674,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
     
     **Strengths**   
     - Sneak Attack Immune
+    - Fire Resist : 100%
 
     **Weaknesses**   
     
@@ -680,6 +687,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
     
     **Strengths**   
     - Sneak Attack Immune
+    - Shock Resist : 100% 
 
     **Weaknesses**   
     
@@ -692,6 +700,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
     
     **Strengths**   
     - Sneak Attack Immune
+    - Frost Resist : 100%
     
     **Weaknesses**   
 
@@ -708,6 +717,18 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
     -   Sneak Attack Immune 
  
     **Weaknesses**   
+    
+## Dremora  
+-   Health: 
+-   Magicka: 
+-   Stamina: 
+-   Speed: 
+-   Damage: 
+   
+   **Strengths**   
+   - Fire Resist : 100% 
+    
+   **Weaknesses**  
 
 ## Soultorn Entity
 -   health: 
