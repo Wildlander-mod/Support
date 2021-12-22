@@ -1,6 +1,6 @@
-#References
+# References
 
-##Resistances list
+## Resistances list
 
 List of basic resistances used in Skyrim.
 |Type 	|	Cap|
