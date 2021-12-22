@@ -141,6 +141,7 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 Wild prey are usually not hostile unless attacked or if one gets to close.
 
 **Bats**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -159,6 +160,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Clam**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -177,6 +179,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Deer**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -195,6 +198,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player|  |
 
 **Vale Deer** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -213,6 +217,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Elk**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -231,6 +236,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Wild Goat**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -249,6 +255,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Rabbit**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -267,6 +274,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Fox & Snow Fox**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -285,6 +293,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Mammoth**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -303,6 +312,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Hawk**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -321,6 +331,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Pearl Oyster** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -339,6 +350,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Bone Hawk** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -357,6 +369,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Bristleback** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -375,6 +388,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Dusty** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -393,6 +407,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Felsaad Tern** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -411,6 +426,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Betty Netch**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -429,6 +445,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Bull Netch** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -447,6 +464,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| |
 
 **Netch Calf** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -467,6 +485,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 ## Predators
 
 **Skeever**
+
  *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -487,6 +506,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 ---
 
 **Horker**
+
  *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -505,7 +525,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 
  *Resistances*
 |Type  | Protection | 
-|--|--|--|
+|--|--|
 |Frost  | 50% |  
 |Knock Down| Immune |  
 
@@ -585,6 +605,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 These guys are fast, but any ranged attack can kill them before they get you. Just before they leap, dodge to the side. Its tricky at first but with practice you can do it almost everytime. If not you can try to bash them mid air.
     
 **Wolf**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -603,7 +624,9 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Can Knockdown Player| |
 
 ---
+
 **Ice Wolf**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -622,7 +645,9 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Can Knockdown Player| |
 
 ---
+
 **Pit Wolf**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -645,6 +670,7 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 Mudcrabs are slow and have a small attack range. you that too your advantage. dont underestimate the large ones, they pack quite a punch. 
 
 **Mudcrab Small**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -664,6 +690,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 
 ---
 **Mudcrab Large**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -683,6 +710,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 
 ---
 **Mudcrab Giant**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -706,6 +734,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 These guys are like the heavy armor versions of wolves. high health and high mass. If you dont dodge their charge attack you will get knocked down unless wearing heavy armor. Either dodge or block that attack. every now and then they will stand on 2 legs and roar. Use this to your advantage and burst them down.
 
 **Standard**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -725,7 +754,7 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 
  *Resistances*
 |Type  | Protection | 
-|--|--|--|
+|--|--|
 |Knock Down| Minor |  
 
 ---
@@ -749,9 +778,9 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 |Can Knockdown Player| Yes |
 
  *Resistances*
-|Type  | Protection | Weakness|
-|--|--|--|
-|Knock Down| Minor |  |
+|Type  | Protection | 
+|--|--|
+|Knock Down| Minor |  
 
 
 ---
@@ -775,15 +804,16 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 |Can Knockdown Player| Yes |
 
  *Resistances*
-|Type  | Protection | Weakness|
-|--|--|--|
-|Knock Down| Minor |  |
+|Type  | Protection | 
+|--|--|
+|Knock Down| Minor |  
 
 ###Cats
 
 Imagine bears that are faster than wolves. They have a knockdown charge attack that you must dodge or block because they will kill you quickly as you get up.
 
 **Standard**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -810,6 +840,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 
 ---
 **Snow**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -829,6 +860,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 
 ---
 **Vale**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -851,6 +883,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 Trolls are large, ape-like creatures with three eyes, and their usual loot is only Troll Fat inside a bowl. Trolls inhabit most of Skyrim, but they are uncommon. Two types of trolls can be found, regular and Frost trolls. Frost trolls, as their name suggests, live in colder regions with snow.
 
 **Standard**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -871,6 +904,7 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 ---
 
 **Frost**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -891,6 +925,7 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 ---
 
 **Armoured**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -913,6 +948,7 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 Chaurus are worm-like insectoid creatures that typically live underground in caves and even in Dwemer ruins. They are deadly creatures, possessing the ability to spit out poisonous venom from their mouths, but they also use bite attacks during combat. Chaurus are almost always seen with Falmer in the underground cave networks and Dwemer ruins of Skyrim. The Chaurus appear to be used by the Falmer as pets and as fighters in combat, as well as torturers of people when their Falmer masters attack and capture bandits, traveling caravans and other people. 
 
 **Chaurus **
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -932,6 +968,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 
 ---
 **Chaurus Reaper **
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -951,6 +988,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 
 ---
 **Chaurus Worker **
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -970,6 +1008,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 
 ---
 **Chaurus Hunter **
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -995,6 +1034,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. They shoot balls of poisonous web, and can range in size from smaller than the Dragonborn to bigger. 
 
 **Baby**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1014,6 +1054,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 
 ---
 **TIny**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1033,6 +1074,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 
 ---
 **Standard**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1052,6 +1094,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 
 ---
 **Wounded Giant**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1071,6 +1114,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 
 ---
 **Giant**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1094,6 +1138,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 Spriggan are tree-like humanoid creatures, always female. Matrons tend to be harder to defeat than the usual Spriggan, with their heavier armor and more powerful magics. They are guardians of nature, and specific groups follow either Kynareth or Meridia. 
 
 **Spriggan**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1114,6 +1159,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 
 ---
 **Spriggan Matron**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1134,6 +1180,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 
 ---
 **Spriggan Earth Mother**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1154,6 +1201,23 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 
 ---
 **Burnt Spriggan** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
 
 ##Giants
 **Standard**
@@ -1184,11 +1248,9 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 
  *Resistances*
 |Type  | Protection |
-|--|--|--|
-|Poison  | 60% |  |
-|Knock Down| Minor |  |
-
-**Explotable Weaknesses**
+|--|--|
+|Poison  | 60% |  
+|Knock Down| Minor |  
 
 ---
 **Frost**
@@ -1214,6 +1276,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 Hagravens are a mix of an old crone and a crow, and are exclusively female. They are often called witches, and many serve the Forsworn as Matriarchs. 
 
 **Standard**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1260,6 +1323,7 @@ Hagravens are a mix of an old crone and a crow, and are exclusively female. They
 ###Dragur
 
 **Melee** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1280,6 +1344,7 @@ Hagravens are a mix of an old crone and a crow, and are exclusively female. They
 ---
 
 **Caster** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1300,6 +1365,7 @@ Hagravens are a mix of an old crone and a crow, and are exclusively female. They
 ---
 
 **Boss**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1322,6 +1388,7 @@ Hagravens are a mix of an old crone and a crow, and are exclusively female. They
 Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meridia's Temple on Mount Kilkreath. 
 
 **Corrupted Shade** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1341,6 +1408,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 
 ---
 **Malkoran's Shade**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1399,6 +1467,7 @@ Skeletons are skeletal, humanoid beings who usually use bows as their offense. S
 |Can Knockdown Player| |
 
 **Death Hound**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1422,6 +1491,7 @@ Skeletons are skeletal, humanoid beings who usually use bows as their offense. S
 Wisps are glowing, spherical creatures flying around that will attack the Dragonborn. They are usually near their mother, the Wispmother, who is a female, glowing humanoid being that is difficult to defeat. Shades are creatures different from the creature type shades, as they are ghostly apparitions conjured by a Wispmother.
 
 **Wisp** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1654,7 +1724,9 @@ Though Automatons are not entirely creatures, Dwarven Automatons range in size f
 **Ash Guardian**
 
 ##Dragons
+
 **Fire**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -1689,7 +1761,7 @@ Though Automatons are not entirely creatures, Dwarven Automatons range in size f
 |AP| None |
 |Health Regeneration| Yes  |
 | Diseased |  |
-|Can Knockdown Player| |**Karstaag Ghost Frost Giant![image](https://user-images.githubusercontent.com/26418143/147154807-39e09830-d8fc-4782-849c-472ecc8aefac.png)
+|Can Knockdown Player| |
 
 ##Bosses
 **Snow** : Giant Snowy Sabrecat
@@ -1726,9 +1798,7 @@ Though Automatons are not entirely creatures, Dwarven Automatons range in size f
     
 **Ron the Crow**: Human Bandit.
 
-
 **Elsi the Spiker**:Human Bandit.
-
 
 **Mistress of the Dark** Shadow Banshee
 
