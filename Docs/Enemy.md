@@ -1,4 +1,6 @@
-Resistances list
+#References
+
+##Resistances list
 
 List of basic resistances used in Skyrim.
 |Type 	|	Cap|
@@ -16,7 +18,7 @@ About AR (Armor Resistance) Values
   -  The AR cap applies after applying AP.
 
  
-Damage Types
+## Damage Types
 
 Damage Types implemented by Requiem. Weapons are assigned one damage type, and Creatures are Sometimes given extra Damage Type Resistances that function as extra Armor Rating against each damage types.
 
