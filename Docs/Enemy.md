@@ -1,986 +1,1738 @@
-## Docile Animals
+Resistances list
 
-**Deer:**
--   Health:225
--   Magicka: 0
--   Stamina: 25
--   unarmed: 5
--   speed: 160
+List of basic resistances used in Skyrim.
+|Type 	|	Cap|
+|--|--|
+|Damage (Armor Rating)| 	 	80%
+|Poison| 	 	90%
+|Fire  |	 	90%
+|Frost |	 	90%
+|Shock |	 	90%
+|Magic |	 	90%
 
-**Elk**
--   unarmed: 30  
--   health: 400
--   Magicka: 0
--   Stamina 500
--   speed: 150
+About AR (Armor Resistance) Values
+  -  1 point reduces incoming physical damage by 0.1%. So 800 AR will reach the 80% cap when not considering Armor Penetration.
+  -  1 point of Armor Penetration (AP) effectively reduces target AR by 1%. This means striking target with 500 AR with 10 AP makes the effective AR 450, making the target take 45% reduced damage not 50%.
+  -  The AR cap applies after applying AP.
 
-**Goat**
--   health: 75
--   magicka: -25
--   stamina 25
--   Speed: 100
--   Unarmed: 7.5
+ 
+Damage Types
 
-    **Strengths**
-	 - frost resist: 50
+Damage Types implemented by Requiem. Weapons are assigned one damage type, and Creatures are Sometimes given extra Damage Type Resistances that function as extra Armor Rating against each damage types.
 
-**Cow**
--   health:150   
--   magicka:0
--   stamina200
--   Speed:100
--   Unarmed:10
+|Type |	Default Source |
+|--|--|
+|Slashing |Sword, War Axe, Greatsword, Battleaxe
+|Blunt 	|Mace, Warhammer
+|Pierce |Dagger
+|Ranged |Bow, Crossbow
+
+
+
+## Domesticated animals
+
+Domesticated animals are usually found in camps, villages, cities or occasionally wandering about alone. If these animals are harmed or stolen (in the case of horses), the Dragonborn will earn a bounty in that hold or city. 
 
 **Chicken**
--   health: 5
--   magicka: -25
--   stamina25
--   Speed: 150
--   Unarmed: 1
 
-**Fox + Snow Fox**
--   health: 14
--   magicka: 0
--   stamina: 23
--   Speed: 150
--   Unarmed: 5
-    
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 5 |
+|Magicka| 0 |
+|Stamina| 25 |
+|Movement Speed| 150 |
+|Melee Damage| 1 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| No |
+
 **Dog**
--   health: 190
--   magicka: 0
--   stamina: 20
--   Speed: 100 
--   Unarmed: 15
+
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| None |
+|Magical AR| None |
+|Armor Penetration| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| No|
+
+**Cow**
+
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 185 |
+|Magicka| 9 |
+|Stamina| 200 |
+|Movement Speed| 100 |
+|Melee Damage| 10 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| No|
+
+**Goat**
+
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 75 |
+|Magicka| -25 |
+|Stamina| 0 |
+|Movement Speed| 100 |
+|Melee Damage| 7.5 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| No|
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% | 
+
+**Horse**
+
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 350 |
+|Magicka| 0 |
+|Stamina| 700 |
+|Movement Speed| 100 |
+|Melee Damage| 10 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 41 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| No|
+
+
+## Wild prey
+
+Wild prey are usually not hostile unless attacked or if one gets to close.
+
+**Bats**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Clam**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Deer**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player|  |
+
+**Vale Deer** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Elk**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Wild Goat**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
 **Rabbit**
--   health: 5 
--   magicka: -25
--   stamina: 25
--   Speed: 150
--   Unarmed: 10 ( damn those rabbits got teeth )
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-## Hostile Animals
+**Fox & Snow Fox**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Mammoth**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Hawk**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Pearl Oyster** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Bone Hawk** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Bristleback** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Dusty** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Felsaad Tern** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Betty Netch**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Bull Netch** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Netch Calf** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+## Predators
 
 **Skeever**
--   health: 25    
--   magicka: 0    
--   stamina: 50 
--   speed: 100
--   Unarmed: 5
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | Yes |
+|Can Knockdown Player| No |
 
-    **Strengths**
-	 - generally diseased 
-    
+---
 
 **Horker**
--   health: 710
--   magicka: -25
--   stamina: 185
--   speed: 100
--   Unarmed: 35
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard Armor|  |
+|Magical Armor| None |
+|Armor Penetration| None |
+|Health Regeneration| None |
+| Diseased |  |
 
-     **Strengths**    
-	 - knockdown immunity
-	 - resist frost: 50%
-	 - waterbreathing
+ *Resistances*
+|Type  | Protection | 
+|--|--|--|
+|Frost  | 50% |  
+|Knock Down| Immune |  
 
-     **Weaknesses**
-	 - These guys are slow as all hell. just go in close to bait an attack, dodge or block and than attack. rinse and repeat
-    
+**Additional Perks**
+- Waterbreathing
 
-## Wolves
+*Weaknesses*
+- These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
+
+---
+
+**Ice Wraiths**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+
+**Ash Hopper** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+
+**Albino Spider**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+
+###Wolves
 
 These guys are fast, but any ranged attack can kill them before they get you. Just before they leap, dodge to the side. Its tricky at first but with practice you can do it almost everytime. If not you can try to bash them mid air.
     
 **Wolf**
--   health: 125
--   magicka: 0
--   stamina: 200  
--   Speed: 150
--   Unarmed: 25
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-     **Strengths**  
-	 - They are never alone.
- 
-     **Weaknesses**
-	 - Any ranged attack can kill them before they get you  
-
+---
 **Ice Wolf**
--   health: 150
--   magicka: 0    
--   stamina: 230
--   Speed: 150
--   Unarmed: 35
-- 
-    **Strengths**  
-    - same as standard wolves
-	- frost resist 50
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-## Mudcrabs
+---
+**Pit Wolf**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+###Mudcrabs
 
 Mudcrabs are slow and have a small attack range. you that too your advantage. dont underestimate the large ones, they pack quite a punch. 
 
-**Mudcrab small**
--   health: 100
--   magicka: 4
--   stamina: 25 
--   speed: 100   
--   Unarmed: 10   
--   armor rating: 400
+**Mudcrab Small**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-    **Strengths**    
-	-   waterbreathing
-    
+---
+**Mudcrab Large**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-**Mudcrab large**
--   health: 200    
--   magicka: 4    
--   stamina: 25    
--   speed: 100    
--   Unarmed: 35    
--   armor rating: 550
-
-    **Strengths**    
-	-   waterbreathing
-    
-
-**Mudcrab giant**
--   health: 325    
--   magicka: 4  
--   stamina: 25    
--   speed: 100
--   Unarmed: 60
--   armor rating: 600
-
-    **Strengths**  
-	-   armor pen: 75%
-	-   arrow resist: 80%
-	-   waterbreathing
-    
-
-**Mudcrab Boss**
--   health: 3025
--   magicka: 4
--   stamina: 25
--   speed: 60
--   Unarmed: 610
--   armor rating: 1150
-
-    **Strengths**      
-	-   armor pen: 75%
-	-   arrow resist: 70%   
-	-   poison resist: 60%
-	-   waterbreathing
+---
+**Mudcrab Giant**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
 
-## Bears
+###Bears
 
 These guys are like the heavy armor versions of wolves. high health and high mass. If you dont dodge their charge attack you will get knocked down unless wearing heavy armor. Either dodge or block that attack. every now and then they will stand on 2 legs and roar. Use this to your advantage and burst them down.
 
-**Bear**
--   health: 650
--   magicka: 0
--   stamina: 395   
--   speed: 110
--   Unarmed: 60
+**Standard**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR| None |
+|AP|  |
+|Health Regeneration| None  |
+| Diseased | chance of Bone Break Fever |
+|Can Knockdown Player| Yes |
 
-    **Strengths**         
-	-   armor pen: 25%    
-	-   knockdown immunity
-	-   Disease: bone break fever
-    
+ *Resistances*
+|Type  | Protection | 
+|--|--|--|
+|Knock Down| Minor |  
 
-**Cave Bear**
--   health: 700
--   magicka: 0
--   stamina: 395  
--   speed: 110
--   Unarmed: 60
+---
+**Cave**
 
-    **Strengths**         
-	-   armor pen: 25%    
-	-   knockdown immunity
-	-   Disease: bone break fever
-    
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health |  |
+|Magicka|    |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR|  |
+|Magical AR|  |
+|AP|  |
+|Health Regeneration| None |
+| Diseased | Chance of Bone Break Fever |
+|Can Knockdown Player| Yes |
 
-**Snow Bear**
--   health: 600
--   magicka: 0  
--   stamina: 505
--   speed: 110
--   Unarmed: 60
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Knock Down| Minor |  |
 
-    **Strengths**         
-	-   armor pen: 25%    
-	-   knockdown immunity
-	-   Disease: bone break fever 
-	-   frost resist: 50
 
-## Sabre Cats
+---
+**Snow**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health |  |
+|Magicka|    |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR|  |
+|Magical AR|  |
+|AP|  |
+|Health Regeneration| None |
+| Diseased | Chance of Bone Break Fever |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Knock Down| Minor |  |
+
+###Cats
 
 Imagine bears that are faster than wolves. They have a knockdown charge attack that you must dodge or block because they will kill you quickly as you get up.
 
-**Sabre Cat**
--   health: 450 
--   magicka: 0
--   stamina: 200
--   speed: 175
--   Unarmed: 55
-
-     **Strengths**        
-	-   armor pen: 25%
-	-  Knockdown charge attack
-    
-
-**Snowy Sabre Cat**
--   health: 575  
--   magicka: 0   
--   stamina: 250   
--   speed:175   
--   Unarmed: 55
-
-    **Strengths**        
-	-   resist frost: 50%
-	-   armor pen: 25%
-	-   near invisible in snowy areas
-	-   knockdown charge attack
-
-## Slaughterfish
-
-**Slaughterfish**
--   health: 80
--   magicka:0
--   stamina: 30
--   speed: 100  
--   Unarmed: 5   
-
-    **Strengths**   
-	-   waterbreathing
-    
-
-**Slaughterfish giant**
--   health: 2535
--   magicka: 0
--   stamina: 3030
--   speed: 150
--   Unarmed: 10000000.00
-
-    **Strengths**   
-	-   waterbreathing
-	-   armor pen: 75%
-	-   arrow resist: 70% 
-	-   poison resist: 60%
-    
-
-**Slaughterfish Boss**
--   health: 2535
--   magicka: 0
--   stamina: 3030
--   speed: 150
--   Unarmed: 10000000.00
-    
-    **Strengths**   
-	-   waterbreathing
-	-   arrow resist: 70%
-	-   poison resist: 60%
-    
-
-## Trolls
-
-**Troll**
--   Health: 500
--   magicka: 
--   stamina: 
--   speed: 
--   unarmed damage: 60
-    
-    **Strengths**   
-    - Armor pen: 25%
-    - Restore health: 60/s
-    - Frost Resist : 25
-    - Shock Resist : 0%
-    - Poison Resist : 0%
-    - Arrows resistant: 40% arrow reduction
-
-     **Weaknesses**
-	-   Weakness to fire:50%
-	-   Taking fire damage halts health restoration
-
-**Frost Troll**
--   Health: 550
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Unarmed damage: 65
-
-    **Strengths**   
-	-   Armor pen: 25%
-	-   Restore health: 80/s
-	-   Resist frost: 33%
-	-   Shock Resist : 0%
-	-   Poison Resist : 0%
-	-   Arrows resistant: 40% arrow reduction
-
-    **Weaknesses**
-	-   Weakness to fire: 50%
-	-   Taking fire damage halts health restoration
-
-## Spriggan
-**Spriggan**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Sneak Attack Immune  
-  
-   **Weaknesses**   
-
-**Spriggan Matron**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Sneak Attack Immune
-  
-   **Weaknesses**     
-    
-**Spriggan Earthmother**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Sneak Attack Immune
- 
-   **Weaknesses**   
-    
-## Hagraven
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**     
-
-## Dwemer
-
-**Centurian**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Fire Resist : 80%
--   Frost Resist : 80%
--   Shock Resist : 25%
--   Poison Resist : 100%
--   Sneak Attack Immune
--   90% resistance to physical damage.
-
-    **Weaknesses**   
-    
-**Sphere**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Fire Resist : 80%
--   Frost Resist : 80%
--   Shock Resist : 25%
--   Poison Resist : 100%
--   Sneak Attack Immune
--   75% resistance to physical damage.
-
-    **Weaknesses**   
-    
-**Spider**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Fire Resist : 80%
--   Frost Resist : 80%
--   Shock Resist : 25%
--   Poison Resist : 100%
--   Sneak Attack Immune
--   75% resistance to physical damage.
-
-    **Weaknesses**   
-    
-**Enchanted sphere**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Sneak Attack Immune
-
-   **Weaknesses**   
-    
-**Malfunctioning Sphere**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
--   Sneak Attack Immune
-
-   **Weaknesses**   
-
-## Falmer
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-
-    **Strengths**   
-	-   Fire Resist : -20% 
-	-   Frost Resist : 0%
-	-   Shock Resist : 0%
-	-   Poison Resist : 75%
-
-## Chaurus 
-**Chaurus Reaper**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed:   100
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**   
-   
-**Chaurus**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed:  100
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**      
-   
-**Chaurus Hunter**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed:  100
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**    
-       
-## Frostbite Spiders
-**Baby**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**   
-    
-**Tiny**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**    
-    
 **Standard**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**   
-    
-**Large**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**   
-    
-**Giant**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-  
-   **Weaknesses**    
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health | 450 |
+|Magicka| 0 |
+|Stamina| 200 |
+|Movement Speed| 175 |
+|Melee Damage| 55 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 120 |
+|Magical AR| none |
+|AP|  |
+|Health Regeneration| None |
+| Diseased |  |
+|Can Knockdown Player| Yes |
 
-    
-## Undead
-**Draugrs (normal)**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-	-   Frost Resist : 85%
-	-   Shock Resist : 50%
-	-   Poison Resist : 100%
-	
-    **Weaknesses**  
-    - Silver
-    - Fire Resist : -50%
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 100 |
 
-** Draugrs (magic)** 
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-	
-	**Strengths**   
-		-   Fire Resist : 0%    
-		-   Frost Resist : 100%
-		-   Shock Resist : 0%
-		-   Poison Resist : 100%
-	
-	**Weaknesses**  
-	- Silver
+---
+**Snow**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-**Skeletons**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    -   Sneak Attack Immune    
-    
-    **Weaknesses**  
-    - Silver
+---
+**Vale**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-**Wispmother**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed:    90
--   Damage: 
-   
-   **Strengths**   
-   -   Sneak Attack Immune
-  
-   **Weaknesses**   
-    - Silver
+###Trolls
 
+Trolls are large, ape-like creatures with three eyes, and their usual loot is only Troll Fat inside a bowl. Trolls inhabit most of Skyrim, but they are uncommon. Two types of trolls can be found, regular and Frost trolls. Frost trolls, as their name suggests, live in colder regions with snow.
 
-**Death Hounds**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    -   Sneak Attack Immune    
-    
-    **Weaknesses**  
-    - Silver
+**Standard**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-**Vampires**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    - Sneak Attack Immune    
-    - Minor Knockdown Immunity
-    
-    **Weaknesses**  
-    - Silver
+---
 
-## Giant Camps
-**Giant**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    
-    **Weaknesses**   
-
-**Mammoth**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-    **Strengths**   
-    
-    **Weaknesses**   
-
-## Atronach
-**Fire**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    - Sneak Attack Immune
-    - Fire Resist : 100%
-
-    **Weaknesses**   
-    
-**Storm**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    - Sneak Attack Immune
-    - Shock Resist : 100% 
-
-    **Weaknesses**   
-    
-**Ice**
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    - Sneak Attack Immune
-    - Frost Resist : 100%
-    
-    **Weaknesses**   
-
-## Riekling
-
-## Ice Wraith
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-    -   Sneak Attack Immune 
- 
-    **Weaknesses**   
-    
-## Dremora  
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-   - Fire Resist : 100% 
-    
-   **Weaknesses**  
-
-## Soultorn Entity
--   health: 
--   stamina:
--   magicka: 
--   lvl 75
--   speed: 600
--   Type: Daedra
-
-    **Strengths**   
-	-   Armor pen: 75%
-	-   poison on hit
-    ```
-       2 health/s for 60 seconds
-       2 stamina/s for 60 seconds
-       50% poison weakness for 12 seconds
-       10% chance to paralysis on hit for 2 seconds if less than 50% poison resist 
-    ```
-	-   magic resistance: 75
-	-   fire resistance: 85
-	-   armor rating: 600 or 72% reduction perks
-
-     **Weaknesses**
-	-   physical damage
-	-   melee
-
-## Dragons
-**Fire**
--   Health:  Varies
--   Magicka: Varies
--   Stamina: Varies
--   Speed:   100
--   Damage: 
-    
-    **Strengths**   
-	-   Fire Resist :   90
-	-   Frost Resist : -75
-	-   Shock Resist : 0%
-	-   Poison Resist : 0%
-	-   Armor pen: 30  
-    
-    **Weaknesses**   
-    -Frost Damage
-    
 **Frost**
--   Health:  Varies
--   Magicka: Varies
--   Stamina: Varies 
--   Speed:   100
--   Damage:  Frost Damage
-   
-   **Strengths**   
-   -   Fire Resist :   90/-75%
-   -   Frost Resist : -75/90%
-   -   Shock Resist : 0%
-   -   Poison Resist : 0%
-   -   Armor pen: 30  
-    
-   **Weaknesses**   
-   -   Fire Damage
-    
-## Dragon Priests
--   Health:  Varies
--   Magicka: Varies
--   Stamina: Varies 
--   Speed:   100
--   Damage: 
-    
-    **Strengths**   
-    -   Fire Resist : 50%
-    -   Frost Resist : 90%
-    -   Shock Resist : 85%
-    -   Poison Resist : 100%
-    -   restore health: Bonkers!
-    -   Sneak Attack Immune
-    
-    **Weaknesses**   
-    -  Sun spells 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
 
-## Bosses
+---
+
+**Armoured**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+###Chaurus
+
+Chaurus are worm-like insectoid creatures that typically live underground in caves and even in Dwemer ruins. They are deadly creatures, possessing the ability to spit out poisonous venom from their mouths, but they also use bite attacks during combat. Chaurus are almost always seen with Falmer in the underground cave networks and Dwemer ruins of Skyrim. The Chaurus appear to be used by the Falmer as pets and as fighters in combat, as well as torturers of people when their Falmer masters attack and capture bandits, traveling caravans and other people. 
+
+**Chaurus **
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Chaurus Reaper **
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Chaurus Worker **
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Chaurus Hunter **
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Chaurus Hunter Fledgling **
+
+###Frostbite Spiders
+
+Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. They shoot balls of poisonous web, and can range in size from smaller than the Dragonborn to bigger. 
+
+**Baby**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**TIny**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Standard**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Wounded Giant**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Giant**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+
+###Spriggan
+
+Spriggan are tree-like humanoid creatures, always female. Matrons tend to be harder to defeat than the usual Spriggan, with their heavier armor and more powerful magics. They are guardians of nature, and specific groups follow either Kynareth or Meridia. 
+
+**Spriggan**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+
+---
+**Spriggan Matron**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+
+---
+**Spriggan Earth Mother**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+
+---
+**Burnt Spriggan** 
+
+##Giants
+**Standard**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1250 |
+|Magicka|0  |
+|Stamina| 2200 |
+|Movement Speed| 125 |
+|Melee Damage| 60 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 240 |
+|Magical AR| 5 |
+|AP| 75 |
+|Health Regeneration|  |
+| Diseased |  |
+|Can Knockdown Player| Yes - Giant Stomp |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 200 |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|--|
+|Poison  | 60% |  |
+|Knock Down| Minor |  |
+
+**Explotable Weaknesses**
+
+---
+**Frost**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+##Hagravens
+
+Hagravens are a mix of an old crone and a crow, and are exclusively female. They are often called witches, and many serve the Forsworn as Matriarchs. 
+
+**Standard**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Glenmoril Witch**
+
+---
+**Moira**
+
+---
+**Petra**
+
+---
+**Drascua**
+
+---
+**Melka**
+
+---
+**Ettiene**
+
+--- 
+**Fallaise** 
+
+---
+**Isobel** 
+
+##Undead
+
+###Dragur
+
+**Melee** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+
+**Caster** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+
+**Boss**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+###Shades
+
+Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meridia's Temple on Mount Kilkreath. 
+
+**Corrupted Shade** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Malkoran's Shade**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+###Skeletons
+Skeletons are skeletal, humanoid beings who usually use bows as their offense. Skeletons are extremely easy to defeat With Melee. 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+###Vampires
+
+**Standard** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Death Hound**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+
+###Wisps
+Wisps are glowing, spherical creatures flying around that will attack the Dragonborn. They are usually near their mother, the Wispmother, who is a female, glowing humanoid being that is difficult to defeat. Shades are creatures different from the creature type shades, as they are ghostly apparitions conjured by a Wispmother.
+
+**Wisp** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Shade** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+---
+**Wispmother**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+###Dragon Priest
+Thousands of years ago, these priests ruled over Skyrim at the behest of their Dragon overlords. In their service, many of these dragon priests were granted extraordinary powers and knowledge in arcana, and some of them managed to reach lichdom to evade their own demise. They are typically buried in one of the many ancient tombs and temples dotted all across Skyrim, awaiting the return of Alduin the "World-Eater." In Requiem - these guys are various shades of "utter bastard"
+
+**Standard** 
+
+---
+**Hevnoraak** 
+
+---
+**Morokei** 
+
+---
+**Nahkriin** 
+
+---
+**Otar** 
+
+---
+**Rahgot** 
+
+---
+**Vokun** 
+
+---
+**Volsung** 
+
+---
+**Konahrik** 
+
+---
+**Ahzidal** 
+
+---
+**Dukaan** 
+
+---
+**Zahkriisos** 
+
+---
+**Miraak**
+
+
+##Daedra
+
+The Daedra are creatures that roam the Planes of Oblivion, and are usually summoned by powerful mages, usually of the Conjuration school. A Dremora is a devilish humanoid being wearing Daedric armor and wielding burning Daedric weaponry, but can also be extremely adept at using magic and casting spells. Atronachs are humanoid beings (except the Storm Atronach) that are formed out of their own element of power: Flame, Frost, or Storm. 
+
+**Dremora Lord** 
+
+---
+**Flame Atronach** 
+
+---
+**Frost Atronach**
+
+---
+**Storm Atronach** 
+
+---
+**Daedric Prince** 
+
+---
+**Dremora**
+
+---
+**Lurker** 
+
+---
+**Lurker Sentinel** 
+
+---
+**Lurker Vindicator** 
+
+---
+**Seeker** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1168 - 1177 |
+|Magicka| 1102 - 1113|
+|Stamina| 400 |
+|Movement Speed| 150 |
+|Melee Damage| 60 |
+|Ranged Damage| N/A |
+|Magical Damage|  Seeker Drain Absorb 20 Health/20 Magic/ 20 Stamina  , Knowledge Drain 300 Damage + Stagger |
+|Standard Armor| 360 |
+|Magical Armor| 50 |
+|Armor Penetration|  |
+|Health Regeneration| 90/s |
+
+ *Weapon Protection*
+| Type | Bonus Resistance |
+|--|--|
+|Pierce  | 250 |
+|Blunt   | 200 |
+|Ranged  | 200 |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | N/A  | 20% |
+|Poison  | 80% | N/A  |
+|Paralysis  | Immune | N/A  |
+|Knock Down| Minor | N/A |
+
+**Additional Perks**
+- WaterWalking
+
+---
+**High Seeker** 
+
+---
+**Seeker Aspirant**
+
+---
+**Soultorn Entity**
+
+---
+
+##Dwarven Automatons
+Though Automatons are not entirely creatures, Dwarven Automatons range in size from smaller than a human to larger than a giant. They are golden colored, strong robotic creations made by the Dwemer. 
+
+**Dwarven Spider Worker**
+
+---
+**Dwarven Spider Soldier**
+
+---
+**Dwarven Spider Guardian**
+
+---
+**Dwarven Sphere**
+
+---
+**Dwarven Sphere Guardian**
+
+---
+**Dwarven Sphere Master**
+
+---
+**Warped Dwarven Sphere**
+
+---
+**Dwarven Ballista**
+
+--- 
+**Dwarven Ballista Master**
+
+--- 
+**Dwarven Centurion**
+
+---
+**Dwarven Centurion Guardian**
+
+---
+**Dwarven Centurion Master**
+
+---
+**The Forgemaster**
+
+--- 
+**Enchanted Sphere**
+
+--- 
+##SoulCairn
+**Bonemen**
+
+**Wisplight**
+
+##Solsthiem
+**Ash Spawn**
+
+**Ash Guardian**
+
+##Dragons
+**Fire**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Frost**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |**Karstaag Ghost Frost Giant![image](https://user-images.githubusercontent.com/26418143/147154807-39e09830-d8fc-4782-849c-472ecc8aefac.png)
+
+##Bosses
 **Snow** : Giant Snowy Sabrecat
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
     
 **Ulik** : Giant Troll
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
     
 **Kru'ul** : Giant Frost Troll
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**    
     
 **Giant Slaughterfish** : 
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
     
 **(Giant Chaurus Reaper)** :
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
     
 **Mudcrab King** : Giant Mudcrab
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**    
     
 **Ragnok** : A Frost Giant
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
     
 **Gorak the Trollslayer** : Named Giant
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**    
-    
+
 **Nimhe** : Named giant Frostbite Spider
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**    
     
 **Karstaag** : Powerful ghostly Frost Giant.
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
     
 **The Pale Lady** : Named Wispmother.
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    
-    **Strengths**   
-	    - Immune to Paralysis
-    
-    **Weaknesses**   
-    
+
 **Thunder** : Giant Storm Atronach
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-    **Strengths**   
-    **Weaknesses**   
-    
+
 **Lord Tusk** : Big Horker.
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
     
-   **Weaknesses**   
+**Additional Perks**
+- waterbreathing
+
+*Weaknesses*
+- These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
     
 **Ron the Crow**: Human Bandit.
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
+
 
 **Elsi the Spiker**:Human Bandit.
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
 
-** Mistress of the Dark** Shadow Banshee
--   Health: 
--   Magicka: 
--   Stamina: 
--   Speed: 
--   Damage: 
-   
-   **Strengths**   
-    
-   **Weaknesses**   
 
+**Mistress of the Dark** Shadow Banshee
+
+**Karstaag ** Ghost Frost Giant
+
+**Old Salty** Named Mudcrab
+
+
+   
