@@ -32,8 +32,7 @@ Damage Types implemented by Requiem. Weapons are assigned one damage type, and C
 ## About these Guides
 
 *Varients*
-
-Level/Health/Stamina/Magic if the creature comes in different sizes but same base creature.
+Level/Health/Stamina/Magic if the creature comes in different sizes but same base creature. 
 
 *Basic Stats*
 Movement Speed, Melee/Ranged damage or spells that the Enemy can cast, Standard armor, Magical armor, Enemy ability to penetrate your armor, If its has health regenation, diseases or can knock the player down.
@@ -44,7 +43,7 @@ Bonus armor that the Enemy gains if attacked by weapon damage types.
 **Resistances & Weaknesses**
 If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the Enemy has Knockdown, Sneak Attack or Paralysis protection, and if the enemy Requires Silver to take normal damage (and bonus damage applied by weapon type)
 
-##The Guides
+## The Guides
 
 [Animals](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyAnimals.md) – Animals comprise various mundane creatures that have no magical or weapon-wielding abilities.
 
@@ -52,7 +51,7 @@ If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the E
 
 [Monsters](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyMonsters.md) – Monsters are creatures with various magical abilities, ranging from magical attacks to various magical resistances.
 
-            Burnt Spriggan • Chaurus • Dragon • Falmer • Fire Wyrm • Frostbite Spider • Gargoyle • Giant • Hagraven • Ice Wraith • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp
+             Chaurus • Dragon • Falmer • Fire Wyrm • Frostbite Spider • Gargoyle • Giant • Hagraven • Ice Wraith • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp
         
 [Automations](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyAutomations.md) – Dwarven Automatons are ancient, robot-like machines encountered in Dwarven Ruins.
 
