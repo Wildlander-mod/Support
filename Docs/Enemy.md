@@ -240,19 +240,24 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 75 |
+|Magicka| -25 |
+|Stamina| 25 |
+|Movement Speed| 120 |
+|Melee Damage| 7.5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% | 
 
 **Rabbit**
 
@@ -609,19 +614,19 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 125 |
+|Magicka| 0 |
+|Stamina| 200 |
+|Movement Speed| 150 |
+|Melee Damage| 25 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - Rockjoint |
+|Can Knockdown Player| No |
 
 ---
 
@@ -763,24 +768,31 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health |  |
-|Magicka|    |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health | 700 |
+|Magicka| 0   |
+|Stamina| 395 |
+|Movement Speed| 110 |
+|Melee Damage| 60 |
 |Ranged Damage| None |
 |Magical Damage| None |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
+|Standard AR| 120 |
+|Magical AR| None |
+|AP| 25 |
 |Health Regeneration| None |
-| Diseased | Chance of Bone Break Fever |
+| Diseased | Yes - Bone Break Fever |
 |Can Knockdown Player| Yes |
 
  *Resistances*
 |Type  | Protection | 
 |--|--|
 |Knock Down| Minor |  
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 200 |
+|Blunt (Maces & Hammers)   | 200 |
+|Ranged (Bows & Crossbows)  | 200 |
 
 
 ---
