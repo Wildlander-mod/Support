@@ -283,19 +283,24 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 14 |
+|Magicka| 0 |
+|Stamina| 23 |
+|Movement Speed| 150 |
+|Melee Damage| 5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - RockJoint |
+|Can Knockdown Player| No |
+
+ *Resistances - Snow Fox Only*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% | 
 
 **Mammoth**
 
@@ -826,21 +831,26 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 
 **Standard**
 
+*Size Variations*
+|Stat| Small| Normal| Large|
+|--|--|--|--|
+|Level  | 6 | 6 | 9 |
+|Health | 425 | 450 | 500 |
+|Magicka|  0| 0 | 0 |
+|Stamina| 200 | 200  | 300 |
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health | 450 |
-|Magicka| 0 |
-|Stamina| 200 |
 |Movement Speed| 175 |
 |Melee Damage| 55 |
 |Ranged Damage| None |
 |Magical Damage| None |
 |Standard AR| 120 |
 |Magical AR| none |
-|AP|  |
+|AP| 25 |
 |Health Regeneration| None |
-| Diseased |  |
+| Diseased | Yes - Witbane |
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
