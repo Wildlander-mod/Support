@@ -1,6 +1,6 @@
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
-##Ash Spawn 
+## Ash Spawn 
 
 *Basic Stats*
 |Stat| Value |
@@ -19,7 +19,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-##Death Hound
+## Death Hound
 
 *Basic Stats*
 |Stat| Value |
@@ -38,7 +38,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-##Dragon Priest
+## Dragon Priest
 Thousands of years ago, these priests ruled over Skyrim at the behest of their Dragon overlords. 
 In their service, many of these dragon priests were granted extraordinary powers and knowledge in arcana, and some of them managed to reach lichdom to evade their own demise. 
 They are typically buried in one of the many ancient tombs and temples dotted all across Skyrim, awaiting the return of Alduin the "World-Eater." 
@@ -91,7 +91,7 @@ In Requiem - these guys are various shades of "utter bastard"
 **Miraak**
 
 
-##Draugr 
+## Draugr 
 
 
 **Melee** 
@@ -172,7 +172,7 @@ In Requiem - these guys are various shades of "utter bastard"
 | Diseased |  |
 |Can Knockdown Player| |
 
-##Gargoyles
+## Gargoyles
 
 *Varients*
 |Stat| Standard| Brute| Sentinel|
@@ -197,7 +197,7 @@ In Requiem - these guys are various shades of "utter bastard"
 | Diseased |  |
 |Can Knockdown Player| |
 
-##Ghost 
+## Ghost 
 
 *Basic Stats*
 |Stat| Value |
@@ -216,7 +216,7 @@ In Requiem - these guys are various shades of "utter bastard"
 | Diseased |  |
 |Can Knockdown Player| |
 
-##Shades
+## Shades
 
 Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meridia's Temple on Mount Kilkreath. 
 
@@ -260,7 +260,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 |Can Knockdown Player| |
 
 
-##Skeleton 
+## Skeleton 
 Skeletons are skeletal, humanoid beings who usually use Bows/Axes as their offense. Skeletons are extremely easy to defeat With Blunt Melee damage. 
 
 **Melee** 
@@ -380,7 +380,7 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 | Diseased |  |
 |Can Knockdown Player| |
 
-##Vampires
+## Vampires
 
 **Standard** 
 *Basic Stats*
