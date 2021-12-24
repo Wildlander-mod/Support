@@ -362,17 +362,16 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Size Variations*
 |Stat| Small| Medium| Large|
 |--|--|--|--|
-|Level  |  |  |  |
-|Health |  |  |  |
-|Magicka|  |  |  |
-|Stamina|  |  |  |
-
+|Level  | 3 | 5 | 8 |
+|Health | 660 | 710 | 760 |
+|Magicka| -25 | -25 | -25 |
+|Stamina| 185 | 185 | 185 |
+|Movement Speed| 105 | 100| 95 |
+|Melee Damage| 135 | 235 | 235 |
 
  *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed|  |
-|Melee Damage|  |
 |Ranged Damage| None |
 |Magical Damage| None |
 |Standard Armor| 150 |
@@ -460,11 +459,11 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 125 |
+|Magicka| 0 |
+|Stamina| 200 |
+|Movement Speed| 150 |
+|Melee Damage| 25 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
