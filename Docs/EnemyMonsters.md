@@ -159,7 +159,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Frost**
+**Aldiun**
 
 *Basic Stats*
 |Stat| Value |
