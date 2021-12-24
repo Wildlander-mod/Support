@@ -1,4 +1,4 @@
-[Back](https://github.com/Wildlander-mod/Support/edit/master/Docs/Enemy.md)
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
 Though Automatons are not entirely creatures, Dwarven Automatons range in size from smaller than a human to larger than a giant. 
 They are golden colored, strong robotic creations made by the Dwemer. 
@@ -129,5 +129,4 @@ They are golden colored, strong robotic creations made by the Dwemer.
 
 
 
-
-[Back](https://github.com/Wildlander-mod/Support/edit/master/Docs/Enemy.md)
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
