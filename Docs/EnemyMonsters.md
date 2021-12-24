@@ -229,8 +229,9 @@ Their primitive weapons and armor are made from Chaurus chitin, and they often l
  *Resistances*
 |Type  | Protection |
 |--|--|
-|Poison  | 60% |  
-|Knock Down| Minor |  
+|Poison  | 60% | 
+|Paralysis | Immune |  
+|Knock Down| Minor  |  
 
 ---
 **Frost**
@@ -249,7 +250,14 @@ Their primitive weapons and armor are made from Chaurus chitin, and they often l
 |AP| None |
 |Health Regeneration| Yes  |
 | Diseased |  |
-|Can Knockdown Player| |
+|Can Knockdown Player| Yes - Giant Stomp |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 200 |
 
 ## Hagraven 
 
@@ -432,22 +440,22 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 95 |
+|Magicka| 0 |
+|Stamina| 250 |
+|Movement Speed| 165 |
+|Melee Damage| 17.5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes  |
 | Diseased |  |
-|Can Knockdown Player| |
+|Can Knockdown Player|no |
 
 ---
-**Standard**
+**Medium**
 
 *Basic Stats*
 |Stat| Value |
@@ -457,14 +465,43 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 |Stamina|  |
 |Movement Speed|  |
 |Melee Damage|  |
-|Ranged Damage| None  |
+|Ranged Damage| Frostbite Poison 0.2/s for 30  |
 |Magical Damage| None  |
 |Standard AR|  |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | Yes - Chills |
 |Can Knockdown Player| |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 50 |
+
+**Large**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 250 |
+|Magicka| 4 |
+|Stamina| 250 |
+|Movement Speed| 100 |
+|Melee Damage| 25 |
+|Ranged Damage| Frostbite Poison 0.4/s for 120  |
+|Magical Damage| None  |
+|Standard AR| 480 |
+|Magical AR| None |
+|AP| 25 |
+|Health Regeneration| No  |
+| Diseased | Yes - Chills |
+|Can Knockdown Player| Can apply Paralysis |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 50 |
 
 ---
 **Wounded Giant**
@@ -482,9 +519,16 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 |Standard AR|  |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration| no  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
+|Knock Down| Ninor | N/A |
 
 ---
 **Giant**
@@ -492,19 +536,31 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 1250 |
+|Magicka| 10 |
+|Stamina| 700 |
+|Movement Speed| 100 |
+|Melee Damage| 100 |
+|Ranged Damage| Frostbite Poison 1/s for 300  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Standard AR| 480 |
+|Magical AR| None |
+|AP| 25 |
+|Health Regeneration| No  |
+| Diseased | Yes - Chills |
+|Can Knockdown Player| Can apply Paralysis |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
+|Knock Down| Ninor | N/A |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 50 |
 
 ###Solsheim
 **Albino Spider**
@@ -777,7 +833,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
@@ -798,7 +854,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
@@ -819,7 +875,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
@@ -840,7 +896,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
