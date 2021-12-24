@@ -1,4 +1,4 @@
-[Back](https://github.com/Wildlander-mod/Support/edit/master/Docs/Enemy.md)
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
 ## Chaurus 
 
@@ -1021,4 +1021,4 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 | Diseased |  |
 |Can Knockdown Player| |
 
-[Back](https://github.com/Wildlander-mod/Support/edit/master/Docs/Enemy.md)
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
