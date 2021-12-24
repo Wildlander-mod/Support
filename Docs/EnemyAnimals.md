@@ -111,6 +111,7 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 Wild prey are usually not hostile unless attacked or if one gets to close.
 
 **Ash Hopper**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -309,7 +310,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None |
-| Diseased | Yes |
+| Diseased | Yes - Chance on hit of Atraxia |
 |Can Knockdown Player| No |
 
 ---
