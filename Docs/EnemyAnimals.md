@@ -29,11 +29,11 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
  *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 190 |
+|Magicka| 0 |
+|Stamina| 20 |
+|Movement Speed| 100 |
+|Melee Damage| 15 |
 |Ranged Damage| None |
 |Magical Damage| None |
 |Standard AR| None |
@@ -110,20 +110,25 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
  *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 100 |
+|Magicka| 0 |
+|Stamina| 500 |
+|Movement Speed| 125 |
+|Melee Damage| 8 |
 |Ranged Damage| None |
 |Magical Damage| None |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
+|Standard AR| 360 |
+|Magical AR| None |
+|AP| None |
 |Health Regeneration| None |
 | Diseased | None |
 |Can Knockdown Player| No|
 
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 100 |
+|Ranged (Bows & Crossbows)  | 50 |
 
 ## Wild prey
 
@@ -134,19 +139,32 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 325 |
+|Magicka| 0 |
+|Stamina| 120 |
+|Movement Speed| 100 |
+|Melee Damage| 100 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 300 |
 |Magical AR| None |
 |AP| 50 |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | no |
 |Can Knockdown Player|  |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 50 |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Fire  | 25 |  
+|Poison  | 50 |  
+|Paralysis  | Immune |  
+
 
 **Deer**
 
@@ -172,19 +190,19 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 50 |
+|Magicka| 0 |
+|Stamina| 25 |
+|Movement Speed| 150 |
+|Melee Damage| 5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | None |
+|Can Knockdown Player|  No |
 
 **Elk**
 
@@ -210,15 +228,15 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Size Variations*
 |Stat| Small| Medium| Large|
 |--|--|--|--|
-|Level  |  |  |  |
-|Health |  |  |  |
-|Magicka|  |  |  |
-|Stamina|  |  |  |
+|Level  | 1 | 1 | 1 |
+|Health | 65 | 75 | 105 |
+|Magicka| -25 | -25 | -25 |
+|Stamina| 25 | 25 |  25 |
+|Movement Speed| 110 | 120 | 95 |
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed| 120 |
 |Melee Damage| 7.5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
@@ -239,19 +257,19 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 5 |
+|Magicka| -25 |
+|Stamina| 25 |
+|Movement Speed| 150 |
+|Melee Damage| 10 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 **Fox & Snow Fox**
 
@@ -301,18 +319,18 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 265 |
+|Magicka| 0 |
+|Stamina| 165 |
+|Movement Speed| 100 |
+|Melee Damage| 150 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
 
 ## Predators
@@ -323,11 +341,11 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
  *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 25 |
+|Magicka| 0 |
+|Stamina| 50 |
+|Movement Speed| 100 |
+|Melee Damage| 5 |
 |Ranged Damage| None |
 |Magical Damage| None |
 |Standard AR| None |
@@ -385,12 +403,12 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 *Size Variations*
 |Stat| Small| Medium| Large|
 |--|--|--|--|
-|Level  |  |  |  |
-|Health |  |  |  |
-|Magicka|  |  |  |
-|Stamina|  |  |  |
-|Speed  |  |  |  |
-|Damage  |  |  |  |
+|Level  | 2 | 2 | 3 |
+|Health | 100 | 125 | 150 |
+|Magicka| 0 | 0 | 0 |
+|Stamina| 200 | 200 | 200 |
+|Speed  | 155 | 150 | 140 |
+|Damage  | 25 | 25 | 25 |
 
 *Basic Stats*
 |Stat| Value |
@@ -411,18 +429,16 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 *Size Variations*
 |Stat| Small| Medium| Large|
 |--|--|--|--|
-|Level  |  |  |  |
-|Health |  |  |  |
-|Magicka|  |  |  |
-|Stamina|  |  |  |
-|Speed  |  |  |  |
-|Damage  |  |  |  |
+|Level  | 5 | 6 | 7 |
+|Health | 125 | 150 | 175 |
+|Magicka| 0 | 0 | 0 |
+|Stamina| 230 | 230 | 230 |
+|Speed  | 155 | 150 | 145 |
+|Damage  | 35 | 35 | 35 |
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed|  |
-|Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
@@ -431,6 +447,11 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Health Regeneration| None  |
 | Diseased | Yes - Rockjoint or Feeble Limb  |
 |Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% |  
 
 ---
 
