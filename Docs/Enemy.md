@@ -45,24 +45,26 @@ If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the E
 
 ## The Guides
 
-[Animals](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyAnimals.md) – Animals comprise various mundane creatures that have no magical or weapon-wielding abilities.
+[Animals](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAnimals.md) – Animals comprise various mundane creatures that have no magical or weapon-wielding abilities.
 
         Ash Hopper • Bear • Bristleback • Chicken • Cow • Deer • Dog • Fox • Goat • Horker • Horse • Mammoth • Mudcrab  Rabbit • Sabre Cat • Skeever • Slaughterfish • Wolf
 
-[Monsters](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyMonsters.md) – Monsters are creatures with various magical abilities, ranging from magical attacks to various magical resistances.
+[Monsters](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyMonsters.md) – Monsters are creatures with various magical abilities, ranging from magical attacks to various magical resistances.
 
              Chaurus • Dragon • Falmer • Fire Wyrm • Frostbite Spider • Gargoyle • Giant • Hagraven • Ice Wraith • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp
         
-[Automations](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyAutomations.md) – Dwarven Automatons are ancient, robot-like machines encountered in Dwarven Ruins.
+[Automations](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAutomations.md) – Dwarven Automatons are ancient, robot-like machines encountered in Dwarven Ruins.
 
             Dwarven Ballista • Dwarven Centurion • Dwarven Sphere • Dwarven Spider • Enchanted Sphere •  Forgemaster
             
-[Daedra](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyDaedra.md) – Daedra are creatures from the planes of Oblivion.
+[Daedra](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md) – Daedra are creatures from the planes of Oblivion.
               
             Ash Guardian • Flame Atronach • Frost Atronach • Lurker • Seeker • Storm Atronach • Soultorn Entity • Dremora
             
-[Undead](https://github.com/Wildlander-mod/Support/edit/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
+[Undead](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
               
-            Ash Spawn • Dragon Priest • Draugr • Ghost • Hulking Draugr • Skeleton • Zombie • Vampires • Gargoyles          
+            Ash Spawn • Dragon Priest • Draugr • Ghost • Hulking Draugr • Shades • Skeleton • Vampires • Gargoyles       
+            
+[Unique and Named Bosses](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUnique.md) – The various Named Unique Enemies found in Requiems world
   
    
