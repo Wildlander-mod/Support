@@ -544,6 +544,26 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 |Slash (Swords & Axes)  | 150 |
 |Ranged (Bows & Crossbows)  | 150 |
 
+---
+**Mudcrab Giagantic**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage|  |
+|Magical Damage|  |
+|Standard AR| 840 |
+|Magical AR|  |
+|AP| 75 |
+|Health Regeneration|  |
+| Diseased |  |
+|Can Knockdown Player| |
+
 
 ###Bears
 
