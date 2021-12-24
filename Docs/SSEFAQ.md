@@ -47,12 +47,15 @@
 -   [How do I craft healing poltice](#How-do-I-craft-healing-poltice)
 
 
----
+----------
+
 # How Do I Update to the Current Version
 
 To update a Modlist, simply run Wabbajack again and get the newest list file from the Browse Modlists section. Select the same Download and Install folders you chose previously, and select the "Overwrite" option on the bottom right. Backup any changes you have made to the modlist since your original install as these will be lost. If you want to keep any mods you've added to your personal install, rename those mods to start with `[NoDelete]` to force Wabbajack to skip those files. Note that support still won't be officially provided; use this feature at your own discretion. [here](https://www.Wildlander.com/Wildlander-install)
 
 Please Note: Some Updates will require a brand new game and are not save compatible.
+
+----------
 
 # How do I Uninstall
 
@@ -60,13 +63,17 @@ We're sorry to see you leave!
 
 Uninstalling Wildlander is a simple matter of deleting the installation folder.
 
+Uninstalling the launcher requires you to use windows "Add / remove program" functionality.
+
+----------
+
 # Can I remove the downloads Folder?
 
 Yes - But if you want to install a update, or repair your install - you would need to redownload all 500+ Mods. 
 
 You can however safely move your download folder to another harddrive.
 
----
+
 # Wabbajack Issues
 
 ## Wabbajack Fails to download mods or hangs for a long time.
@@ -88,9 +95,13 @@ Sometimes wabbajack gets stuck downloading.
     4.  Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
     5.  Restart wabbajack - it will then proceed with the install
 
+----------
+
 ## Getting a download failed on Elswaps Speed trees.
 
 If you are unable to download MEGA files through Wabbajack You can [download](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM) the file manually and save the Zip to the Folder you entered as your "download location" from the wabbajack interface.
+
+----------
 
 ## Getting a download failed on Original Skyrim files
 
@@ -145,8 +156,7 @@ These control the level of ENB Shaders being applied. The Shaders dropdown deter
 - Low    - Zangdar ENB Performance preset W/o Ambient Occlusion 
 - No ENB - Run without shaders at all
 
-
-
+----------
 
 ## Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error
 
@@ -160,12 +170,16 @@ Ensure the following:
     
 3.  Restore Missing files from Mod Organiser Zip file in your Wildlander\download directory if cannot find in virus vault
 
+----------
+
 ## Does This mod pack Support other languages?
 
 No and if you try then SKSE crashes from Mod Organizer. You will need to install English Skyrim - Special Edition to play this modpack.
 
+----------
+
 ## Does this pack support Ultrawide resolutions?
-Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from out testing is as below.
+Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from our testing is as below.
 
 * Camera issues - Too zoomed in during character creation, Fish-eye camera (E.g NPC's close to you are distorted/streched)
 * UI Elements misaligned, being drawn partially off screen, some elements which should be centred far to the right or just plain missing completely
@@ -205,11 +219,12 @@ Sure - Here's a [link](https://github.com/Wildlander-mod/Support/blob/master/Doc
 
 ----------
 
-## How can i see the keybindings?
+## How can I see the keybindings?
 
 The in-game hotkey F11 will bring up a Gampad/ keyboard layout of all keybindings. F11 again will hide it.
 
----
+----------
+
 ## Why can't I select the first crafting perk?
 
 You need a book called The Craftsman’s Manual in your inventory. It can be purchased from most blacksmiths. Most of the Requiem crafting perks require their own books, some of which can be bought while others must be found in the world.
@@ -249,9 +264,12 @@ This is caused by Skyrim's engine limitation of 4 lightsources in a area. when y
 Enhanced Skyrim Factions - The Companions Guild adds new conversation options to NPCs that aren’t voiced. Other NPCs have the same behavior.
 
 ----------
+
 ## Why is everything so expensive in shops?
 
 You’re Naked - Put some clothes on ya filthy animal!
+
+----------
 
 ## My character's animations are stuck.
 
@@ -289,13 +307,13 @@ Can also be caused by :-
 
 ## How do I change the difficulty?
 
-The in-game difficulty sliders do not work with Wildlander. Please use the Change difficulty hotkey instead. 
+The in-game difficulty sliders do not work with Wildlander. Please use the Change Difficulty hotkey instead. 
 
 ----------
 
 ## I contracted Sanguinare Vampiris and now I can't sleep!
 
-This is a Minor Arcana change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
+This is a 'Minor Arcana' change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
 
 ----------
 
@@ -323,7 +341,9 @@ This quest is auto completed when you kill a dragon.
 
 ## How Do I Become Thane of Whiterun
 
-There is a new way of becoming a thane of Whiterun. Complete The Blessings of Nature quest(Danica by the Gildrergreen tree to start) and talk to Jarl Balgruuf when the Gildergreen tree is repaired\the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standart thaneship quest (help the people of the hold and buy a house) will be available.
+There is a new way of becoming a thane of Whiterun. Complete The Blessings of Nature quest (Danica by the Gildrergreen tree to start) and talk to Jarl Balgruuf when the Gildergreen tree is repaired\the sappling blooms (note: this requires you to complete any other quest to simulate the passing of time). He'll thank you and allow you to do the standard thaneship quest (help the people of the hold).
+
+Note: you can buy Breezehome before this at a much more expensive price, but unless you are thane you do not get the housecarl.
 
 ----------
 
@@ -344,7 +364,7 @@ Dragonborn content is available after completing "A Blade in the Dark" during th
 
 At the forge, Requires Alchemy Lore Perk.
 
----
+----------
 
 ## How do I craft Healing Poltice?
 
