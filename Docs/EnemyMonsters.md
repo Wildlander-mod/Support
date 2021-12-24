@@ -5,6 +5,13 @@
 Chaurus are worm-like insectoid creatures that typically live underground in caves and even in Dwemer ruins. They are deadly creatures, possessing the ability to spit out poisonous venom from their mouths, but they also use bite attacks during combat. Chaurus are almost always seen with Falmer in the underground cave networks and Dwemer ruins of Skyrim. The Chaurus appear to be used by the Falmer as pets and as fighters in combat, as well as torturers of people when their Falmer masters attack and capture bandits, traveling caravans and other people. 
 
 **Chaurus **
+*Size Variations*
+|Stat| Small| Large| 
+|--|--|--|
+|Level  |  |  | 
+|Health |  |  | 
+|Magicka|  |  | 
+|Stamina|  |  | 
 
 *Basic Stats*
 |Stat| Value |
@@ -65,6 +72,14 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 
 ---
 **Chaurus Hunter **
+
+*Size Variations*
+|Stat| Small| Large| 
+|--|--|--|
+|Level  |  |  | 
+|Health |  |  | 
+|Magicka|  |  | 
+|Stamina|  |  | 
 
 *Basic Stats*
 |Stat| Value |
@@ -322,7 +337,6 @@ Hagravens are a mix of an old crone and a crow, and are exclusively female. They
 |Can Knockdown Player| |
 
 ## Netch 
-
 
 **Betty Netch**
 
@@ -839,6 +853,14 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 Trolls are large, ape-like creatures with three eyes, and their usual loot is only Troll Fat inside a bowl. Trolls inhabit most of Skyrim, but they are uncommon. Two types of trolls can be found, regular and Frost trolls. Frost trolls, as their name suggests, live in colder regions with snow.
 
 **Standard**
+
+*Size Variations*
+|Stat| Small| Large| 
+|--|--|--|
+|Level  |  |  | 
+|Health |  |  | 
+|Magicka|  |  | 
+|Stamina|  |  | 
 
 *Basic Stats*
 |Stat| Value |
