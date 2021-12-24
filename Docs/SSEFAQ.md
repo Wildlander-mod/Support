@@ -42,6 +42,10 @@
 -   [I can’t start the Thieves Guild through Brynjolf](#i-cant-start-the-thieves-guild-through-brynjolf)
 -   [How do I start the Dragonborn questline?](#How-do-I-start-the-Dragonborn-questline)
 
+[**Crafting Questions**](#Crafting-questions)
+-   [How Do i craft Snowberry extract?](#How-Do-i-craft-Snowberry-extract)
+-   [How do I craft healing poltice](#How-do-I-craft-healing-poltice)
+
 
 ---
 # How Do I Update to the Current Version
@@ -334,3 +338,20 @@ There is a new way of becoming a thane of Whiterun. Complete The Blessings of Na
 Dragonborn content is available after completing "A Blade in the Dark" during the Main Quest.
 
 
+# **Crafting Questions**
+
+## How do I craft Snowberry Extract?
+
+At the forge, Requires Alchemy Lore Perk.
+
+---
+
+## How do I craft Healing Poltice?
+
+From the "Shift" craft menu.
+
+Requires 5  "Medicinal Salve" and 1  "Bandage". Requires Alchemy Lore Perk Or Craftmanship perk. 
+
+"Medicinal Salve" Can be crafted from Blue Mountain Flower, or any ingredient with Restore Health. Requires Alchemy Lore Perk Or Craftmanship perk.
+
+Bandage Are the Linen Wrap item from Vanilla. They can be crafted from any cotton or linen cloth.
