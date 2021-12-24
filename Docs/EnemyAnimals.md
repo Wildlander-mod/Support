@@ -1,4 +1,4 @@
-[Back](https://github.com/Wildlander-mod/Support/edit/master/Docs/Enemy.md)
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
 
 ## Domesticated animals
@@ -721,4 +721,4 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 
 
 
-[Back](https://github.com/Wildlander-mod/Support/edit/master/Docs/Enemy.md)
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
