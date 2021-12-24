@@ -105,6 +105,24 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 | Diseased | None |
 |Can Knockdown Player| No|
 
+**Husky**
+ *Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR|  |
+|Magical AR|  |
+|AP|  |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| No|
+
 
 ## Wild prey
 
@@ -188,12 +206,17 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 
 **Wild Goat**
 
+*Size Variations*
+|Stat| Small| Medium| Large|
+|--|--|--|--|
+|Level  |  |  |  |
+|Health |  |  |  |
+|Magicka|  |  |  |
+|Stamina|  |  |  |
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| 75 |
-|Magicka| -25 |
-|Stamina| 25 |
 |Movement Speed| 120 |
 |Melee Damage| 7.5 |
 |Ranged Damage| None  |
@@ -317,12 +340,18 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 
 **Horker**
 
+*Size Variations*
+|Stat| Small| Medium| Large|
+|--|--|--|--|
+|Level  |  |  |  |
+|Health |  |  |  |
+|Magicka|  |  |  |
+|Stamina|  |  |  |
+
+
  *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
 |Movement Speed|  |
 |Melee Damage|  |
 |Ranged Damage| None |
@@ -352,12 +381,17 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
     
 **Wolf**
 
+*Size Variations*
+|Stat| Small| Medium| Large|
+|--|--|--|--|
+|Level  |  |  |  |
+|Health |  |  |  |
+|Magicka|  |  |  |
+|Stamina|  |  |  |
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| 125 |
-|Magicka| 0 |
-|Stamina| 200 |
 |Movement Speed| 150 |
 |Melee Damage| 25 |
 |Ranged Damage| None  |
@@ -373,12 +407,17 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 
 **Ice Wolf**
 
+*Size Variations*
+|Stat| Small| Medium| Large|
+|--|--|--|--|
+|Level  |  |  |  |
+|Health |  |  |  |
+|Magicka|  |  |  |
+|Stamina|  |  |  |
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
 |Movement Speed|  |
 |Melee Damage|  |
 |Ranged Damage| None  |
@@ -387,7 +426,7 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | Yes - Rockjoint |
 |Can Knockdown Player| |
 
 ---
