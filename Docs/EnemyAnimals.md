@@ -106,6 +106,7 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 |Can Knockdown Player| No|
 
 **Husky**
+
  *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -452,9 +453,9 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 | Diseased |  |
 |Can Knockdown Player| |
 
-###Mudcrabs
+### Mudcrabs
 
-Mudcrabs are slow and have a small attack range. you that too your advantage. dont underestimate the large ones, they pack quite a punch. 
+Mudcrabs are slow and have a small attack range. use that too your advantage. dont underestimate the large ones, they pack quite a punch. 
 
 **Mudcrab Small**
 
@@ -565,7 +566,7 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 |Can Knockdown Player| |
 
 
-###Bears
+### Bears
 
 These guys are like the heavy armor versions of wolves. high health and high mass. If you dont dodge their charge attack you will get knocked down unless wearing heavy armor. Either dodge or block that attack. every now and then they will stand on 2 legs and roar. Use this to your advantage and burst them down.
 
@@ -642,11 +643,11 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 | Diseased | Chance of Bone Break Fever or Feeble Limb |
 |Can Knockdown Player| Yes |
 
-###Cats
+### Cats
 
 Imagine bears that are faster than wolves. They have a knockdown charge attack that you must dodge or block because they will kill you quickly as you get up.
 
-
+The snow ones like jumpscares - you have been warned.
 
 **Standard**
 
@@ -733,7 +734,7 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 |Blunt (Maces & Hammers)   | 150 |
 |Ranged (Bows & Crossbows)  | 150 |
 
-###SlaughterFish
+### SlaughterFish
 
 **Slaughterfish**
 
