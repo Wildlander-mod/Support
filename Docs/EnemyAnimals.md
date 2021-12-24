@@ -68,7 +68,7 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 |Stat| Value |
 |--|--|
 |Health| 75 |
-|Magicka| -25 |
+|Magicka| 0 |
 |Stamina| 0 |
 |Movement Speed| 100 |
 |Melee Damage| 7.5 |
@@ -142,7 +142,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 50 |
 |Health Regeneration| None  |
 | Diseased |  |
 |Can Knockdown Player|  |
@@ -152,19 +152,19 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 200 |
+|Magicka| 0 |
+|Stamina| 25 |
+|Movement Speed| 170 |
+|Melee Damage| 5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player|  |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 **Vale Deer** 
 
@@ -190,19 +190,19 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 400 |
+|Magicka| 0 |
+|Stamina| 500 |
+|Movement Speed| 150 |
+|Melee Damage| 30 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 **Wild Goat**
 
@@ -333,7 +333,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None |
-| Diseased | Yes - Chance on hit of Atraxia |
+| Diseased | Yes - Chance on hit of Atraxia or The Shakes |
 |Can Knockdown Player| No |
 
 ---
@@ -356,17 +356,17 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Melee Damage|  |
 |Ranged Damage| None |
 |Magical Damage| None |
-|Standard Armor|  |
+|Standard Armor| 150 |
 |Magical Armor| None |
-|Armor Penetration| None |
+|Armor Penetration| 25 |
 |Health Regeneration| None |
-| Diseased |  |
+| Diseased | None |
 
  *Resistances*
 |Type  | Protection | 
 |--|--|
 |Frost  | 50% |  
-|Knock Down| Immune |  
+|Knock Down| Minor |  
 
 **Additional Perks**
 - Waterbreathing
@@ -388,19 +388,19 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Health |  |  |  |
 |Magicka|  |  |  |
 |Stamina|  |  |  |
+|Speed  |  |  |  |
+|Damage  |  |  |  |
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed| 150 |
-|Melee Damage| 25 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | Yes - Rockjoint |
+| Diseased | Yes - Rockjoint or Feeble Limb |
 |Can Knockdown Player| No |
 
 ---
@@ -414,6 +414,8 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Health |  |  |  |
 |Magicka|  |  |  |
 |Stamina|  |  |  |
+|Speed  |  |  |  |
+|Damage  |  |  |  |
 
 *Basic Stats*
 |Stat| Value |
@@ -426,7 +428,7 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | Yes - Rockjoint |
+| Diseased | Yes - Rockjoint or Feeble Limb  |
 |Can Knockdown Player| |
 
 ---
@@ -459,19 +461,26 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 100 |
+|Magicka| 4 |
+|Stamina| 25 |
+|Movement Speed| 100 |
+|Melee Damage| 10 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 360 |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - Chance of Swamp Fever |
+|Can Knockdown Player| No |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 100 |
+|Ranged (Bows & Crossbows)  | 100 |
+
 
 ---
 **Mudcrab Large**
@@ -479,19 +488,30 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 200 |
+|Magicka| 4  |
+|Stamina| 25  |
+|Movement Speed| 100 |
+|Melee Damage| 35 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 480 |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - Chance of Swamp Fever |
+|Can Knockdown Player|  |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Knock Down| Minor | 
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 150 |
+|Ranged (Bows & Crossbows)  | 150 |
 
 ---
 **Mudcrab Giant**
@@ -499,24 +519,49 @@ Mudcrabs are slow and have a small attack range. you that too your advantage. do
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 325 |
+|Magicka| 4 |
+|Stamina| 25 |
+|Movement Speed| 100 |
+|Melee Damage| 60 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 600 |
 |Magical AR| None |
-|AP| None |
+|AP| 25 |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | Yes - Chance of Swamp Fever |
 |Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Knock Down| Minor | 
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 150 |
+|Ranged (Bows & Crossbows)  | 150 |
 
 
 ###Bears
 
 These guys are like the heavy armor versions of wolves. high health and high mass. If you dont dodge their charge attack you will get knocked down unless wearing heavy armor. Either dodge or block that attack. every now and then they will stand on 2 legs and roar. Use this to your advantage and burst them down.
+
+**All Varieties**
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Knock Down| Minor |  
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 200 |
+|Blunt (Maces & Hammers)   | 200 |
+|Ranged (Bows & Crossbows)  | 200 |
 
 **Standard**
 
@@ -530,17 +575,12 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 120 |
 |Magical AR| None |
-|AP|  |
+|AP| 25 |
 |Health Regeneration| None  |
-| Diseased | chance of Bone Break Fever |
+| Diseased | chance of Bone Break Fever or Feeble Limb |
 |Can Knockdown Player| Yes |
-
- *Resistances*
-|Type  | Protection | 
-|--|--|
-|Knock Down| Minor |  
 
 ---
 **Cave**
@@ -559,21 +599,8 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 |Magical AR| None |
 |AP| 25 |
 |Health Regeneration| None |
-| Diseased | Yes - Bone Break Fever |
+| Diseased | Yes - Bone Break Fever or Feeble Limb |
 |Can Knockdown Player| Yes |
-
- *Resistances*
-|Type  | Protection | 
-|--|--|
-|Knock Down| Minor |  
-
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Pierce(Daggers)    | 200 |
-|Blunt (Maces & Hammers)   | 200 |
-|Ranged (Bows & Crossbows)  | 200 |
-
 
 ---
 **Snow**
@@ -588,21 +615,18 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 |Melee Damage|  |
 |Ranged Damage| None |
 |Magical Damage| None |
-|Standard AR|  |
+|Standard AR| 120 |
 |Magical AR|  |
-|AP|  |
+|AP| 25 |
 |Health Regeneration| None |
-| Diseased | Chance of Bone Break Fever |
+| Diseased | Chance of Bone Break Fever or Feeble Limb |
 |Can Knockdown Player| Yes |
-
- *Resistances*
-|Type  | Protection | 
-|--|--|
-|Knock Down| Minor |  
 
 ###Cats
 
 Imagine bears that are faster than wolves. They have a knockdown charge attack that you must dodge or block because they will kill you quickly as you get up.
+
+
 
 **Standard**
 
@@ -655,6 +679,13 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 | Diseased |  |
 |Can Knockdown Player| |
 
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 150 |
+|Blunt (Maces & Hammers)   | 150 |
+|Ranged (Bows & Crossbows)  | 150 |
+
 ---
 **Vale**
 
@@ -675,6 +706,13 @@ Imagine bears that are faster than wolves. They have a knockdown charge attack t
 | Diseased |  |
 |Can Knockdown Player| |
 
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 150 |
+|Blunt (Maces & Hammers)   | 150 |
+|Ranged (Bows & Crossbows)  | 150 |
+
 ###SlaughterFish
 
 **Slaughterfish**
@@ -684,19 +722,19 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 80 |
+|Magicka| 0 |
+|Stamina| 30 |
+|Movement Speed| 100 |
+|Melee Damage| 5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | no |
+|Can Knockdown Player| no |
 
 **Huge Slaughterfish**
 
@@ -711,12 +749,19 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 120 |
 |Magical AR| None |
-|AP| None |
+|AP| 75 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 100 |
 
 **Giant Slaughterfish**
 
@@ -733,10 +778,17 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 75 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 100 |
 
 **Giant Daedric Slaughterfish**
 
@@ -752,12 +804,17 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 75 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
    
-
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 100 |
 
 
 
