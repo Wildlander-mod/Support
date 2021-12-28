@@ -565,27 +565,6 @@ Mudcrabs are slow and have a small attack range. use that too your advantage. do
 |Slash (Swords & Axes)  | 150 |
 |Ranged (Bows & Crossbows)  | 150 |
 
----
-**Mudcrab Giagantic**
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR| 840 |
-|Magical AR|  |
-|AP| 75 |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-
 ### Bears
 
 These guys are like the heavy armor versions of wolves. high health and high mass. If you dont dodge their charge attack you will get knocked down unless wearing heavy armor. Either dodge or block that attack. every now and then they will stand on 2 legs and roar. Use this to your advantage and burst them down.
@@ -812,7 +791,6 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 
 **Giant Slaughterfish**
 
-
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -837,31 +815,7 @@ Usually found in lakes, rivers and the open sea. Raging from irritating to OMG w
 |Blunt (Maces & Hammers)   | 100 |
 |Ranged (Bows & Crossbows)  | 100 |
 
-**Giant Daedric Slaughterfish**
 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| 75 |
-|Health Regeneration| None  |
-| Diseased | No |
-|Can Knockdown Player| No |
-   
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
 
 
 
