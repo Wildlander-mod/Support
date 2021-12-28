@@ -166,6 +166,9 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Paralysis  | Immune |  
 
 
+**Small Deer**
+
+
 **Deer**
 
 *Basic Stats*
@@ -203,6 +206,9 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Health Regeneration| None  |
 | Diseased | None |
 |Can Knockdown Player|  No |
+
+**Small Elk**
+
 
 **Elk**
 
@@ -356,6 +362,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| No |
 
 ---
+**Horker Youngling**
 
 **Horker**
 
