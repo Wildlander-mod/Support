@@ -1001,19 +1001,33 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 550 |
+|Magicka| 0 |
+|Stamina| 750 |
+|Movement Speed| 125 |
+|Melee Damage| 65 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 240 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration| Yes - 80/s |
 | Diseased | Swamp fever  |
-|Can Knockdown Player| |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 33% | N/A |
+|Knockdown  | Minor | N/A |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 200 |
 
 ---
 
