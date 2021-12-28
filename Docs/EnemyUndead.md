@@ -93,24 +93,52 @@ In Requiem - these guys are various shades of "utter bastard"
 
 ## Draugr 
 
+Almost always found in the ruins of the ancient nords, these creatures were once followers of the dragon cults, being lead by mighty sorcerers also known as dragon priests. Basically, Draugrs share many characteristics with the common zombie found in many other provinces. They're very durable, as they no longer possess vulnerable organs and such; only severe dismemberment will stop them from functioning any longer, most likely because the magic animating them cannot be sustained after a certain degree of mutilation - therefore, the best way to deal with them in combat is using axes or swords, as blunt weapons don't work well on them. Also, non-magical bows and arrows will be of no use against this enemy - arrows are too small to cause dismemberment and also won't damage any organs, therefore, you could put a hundred arrows into one draugr without him stopping his furious charge. However, projectiles made from silver are still capable of dealing considerable amounts of damage to them... They're also highly resistant against frost and shock, though the latter shows a greater effect, probably because the lightning causes the disruption of the magic field that maintains their undeath, however, fire will cause overall damage to their rotten bodies, causing them to be quickly consumed by the flames - the best option to deal with them, besides certain spells of the school of restoration. Another strategy to deal with these creatures is to lure them into the traps that can be found in the ruins in which they reside, as they do not seem to possess enough intelligence to recognize them as a potential threat.
+
 
 **Melee** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health | 500 |
+|Magicka| 0 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage | Base - 10, additional Depends On Weapon |
+|Ranged Damage| Base - 0,  additional Depends On Weapon |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Standard AR| None |
+|Magical AR| None |
+|AP| Depends On Perks |
+|Health Regeneration| No  |
+| Diseased | Astral Vapors |
+|Can Knockdown Player| No |
+
+*Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 150 |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Daedric (Melee)     |  |
+|Daedric (Arrows)    |  |
+|Daedric (Artifacts) |  |
+|Standard (Arrows)   |  |
+|Standard (Melee)    |  |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 85% | N/A |
+|Shock  | 50% | N/A |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune |  N/A|
 
 ---
 
@@ -134,25 +162,99 @@ In Requiem - these guys are various shades of "utter bastard"
 |Can Knockdown Player| |
 
 ---
-
-**Boss**
+**Armored Melee** 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health | 510 |
+|Magicka| 0 |
+|Stamina| 10100 |
+|Movement Speed| 100 |
+|Melee Damage | Base - 20, additional Depends On Weapon |
+|Ranged Damage| Base - 0,  additional Depends On Weapon |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Standard AR| 360 |
+|Magical AR| None |
+|AP| Depends On Perks |
+|Health Regeneration| No  |
+| Diseased | Astral Vapors |
+|Can Knockdown Player| No |
+
+*Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 150 |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Daedric (Melee)     |  |
+|Daedric (Arrows)    |  |
+|Daedric (Artifacts) |  |
+|Standard (Arrows)   |  |
+|Standard (Melee)    |  |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 85% | N/A |
+|Shock  | 50% | N/A |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune |  N/A|
+
+
+---
+
+**Boss**
+
+**Boss Armored Melee** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health | 600 |
+|Magicka| 10 |
+|Stamina| 10135 |
+|Movement Speed| 100 |
+|Melee Damage | Base - 20, additional Depends On Weapon |
+|Ranged Damage| Base - 0,  additional Depends On Weapon |
+|Magical Damage| no  |
+|Standard AR| 600 |
+|Magical AR| None |
+|AP| Depends On Perks |
+|Health Regeneration| No  |
+| Diseased | Astral Vapors |
+|Can Knockdown Player| Yes - Unrelenting Force |
+
+*Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 150 |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Daedric (Melee)     |  |
+|Daedric (Arrows)    |  |
+|Daedric (Artifacts) |  |
+|Standard (Arrows)   |  |
+|Standard (Melee)    |  |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 85% | N/A |
+|Shock  | 50% | N/A |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune |  N/A|
+
 
 **Hulking**
 *Basic Stats*
@@ -198,6 +300,8 @@ In Requiem - these guys are various shades of "utter bastard"
 |Can Knockdown Player| |
 
 ## Ghost 
+
+Ghosts are spirits that haunt this world for whatever reason. One should note that there are two varities of ghosts one must not mix up. The first one is the ethereal one that does not acutally exist physically in this world, causing it to be invulnerable and unable to interact with the enviroment of this realm. The other would be the ones that actually manifest themselves physically in this world by the use of ectoplasm, in which case they do possess a physical body that can be damaged by conventional means - however, ectoplasm behaves quite extraordinarily, as it's both harder than steel but more flexible than water as long as it's part of a ghost's body, causing the creature to be able to deliver dangerous blows while also being highly resistant to physical weapons - in fact, it's almost like hitting a body of water, blows do cause a sort of disruption, but it takes a lot of hits to destroy it entirely. Also, some ghosts seem to have traits that they once had in their real life, like ghostly trolls being able to regenerate their ectoplasmic body - in this case fire would behave the same as with living trolls.
 
 *Basic Stats*
 |Stat| Value |
@@ -261,7 +365,8 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 
 
 ## Skeleton 
-Skeletons are skeletal, humanoid beings who usually use Bows/Axes as their offense. Skeletons are extremely easy to defeat With Blunt Melee damage. 
+
+Skeletons are a form of weaker undead. They are easily destroyed by using a heavy blunt weapon like a warhammer and cannot withstand much damage in general, though arrows will sometimes just go through them without doing much damage. But when approaching in great numbers, it is advised to either be experienced in fighting groups or to have a powerful destruction spell at hand.
 
 **Melee** 
 
@@ -381,6 +486,8 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Can Knockdown Player| |
 
 ## Vampires
+
+Vampires are known to reside throughout Tamriel and Skyrim is no exception. The most renowned local clan bears the name "Volkihar", though not much is known about their kin. As all vampires, they suffer much less from non-bladed weapons and are somewhat resistant to arrows. On the other hand, they do fear fire, for it causes severe damage to their bodies. Sunlight will also pose a threat to them, though it's not clear if they suffer as badly as other vampires from it. The real threat they pose, however, comes from their experience, as most vampires are very, very old - old enough to have studied probably all of the arcane schools to the very limits of Mundus or even beyond. Therefore, they almost all are foes incredibly skilled and thus, incredibly dangerous. Most importantly, one should not even think about using a holy symbol or garlic as protection, for the vampires will just laugh up their sleeve while tearing such a fool apart...
 
 **Standard** 
 *Basic Stats*
