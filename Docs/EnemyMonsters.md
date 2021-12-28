@@ -159,7 +159,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Aldiun**
+**Alduin**
 
 *Basic Stats*
 |Stat| Value |
@@ -431,8 +431,8 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | None |
+|Can Knockdown Player| No |
 
 ---
 **TIny**
@@ -451,7 +451,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | None |
 |Can Knockdown Player|no |
 
 ---
@@ -467,12 +467,12 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 |Melee Damage|  |
 |Ranged Damage| Frostbite Poison 0.2/s for 30  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 360 |
+|Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes  |
 | Diseased | Yes - Chills |
-|Can Knockdown Player| |
+|Can Knockdown Player|  Can apply Paralysis |
 
  *Weapon Protection*
 | Type | Bonus Armor |
@@ -826,20 +826,31 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 300 |
+|Magicka| 200 |
+|Stamina| 50 |
+|Movement Speed| 100 |
+|Melee Damage| 35 |
+|Ranged Damage| Spriggan Spray 15DPS  |
 |Magical Damage| None  |
 |Standard AR| 360 |
-|Magical AR|  |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes 60/s |
+| Diseased | No |
+|Can Knockdown Player| No |
 
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | None | 33% |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune | N/A  |
+|Paralysis  | Immune | N/A  |
+
+**Additional Perks**
+"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+"Spriggan Heal" - Heals self for 100HP
 
 ---
 **Spriggan Matron**
@@ -862,6 +873,10 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 |Can Knockdown Player| |
 
 
+**Additional Perks**
+"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+"Spriggan Heal" - Heals self for 100HP
+
 ---
 **Spriggan Earth Mother**
 
@@ -882,6 +897,9 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 | Diseased |  |
 |Can Knockdown Player| |
 
+**Additional Perks**
+"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+"Spriggan Heal" - Heals self for 100HP
 
 ---
 **Burnt Spriggan** 
@@ -895,7 +913,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 |Movement Speed|  |
 |Melee Damage|  |
 |Ranged Damage| None  |
-|Magical Damage| None  |
+|Magical Damage| Flames Channelled 10DPS, Firebolt 30 damage Plus 10DPS for 10 seconds in strike area |
 |Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
@@ -917,23 +935,36 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 |Health |  |  | 
 |Magicka|  |  | 
 |Stamina|  |  | 
+|Movement Speed|  |  |
+|Melee Damage|  |  |
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
+|Standard AR| 240 |
+|Magical AR| None |
+|AP| 25 |
+|Health Regeneration| Yes 60/s |
 | Diseased |  |
 |Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 25% | N/A |
+|Knockdown  | Minor | N/A |
+
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 200 |
+
 
 ---
 
