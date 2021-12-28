@@ -928,26 +928,21 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 
 **Standard**
 
-*Size Variations*
-|Stat| Small| Large| 
-|--|--|--|
-|Level  |  |  | 
-|Health |  |  | 
-|Magicka|  |  | 
-|Stamina|  |  | 
-|Movement Speed|  |  |
-|Melee Damage|  |  |
-
 *Basic Stats*
 |Stat| Value |
 |--|--|
+|Health | 500 |  
+|Magicka| 0 |  
+|Stamina| 675 |  
+|Movement Speed| 125 |  
+|Melee Damage| 60 |  
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| 240 |
 |Magical AR| None |
 |AP| 25 |
 |Health Regeneration| Yes 60/s |
-| Diseased |  |
+| Diseased | Swamp fever |
 |Can Knockdown Player| |
 
  *Resistances*
@@ -965,7 +960,40 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 |Blunt (Maces & Hammers)   | 100 |
 |Ranged (Bows & Crossbows)  | 200 |
 
+---
+**Large**
 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health |  |  
+|Magicka|  |   
+|Stamina|  |  
+|Movement Speed|  |  
+|Melee Damage|  |  
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 240 |
+|Magical AR| None |
+|AP| 50 |
+|Health Regeneration| Yes 60/s |
+| Diseased | Swamp fever  |
+|Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 25% | N/A |
+|Knockdown  | Minor | N/A |
+
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 200 |
 ---
 
 **Frost**
@@ -984,7 +1012,7 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | Swamp fever  |
 |Can Knockdown Player| |
 
 ---
@@ -1005,7 +1033,7 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | Swamp fever  |
 |Can Knockdown Player| |
 
 ---
@@ -1026,7 +1054,7 @@ Trolls are large, ape-like creatures with three eyes, and their usual loot is on
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | Swamp fever  |
 |Can Knockdown Player| |
 
 ## WereWolf
