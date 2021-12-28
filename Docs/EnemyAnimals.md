@@ -150,8 +150,8 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Magical AR| None |
 |AP| 50 |
 |Health Regeneration| None  |
-| Diseased | no |
-|Can Knockdown Player|  |
+| Diseased | Yes - Droops |
+|Can Knockdown Player| No |
 
  *Weapon Protection*
 | Type | Bonus Armor |
@@ -331,7 +331,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |AP| None |
 |Health Regeneration| None  |
 | Diseased | No |
-|Can Knockdown Player| |
+|Can Knockdown Player| No |
 
 ## Predators
 
@@ -445,7 +445,7 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |AP| None |
 |Health Regeneration| None  |
 | Diseased | Yes - Rockjoint or Feeble Limb  |
-|Can Knockdown Player| |
+|Can Knockdown Player| no |
 
  *Resistances*
 |Type  | Protection | 
@@ -470,8 +470,8 @@ These guys are fast, but any ranged attack can kill them before they get you. Ju
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - Rockjoint or Feeble Limb |
+|Can Knockdown Player|  no |
 
 ### Mudcrabs
 
@@ -609,11 +609,11 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 650 |
+|Magicka| 0 |
+|Stamina| 395 |
+|Movement Speed| 110 |
+|Melee Damage| 60 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| 120 |
@@ -649,19 +649,25 @@ These guys are like the heavy armor versions of wolves. high health and high mas
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health |  |
-|Magicka|    |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health | 600 |
+|Magicka| 0   |
+|Stamina| 505 |
+|Movement Speed| 110 |
+|Melee Damage| 60 |
 |Ranged Damage| None |
 |Magical Damage| None |
 |Standard AR| 120 |
-|Magical AR|  |
+|Magical AR| None |
 |AP| 25 |
 |Health Regeneration| None |
 | Diseased | Chance of Bone Break Fever or Feeble Limb |
 |Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% | 
+
 
 ### Cats
 
@@ -718,7 +724,7 @@ The snow ones like jumpscares - you have been warned.
 |AP| None |
 |Health Regeneration| None  |
 | Diseased |  |
-|Can Knockdown Player| |
+|Can Knockdown Player| Yes |
 
  *Weapon Protection*
 | Type | Bonus Armor |
@@ -733,19 +739,19 @@ The snow ones like jumpscares - you have been warned.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 500 |
+|Magicka| 0 |
+|Stamina| 500 |
+|Movement Speed| 150 |
+|Melee Damage| 55 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - Witbane  |
+|Can Knockdown Player| Yes |
 
  *Weapon Protection*
 | Type | Bonus Armor |
