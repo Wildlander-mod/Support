@@ -2,7 +2,7 @@
 
 ## Chaurus 
 
-Chaurus are worm-like insectoid creatures that typically live underground in caves and even in Dwemer ruins. They are deadly creatures, possessing the ability to spit out poisonous venom from their mouths, but they also use bite attacks during combat. Chaurus are almost always seen with Falmer in the underground cave networks and Dwemer ruins of Skyrim. The Chaurus appear to be used by the Falmer as pets and as fighters in combat, as well as torturers of people when their Falmer masters attack and capture bandits, traveling caravans and other people. 
+A highly poisonous insectoid that shares some characteristics with a centipede. It is covered in a strong chitin shell that will decrease the effect of all physical damage significantly - for the greatest degree of effect, they should be fought with blunt weapons or with magic. However, they are capable of spitting poison over many yards and therefore can be dangerous both at range or in melee, where they try to bite the target and thereby cause severe wounds. Protection from poison is highly advised when facing these monsters. Using poisons against them, however, is not advised, as they show a great resistance to it and also are immune to their own.
 
 **Chaurus **
 *Size Variations*
@@ -120,7 +120,6 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 
 ## Dragon
 
-
 **Fire**
 
 *Basic Stats*
@@ -179,9 +178,7 @@ Chaurus are worm-like insectoid creatures that typically live underground in cav
 |Can Knockdown Player| |
 
 ## Falmer
-Falmer, once known as Snow Elves, were thought to have been hunted to extinction by the Nords. 
-They now live deep underground and have devolved into disfigured, violent remnants of their former selves, and their senses have adapted to a life in the dark. 
-Their primitive weapons and armor are made from Chaurus chitin, and they often live near Chaurus, apparently keeping some of them as livestock. 
+The Falmer are humanoid-like creatures that dwell in Skyrim's underground areas, mostly in the parts of forsaken ruins of the dwemer. Without mentioning the astonishing history behind this race, it shall be noted that they're blind, yet can perceive their evironment exceptionally well via their other senses. They're highly intelligent and fight in groups while many of them also make use of potent poisons, making them formidable foes that aren't easily dispatched. However, they're somewhat vulnerable to fire - while, on the other hand, they're highly resistant to all kinds of poisons. They should be avoided by all but the most experienced adventurers.
 
 ### Melee
 
@@ -199,6 +196,8 @@ Their primitive weapons and armor are made from Chaurus chitin, and they often l
 
 
 ## Giants
+
+Giants are what their name suggests and can be found a plenty in the mountains and plains of Skyrim's landscape. Although most of them will only attack if one gets too close or they feel threatened, some might be more aggressive than others. Fighting them is a difficult task, however, as they can tear a human apart with their mere hands and become even more dangerous when using truly big weapons to crush their foes and knock down the entire vicinity. The structure of their body also differs greatly from that of humans internally, giving them a great protection from all kinds of arrows.
 
 **Standard**
 
@@ -261,7 +260,7 @@ Their primitive weapons and armor are made from Chaurus chitin, and they often l
 
 ## Hagraven 
 
-Hagravens are a mix of an old crone and a crow, and are exclusively female. They are often called witches, and many serve the Forsworn as Matriarchs. 
+Hagravens seem to be part woman and part raven. Generally, they're creatures that tend to practice witchcraft and therefore can relie on devastating spells during combat, though their sharp claws also give them an edge in melee. They should only be attacked with a high resistance to spells and at best, should be surprised, as they're rather weak when one can land the first blows before they start countering the attack. Additional caution is advised in melee, as they can also infect their victims with dangerous diseases.
 
 **Standard**
 
@@ -413,7 +412,8 @@ Hagravens are a mix of an old crone and a crow, and are exclusively female. They
 ## Spiders
 
 ###Frostbite
-Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. They shoot balls of poisonous web, and can range in size from smaller than the Dragonborn to bigger. 
+These spiders are far more dangerous than those that dwell in the dungeons of High Rock, as they grow much larger and have an even thicker carapace. Their poison can easily kill an adult human and, if applied by their fangs, can also paralyze the victim if it is not protected greatly from poisons. Again, blunt weapons and magic are the best way to deal with their natural armor, however, they show a slight weakness to fire, which should be the prefered form of spell or enchantment if dealing with this specimen. Using poisons against them, however, is not advised, as they show a great resistance to it and also are immune to their own, which only the most experienced alchemists can extract from their very unaccessible poison sacks. Amatures will only be able to collect their less potent spittle from their fangs.
+
 
 **Baby**
 
@@ -819,7 +819,7 @@ Frostbite Spiders are giant spiders found in caves and ruins all over Skyrim. Th
 ## Spriggan
 
 
-Spriggan are tree-like humanoid creatures, always female. Matrons tend to be harder to defeat than the usual Spriggan, with their heavier armor and more powerful magics. They are guardians of nature, and specific groups follow either Kynareth or Meridia. 
+Spriggans are somewhat like Nymphs, but are more associated with forests and groves. They actually do look like they consist mostly of wood and arcane energies, however, this doesn't prevent them from having a weakness against fire. On the other hand, they also show great regenerative abilities that can only be surpressed by setting them ablaze. In combat, they generally attack the target with claws and poisonous spells, while quickly retreating and regenerating if heavily injured.
 
 **Spriggan**
 
@@ -923,8 +923,7 @@ Spriggan are tree-like humanoid creatures, always female. Matrons tend to be har
 
 ## Troll 
 
-
-Trolls are large, ape-like creatures with three eyes, and their usual loot is only Troll Fat inside a bowl. Trolls inhabit most of Skyrim, but they are uncommon. Two types of trolls can be found, regular and Frost trolls. Frost trolls, as their name suggests, live in colder regions with snow.
+Trolls are found in great numbers in Skyrim's caves, mountains and plains alike. This brute almost entirely consists of pure muscles and delivers devastating blows with its strong arms that can tear smaller creatures apart easily. Besides, like Spriggans, they possess exceptionally high rates of healing, making them very hard to kill with normal weapons. Fire again is the best way to face this foe.
 
 **Standard**
 
