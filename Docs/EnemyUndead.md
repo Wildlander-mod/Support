@@ -101,13 +101,10 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health | 500 |
-|Magicka| 0 |
-|Stamina| 10000 |
 |Movement Speed| 100 |
 |Melee Damage | Base - 10, additional Depends On Weapon |
 |Ranged Damage| Base - 0,  additional Depends On Weapon |
-|Magical Damage| None  |
+|Magical Damage| None |
 |Standard AR| None |
 |Magical AR| None |
 |AP| Depends On Perks |
@@ -167,9 +164,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health | 510 |
-|Magicka| 0 |
-|Stamina| 10100 |
 |Movement Speed| 100 |
 |Melee Damage | Base - 20, additional Depends On Weapon |
 |Ranged Damage| Base - 0,  additional Depends On Weapon |
@@ -216,9 +210,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health | 600 |
-|Magicka| 10 |
-|Stamina| 10135 |
 |Movement Speed| 100 |
 |Melee Damage | Base - 20, additional Depends On Weapon |
 |Ranged Damage| Base - 0,  additional Depends On Weapon |
@@ -283,7 +274,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Health |  |  |  |
 |Magicka|  |  |  |
 |Stamina|  |  |  |
-
 
 *Basic Stats*
 |Stat| Value |
