@@ -120,7 +120,7 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 
 ## Dragon
 
-**Fire**
+**Fire**  
 
 *Basic Stats*
 |Stat| Value |
@@ -140,6 +140,25 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 |Can Knockdown Player| |
 
 **Frost**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Poison**  [NPC_:000F8117]
 
 *Basic Stats*
 |Stat| Value |
