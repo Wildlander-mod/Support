@@ -286,7 +286,7 @@ Falmer spellswords mix the martial attacks of their melee cousins and the magica
 |Can Knockdown Player| Falmer Poison Can Paralyse |
 
 ### Archers
-Some Falmer prefer to stay at a distance and assault you with missile attacks. These archers wield a Falmer Bow and carry 12 Falmer Arrows, and have a chance to carry a small number of other arrows (of any quality from iron to Daedric). Archers also carry a Falmer Sword, and any archer of level 22 or higher is equipped with a Falmer Helmet.
+Some Falmer prefer to stay at a distance and assault you with missile attacks. These archers wield a Falmer Bow and carry 12 Falmer Arrows, and have a chance to carry a small number of other arrows (of any quality from iron to Daedric). Archers also carry a Falmer Sword, and is equipped with a Falmer Helmet.
 
 *Basic Stats*
 |Stat| Value |
@@ -486,6 +486,17 @@ They can detect steath players So Sneak attacks are impossible to perform
 | Diseased |  |
 |Can Knockdown Player| |
 
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 100% |
+|Silver (Arrows)     | 100% |
+|Daedric (Melee)     | 100% |
+|Daedric (Arrows)    | 100% |
+|Standard (Arrows)   | 1% |
+|Standard (Melee)    | 1% |
+
 ## Magic Anomaly
 
 *Basic Stats*
@@ -504,6 +515,17 @@ They can detect steath players So Sneak attacks are impossible to perform
 |Health Regeneration| None  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 100% |
+|Silver (Arrows)     | 100% |
+|Daedric (Melee)     | 100% |
+|Daedric (Arrows)    | 100% |
+|Standard (Arrows)   | 1% |
+|Standard (Melee)    | 1% |
 
 ## Netch 
 
@@ -549,7 +571,7 @@ They can detect steath players So Sneak attacks are impossible to perform
   
 
 
-**Netch Calves (level 38) ** 
+**Netch Baby (level 38) ** 
 
 *Basic Stats*
 |Stat| Value |
@@ -1049,7 +1071,7 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Standard AR| 360 |
 |Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes 60/s |
+|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 100HP  |
 | Diseased | No |
 |Can Knockdown Player| No |
 
@@ -1063,7 +1085,6 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 
 **Additional Perks**
 "Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
-"Spriggan Heal" - Heals self for 100HP
 
 ---
 **Spriggan Matron**
@@ -1081,14 +1102,14 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 100HP   |
 | Diseased |  |
 |Can Knockdown Player| |
 
 
 **Additional Perks**
 "Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
-"Spriggan Heal" - Heals self for 100HP
+
 
 ---
 **Spriggan Earth Mother**
@@ -1106,13 +1127,13 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 100HP   |
 | Diseased |  |
 |Can Knockdown Player| |
 
 **Additional Perks**
 "Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
-"Spriggan Heal" - Heals self for 100HP
+
 
 ---
 **Burnt Spriggan** 
@@ -1154,7 +1175,7 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Magical AR| None |
 |AP| 25 |
 |Health Regeneration| Yes 60/s |
-| Diseased | Swamp fever |
+| Diseased | No |
 |Can Knockdown Player| |
 
  *Resistances*
@@ -1178,19 +1199,19 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health |  |  
-|Magicka|  |   
-|Stamina|  |  
-|Movement Speed|  |  
-|Melee Damage|  |  
+|Health | 800 |  
+|Magicka| 0 |   
+|Stamina| 800 |  
+|Movement Speed| 125 |  
+|Melee Damage| 110 |  
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| 240 |
 |Magical AR| None |
 |AP| 50 |
 |Health Regeneration| Yes 60/s |
-| Diseased | Swamp fever  |
-|Can Knockdown Player| |
+| Diseased | No  |
+|Can Knockdown Player| Yes |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -1224,7 +1245,7 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes - 80/s |
-| Diseased | Swamp fever  |
+| Diseased | No  |
 |Can Knockdown Player| Yes |
 
  *Resistances*
@@ -1243,24 +1264,66 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 
 ---
 
+**Cave**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 182 |
+|Magicka| 0 |
+|Stamina| 522 |
+|Movement Speed| 100 |
+|Melee Damage| 60 |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 240 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes 60/s |
+| Diseased | No  |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 25% | N/A |
+
+
+---
+
 **Armoured**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health|500  |
+|Magicka| 0 |
+|Stamina| 675 |
+|Movement Speed| 125 |
+|Melee Damage| 60 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased | Swamp fever  |
-|Can Knockdown Player| |
+|Standard AR| 600 |
+|Magical AR| None |
+|AP| 25 |
+|Health Regeneration| Yes 60/s |
+| Diseased | No  |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 25% | N/A |
+|Knock Down| Minor | N/A | 
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 50 |
+|Blunt (Maces & Hammers)   | 50 |
+|Ranged (Bows & Crossbows)  | 250 |
 
 ---
 
@@ -1269,19 +1332,33 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 550 |
+|Magicka| 0 |
+|Stamina| 375 |
+|Movement Speed| 120 |
+|Melee Damage| 65 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 600 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased | Swamp fever  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes 80/s  |
+| Diseased | No |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 33% | N/A |
+|Knock Down| Minor | N/A | 
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 50 |
+|Blunt (Maces & Hammers)   | 50 |
+|Ranged (Bows & Crossbows)  | 250 |
 
 ## WereWolf
 
@@ -1302,7 +1379,7 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes - 1/s  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| Yes |
 
  *Resistances*
@@ -1333,7 +1410,7 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Magical AR| None |
 |AP| 75 |
 |Health Regeneration|  Yes - 2/s |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| Yes |
 
  *Resistances*
@@ -1374,6 +1451,16 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 | Diseased | None |
 |Can Knockdown Player| None |
 
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 100% |
+|Silver (Arrows)     | 100% |
+|Daedric (Melee)     | 100% |
+|Daedric (Arrows)    | 100% |
+|Standard (Arrows)   | 1% |
+|Standard (Melee)    | 1% |
+
 
  *Resistances*
 |Type  | Protection | 
@@ -1401,6 +1488,17 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 | Diseased |  |
 |Can Knockdown Player| |
 
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 100% |
+|Silver (Arrows)     | 100% |
+|Daedric (Melee)     | 100% |
+|Daedric (Arrows)    | 100% |
+|Standard (Arrows)   | 1% |
+|Standard (Melee)    | 1% |
+
 ---
 **Wispmother**
 
@@ -1420,6 +1518,17 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 |Health Regeneration| No  |
 | Diseased | None |
 |Can Knockdown Player| No |
+
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 100% |
+|Silver (Arrows)     | 100% |
+|Daedric (Melee)     | 100% |
+|Daedric (Arrows)    | 100% |
+|Standard (Arrows)   | 1% |
+|Standard (Melee)    | 1% |
 
  *Resistances*
 |Type  | Protection | 
