@@ -332,7 +332,7 @@ Mammoths are found a plenty on the plains of Skyrim, either roaming the land wil
 |Frost  | 33% | 
 |Poison  | 66% |   
 |Paralysis  | Immune |  
-|Knock Down|  |  
+ 
 
  *Weapon Protection*
 | Type | Bonus Armor |
