@@ -311,19 +311,35 @@ Mammoths are found a plenty on the plains of Skyrim, either roaming the land wil
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 3000 |
+|Magicka| 0  |
+|Stamina| 3200 |
+|Movement Speed| 100 |
+|Melee Damage| 175 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 360 |
 |Magical AR| None |
-|AP| None |
+|AP| 50 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| Yes |
+
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 33% | 
+|Poison  | 66% |   
+|Paralysis  | Immune |  
+|Knock Down|  |  
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 150 |
+|Blunt (Maces & Hammers)   | 150 |
+|Ranged (Bows & Crossbows)  | 150 |
 
 **Bristleback** 
 
@@ -710,18 +726,18 @@ The snow ones like jumpscares - you have been warned.
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 575 |
+|Magicka| 0 |
+|Stamina| 250 |
+|Movement Speed| 175 |
+|Melee Damage| 55 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 120 |
 |Magical AR| None |
-|AP| None |
+|AP| 25 |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | Yes - Witbane  |
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
@@ -730,6 +746,12 @@ The snow ones like jumpscares - you have been warned.
 |Pierce(Daggers)    | 150 |
 |Blunt (Maces & Hammers)   | 150 |
 |Ranged (Bows & Crossbows)  | 150 |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% | 
+
 
 ---
 **Vale**
@@ -787,11 +809,11 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 325 |
+|Magicka| 0 |
+|Stamina| 220 |
+|Movement Speed| 110 |
+|Melee Damage| 105 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| 120 |
@@ -808,19 +830,24 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
 |Blunt (Maces & Hammers)   | 100 |
 |Ranged (Bows & Crossbows)  | 100 |
 
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 60% | 
+
 **Giant Slaughterfish**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 1232 |
+|Magicka| 0 |
+|Stamina| 3228 |
+|Movement Speed| 130 |
+|Melee Damage| 605 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 125 |
 |Magical AR| None |
 |AP| 75 |
 |Health Regeneration| None  |
@@ -834,7 +861,10 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
 |Blunt (Maces & Hammers)   | 100 |
 |Ranged (Bows & Crossbows)  | 100 |
 
-
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 60% | 
 
 
 
