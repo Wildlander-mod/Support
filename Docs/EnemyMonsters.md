@@ -4,7 +4,8 @@
 
 A highly poisonous insectoid that shares some characteristics with a centipede. It is covered in a strong chitin shell that will decrease the effect of all physical damage significantly - for the greatest degree of effect, they should be fought with blunt weapons or with magic. However, they are capable of spitting poison over many yards and therefore can be dangerous both at range or in melee, where they try to bite the target and thereby cause severe wounds. Protection from poison is highly advised when facing these monsters. Using poisons against them, however, is not advised, as they show a great resistance to it and also are immune to their own.
 
-**Chaurus **
+**Chaurus**
+
 *Size Variations*
 |Stat| Small| Large| 
 |--|--|--|
@@ -38,7 +39,7 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 |Poison  | 75 |  
 
 ---
-**Chaurus Reaper **
+**Chaurus Reaper**
 
 *Basic Stats*
 |Stat| Value |
