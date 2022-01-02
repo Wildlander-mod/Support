@@ -9,32 +9,35 @@
 **(Giant Chaurus Reaper)** :
     
 **Gigantic Mudcrab** : think bigger than a 18-wheeler Mudcrab 
-
-**Giant Daedric Slaughterfish**
-
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 3025 |
+|Magicka| 4 |
+|Stamina| 35 |
+|Movement Speed| 60  |
+|Melee Damage| 510 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 840 |
 |Magical AR| None |
 |AP| 75 |
 |Health Regeneration| None  |
 | Diseased | No |
-|Can Knockdown Player| No |
-   
+|Can Knockdown Player| Yes - Swamp Fever |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 60% |  
+|Knock Down| Minor |  
+
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
+|Slash (Swords & Axes)  | 250 |
 |Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
+|Ranged (Bows & Crossbows)  | 250 |
         
 **Gorak the Trollslayer** : Named Giant
 
