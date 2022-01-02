@@ -8,27 +8,34 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 *Size Variations*
 |Stat| Small| Large| 
 |--|--|--|
-|Level  |  |  | 
-|Health |  |  | 
-|Magicka|  |  | 
-|Stamina|  |  | 
+|Health | 225 | 200 | 
+|Magicka| 4 | 4 | 
+|Stamina| 200 | 200 | 
+|Movement Speed| 110 | 100 |
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Melee Damage| 20, Plus chance of Chaurus Bite - A vile poison harming the victim's health by 0.3 points for 240 seconds.|
+|Ranged Damage| Chaurus Spit - A vile poison harming the victim's health by 0.3 points for 120 seconds.  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 480 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| no  |
+| Diseased | yes - Rattles |
+|Can Knockdown Player| Chaurus Bite can apply Paralysis |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 250 |
+|Ranged (Bows & Crossbows)  | 200 |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75 |  
 
 ---
 **Chaurus Reaper **
@@ -36,39 +43,62 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 300 |
+|Magicka| 4 |
+|Stamina| 200 |
+|Movement Speed| 100 |
+|Melee Damage| 25, Plus chance of Chaurus Bite - A vile poison harming the victim's health by 0.35 points for 240 seconds.|
+|Ranged Damage| Chaurus Spit - A vile poison harming the victim's health by 0.3 points for 120 seconds.  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 480 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| no  |
+| Diseased | yes - Rattles |
+|Can Knockdown Player| Chaurus Bite can apply Paralysis |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 250 |
+|Ranged (Bows & Crossbows)  | 200 |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75 |  
 
 ---
 **Frozen Chaurus**
 
+*Size Variations*
+|Stat| Up to Level 39 | Up to Level 40 and above| 
+|--|--|--|
+|Health | 125 |  | 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Magicka| 4 |
+|Stamina| 100 |
+|Movement Speed| 120 |
+|Melee Damage| 50, Plus chance of Chaurus Bite - A vile poison harming the victim's health by 0.4 points for 300 seconds.|
+|Ranged Damage| Chaurus Spit - A vile poison harming the victim's health by 0.3 points for 300 seconds.  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 480 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| no  |
+| Diseased | yes - Rattles |
+|Can Knockdown Player| Chaurus Bite can apply Paralysis |
+
+ *Resistances*
+|Type  | Protection | Weakness |
+|--|--|--|
+|Poison  | 75 | N/A |
+|Frost  | 100% | N/A|
+|Fire  | N/A| 25% |
+
 
 ---
 **Chaurus Hunter **
@@ -76,27 +106,35 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 *Size Variations*
 |Stat| Small| Large| 
 |--|--|--|
-|Level  |  |  | 
-|Health |  |  | 
-|Magicka|  |  | 
-|Stamina|  |  | 
+|Health | 375 | 400 | 
+|Magicka| 50 | 50 | 
+|Stamina| 500 | 500 | 
+|Movement Speed| 110 | 100|
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Melee Damage| 50, Plus chance of Chaurus Bite - A vile poison harming the victim's health by 0.4 points for 300 seconds.|
+|Ranged Damage| Chaurus Spit - A vile poison harming the victim's health by 0.3 points for 300 seconds.  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 480 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| no  |
+| Diseased | yes - Rattles |
+|Can Knockdown Player| Chaurus Bite can apply Paralysis |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 250 |
+|Ranged (Bows & Crossbows)  | 200 |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75 |  
+|Paralysis  | Immune | 
 
 ---
 **Chaurus Hunter Fledgling **
@@ -104,19 +142,32 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 375 |
+|Magicka| 50 |
+|Stamina| 525 |
+|Movement Speed| 100 |
+|Melee Damage| 50, Plus chance of Chaurus Bite - A vile poison harming the victim's health by 0.4 points for 300 seconds.|
+|Ranged Damage| Chaurus Spit - A vile poison harming the victim's health by 0.3 points for 300 seconds.  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 480 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| no  |
+| Diseased | yes - Rattles |
+|Can Knockdown Player| Chaurus Bite can apply Paralysis |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 250 |
+|Ranged (Bows & Crossbows)  | 200 |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75 |  
+|Paralysis  | Immune | 
+
 
 ## Dragon
 
@@ -364,62 +415,82 @@ Hagravens seem to be part woman and part raven. Generally, they're creatures tha
 
 ## Netch 
 
-**Betty Netch**
+**Netch**
+
+*Size Variations*
+|Stat| Small| Large| 
+|--|--|--|
+|Level  | 50 | 52 | 
+|Health | 3113 | 3420 | 
+|Magicka| 0 | 0 | 
+|Stamina| 4082 | 3585 | 
+
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Movement Speed| 100 |
+|Melee Damage| 300 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
+|Magical Damage| Shock touch - A sting that does 100 points of shock damage to Health and half that to Magicka.  |
+|Standard AR| 350 |
 |Magical AR| None |
-|AP| None |
+|AP| 50 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
 
-**Bull Netch** 
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Shock  | 85% |  
+|Poison  | 80% |  
+|Paralysis  | Immune |  
+
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 100 |
+|Blunt (Maces & Hammers)   | 100 |
+|Ranged (Bows & Crossbows)  | 100 |
+  
+
+
+**Netch Calves (level 38) ** 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 1873 |
+|Magicka| 0  |
+|Stamina| 4062 |
+|Movement Speed| 100 |
+|Melee Damage| 185 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
+|Magical Damage| Shock touch - A sting that does 45 points of shock damage to Health and half that to Magicka. |
+|Standard AR| 450 |
 |Magical AR| None |
-|AP| None |
+|AP| 50 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
 
-**Netch Calf** 
 
-*Basic Stats*
-|Stat| Value |
+ *Resistances*
+|Type  | Protection | 
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Shock  | 85% |  
+|Poison  | 80% |  
+|Paralysis  | Immune |  
+
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 150 |
+|Blunt (Maces & Hammers)   | 150 |
+|Ranged (Bows & Crossbows)  | 150 |
 
 ## Riekling 
 ### Standard
@@ -439,22 +510,29 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 95 |
+|Magicka| -36 |
+|Stamina| 250 |
+|Movement Speed| 165 |
+|Melee Damage| 17.5 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration| no  |
 | Diseased | None |
 |Can Knockdown Player| No |
 
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
+
+
 ---
-**TIny**
+**Tiny**
 
 *Basic Stats*
 |Stat| Value |
@@ -471,7 +549,14 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |AP| None |
 |Health Regeneration| Yes  |
 | Diseased | None |
-|Can Knockdown Player|no |
+|Can Knockdown Player| No |
+
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
 
 ---
 **Medium**
@@ -479,12 +564,12 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| Frostbite Poison 0.2/s for 30  |
+|Health| 250 |
+|Magicka| 0 |
+|Stamina| 250  |
+|Movement Speed| 100 |
+|Melee Damage| 35 |
+|Ranged Damage| Frostbite Poison - A blood-freezing poison that deals 0.2 points of damage to Health and Stamina per second for 30 seconds.  |
 |Magical Damage| None  |
 |Standard AR| 360 |
 |Magical AR| None |
@@ -498,6 +583,12 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |--|--|
 |Ranged (Bows & Crossbows)  | 50 |
 
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
+
 **Large**
 
 *Basic Stats*
@@ -508,7 +599,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Stamina| 250 |
 |Movement Speed| 100 |
 |Melee Damage| 25 |
-|Ranged Damage| Frostbite Poison 0.4/s for 120  |
+|Ranged Damage| Frostbite Poison - A blood-freezing poison that deals 0.4 points of damage to Health and Stamina per second for 60 Seconds.  |
 |Magical Damage| None  |
 |Standard AR| 480 |
 |Magical AR| None |
@@ -522,25 +613,36 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |--|--|
 |Ranged (Bows & Crossbows)  | 50 |
 
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
+
 ---
 **Wounded Giant**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 650 |
+|Magicka| 4 |
+|Stamina| 700 |
+|Movement Speed| 100 |
+|Melee Damage| 120 |
+|Ranged Damage| Frostbite Poison - A blood-freezing poison that deals 1 points of damage to Health and Stamina per second for 150 seconds.  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 600 |
+|Magical AR| 0 |
 |AP| None |
 |Health Regeneration| no  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | Yes - Chills |
+|Can Knockdown Player| Can apply Paralysis |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Ranged (Bows & Crossbows)  | 50 |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -560,7 +662,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Stamina| 700 |
 |Movement Speed| 100 |
 |Melee Damage| 100 |
-|Ranged Damage| Frostbite Poison 1/s for 300  |
+|Ranged Damage| Frostbite Poison - A blood-freezing poison that deals 1 points of damage to Health and Stamina per second for 300 seconds  |
 |Magical Damage| None  |
 |Standard AR| 480 |
 |Magical AR| None |
@@ -586,19 +688,19 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 28 |
+|Magicka| 4 |
+|Stamina| 53 |
+|Movement Speed| 150 |
+|Melee Damage| 55 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 25 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| Paralyzing Poison - A poison that burns like fire, paralyzing those unfortunate enough to make contact with it for 15 seconds. |
 
 **Flame Cloaked Spider**
 *Basic Stats*
