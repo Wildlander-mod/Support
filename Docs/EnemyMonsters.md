@@ -4,6 +4,19 @@
 
 A highly poisonous insectoid that shares some characteristics with a centipede. It is covered in a strong chitin shell that will decrease the effect of all physical damage significantly - for the greatest degree of effect, they should be fought with blunt weapons or with magic. However, they are capable of spitting poison over many yards and therefore can be dangerous both at range or in melee, where they try to bite the target and thereby cause severe wounds. Protection from poison is highly advised when facing these monsters. Using poisons against them, however, is not advised, as they show a great resistance to it and also are immune to their own.
 
+*Shared Attributes*
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  | 250 |
+|Ranged (Bows & Crossbows)  | 200 |
+
+*Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75 |  
+
 **Chaurus**
 
 *Size Variations*
@@ -27,17 +40,6 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 | Diseased | yes - Rattles |
 |Can Knockdown Player| Chaurus Bite can apply Paralysis |
 
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Slash (Swords & Axes)  | 250 |
-|Ranged (Bows & Crossbows)  | 200 |
-
- *Resistances*
-|Type  | Protection | 
-|--|--|
-|Poison  | 75 |  
-
 ---
 **Chaurus Reaper**
 
@@ -57,17 +59,6 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 |Health Regeneration| no  |
 | Diseased | yes - Rattles |
 |Can Knockdown Player| Chaurus Bite can apply Paralysis |
-
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Slash (Swords & Axes)  | 250 |
-|Ranged (Bows & Crossbows)  | 200 |
-
- *Resistances*
-|Type  | Protection | 
-|--|--|
-|Poison  | 75 |  
 
 ---
 **Frozen Chaurus**
@@ -96,13 +87,12 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
  *Resistances*
 |Type  | Protection | Weakness |
 |--|--|--|
-|Poison  | 75 | N/A |
 |Frost  | 100% | N/A|
 |Fire  | N/A| 25% |
 
 
 ---
-**Chaurus Hunter **
+**Chaurus Hunter**
 
 *Size Variations*
 |Stat| Small| Large| 
@@ -125,20 +115,13 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 | Diseased | yes - Rattles |
 |Can Knockdown Player| Chaurus Bite can apply Paralysis |
 
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Slash (Swords & Axes)  | 250 |
-|Ranged (Bows & Crossbows)  | 200 |
-
- *Resistances*
+*Resistances*
 |Type  | Protection | 
 |--|--|
-|Poison  | 75 |  
 |Paralysis  | Immune | 
 
 ---
-**Chaurus Hunter Fledgling **
+**Chaurus Hunter Fledgling**
 
 *Basic Stats*
 |Stat| Value |
@@ -157,16 +140,9 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 | Diseased | yes - Rattles |
 |Can Knockdown Player| Chaurus Bite can apply Paralysis |
 
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Slash (Swords & Axes)  | 250 |
-|Ranged (Bows & Crossbows)  | 200 |
-
  *Resistances*
 |Type  | Protection | 
 |--|--|
-|Poison  | 75 |  
 |Paralysis  | Immune | 
 
 
@@ -252,18 +228,126 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 The Falmer are humanoid-like creatures that dwell in Skyrim's underground areas, mostly in the parts of forsaken ruins of the dwemer. Without mentioning the astonishing history behind this race, it shall be noted that they're blind, yet can perceive their evironment exceptionally well via their other senses. They're highly intelligent and fight in groups while many of them also make use of potent poisons, making them formidable foes that aren't easily dispatched. However, they're somewhat vulnerable to fire - while, on the other hand, they're highly resistant to all kinds of poisons. They should be avoided by all but the most experienced adventurers.
 
 ### Melee
+A Falmer fighter carrying a Falmer sword
+
+These Falmer prefer to fight up close, wielding a fearsome weapon in one hand and a shield in the other. In addition to a Falmer Shield, they carry either a Falmer Sword, a Honed Falmer Sword, a Falmer War Axe, or a Honed Falmer War Axe. 
+
+Falmer's armor like the players depends on what they are wearing.
+
+For Level 22 & above.
+
+    Helmet: either a Falmer Hardened Helm or a Falmer Heavy Helm
+    
+For Level 38 & Above
+
+    Boots: 25% chance to have either Falmer Hardened Boots or Falmer Heavy Boots
+    Cuirass: 75% chance to have either Falmer Hardened Armor or Falmer Heavy Armor
+    Gauntlets: 25% chance to have either Falmer Hardened Gauntlets or Falmer Heavy Gauntlets
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage| Depends on Weapon + Falmer Poison(33 damage for 3 seconds) |
+|Standard AR|  |
+|AP|  |
+|Health Regeneration|  |
+| Diseased |  |
+|Can Knockdown Player| Falmer Poison Can Paralyse |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 20% |
+|Poison  | 75% | N/A |
 
 ### SpellSword
+Falmer spellswords mix the martial attacks of their melee cousins and the magical attacks of the Falmer shaman. They wield either a Falmer Sword, a Honed Falmer Sword, a Falmer War Axe, or a Honed Falmer War Axe, and they do not carry a shield, preferring instead to keep a hand free for spells. Falmer of higher levels will also be equipped with a Falmer Helmet, top level will have a full set of heavy falmer Armor.
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 400 |
+|Magicka| 600 |
+|Stamina| 400 |
+|Movement Speed| 100 |
+|Melee Damage| Weapon Damage * 140% |
+|Ranged Damage| None |
+|Magical Damage| Wall Of Frost - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and slows the victim my 40% for 5 seconds |
+|Magical Support| Healing Hands (Rank III) Heals 50 points of Health and stamina for caster, and everyone close to the caster.|
+|Standard AR| 60 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| Falmer Poison Can Paralyse |
 
 ### Archers
+Some Falmer prefer to stay at a distance and assault you with missile attacks. These archers wield a Falmer Bow and carry 12 Falmer Arrows, and have a chance to carry a small number of other arrows (of any quality from iron to Daedric). Archers also carry a Falmer Sword, and any archer of level 22 or higher is equipped with a Falmer Helmet.
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 400 |
+|Magicka| 600 |
+|Stamina| 400 |
+|Movement Speed| 100 |
+|Melee Damage| Depends on Weapon |
+|Ranged Damage| Depends on Arrows + Falmer Poison(33 damage for 3 seconds) |
+|Standard AR| 60 |
+|AP| 50 |
+|Health Regeneration| No |
+| Diseased | No |
+|Can Knockdown Player| Falmer Poison Can Paralyse |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 20% |
+|Poison  | 75% | N/A |
 
 ### Shaman
+Falmer shaman are skilled spellcasters, relying primarily on the use of offensive spells in combat. 
 
-### SpellSword Bosses
+All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice or storms) or a bound sword with the following enchantments: Banish Summoned (an effect that functions like the Oblivion Binding perk), Soul Trap (5 seconds), and Turn Raised Undead (essentially a Turn Undead effect)
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 350|
+|Magicka| 700 |
+|Stamina| 300 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Ranged Damage| None |
+|Magical Damage| Either Venomous Blast Deals 10 poison damage for 3 seconds, Deals 1 poison damage for 300 seconds and Staggers Or Lightning Strike - The caster evokes a thunderbolt that deals 65 points of shock damage to Health and half that to Magicka. |
+|Summon |  Spirit Troll - The caster summons the spirit of a rampaging troll for 60 seconds.|
+|Magical Support| Healing Hands (Rank III) Heals 50 points of Health and stamina for caster, and everyone close to the caster.|
+|Magical Resistance When Cast| Steadfast Ward - The caster creates a protective shield that negates a great amount of physical damage and negates up to 60 points of spell damage or effects. Also renders the caster immune to most paralyzing effects.|
+|Standard AR|  None |
+|Magical AR| 30% |
+|AP| None |
+|Health Regeneration| No |
+| Diseased | No |
+|Can Knockdown Player| Venomous Blast can paralyse |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Fire  | 10% |   
+|Poison  | 75% |  
+|Paralysis  | When Steadfast Ward  is active |  
+
+### Bosses
 
 ### Frozen
 
 ### Feral
+
+### Vampire
 
 
 ## Giants
@@ -338,19 +422,26 @@ Hagravens seem to be part woman and part raven. Generally, they're creatures tha
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 401 |
+|Magicka| 800 |
+|Stamina| 50 |
+|Movement Speed| 100 |
+|Melee Damage| 40 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage| Firebolt - The caster evokes a blast of fire that deals 25 points of damage and staggers. Targets on fire take extra damage. Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
+|Standard AR| None  |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes - Can cast both Fast Healing - Heals the caster by 25 points.  Heal Self (Rank III) -  Heals the caster by 40 points.  |
+| Diseased | Brain Rot |
+|Can Knockdown Player| No |
+
+
+**Additional Perks**
+They can detect steath players So Sneak attacks are impossible to perform
+
+---
+**Karthspire's Hagraven** dunKarthspireHagraven [NPC_:0010196A]
 
 ---
 **Glenmoril Witch**
@@ -1194,41 +1285,71 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 
 ## WereWolf
 
+|Stat| Level 50 | Level 51| Level 54|Level 55|Level 60|
+|--|--|--|--|--|--|
+|Health | 1100 | 1250 | 1250 | 1250 | 1250 | 1400 |
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Magicka| 0 |
+|Stamina| 1200 | 
+|Movement Speed| 100 |
+|Melee Damage| 120 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration|   |
+|Health Regeneration| Yes - 1/s  |
 | Diseased |  |
-|Can Knockdown Player| |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75% |  
+|Knock Down| Minor |  
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Silver (Arrows)     | 150% |
 
 ## Werebear
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 3185 |
+|Magicka| 0 |
+|Stamina| 2185 |
+|Movement Speed| 115 |
+|Melee Damage| 342 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration|   |
+|Standard AR| None |
+|Magical AR| None |
+|AP| 75 |
+|Health Regeneration|  Yes - 2/s |
 | Diseased |  |
-|Can Knockdown Player| |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 75% |  
+|Poison  | 190% |  
+|Paralysis  | Immune |  
+|Knock Down| Minor |  
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Silver (Arrows)     | 150% |
+
 
 ## Wisps
 
@@ -1239,19 +1360,26 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 100 |
+|Magicka| 50 |
+|Stamina| 30 |
+|Movement Speed| 100 |
+|Melee Damage| 10 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage|   |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| None  |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Sneak Attack | Immune |  
+|Paralysis  | Immune |  
 
 ---
 **Shade** 
@@ -1279,18 +1407,25 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 800 |
+|Magicka| 300 |
+|Stamina| 50 |
+|Movement Speed| 90 |
+|Melee Damage| 1 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage| Ice Volley - 70 Damage, plus 2 second Slow, plus stagger. |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| No  |
+| Diseased | None |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Sneak Attack | Immune |  
+|Paralysis  | Immune |  
+
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
