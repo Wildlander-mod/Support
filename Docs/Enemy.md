@@ -34,7 +34,7 @@ Bandits / Mages Will not be covered in the guide (with the exception to the Name
 
 Vampires, Rieklings, Falmer and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
 
-For enemies wearing standard armour, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
+For enemies wearing standard armor, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
 
 ## About these Guides
 
@@ -48,7 +48,10 @@ Movement Speed, Melee/Ranged damage or spells that the Enemy can cast, Standard 
 Bonus armor that the Enemy gains if attacked by weapon damage types.
  
 **Resistances & Weaknesses**
-If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the Enemy has Knockdown, Sneak Attack or Paralysis protection, and if the enemy Requires Silver to take normal damage (and bonus damage applied by weapon type)
+If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the Enemy has Knockdown, Sneak Attack or Paralysis protection, and if the enemy has any additional protections - E.g Drain life, Unrelenting force.
+
+**Weapon Resistances & Weaknesses**
+If the Enemy has protection or vunerability to Weapon materiels such as Silver or Daedric, or if they take reduced damage from converntional materiels.
 
 ## The Guides
 
