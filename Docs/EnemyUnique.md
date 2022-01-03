@@ -99,6 +99,20 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 25% damage reduction |
+|Blunt (Maces & Hammers)   |  |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
+
 **Lis** Named Frostbite Spider
 
 **Lord Tusk** : Big Horker.
@@ -135,6 +149,20 @@
 **Ron the Crow**: Human Bandit.
 
 **Sos** : Named Atronoch
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 25% damage reduction |
+|Blunt (Maces & Hammers)   |  |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
 
 **Snow** : Giant Snowy Sabrecat
 
@@ -190,7 +218,19 @@
 
 **Zah** : Named Atronoch
 
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
 
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 25% damage reduction |
+|Blunt (Maces & Hammers)   |  |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
