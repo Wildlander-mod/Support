@@ -61,7 +61,7 @@ If the Enemy has protection or vunerability to Weapon materiels such as Silver o
 
 [Monsters](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyMonsters.md) – Monsters are creatures with various magical abilities, ranging from magical attacks to various magical resistances.
 
-             Chaurus • Dragon • Falmer • Fire Wyrm • Frostbite Spider • Gargoyle • Giant • Hagraven • Ice Wraith • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp
+             Chaurus • Falmer •  Frostbite Spider • Gargoyle • Giant • Hagraven • Ice Wraith • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp • Wispmother
         
 [Automations](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAutomations.md) – Dwarven Automatons are ancient, robot-like machines encountered in Dwarven Ruins.
 
@@ -70,6 +70,10 @@ If the Enemy has protection or vunerability to Weapon materiels such as Silver o
 [Daedra](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md) – Daedra are creatures from the planes of Oblivion.
               
             Ash Guardian • Flame Atronach • Frost Atronach • Lurker • Seeker • Storm Atronach • Soultorn Entity • Dremora
+            
+[Dragons](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDragons.MD) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim. .
+              
+            Fire • Ice • Poison • Skeletal • Serpantine • Durnehviir • Aldiun • Paarthurnax • Vulthuryol        
             
 [Undead](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
               
