@@ -145,85 +145,6 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 |--|--|
 |Paralysis  | Immune | 
 
-
-## Dragon
-
-**Fire**  
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-**Frost**
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-**Poison**  [NPC_:000F8117]
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-**Alduin**
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
-
 ## Falmer
 The Falmer are humanoid-like creatures that dwell in Skyrim's underground areas, mostly in the parts of forsaken ruins of the dwemer. Without mentioning the astonishing history behind this race, it shall be noted that they're blind, yet can perceive their evironment exceptionally well via their other senses. They're highly intelligent and fight in groups while many of them also make use of potent poisons, making them formidable foes that aren't easily dispatched. However, they're somewhat vulnerable to fire - while, on the other hand, they're highly resistant to all kinds of poisons. They should be avoided by all but the most experienced adventurers.
 
@@ -625,16 +546,26 @@ They can detect steath players So Sneak attacks are impossible to perform
 
 ## Riekling 
 ### Standard
+**Melee**
+
+**Missle**
 
 ### Mounted
 
-### Chiefs
+## Thirsk Mead Hall Riekling
+### Standard
+**Melee**
+
+**Missle**
+
+### Mounted
+
+### Chief
 
 ## Spiders
 
 ###Frostbite
 These spiders are far more dangerous than those that dwell in the dungeons of High Rock, as they grow much larger and have an even thicker carapace. Their poison can easily kill an adult human and, if applied by their fangs, can also paralyze the victim if it is not protected greatly from poisons. Again, blunt weapons and magic are the best way to deal with their natural armor, however, they show a slight weakness to fire, which should be the prefered form of spell or enchantment if dealing with this specimen. Using poisons against them, however, is not advised, as they show a great resistance to it and also are immune to their own, which only the most experienced alchemists can extract from their very unaccessible poison sacks. Amatures will only be able to collect their less potent spittle from their fangs.
-
 
 **Baby**
 
