@@ -1065,6 +1065,15 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 
 Spriggans are somewhat like Nymphs, but are more associated with forests and groves. They actually do look like they consist mostly of wood and arcane energies, however, this doesn't prevent them from having a weakness against fire. On the other hand, they also show great regenerative abilities that can only be surpressed by setting them ablaze. In combat, they generally attack the target with claws and poisonous spells, while quickly retreating and regenerating if heavily injured.
 
+**Shared Protections**
+
+*Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 66% damage reduction |
+|Blunt (Maces & Hammers)   | 66% damage reduction  |
+|Ranged (Bows & Crossbows)  | 75% damage reduction |
+
 **Spriggan**
 
 *Basic Stats*
