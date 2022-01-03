@@ -17,7 +17,7 @@
 -   [What do the Dropdowns mean?](#what-do-the-Dropdowns-mean)
 -   [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
 -   [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
--   [Does this pack support Ultrawide resolutions](#Does-this-pack-support-Ultrawide-resolutions)
+-   [Does this pack support Full Screen Ultrawide resolutions](#Does-this-pack-support-Ultrawide-resolutions)
 
 [**Gameplay Questions**](https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/FAQ.md#gameplay-questions)
 -   [Can I see a list of known issues?](#Can-i-see-a-list-of-known-issues)
