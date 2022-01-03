@@ -8,17 +8,20 @@ They are golden colored, strong robotic creations made by the Dwemer.
 
 The weakest form of dwarven automatons. Shaped like a spider, they're also the smallest of constructs encountered. However, they are even faster than the Spheres and sometimes have an active crystal mounted on their top that is capable of producing lethal strikes of lightning. When approaching in large numbers, it is highly advised to either flee or make use of spells that damage multiple ones.
 
+|Stat| Melee | Active | 
+|--|--|--|
+|Stamina| 10050 | 10066 (minimum) |  
+|Magical Damage| 0 | Lightning Bolt - 85 Damage |
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 200 |
+|Magicka| 3 |
+|Movement Speed| 130 |
+|Melee Damage| 20 |
 |Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
+|Standard AR| 300 |
 |Magical AR|  |
 |AP|  |
 |Health Regeneration|  |
