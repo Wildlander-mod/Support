@@ -50,6 +50,7 @@ The weakest form of dwarven automatons. Shaped like a spider, they're also the s
 | Diseased | No |
 |Can Knockdown Player| No |
 
+---
 
 **Warped**
 *Basic Stats*
@@ -95,6 +96,8 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 |Pierce(Daggers)    | 150 |
 |Ranged (Bows & Crossbows)  | 250 |
 
+---
+
 **Standard**
 
 |Stat| Melee | Ranged | 
@@ -117,7 +120,10 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 | Diseased | No |
 |Can Knockdown Player| No |
 
+---
+
 **Malfunctioning**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -134,6 +140,8 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 |Health Regeneration| None |
 | Diseased | None |
 |Can Knockdown Player| None |
+
+---
 
 **Warped**
 
@@ -155,7 +163,9 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 |Can Knockdown Player| None |
 
 ---
-**Dwarven Ballista**
+## Dwarven Ballista
+
+Ballistae are ranged attackers that will make every effort to stay as far away from their targets as possible and assail them with high-power ballista bolts from a distance. Their attacks are particularly powerful, will stagger those they hit. For this reason, they are high priority targets to remove as soon as possible whenever they are encountered. An effective strategy for combating them is to stay at range and evade their attack, and then rush them and attempt to defeat them before they have a chance to reload their ballista bolt. 
 
 *Basic Stats*
 |Stat| Value |
@@ -172,7 +182,7 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 |AP| 75 |
 |Health Regeneration| None |
 | Diseased | None |
-|Can Knockdown Player| None |
+|Can Knockdown Player| Can Stagger |
 
  *Resistances*
 |Type  | Protection | 
@@ -194,7 +204,7 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 |Ranged (Bows & Crossbows)  | 250 |
 
 --- 
-**Dwarven Centurion**
+## Dwarven Centurion
 
 The Centurion is one of the greatest inventions of dwemic craftmanship and proves to be a very dangerous foe. It's massive metal body provides an exceptional protection from all forms of physical damage and is unpenetrable by common arrows, making unenchanted bows practically useless and turning every melee fight into a very long lasting encounter. It's only weakness seems to be electric energy, as the exposure to such seems to overcharge the construct and thereby destroying the magical mechanisms that keep it running. However, some if not all of them have the ability to shoot forth streams of hot steam that can cook human-like creatures alive. If one wants to approach them in melee combat, it's most likely suicide if the daredevil does not use some sort of fire protection.
 
@@ -237,7 +247,9 @@ The Centurion is one of the greatest inventions of dwemic craftmanship and prove
 |Ranged (Bows & Crossbows)  | 250 + 50% damage reduction|
 
 ---
-**The Forgemaster**
+## The Forgemaster
+
+The Forgemaster is a powerful Dwarven Centurion that guards the Aetherium Forge. The Forgemaster is slightly larger in size than normal Centurions, still appearing partially molten due to its long slumber in the lava, and breathes a gout of fire instead of steam. The fire it breathes will also linger on the ground for some time, causing low-medium fire damage. 
 
 *Basic Stats*
 |Stat| Value |
@@ -272,14 +284,17 @@ The Centurion is one of the greatest inventions of dwemic craftmanship and prove
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Slash (Swords & Axes)  | 250 |
-|Pierce(Daggers)    | 150 |
-|Ranged (Bows & Crossbows)  | 250 |
+|Slash (Swords & Axes)  | 250 + 60% damage reduction |
+|Pierce(Daggers)    | 150 + 75% damage reduction|
+|Blunt (Maces & Hammers)   | 25% damage Reduction |
+|Ranged (Bows & Crossbows)  | 250 + 50% damage reduction|
 
 --- 
-**Enchanted Sphere**
+## Enchanted Sphere
 
-A much more rarer form of the Dwarven Sphere, and much more dangerous.
+A much more Larger, rarer form of the Dwarven Sphere, and much more dangerous. It's massive metal body provides an exceptional protection from all forms of physical damage and is unpenetrable by common arrows, coupled with health regeneration which is only slowed by electirical discharges. It's weapon is coated in a powerful toxin which deals ever increasing damage per hit. Its crossbow is enchanted with shock damage.
+
+For any adventure foolish enough to take one on, poison and shock resistance is therefore a must, along with shock enchanted blunt weaponry to reduce its healing.
 
 *Basic Stats*
 |Stat| Value |
@@ -292,7 +307,7 @@ A much more rarer form of the Dwarven Sphere, and much more dangerous.
 |Ranged Damage| Crossbow 60 Damage per shot + 84 for Ammo + 90 Shock damage |
 |Magical Damage| None |
 |Standard AR| 900 |
-|Magical AR| None |
+|Magical AR| 30% Magika Absorb with exception to Sphere's located in Mzulf and Mzark |
 |AP| 75 when Melee attacking, 225 when using Crossbow |
 |Health Regeneration| Yes 60/s normally, 20/s if under shock damage |
 | Diseased | No |
