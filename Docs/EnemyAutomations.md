@@ -53,6 +53,7 @@ The weakest form of dwarven automatons. Shaped like a spider, they're also the s
 ---
 
 **Warped**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
