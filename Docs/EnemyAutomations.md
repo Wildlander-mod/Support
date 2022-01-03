@@ -4,7 +4,7 @@
 Automatons are constructs of dwarven origin and can most often be found in dwemer ruins. Those encountered in Skyrim seem to be magically operated, as soul gems can be found in their remains, but how they function as a whole remains a secret. In general, they all share a strong resistance to physical damage due to their massive metal bodies, but can be dispatched relatively easily with shock based spells and enchantments, probably because they disrupt the magic that animates them.
 They are golden colored, strong robotic creations made by the Dwemer. 
 
-##Dwarven Spider
+## Dwarven Spider
 
 The weakest form of dwarven automatons. Shaped like a spider, they're also the smallest of constructs encountered. However, they are even faster than the Spheres and sometimes have an active crystal mounted on their top that is capable of producing lethal strikes of lightning. When approaching in large numbers, it is highly advised to either flee or make use of spells that damage multiple ones.
 
@@ -71,7 +71,7 @@ The weakest form of dwarven automatons. Shaped like a spider, they're also the s
 
 
 ---
-**Dwarven Sphere**
+## Dwarven Sphere
 
 A less durable form of the dwarven automatons, the dwarven sphere is more common than the centurion. However, it's much faster and can maneuver much better than the former - most often, they are still patrolling in the more narrow sections of the dwarven ruins. They're generally equipped with a melee weapon and a crossbow, allowing them to either engage in close combat or attack from afar.
 
