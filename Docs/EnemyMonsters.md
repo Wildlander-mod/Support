@@ -392,18 +392,18 @@ Giants are what their name suggests and can be found a plenty in the mountains a
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 1500 |
+|Magicka| 0 |
+|Stamina| 2600 |
+|Movement Speed| 90 |
+|Melee Damage| 60 Unarmed, 480 from Club |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
+|Standard AR| 240 |
+|Magical AR| 5%  |
+|AP| 75 |
+|Health Regeneration| Yes 120/s |
+| Diseased | No |
 |Can Knockdown Player| Yes - Giant Stomp |
 
  *Weapon Protection*
@@ -412,6 +412,14 @@ Giants are what their name suggests and can be found a plenty in the mountains a
 |Pierce(Daggers)    | 100 |
 |Blunt (Maces & Hammers)   | 100 |
 |Ranged (Bows & Crossbows)  | 200 |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 33% |
+|Frost  | 95% | N/A |
+|Poison  | 60% | N/A |
+|Knock Down| Minor | N/A |
 
 ## Hagraven 
 
