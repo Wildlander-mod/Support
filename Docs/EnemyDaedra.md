@@ -23,6 +23,20 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased |  |
 |Can Knockdown Player| |
 
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 25% damage reduction |
+|Blunt (Maces & Hammers)   |  |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
+
 ---
 
 **Flame Atronach** 
@@ -30,19 +44,34 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 300 |
+|Magicka| 150 |
+|Stamina| 10000 |
+|Movement Speed| 125 |
+|Melee Damage| 25 Plus either Standard Attack - Burns the target for 10 points  + 1 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Power Attack - Burns the target for 15 points  + 2 Damage per Second for  for 30 seconds. Targets on fire take extra damage.|
+|Ranged Damage| None |
+|Magical Damage| Firebolt The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage. |
+|Standard AR| 480 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+*Materiel Weaknesses*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | Immune | N/A |
+|Frost  | N/A | 25% |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune | N/A |
+|Knock Down| Minor | N/A |
 
 ---
 
@@ -51,19 +80,45 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 1000 |
+|Magicka| 0 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 60 |
 |Ranged Damage|  |
 |Magical Damage|  |
-|Standard AR|  |
+|Standard AR| 776 |
 |Magical AR|  |
 |AP|  |
 |Health Regeneration|  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | Immune | N/A |
+|Fire | N/A | 33% |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A |
+|Sneak Attack | Immune | N/A |
+|Knock Down| Minor | N/A |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 25% damage reduction |
+|Blunt (Maces & Hammers)   |  |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
+
 
 ---
 
@@ -86,26 +141,19 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased |  |
 |Can Knockdown Player| |
 
----
-
-**Daedric Prince** 
-
-*Basic Stats*
-|Stat| Value |
+*Materiel Protection*
+| Type | Damage change |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 50% damage reduction |
+|Blunt (Maces & Hammers)   |  |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
 
 ---
 
