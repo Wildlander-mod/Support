@@ -363,7 +363,8 @@ Mammoths are found a plenty on the plains of Skyrim, either roaming the land wil
 ## Predators
 
 
-**Skeever**
+###Skeevers
+
 Looking somewhat like the giant rats that dwell in Cyrodiil, Morrowind, Highrock and other provinces, Skeevers are the representation of these creatures in the land of Skyrim. They are rather small and a little skittish and will only prove to be a nuisance for anyone who can (and does) carry a weapon of any sort. 
 
  *Basic Stats*
@@ -385,9 +386,35 @@ Looking somewhat like the giant rats that dwell in Cyrodiil, Morrowind, Highrock
 
 ---
 ###Horkers
+
 Horkers are a common form of life at Skyrim's coasts. Their appearance is somewhat hard to describe, as no similar creature has ever been seen in all of Tamriel. They're very slow beings that only attack when feeling threatened - although they can be fought very easily with ranged weaponry because of their lack of fast movement, one should not dare to underestimate the force of their tusks, as they certainly are capable of killing a human-like being with just a few blows. Also, their body is very durable, consisting of thick layers of muscles and fat, which makes them die rather slowly if not hit very powerfully. Whatever way one chooses to approach them, it should be mentioned that their fat can be used as a substitute for troll fat, as they basically share the same magical properties.
 
 **Horker Youngling**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 669 |
+|Magicka| -25 |
+|Stamina| 350 |
+|Movement Speed| 100 |
+|Melee Damage| 85 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 150 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% |  
+|Knock Down| Minor |  
+
+
 
 **Horker**
 
@@ -424,8 +451,8 @@ Horkers are a common form of life at Skyrim's coasts. Their appearance is somewh
 *Weaknesses*
 - These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
 
-
 ###Wolves
+
 Probably the most common creature in Skyrim's forests and tundra, the Wolf is a dangerous beast that moves very fast and can kill with a few strong bites, but even a novice in the arts of combat should have no great challenge to kill one or two of them. However, if they are attacking in packs, they'll try to outmaneuver their prey, which can prove to be fatal to even more experienced adventurers - it is crucial to look out for them, and if possible, kill them with ranged weaponry.
 
 Just before they leap, dodge to the side. Its tricky at first but with practice you can do it almost everytime. If not you can try to bash them mid air.
@@ -526,7 +553,7 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | Yes - Chance of Swamp Fever |
+| Diseased | No |
 |Can Knockdown Player| No |
 
  *Weapon Protection*
@@ -553,7 +580,7 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | Yes - Chance of Swamp Fever |
+| Diseased | No |
 |Can Knockdown Player|  |
 
  *Resistances*
@@ -584,7 +611,7 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
 |Magical AR| None |
 |AP| 25 |
 |Health Regeneration| None  |
-| Diseased | Yes - Chance of Swamp Fever |
+| Diseased | No |
 |Can Knockdown Player| |
 
  *Resistances*
