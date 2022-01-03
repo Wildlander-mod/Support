@@ -188,7 +188,11 @@
 **The Beast**:
 
 **Thunder** : Giant Storm Atronach
-    
+
+Storm Atronach Standard Attack Target takes 20 points of damage, and twice as much Magicka damage.
+Storm Atronach Power Attack Target takes 20 points of damage, and twice as much Magicka damage in a 25 area.
+Shock Cloak 
+
 **Ulik** : Giant Troll
 
 *Basic Stats*
