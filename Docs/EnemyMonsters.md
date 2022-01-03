@@ -369,8 +369,8 @@ Giants are what their name suggests and can be found a plenty in the mountains a
 |Standard AR| 240 |
 |Magical AR| 5 |
 |AP| 75 |
-|Health Regeneration|  |
-| Diseased |  |
+|Health Regeneration| No |
+| Diseased | No |
 |Can Knockdown Player| Yes - Giant Stomp |
 
  *Weapon Protection*
@@ -472,19 +472,28 @@ They can detect steath players So Sneak attacks are impossible to perform
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 126 |
+|Magicka| 50 |
+|Stamina| 10014 |
+|Movement Speed| 100 |
+|Melee Damage| 75 Plus Ice Bite - The bite of an ice wraith is both cold as the grave and exhausting as Skyrim's most fearsome blizzards... (Frost Damage 7/s for 3s)|
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Frost  | Immune | N/A |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune | N/A |
+|Paralysis  | Immune | N/A |
 
 
 *Materiel Protection*
@@ -1441,9 +1450,9 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 |Magicka| 50 |
 |Stamina| 30 |
 |Movement Speed| 100 |
-|Melee Damage| 10 |
+|Melee Damage| 10 + Wisp's Kiss Deals 15 points of Magicka damage. plus 3 second slow |
 |Ranged Damage| None  |
-|Magical Damage|   |
+|Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
