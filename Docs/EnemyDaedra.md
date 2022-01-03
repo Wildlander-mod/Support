@@ -70,8 +70,9 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Fire  | Immune | N/A |
 |Frost  | N/A | 25% |
 |Poison  | Immune | N/A |
-|Sneak Attack | Immune | N/A |
-|Knock Down| Minor | N/A |
+|Sneak Attack | Immune | N/A  |
+|Paralysis  | Immune | N/A  |
+|Knock Down| Minor | N/A  |
 
 ---
 
@@ -84,16 +85,15 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Magicka| 0 |
 |Stamina| 10000 |
 |Movement Speed| 100 |
-|Melee Damage| 60 |
-|Ranged Damage|  |
-|Magical Damage|  |
+|Melee Damage| 60 + Frost Atronach Attack (Stagger + Target takes 25 points of Frost damage, and twice as much Stamina damage.) |
+|Ranged Damage| None |
+|Magical Damage| None |
 |Standard AR| 776 |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
-
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes - 120/s |
+| Diseased | None |
+|Can Knockdown Player| No |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -116,9 +116,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |--|--|
 |Slash (Swords & Axes)  |  50% damage reduction |
 |Pierce(Daggers)    | 25% damage reduction |
-|Blunt (Maces & Hammers)   |  |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
-
 
 ---
 
