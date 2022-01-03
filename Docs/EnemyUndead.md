@@ -24,19 +24,31 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 380 |
+|Magicka| 0 |
+|Stamina| 140 |
+|Movement Speed| 125 |
+|Melee Damage| 35 + Deathhound Bite - 10 Frost damage + 50 second slow |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage| Frost Cloak Opponents in melee range take 8 points frost damage and stamina damage per second.  |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes - 1.5/s |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Silver (Arrows)     | 150% |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 33% |  
+|Sneak Attack | Immune |  
 
 ## Dragon Priest
 Thousands of years ago, these priests ruled over Skyrim at the behest of their Dragon overlords. 
@@ -95,6 +107,15 @@ In Requiem - these guys are various shades of "utter bastard"
 
 Almost always found in the ruins of the ancient nords, these creatures were once followers of the dragon cults, being lead by mighty sorcerers also known as dragon priests. Basically, Draugrs share many characteristics with the common zombie found in many other provinces. They're very durable, as they no longer possess vulnerable organs and such; only severe dismemberment will stop them from functioning any longer, most likely because the magic animating them cannot be sustained after a certain degree of mutilation - therefore, the best way to deal with them in combat is using axes or swords, as blunt weapons don't work well on them. Also, non-magical bows and arrows will be of no use against this enemy - arrows are too small to cause dismemberment and also won't damage any organs, therefore, you could put a hundred arrows into one draugr without him stopping his furious charge. However, projectiles made from silver are still capable of dealing considerable amounts of damage to them... They're also highly resistant against frost and shock, though the latter shows a greater effect, probably because the lightning causes the disruption of the magic field that maintains their undeath, however, fire will cause overall damage to their rotten bodies, causing them to be quickly consumed by the flames - the best option to deal with them, besides certain spells of the school of restoration. Another strategy to deal with these creatures is to lure them into the traps that can be found in the ruins in which they reside, as they do not seem to possess enough intelligence to recognize them as a potential threat.
 
+**Shared **
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Standard (Arrows)   | 10% damage |
+
 
 **Melee** 
 
@@ -103,30 +124,20 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |--|--|
 |Movement Speed| 100 |
 |Melee Damage | Base - 10, additional Depends On Weapon |
-|Ranged Damage| Base - 0,  additional Depends On Weapon |
 |Magical Damage| None |
 |Standard AR| None |
 |Magical AR| None |
 |AP| Depends On Perks |
 |Health Regeneration| No  |
-| Diseased | Astral Vapors |
+| Diseased | No |
 |Can Knockdown Player| No |
 
-*Weapon Protection*
+ *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
+|Pierce(Daggers)    | 50% Damage reduction |
+|Blunt (Maces & Hammers)   | 50% Damage reduction |
 |Ranged (Bows & Crossbows)  | 150 |
-
-*Materiel Protection*
-| Type | Damage change |
-|--|--|
-|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
-|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
-|Daedric (Melee)     |  |
-|Daedric (Arrows)    |  |
-|Daedric (Artifacts) |  |
-|Standard (Arrows)   |  |
-|Standard (Melee)    |  |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -155,8 +166,17 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
+
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Pierce(Daggers)    | 50% Damage reduction |
+|Blunt (Maces & Hammers)   | 50% Damage reduction |
+|Ranged (Bows & Crossbows)  |  |
+
+
 
 ---
 **Armored Melee** 
@@ -172,24 +192,15 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Magical AR| None |
 |AP| Depends On Perks |
 |Health Regeneration| No  |
-| Diseased | Astral Vapors |
+| Diseased | No |
 |Can Knockdown Player| No |
 
-*Weapon Protection*
+ *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
+|Pierce(Daggers)    | 50% Damage reduction |
+|Blunt (Maces & Hammers)   | 50% Damage reduction |
 |Ranged (Bows & Crossbows)  | 150 |
-
-*Materiel Protection*
-| Type | Damage change |
-|--|--|
-|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
-|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
-|Daedric (Melee)     |  |
-|Daedric (Arrows)    |  |
-|Daedric (Artifacts) |  |
-|Standard (Arrows)   |  |
-|Standard (Melee)    |  |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -218,24 +229,15 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Magical AR| None |
 |AP| Depends On Perks |
 |Health Regeneration| No  |
-| Diseased | Astral Vapors |
+| Diseased | No |
 |Can Knockdown Player| Yes - Unrelenting Force |
 
-*Weapon Protection*
+ *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
+|Pierce(Daggers)    | 50% Damage reduction |
+|Blunt (Maces & Hammers)   | 50% Damage reduction |
 |Ranged (Bows & Crossbows)  | 150 |
-
-*Materiel Protection*
-| Type | Damage change |
-|--|--|
-|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
-|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
-|Daedric (Melee)     |  |
-|Daedric (Arrows)    |  |
-|Daedric (Artifacts) |  |
-|Standard (Arrows)   |  |
-|Standard (Melee)    |  |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -262,7 +264,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
 
 ## Gargoyles
@@ -286,7 +288,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Magical AR|  |
 |AP|  |
 |Health Regeneration|  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
 
 ## Ghost 
@@ -313,6 +315,20 @@ Ghosts are spirits that haunt this world for whatever reason. One should note th
 ## Shades
 
 Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meridia's Temple on Mount Kilkreath. 
+
+**Shared **
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)      | 50% reduction |
+|Pierce(Daggers)            | 80% reduction |
+|Ranged (Bows & Crossbows)  | 75% reduction |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Standard (Arrows)   | 20% |
 
 **Corrupted Shade** 
 
@@ -357,6 +373,21 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 ## Skeleton 
 
 Skeletons are a form of weaker undead. They are easily destroyed by using a heavy blunt weapon like a warhammer and cannot withstand much damage in general, though arrows will sometimes just go through them without doing much damage. But when approaching in great numbers, it is advised to either be experienced in fighting groups or to have a powerful destruction spell at hand.
+
+**Shared **
+ *Weapon Protection*
+| Type | Bonus Armor |
+|--|--|
+|Slash (Swords & Axes)      | 50% reduction |
+|Pierce(Daggers)            | 80% reduction |
+|Ranged (Bows & Crossbows)  | 75% reduction |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Standard (Arrows)   | 20% |
+
 
 **Melee** 
 
