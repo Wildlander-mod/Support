@@ -1,5 +1,4 @@
-
-
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
 ## Fire
 
@@ -143,6 +142,45 @@
 
 ## Named
 
+**Durnehviir**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+**Paarthurnax**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+
 **Alduin**
 
 *Basic Stats*
@@ -161,3 +199,9 @@
 |Health Regeneration| Yes  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+**Vulthuryol**
+
+
+[Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
+
