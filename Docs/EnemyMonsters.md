@@ -66,7 +66,7 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 *Size Variations*
 |Stat| Up to Level 39 | Up to Level 40 and above| 
 |--|--|--|
-|Health | 125 |  | 
+|Health | 125 | 375 | 
 
 *Basic Stats*
 |Stat| Value |
