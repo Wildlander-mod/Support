@@ -1431,19 +1431,25 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 8 |
+|Magicka| 212 |
+|Stamina| 50 |
+|Movement Speed| 75 |
+|Melee Damage| 1 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage| IceWind - The caster evokes a blast of cold that freezes everyone inside for 17 points per second, draining both health and stamina and slowing by 17% for 4 seconds. When the spell is released, the cold slowly ebbs away.  |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| No  |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Sneak Attack | Immune |  
+
 
 
 *Materiel Protection*
@@ -1493,5 +1499,22 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 |Sneak Attack | Immune |  
 |Paralysis  | Immune |  
 
+**Wispering Spirit** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 50 |
+|Magicka| 50 |
+|Stamina| 50 |
+|Movement Speed| 81 |
+|Melee Damage| 1 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| None |
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
