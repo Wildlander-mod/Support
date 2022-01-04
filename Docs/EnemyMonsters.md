@@ -1013,6 +1013,10 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Blunt (Maces & Hammers)   | 66% damage reduction  |
 |Ranged (Bows & Crossbows)  | 75% damage reduction |
 
+**Additional Perks - Except Burnt Spriggans**
+"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+"Spriggan Resiliance" - When health drops below 20%, Apply a 90% damage reduction from all sources
+
 **Spriggan**
 
 *Basic Stats*
@@ -1023,12 +1027,12 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Stamina| 50 |
 |Movement Speed| 100 |
 |Melee Damage| 35 |
-|Ranged Damage| Spriggan Spray 15DPS  |
+|Ranged Damage| Spriggan Spray - The caster summons a swarm of insects from the realm of Hircine which burrows into the target's flesh and deals 15 poison damage and 15 physical damage for 1 seconds.  |
 |Magical Damage| None  |
 |Standard AR| 360 |
 |Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 100HP  |
+|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 200HP  |
 | Diseased | No |
 |Can Knockdown Player| No |
 
@@ -1040,32 +1044,34 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Sneak Attack | Immune | N/A  |
 |Paralysis  | Immune | N/A  |
 
-**Additional Perks**
-"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
-
 ---
 **Spriggan Matron**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 400 |
+|Magicka| 250 |
+|Stamina| 50 |
+|Movement Speed| 100 |
+|Melee Damage| 45 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| 360 |
-|Magical AR|  |
+|Magical Damage| Spriggan Spray - The caster summons a swarm of even more ferocious insects from the realm of Hircine that burrow into the target's flesh, dealing 15 poison damage and 15 physical damage for 1 seconds.  |
+|Standard AR| 536 |
+|Magical AR| none |
 |AP| None |
-|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 100HP   |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes - 65/s. Can also cast "Spriggan Heal" - Heals self for 300HP |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 
-**Additional Perks**
-"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | None | 33% |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune | N/A  |
+|Paralysis  | Immune | N/A  |
 
 
 ---
@@ -1074,22 +1080,28 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 547 |
+|Magicka| 250 |
+|Stamina| 123 |
+|Movement Speed| 100 |
+|Melee Damage| 30 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| 360 |
-|Magical AR|  |
+|Magical Damage| Spriggan Spray - The caster summons a swarm of even more ferocious insects from the realm of Hircine that burrow into the target's flesh, dealing 35 poison damage and 35 physical damage for 1 seconds.   |
+|Standard AR| 536 |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes - 60/s. Can also cast "Spriggan Heal" - Heals self for 100HP   |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes - 100/s. Can also cast "Spriggan Heal" - Heals self for 100HP   |
+| Diseased | None |
+|Can Knockdown Player| No |
 
-**Additional Perks**
-"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | None | 25% |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune | N/A  |
+|Paralysis  | Immune | N/A  |
+
 
 
 ---
@@ -1098,19 +1110,28 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 467 |
+|Magicka| 300 |
+|Stamina| 218 |
+|Movement Speed| 100 |
+|Melee Damage| 150 |
 |Ranged Damage| None  |
 |Magical Damage| Flames Channelled 10DPS, Firebolt 30 damage Plus 10DPS for 10 seconds in strike area |
 |Standard AR| 360 |
-|Magical AR|  |
+|Magical AR| none |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes 75/s |
+| Diseased | None |
+|Can Knockdown Player| No |
+
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Fire  | 99% | 
+|Poison  | Immune | 
+|Sneak Attack | Immune |
+|Paralysis  | Immune | 
 
 ## Troll 
 
@@ -1474,7 +1495,7 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 |Movement Speed| 90 |
 |Melee Damage| 1 |
 |Ranged Damage| None  |
-|Magical Damage| Ice Volley - 70 Damage, plus 2 second Slow, plus stagger. |
+|Magical Damage| Ice Volley - 70 Frost Damage, plus 2 second Slow, plus stagger. |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
