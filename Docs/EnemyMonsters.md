@@ -440,19 +440,26 @@ They can detect steath players So Sneak attacks are impossible to perform
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 100 |
+|Magicka| 50 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 15 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Sneak Attack | Immune |  
+|Paralysis  | Immune |  
+
 
 
 *Materiel Protection*
