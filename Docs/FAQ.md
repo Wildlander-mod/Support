@@ -143,6 +143,8 @@ Based on the current Gold build.
 
 > [Feature list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview)
 
+> [Prep work you can do today](https://www.reddit.com/r/ultimateskyrim/comments/rvytph/any_prep_work_to_do_to_get_ready_for_wildlander/)
+
 ---
 # How Do I Update to the current Version.
 Please note the 4.3 is not save game compatible. Updating will require a fresh game with new MCM setup.
