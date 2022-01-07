@@ -11,8 +11,7 @@ This document will contain all of the Known gameplay related issues. It excludes
 
 ---
 ## Gameplay Issues
-- All forms of nighteye do not work.
-
+- All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
 
 ---
 ## Mod Issues.
