@@ -363,7 +363,7 @@ Mammoths are found a plenty on the plains of Skyrim, either roaming the land wil
 ## Predators
 
 
-###Skeevers
+### Skeevers
 
 Looking somewhat like the giant rats that dwell in Cyrodiil, Morrowind, Highrock and other provinces, Skeevers are the representation of these creatures in the land of Skyrim. They are rather small and a little skittish and will only prove to be a nuisance for anyone who can (and does) carry a weapon of any sort. 
 
@@ -451,7 +451,7 @@ Horkers are a common form of life at Skyrim's coasts. Their appearance is somewh
 *Weaknesses*
 - These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
 
-###Wolves
+### Wolves
 
 Probably the most common creature in Skyrim's forests and tundra, the Wolf is a dangerous beast that moves very fast and can kill with a few strong bites, but even a novice in the arts of combat should have no great challenge to kill one or two of them. However, if they are attacking in packs, they'll try to outmaneuver their prey, which can prove to be fatal to even more experienced adventurers - it is crucial to look out for them, and if possible, kill them with ranged weaponry.
 
