@@ -10,7 +10,11 @@ This document will contain all of the Known gameplay related issues. It excludes
 3) Several racemenu options are mislabeled.
 
 ---
+## Gameplay Issues
+- All forms of nighteye do not work.
 
+
+---
 ## Mod Issues.
 
 ### Outlaw Refuges. 
