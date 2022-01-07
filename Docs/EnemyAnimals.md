@@ -385,7 +385,7 @@ Looking somewhat like the giant rats that dwell in Cyrodiil, Morrowind, Highrock
 |Can Knockdown Player| No |
 
 ---
-###Horkers
+### Horkers
 
 Horkers are a common form of life at Skyrim's coasts. Their appearance is somewhat hard to describe, as no similar creature has ever been seen in all of Tamriel. They're very slow beings that only attack when feeling threatened - although they can be fought very easily with ranged weaponry because of their lack of fast movement, one should not dare to underestimate the force of their tusks, as they certainly are capable of killing a human-like being with just a few blows. Also, their body is very durable, consisting of thick layers of muscles and fat, which makes them die rather slowly if not hit very powerfully. Whatever way one chooses to approach them, it should be mentioned that their fat can be used as a substitute for troll fat, as they basically share the same magical properties.
 
@@ -398,7 +398,7 @@ Horkers are a common form of life at Skyrim's coasts. Their appearance is somewh
 |Magicka| -25 |
 |Stamina| 350 |
 |Movement Speed| 100 |
-|Melee Damage| 85 |
+|Me lee Damage| 85 |
 |Ranged Damage| None |
 |Magical Damage| None |
 |Standard AR| 150 |
