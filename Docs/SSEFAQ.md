@@ -8,6 +8,8 @@
 
 [Can I remove the downloads Folder?](#Can-I-remove-the-downloads-folder)
 
+[Can I See differences from Legacy Edition?](#Can-I-See-differences-from-Legacy-Edition)
+
 [**Wabbajack Issues**](#Wabbajack-Issues)
 -   [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
 -   [Getting a download failed on Elswaps Speed trees](#Getting-a-download-failed-on-Elswaps-Speed-trees)
@@ -74,6 +76,15 @@ Uninstalling the launcher requires you to use windows "Add / remove program" fun
 Yes - But if you want to install a update, or repair your install - you would need to redownload all 500+ Mods. 
 
 You can however safely move your download folder to another harddrive.
+
+----------
+
+#Can I See differences from Legacy Edition?
+> [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
+
+> [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
+
+> [Feature list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview)
 
 
 # Wabbajack Issues
@@ -329,7 +340,7 @@ Note: you must be at least at the stage of "Kill the werewolf hunters" for the Q
 
 ## Drink hoykey isnt working
 
-Keybindings were setup using a american keyboard. if you have any other type (specifically German, but also known to occur on UK keyboards). You need to rebind the drink hotkey in Sunhelm's MCM.
+Keybindings were setup using a american keyboard. if you have any other type (specifically German, but also known to occur on UK, Japanese and Czech keyboards). You need to rebind the drink hotkey in Sunhelm's MCM.
 
 
 ----------
