@@ -105,7 +105,7 @@ If you are unable to download MEGA files through Wabbajack You can [download](ht
 
 ## Getting a download failed on Original Skyrim files
 
-If you get the following error - Validate your game files in steam, from the steam > right click > properties > Local files tab
+If you get the following error - Make sure steam is installed in english, Validate your game files in steam, from the steam > right click > properties > Local files tab
 - Unable to download Skyrim_Default.ini 
 
 Wildlander requires Aniversary edition, If you get any of the following - update your Skyrim.
