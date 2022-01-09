@@ -2,13 +2,13 @@
 
 # Questions & Answers
 ---
-[How Do I Update?](#how-do-i-update-to-the-current-version)
+[What is Wildlander?](#What-is-Wildlander)
 
 [How Do I Uninstall?](#how-do-I-uninstall)
 
 [Can I remove the downloads Folder?](#Can-I-remove-the-downloads-folder)
 
-[Can I See differences from Legacy Edition?](#Can-I-See-differences-from-Legacy-Edition)
+[Can I See differences from Ultimate Skyrim?](#Can-I-See-differences-from-Ultimate-Skyrim)
 
 [**Wabbajack Issues**](#Wabbajack-Issues)
 -   [Wabbajack Fails to download mods or hangs for a long time.](#Wabbajack-Fails-to-download-mods-or-hangs-for-a-long-time)
@@ -50,6 +50,20 @@
 -   [How Do i craft Snowberry extract?](#How-Do-i-craft-Snowberry-extract)
 -   [How do I craft healing poltice](#How-do-I-craft-healing-poltice)
 
+------
+# What is Wildlander?
+
+Wildlander is the new name for "Ultimate Skyrim SE". We chose to rebrand the project to seperate it from the Ultimate skyrim list and reduce confusion.
+
+The Modlist is a complete rebuild from the ground up, so some of the features you maybe used to are not available, either because they havent been converted to SE (and were too complex to be done so by us) Examples of this - Atronoch crossing, easy wheel. Because the versions available for SE have major changes which would require rebalancing (Hejarchen farm) Or simply dont work (Dark dungeons, Locked city gates, Full version of ESF).
+
+This isnt to say some of these features wont return in some fashion in the next few builds, just that they didnt make the deadline for compatibility for this one. 
+
+To See a list of mods in the build please click [here](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
+
+## Can I See differences from Ultimate Skyrim?
+
+Yes - Click [Here](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
 
 ----------
 
@@ -79,13 +93,6 @@ You can however safely move your download folder to another harddrive.
 
 ----------
 
-# Can I See differences from Legacy Edition?
-> [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
-
-> [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
-
-> [Feature list](https://docs.google.com/document/d/1WM0hRqwouuURlzfIiT6QdfOgK2RAZiEWVHYBcNmlOPg/preview)
-
 
 # Wabbajack Issues
 
@@ -98,15 +105,15 @@ Sometimes wabbajack gets stuck downloading.
 
 [![img](https://camo.githubusercontent.com/72d29a1cda8ff5fa29f42ff8232ea890764cbae1c17344c50a8deea51645cf3c/68747470733a2f2f696d616765732d6578742d322e646973636f72646170702e6e65742f65787465726e616c2f4f506f423576314f734e516c3749315f592d2d636a3967527567553759734f4655536b47633234345753632f68747470732f692e6962622e636f2f4644504472666b2f446973636f72642d56504e2e706e67)](https://camo.githubusercontent.com/72d29a1cda8ff5fa29f42ff8232ea890764cbae1c17344c50a8deea51645cf3c/68747470733a2f2f696d616765732d6578742d322e646973636f72646170702e6e65742f65787465726e616c2f4f506f423576314f734e516c3749315f592d2d636a3967527567553759734f4655536b47633234345753632f68747470732f692e6962622e636f2f4644504472666b2f446973636f72642d56504e2e706e67)
 
-3.  If that does not resolve the issue, try using a VPN service such as Cloudflare WARP or ProtonVPN. (Ultimate Skyrim is not affiliated with and does not endorse any specific VPN service. We does not provide user support for VPN services. Use at your own discretion.)
+3.  
+
+4.  If that does not resolve the issue, try using a VPN service such as Cloudflare WARP or ProtonVPN. (Ultimate Skyrim is not affiliated with and does not endorse any specific VPN service. We does not provide user support for VPN services. Use at your own discretion.)
     
-4.  If above fails then manually download the file using the following procedure:-
+5.  If above fails then manually download the file using the following procedure:-
     
     1.  Close wabbajack
-    2.  Go [here](https://www.wabbajack.org/#/modlists/gallery) Find Wildlander in the list - then select Archive search in bottom right hand corner
-    3.  Use the search bar in top right to find the mod(s) which fails to download automatically
-    4.  Use the "link" icon next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
-    5.  Restart wabbajack - it will then proceed with the install
+    2.  Go [here](https://github.com/wabbajack-tools/mod-lists/blob/master/reports/wildlander/status.md) Find the failing mod in the list the link  next to the download to manually download the file(s) and copy into the downloads directory you specified when starting the wabbajack install process
+    3.  Restart wabbajack - it will then proceed with the install
 
 ----------
 
