@@ -55,7 +55,7 @@
 
 # How Do I Update to the Current Version
 
-To update a Modlist, simply run Wabbajack again and get the newest list file from the Browse Modlists section. Select the same Download and Install folders you chose previously, and select the "Overwrite" option on the bottom right. Backup any changes you have made to the modlist since your original install as these will be lost. If you want to keep any mods you've added to your personal install, rename those mods to start with `[NoDelete]` to force Wabbajack to skip those files. Note that support still won't be officially provided; use this feature at your own discretion. [here](https://www.Wildlander.com/Wildlander-install)
+To update a Modlist, simply run Wabbajack again and get the newest list file from the Browse Modlists section. Select the same Download and Install folders you chose previously, and select the "Overwrite" option on the bottom right. Backup any changes you have made to the modlist since your original install as these will be lost. If you want to keep any mods you've added to your personal install, rename those mods to start with `[NoDelete]` to force Wabbajack to skip those files. Note that support still won't be officially provided; use this feature at your own discretion. [here](https://www.wildlandermod.com/download)
 
 Please Note: Some Updates will require a brand new game and are not save compatible.
 
@@ -79,7 +79,7 @@ You can however safely move your download folder to another harddrive.
 
 ----------
 
-#Can I See differences from Legacy Edition?
+# Can I See differences from Legacy Edition?
 > [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
 
 > [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
