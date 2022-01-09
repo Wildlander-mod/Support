@@ -26,6 +26,7 @@ If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrgani
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
 - Quest I have "requiem for a better times" is stuck installing. this will not affect your gameplay - ignore it.
 - Come crafting crecipes requiring bottled water dont work
+- Using a controller on a lock is cauing the camera to fluff up
 
 ---
 ## Quest issues
