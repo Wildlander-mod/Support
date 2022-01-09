@@ -23,6 +23,8 @@
 
 [**Gameplay Questions**](https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/FAQ.md#gameplay-questions)
 -   [Can I see a list of known issues?](#Can-i-see-a-list-of-known-issues)
+-   [How can I see the keybindings?](#How-can-I-see-the-keybindings?)
+-   [My keybinds dont work](#My-keybinds-dont-work)
 -   [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
 -   [Why Cant I Run? Why is my stamina going down for no reason?](#why-cant-i-run-or-why-is-my-stamina-going-down-for-no-reason)
 -   [Why can't I get a blessing or cure at a shrine?](#why-cant-i-get-a-blessing-at-a-shrine)
@@ -242,6 +244,18 @@ Sure - Here's a [link](https://github.com/Wildlander-mod/Support/blob/master/Doc
 ## How can I see the keybindings?
 
 The in-game hotkey F11 will bring up a Gampad/ keyboard layout of all keybindings. F11 again will hide it.
+
+----------
+
+## My keybinds dont work
+
+Dylan is based in the US - so they kiybinding were based on a standard QWERTY US keyboard.
+
+For any other types of keyvboards you will need to rebind the keys yourself from the mcm menus.
+
+There is a appropriate guide here
+
+https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/edit#gid=0
 
 ----------
 
