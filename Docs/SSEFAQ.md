@@ -60,7 +60,17 @@ The Modlist is a complete rebuild from the ground up, so some of the features yo
 
 This isnt to say some of these features wont return in some fashion in the next few builds, just that they didnt make the deadline for compatibility for this one. 
 
-To See a list of mods in the build please click [here](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
+## Can i see the mod lists?
+
+> Ultra: (https://loadorderlibrary.com/lists/wildlander-ultra-profile)
+> 
+> High: (https://loadorderlibrary.com/lists/wildlander-high-profile)
+> 
+> Medium: (https://loadorderlibrary.com/lists/wildlander-medium-profile)
+> 
+> Low: (https://loadorderlibrary.com/lists/wildlander-low-profile)
+> 
+> Potato: (https://loadorderlibrary.com/lists/wildlander-potato-profile)
 
 ## Can I See differences from Ultimate Skyrim?
 
