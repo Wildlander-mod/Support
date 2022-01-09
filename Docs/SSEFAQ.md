@@ -38,7 +38,6 @@
 -   [How do I change the difficulty?](#How-do-I-change-the-difficulty)
 -   [I contracted Sanguinare Vampiris and now I can't sleep!](#I-contracted-Sanguinare-Vampiris-and-now-I-cant-sleep)
 -   [Eorland Graymane wont temper/craft stuff for me](#eorland-graymane-wont-tempercraft-stuff-for-me)
--   [Drink hoykey isnt working](#Drink-hotkey-isnt-working)
 -   [Can I remove Quick restore from control](#Can-I-remove-Quick-restore-from-control)
 
 [**Questing Questions**](#Questing-questions)
@@ -356,13 +355,6 @@ This is a 'Minor Arcana' change that prevents weak characters from acquiring Vam
 Eorland Graymane is the best smith in the game, and as such reserves his services for members of the Circle for the companions.
 
 Note: you must be at least at the stage of "Kill the werewolf hunters" for the Quest "The silver hand"
-
-----------
-
-## Drink hoykey isnt working
-
-Keybindings were setup using a american keyboard. if you have any other type (specifically German, but also known to occur on UK, Japanese and Czech keyboards). You need to rebind the drink hotkey in Sunhelm's MCM.
-
 
 ----------
 
