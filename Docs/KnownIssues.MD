@@ -3,15 +3,32 @@
 This document will contain all of the Known gameplay related issues. It excludes any graphical issues, EG Clipping textures.
 
 ---
+## Crash to desktop on save when using the BitDefender Antivirus.
+
+1) this is a setting issue with Bitdefender
+2) Bit defender cannot work with mod organiser
+3) a) Easy solution - Turn off Advance Threat Defence when playing wildlander
+   b) proper Solutions Add a ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
+
+If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
+
+
+---
 
 ## Character creation issues
 1) Several of the presets have options you cannot remove, E.g facepaint, scars.
 2) You cannot start as a Werewolf or Vampire
 3) Several racemenu options are mislabeled.
+4) the Sculpting options do not make any changes.
 
 ---
 ## Gameplay Issues
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
+- Quest I have "requiem for a better times" is stuck installing. this will not affect your gameplay - ignore it.
+
+---
+## Quest issues
+- Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
 
 ---
 ## Mod Issues.
@@ -23,12 +40,7 @@ This document will contain all of the Known gameplay related issues. It excludes
 - Several objects (e.g training dummies) are not interactable and should be
 
 ### Heljarchen Farm
--   The rainwater barrel does not function as a water source 
--   Cash prices for construction and hiring is too low.
--   Cabinets in the landlord quarters can generate with VERY expensive equipment 
--   Horses can be whistled for inside of the house    
--   Lighting within the alchemy greenhouse does not provide the correct window lighting 
--   The milk crate near the cows cannot be interacted with
+- was removed at last minute as we were unable to correct the bugs within.
 
 ### Properties Without Pestering
 - Hjerim is not available for purchase after completing "blood on the ice" until you are Thane.
@@ -74,6 +86,7 @@ Work around: dont take a bath in cold water ;)
 6) Rain effects on trees gives a off blue glow.
 7) Aela's shield can be purchased before joining the companions and Vilkas's sword can be sold.
 8) Breezehome upon purchase has loot in the safe's. In addition the fire is located in the wrong place.
+9) the woodcutters axe in is invisible when equipped (Male Character)
 
 ### Sounds
 1) Insect noise is overly loud.
