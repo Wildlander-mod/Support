@@ -111,14 +111,14 @@ You can however safely move your download folder to another harddrive.
 
 Sometimes wabbajack gets stuck downloading.
 
-1.  Close and restart wabbajack - Start the Ultimate Skyrim install process again, entering same criteria as originally. Wababjack will the CRC check your existing files and will normally resume where it failed & complete the install without any further intervention.
+1.  Close and restart wabbajack - Start the Wildlander install process again, entering same criteria as originally. Wababjack will the CRC check your existing files and will normally resume where it failed & complete the install without any further intervention.
 2.  If you are experiencing issues with Wabbajack repeatedly failing to download one or more files (same files every time), try enabling the Network Workaround in Wabbajack settings.
 
 [![img](https://camo.githubusercontent.com/72d29a1cda8ff5fa29f42ff8232ea890764cbae1c17344c50a8deea51645cf3c/68747470733a2f2f696d616765732d6578742d322e646973636f72646170702e6e65742f65787465726e616c2f4f506f423576314f734e516c3749315f592d2d636a3967527567553759734f4655536b47633234345753632f68747470732f692e6962622e636f2f4644504472666b2f446973636f72642d56504e2e706e67)](https://camo.githubusercontent.com/72d29a1cda8ff5fa29f42ff8232ea890764cbae1c17344c50a8deea51645cf3c/68747470733a2f2f696d616765732d6578742d322e646973636f72646170702e6e65742f65787465726e616c2f4f506f423576314f734e516c3749315f592d2d636a3967527567553759734f4655536b47633234345753632f68747470732f692e6962622e636f2f4644504472666b2f446973636f72642d56504e2e706e67)
 
 3.  
 
-4.  If that does not resolve the issue, try using a VPN service such as Cloudflare WARP or ProtonVPN. (Ultimate Skyrim is not affiliated with and does not endorse any specific VPN service. We does not provide user support for VPN services. Use at your own discretion.)
+4.  If that does not resolve the issue, try using a VPN service such as Cloudflare WARP or ProtonVPN. (Wildlander is not affiliated with and does not endorse any specific VPN service. We does not provide user support for VPN services. Use at your own discretion.)
     
 5.  If above fails then manually download the file using the following procedure:-
     
