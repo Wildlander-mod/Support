@@ -2,9 +2,13 @@
 
 # Questions & Answers
 ---
-[What is Wildlander?](#What-is-Wildlander)
-
-[Can I remove the downloads folder?](#Can-I-remove-the-downloads-folder)
+**General Questions**
+ [What is Wildlander?](#what-is-wildlander)
+ [Can I see the mod lists?](#can-i-see-the-mod-lists)
+ [Can I see the differences to Ultimate Skyrim?](#can-i-see-the-differences-to-ultimate-skyrim)
+ [How do I update to the Current Version](#how-do-i-update-to-the-current-version)
+ [How do I Uninstall](#how-do-i-uninstall)
+ [Can I remove the downloads folder?](#Can-I-remove-the-downloads-folder)
 
 [Can I see the differences to Ultimate Skyrim?](#Can-I-see-the-differences-to-Ultimate-Skyrim)
 
@@ -19,27 +23,12 @@
 -   [Does this mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 -   [Does this pack support Full Screen Ultrawide resolutions](#Does-this-pack-support-Ultrawide-resolutions)
 
-[**Gameplay Questions**](https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/FAQ.md#gameplay-questions)
-- [What is Wildlander?](#what-is-wildlander)
-  - [Can I see the mod lists?](#can-i-see-the-mod-lists)
-  - [Can I see the differences to Ultimate Skyrim?](#can-i-see-the-differences-to-ultimate-skyrim)
-- [How do I update to the Current Version](#how-do-i-update-to-the-current-version)
-- [How do I Uninstall](#how-do-i-uninstall)
-- [Can I remove the downloads folder?](#can-i-remove-the-downloads-folder)
-- [Wabbajack Issues](#wabbajack-issues)
-  - [Wabbajack fails to download mods or hangs for a long time.](#wabbajack-fails-to-download-mods-or-hangs-for-a-long-time)
-  - [Getting a download failed on Elswaps Speed trees.](#getting-a-download-failed-on-elswaps-speed-trees)
-  - [Getting a download failed on Original Skyrim files](#getting-a-download-failed-on-original-skyrim-files)
-- [**Launcher Issues**](#launcher-issues)
-  - [What do the Dropdowns mean?](#what-do-the-dropdowns-mean)
-  - [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
-  - [Does this mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
-  - [Does this pack support Ultrawide resolutions?](#does-this-pack-support-ultrawide-resolutions)
 - [**Customization Questions**](#customization-questions)
   - [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
   - [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
   - [Can I add additional mods?](#can-i-add-additional-mods)
-- [**Gameplay Questions**](#gameplay-questions)
+
+ [**Gameplay Questions**](#gameplay-questions)
   - [Can I see a list of Known issues?](#can-i-see-a-list-of-known-issues)
   - [How can I see the keybindings?](#how-can-i-see-the-keybindings)
   - [My keybindings don't work](#my-keybindings-dont-work)
@@ -57,26 +46,17 @@
   - [I contracted Sanguinare Vampiris and now I can't sleep!](#i-contracted-sanguinare-vampiris-and-now-i-cant-sleep)
   - [Eorland Graymane won't temper/craft stuff for me](#eorland-graymane-wont-tempercraft-stuff-for-me)
   - [Can I remove Quick restore from control?](#can-i-remove-quick-restore-from-control)
+  - 
 - [**Questing Questions**](#questing-questions)
   - [How do I start the main quest?](#how-do-i-start-the-main-quest)
   - [Why can't I obtain the dragonstone?](#why-cant-i-obtain-the-dragonstone)
   - [How do I Become Thane of Whiterun](#how-do-i-become-thane-of-whiterun)
   - [I can't start the Thieves Guild through Brynjolf.](#i-cant-start-the-thieves-guild-through-brynjolf)
   - [How do I start the Dragonborn questline?](#how-do-i-start-the-dragonborn-questline)
+  - 
 - [**Crafting Questions**](#crafting-questions)
   - [How do I craft Snowberry Extract?](#how-do-i-craft-snowberry-extract)
   - [How do I craft Healing Poultice?](#how-do-i-craft-healing-poultice)
-
-[**Questing Questions**](#Questing-questions)
--   [How do I start the main quest?](#how-do-i-start-the-main-quest)
--   [Why can't I Get the dragonstone quest?](#why-can't-i-obtain-the-dragonstone)
--   [How do I become Thane of Whiterun](#How-Do-I-Become-Thane-of-Whiterun)
--   [I can't start the Thieves Guild through Brynjolf](#i-can't-start-the-thieves-guild-through-brynjolf)
--   [How do I start the Dragonborn questline?](#How-do-I-start-the-Dragonborn-questline)
-
-[**Crafting Questions**](#Crafting-questions)
--   [How do I craft Snowberry extract?](#How-Do-i-craft-Snowberry-extract)
--   [How do I craft healing poultice](#How-do-I-craft-healing-poultice)
 
 ------
 # What is Wildlander?
