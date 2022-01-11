@@ -23,6 +23,7 @@ If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrgani
 
 ---
 ## Gameplay Issues
+- The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
 - Quest I have "requiem for a better times" is stuck installing. this will not affect your gameplay - ignore it.
 - Come crafting crecipes requiring bottled water dont work
