@@ -26,12 +26,16 @@ If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrgani
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
 - Quest I have "requiem for a better times" is stuck installing. this will not affect your gameplay - ignore it.
-- Come crafting crecipes requiring bottled water dont work
+- Some crafting crecipes requiring bottled water dont work
 - Using a controller on a lock is cauing the camera to fluff up
+- Heartwood Mill Door Misplaced after entering
+- Dodge perk is not working as intended when a controller is attached to the PC
 
 ---
 ## Quest issues
 - Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
+- Missives send you to Cedric in Rorikstead (who is inaccessable) and the courior
+- Hired muscle can send you to Cedric in Rorikstead (who is inaccessable) 
 
 ---
 ## Mod Issues.
