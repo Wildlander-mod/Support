@@ -3,14 +3,12 @@
 # Questions & Answers
 ---
 **General Questions**
- [What is Wildlander?](#what-is-wildlander)
- [Can I see the mod lists?](#can-i-see-the-mod-lists)
- [Can I see the differences to Ultimate Skyrim?](#can-i-see-the-differences-to-ultimate-skyrim)
- [How do I update to the Current Version](#how-do-i-update-to-the-current-version)
- [How do I Uninstall](#how-do-i-uninstall)
- [Can I remove the downloads folder?](#Can-I-remove-the-downloads-folder)
-
-[Can I see the differences to Ultimate Skyrim?](#Can-I-see-the-differences-to-Ultimate-Skyrim)
+- [What is Wildlander?](#what-is-wildlander)
+- [Can I see the mod lists?](#can-i-see-the-mod-lists)
+- [Can I see the differences to Ultimate Skyrim?](#can-i-see-the-differences-to-ultimate-skyrim)
+- [How do I update to the Current Version](#how-do-i-update-to-the-current-version)
+- [How do I Uninstall](#how-do-i-uninstall)
+- [Can I remove the downloads folder?](#Can-I-remove-the-downloads-folder)
 
 [**Wabbajack Issues**](#Wabbajack-Issues)
 -   [Wabbajack fails to download mods or hangs for a long time.](#Wabbajack-fails-to-download-mods-or-hangs-for-a-long-time)
