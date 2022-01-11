@@ -14,19 +14,25 @@ If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrgani
 
 
 ---
+## Launcher issues
+1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the before you begin section of the install section & are logged into the steam account which owns skyrim Special edition.
+2) "Launcher shows a screen which says skyrim is running but its not - so i click the close skyrim button then get a error message". This message shows on the launcher as soon as you click the launcher button. The message says Skyrim is STARTING/running. on slower PC's it can take several minutes before the skyrim process actually starts. you should only hit the close skyrim button if skyrim is visible in your task manager, but not visible in windows.
 
+
+---
 ## Character creation issues
 1) Several of the presets have options you cannot remove, E.g facepaint, scars.
 2) You cannot start as a Werewolf or Vampire
 3) Several racemenu options are mislabeled.
 4) the Sculpting options do not make any changes.
+5) You cannot start as a none-dragonborn
 
 ---
 ## Gameplay Issues
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
-- Quest I have "requiem for a better times" is stuck installing. this will not affect your gameplay - ignore it.
-- Some crafting crecipes requiring bottled water dont work
+- Some crafting recipes requiring bottled water dont work
+- Using the crafting "empty bottle" creates a empty bottle object you cannot fill
 - Using a controller on a lock is cauing the camera to fluff up
 - Heartwood Mill Door Misplaced after entering
 - Dodge perk is not working as intended when a controller is attached to the PC
@@ -38,6 +44,7 @@ If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrgani
 - Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
 - Missives send you to Cedric in Rorikstead (who is inaccessable) and the courior
 - Hired muscle can send you to Cedric in Rorikstead (who is inaccessable) 
+- I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it.
 
 ---
 ## Mod Issues.
