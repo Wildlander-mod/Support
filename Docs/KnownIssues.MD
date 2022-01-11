@@ -69,7 +69,7 @@ This mod is "touchy" in SE and breaks easily.
 
 Workaround: use the MCM to change its slot to 46(cloak slot), equip the lantern, requip your cloak, then change the lanterns slot back to 56.
 
-2) You spawn a carpet instead of a light.
+2) You spawn a Carpet/Cookpot/Backpack instead of a light when using the "L" hotkey.
 
 Workaround:  Drop the lantern and console yourself a new one then Follow the procedure for issue 1.
 
@@ -107,6 +107,7 @@ Work around: dont take a bath in cold water ;)
 ### Sounds
 1) Insect noise is overly loud.
 2) Some interiors have ghost children playing sound effect.
+3) Female Hungry/thirsty/sleep sounds play occasionally on male characters who have been gender switched
 
 ----
 
