@@ -4,9 +4,7 @@
 ---
 [What is Wildlander?](#What-is-Wildlander)
 
-[How do I Uninstall?](#how-do-I-uninstall)
-
-[Can I remove the downloads Folder?](#Can-I-remove-the-downloads-folder)
+[Can I remove the downloads folder?](#Can-I-remove-the-downloads-folder)
 
 [Can I see the differences to Ultimate Skyrim?](#Can-I-see-the-differences-to-Ultimate-Skyrim)
 
@@ -18,7 +16,7 @@
 [**Launcher Issues**](#launcher-issues)
 -   [What do the Dropdowns mean?](#what-do-the-Dropdowns-mean)
 -   [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
--   [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
+-   [Does this mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
 -   [Does this pack support Full Screen Ultrawide resolutions](#Does-this-pack-support-Ultrawide-resolutions)
 
 [**Gameplay Questions**](https://github.com/UltimateSkyrim/UltimateSkyrim/blob/master/Docs/FAQ.md#gameplay-questions)
@@ -26,8 +24,8 @@
   - [Can I see the mod lists?](#can-i-see-the-mod-lists)
   - [Can I see the differences to Ultimate Skyrim?](#can-i-see-the-differences-to-ultimate-skyrim)
 - [How do I update to the Current Version](#how-do-i-update-to-the-current-version)
-- [How do I uninstall](#how-do-i-uninstall)
-- [Can I remove the downloads Folder?](#can-i-remove-the-downloads-folder)
+- [How do I Uninstall](#how-do-i-uninstall)
+- [Can I remove the downloads folder?](#can-i-remove-the-downloads-folder)
 - [Wabbajack Issues](#wabbajack-issues)
   - [Wabbajack fails to download mods or hangs for a long time.](#wabbajack-fails-to-download-mods-or-hangs-for-a-long-time)
   - [Getting a download failed on Elswaps Speed trees.](#getting-a-download-failed-on-elswaps-speed-trees)
@@ -35,21 +33,21 @@
 - [**Launcher Issues**](#launcher-issues)
   - [What do the Dropdowns mean?](#what-do-the-dropdowns-mean)
   - [Game doesn't boot when launching SKSE / Cannot Start SKSE_Loader Error](#game-doesnt-boot-when-launching-skse--cannot-start-skse_loader-error)
-  - [Does This mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
+  - [Does this mod pack Support other languages?](#does-this-mod-pack-support-other-languages)
   - [Does this pack support Ultrawide resolutions?](#does-this-pack-support-ultrawide-resolutions)
 - [**Customization Questions**](#customization-questions)
   - [Mod X has been updated, can I install that?](#mod-x-has-been-updated-can-i-install-that)
   - [Can I remove/disable mod X?](#can-i-removedisable-mod-x)
-  - [Can I Add Additional mods?](#can-i-add-additional-mods)
+  - [Can I add additional mods?](#can-i-add-additional-mods)
 - [**Gameplay Questions**](#gameplay-questions)
   - [Can I see a list of Known issues?](#can-i-see-a-list-of-known-issues)
   - [How can I see the keybindings?](#how-can-i-see-the-keybindings)
-  - [My keybinds don't work](#my-keybinds-dont-work)
+  - [My keybindings don't work](#my-keybindings-dont-work)
   - [Why can't I select the first crafting perk?](#why-cant-i-select-the-first-crafting-perk)
   - [Why can't I run or Why is my stamina going down for no reason?](#why-cant-i-run-or-why-is-my-stamina-going-down-for-no-reason)
   - [Why can't I get a blessing at a shrine?](#why-cant-i-get-a-blessing-at-a-shrine)
-  - [Why am I not I healing?](#why-am-i-not-i-healing)
-  - [Lights are Flickering on and off](#lights-are-flickering-on-and-off)
+  - [Why am I not healing?](#why-am-i-not-healing)
+  - [Lights are flickering on and off](#lights-are-flickering-on-and-off)
   - [Why does the NPC dialogue cut out when talking to Aela?](#why-does-the-npc-dialogue-cut-out-when-talking-to-aela)
   - [Why is everything so expensive in shops?](#why-is-everything-so-expensive-in-shops)
   - [My character's animations are stuck.](#my-characters-animations-are-stuck)
@@ -125,7 +123,7 @@ Uninstalling the launcher requires you to use windows "Add / remove program" fun
 
 ----------
 
-# Can I remove the downloads Folder?
+# Can I remove the downloads folder?
 
 Yes - But if you want to install a update, or repair your install - you would need to redownload all 500+ Mods. 
 
@@ -157,7 +155,7 @@ Sometimes Wabbajack gets stuck downloading.
 
 ## Getting a download failed on Elswaps Speed trees.
 
-If you are unable to download MEGA files through Wabbajack you can [download](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM) the file manually and save the Zip to the Folder you entered as your "download location" from the wabbajack interface.
+If you are unable to download MEGA files through Wabbajack you can [download](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM) the file manually and save the Zip to the folder you entered as your "download location" from the wabbajack interface.
 
 ----------
 
@@ -230,7 +228,7 @@ Ensure the following:
 
 ----------
 
-## Does This mod pack Support other languages?
+## Does this mod pack Support other languages?
 
 No and if you try then SKSE crashes from Mod Organizer. You will need to install English Skyrim - Special Edition to play this modpack.
 
@@ -264,8 +262,8 @@ Many mods have a Mod Configuration Menu (MCM) where they can be turned off. You 
 
 ----------
 
-## Can I Add Additional mods?
-Currently we are not supporting any form of modification of Wildlander. 
+## Can I add additional mods?
+Currently, we are not supporting any form of modification of Wildlander. 
 
 Any modifications are done at your own risk and will deny you access to support.
 
@@ -283,7 +281,7 @@ The in-game hotkey F11 will bring up a Gampad/ keyboard layout of all keybinding
 
 ----------
 
-## My keybinds don't work
+## My keybindings don't work
 
 Dylan is based in the US - so the keybindings were based on a standard QWERTY US keyboard.
 
@@ -313,13 +311,13 @@ Requiem's Gods are unforgiving of crime. Too much crime and they will no longer 
 
 ----------
 
-## Why am I not I healing?
+## Why am I not healing?
 
 Requiem disables passive health regeneration, you will need to obtain a healing poltice or a potion to regenerate health.
 
 ----------
 
-## Lights are Flickering on and off
+## Lights are flickering on and off
 
 Most noticabled in Breezehome but can happen everywhere.
 
@@ -362,7 +360,7 @@ Can also be caused by :-
 -   Your PC being below the minimum requirements to play the pack as shown on the install Readme. You can try running without a ENB from the launcher.
 -   Wildlander folders(or subfolders) being read-only.
 -   Wildlander being on a different drive to skyrim - Only resolution to this is to move Wildlander to same hard drive.
--   Wildlander being installed inside of program files - Move the Wildlander Folder outside of program files.
+-   Wildlander being installed inside of program files - Move the Wildlander folder outside of program files.
 -   Additional mods in skyrim\data folder from previous modding or workshop subscriptions are causing a conflict.
 -   Conflict between AMD drivers and the ENB - only resolution to this is to either roll back until you find working AMD drivers or disable ENB graphics until a working driver is available.
 -   A Corrupt Skyrim installation (to check, launch skyrim from steam and see if it crashes on loading screen)
@@ -395,7 +393,7 @@ Note: you must be at least at the stage of "Kill the Werewolf Hunters" for the Q
 
 ## Can I remove Quick restore from control?
 
-Yes - The keybind for this is in Iequip. Lizzy (being the sensible player that she is) switches it to 'C' and moves crouch using the Skyrim standard controls back to the default keybind.
+Yes - The keybinding for this is in Iequip. Lizzy (being the sensible player that she is) switches it to 'C' and moves crouch using the Skyrim standard controls back to the default keybind.
 
 ----------
 
@@ -407,7 +405,7 @@ Kill a dragon.
 
 ----------
 
-## Why can't I obtain the dragonstone?
+## Why can't I obtain the Dragonstone?
 
 This quest is auto completed when you kill a dragon.
 
