@@ -2,6 +2,8 @@
 
 ## Resistances List
 
+Important note: this is WIP - Wildlander launch happened before completion
+
 List of basic resistances used in Skyrim.
 |Type 	|	Cap|
 |--|--|
@@ -53,7 +55,7 @@ If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the E
 **Weapon Resistances & Weaknesses**
 If the Enemy has protection or vunerability to Weapon materiels such as Silver or Daedric, or if they take reduced damage from converntional materiels.
 
-## The Guides
+## The Guides 
 
 [Animals](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAnimals.md) – Animals comprise various mundane creatures that have no magical or weapon-wielding abilities.
 
