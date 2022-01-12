@@ -129,8 +129,8 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Slash (Swords & Axes)  | 100 |
-|Ranged (Bows & Crossbows)  | 50 |
+|Slash (Swords & Axes)  | 120 |
+|Ranged (Bows & Crossbows)  | 60 |
 
 ## Wild prey
 
@@ -158,13 +158,13 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Ranged (Bows & Crossbows)  | 50 |
+|Ranged (Bows & Crossbows)  | 60 |
 
  *Resistances*
 |Type  | Protection |
 |--|--|
-|Fire  | 25 |  
-|Poison  | 50 |  
+|Fire  | 25% |  
+|Poison  | 50% |  
 |Paralysis  | Immune |  
 
 
@@ -337,9 +337,9 @@ Mammoths are found a plenty on the plains of Skyrim, either roaming the land wil
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 150 |
-|Blunt (Maces & Hammers)   | 150 |
-|Ranged (Bows & Crossbows)  | 150 |
+|Pierce(Daggers)    | 180 |
+|Blunt (Maces & Hammers)   | 180 |
+|Ranged (Bows & Crossbows)  | 180 |
 
 **Bristleback** 
 
@@ -559,8 +559,8 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Slash (Swords & Axes)  | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
+|Slash (Swords & Axes)  | 120 |
+|Ranged (Bows & Crossbows)  | 120 |
 
 
 ---
@@ -591,8 +591,8 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Slash (Swords & Axes)  | 150 |
-|Ranged (Bows & Crossbows)  | 150 |
+|Slash (Swords & Axes)  | 180 |
+|Ranged (Bows & Crossbows)  | 180 |
 
 ---
 **Mudcrab Giant**
@@ -622,8 +622,8 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Slash (Swords & Axes)  | 150 |
-|Ranged (Bows & Crossbows)  | 150 |
+|Slash (Swords & Axes)  | 180 |
+|Ranged (Bows & Crossbows)  | 180 |
 
 ### Bears
 
@@ -639,9 +639,9 @@ Skyrim is home of many bears, with many variations depending on the given territ
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 200 |
-|Blunt (Maces & Hammers)   | 200 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Pierce(Daggers)    | 240 |
+|Blunt (Maces & Hammers)   | 240 |
+|Ranged (Bows & Crossbows)  | 240 |
 
 **Standard**
 
@@ -743,9 +743,9 @@ The snow ones like jumpscares - you have been warned.
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
+|Pierce(Daggers)    | 120 |
+|Blunt (Maces & Hammers)   | 120 |
+|Ranged (Bows & Crossbows)  | 120 |
 
 ---
 **Snow**
@@ -770,9 +770,9 @@ The snow ones like jumpscares - you have been warned.
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 150 |
-|Blunt (Maces & Hammers)   | 150 |
-|Ranged (Bows & Crossbows)  | 150 |
+|Pierce(Daggers)    | 180 |
+|Blunt (Maces & Hammers)   | 180 |
+|Ranged (Bows & Crossbows)  | 180 |
 
  *Resistances*
 |Type  | Protection | 
@@ -803,9 +803,9 @@ The snow ones like jumpscares - you have been warned.
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 150 |
-|Blunt (Maces & Hammers)   | 150 |
-|Ranged (Bows & Crossbows)  | 150 |
+|Pierce(Daggers)    | 180 |
+|Blunt (Maces & Hammers)   | 180 |
+|Ranged (Bows & Crossbows)  | 180 |
 
 ### SlaughterFish
 
@@ -853,9 +853,9 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
+|Pierce(Daggers)    | 120 |
+|Blunt (Maces & Hammers)   | 120 |
+|Ranged (Bows & Crossbows)  | 120 |
 
  *Resistances*
 |Type  | Protection | 
@@ -884,9 +884,9 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
+|Pierce(Daggers)    | 120 |
+|Blunt (Maces & Hammers)   | 120 |
+|Ranged (Bows & Crossbows)  | 120 |
 
  *Resistances*
 |Type  | Protection | 
