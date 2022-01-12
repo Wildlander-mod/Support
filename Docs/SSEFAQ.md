@@ -42,7 +42,6 @@
   - [My game freezes during loading screens.](#my-game-freezes-during-loading-screens)
   - [How do I change the difficulty?](#how-do-i-change-the-difficulty)
   - [I contracted Sanguinare Vampiris and now I can't sleep!](#i-contracted-sanguinare-vampiris-and-now-i-cant-sleep)
-  - [Eorland Graymane won't temper/craft stuff for me](#eorland-graymane-wont-tempercraft-stuff-for-me)
   - [Can I remove Quick restore from control?](#can-i-remove-quick-restore-from-control)
   - 
 - [**Questing Questions**](#questing-questions)
@@ -359,13 +358,6 @@ The in-game difficulty sliders do not work with Wildlander. Please use the Chang
 
 This is a 'Minor Arcana' change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
 
-----------
-
-## Eorland Graymane won't temper/craft stuff for me
-
-Eorland Graymane is the best smith in the game, and as such reserves his services for members of the Circle for the companions.
-
-Note: you must be at least at the stage of "Kill the Werewolf Hunters" for the Quest "The Silver Hand"
 
 ----------
 
