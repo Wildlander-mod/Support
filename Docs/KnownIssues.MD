@@ -74,6 +74,13 @@ If you've never touched the pagefile, try performing the following steps:
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
+      - For ESF The requirements shown in the MCM do not reflect the requirements imported by dylan.
+         1) Level 30 for 1 weapon skill
+         2) Level 30 for 1 Armor Skill
+         3) Minimum player level 10
+         4) 10 radients
+         5) 1 Radient for each circle member. Note: If you are not getting a radient from either Skjor or Vilkas. Turn the requirement on in the MCM, then turn it back off and do 1 more radient.
+
 ---
 ## Mod Issues.
 
