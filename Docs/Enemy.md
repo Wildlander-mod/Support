@@ -30,9 +30,9 @@ Damage Types implemented by Requiem. Weapons are assigned one damage type, and C
 |Ranged |Bow, Crossbow
 
 ## Humanoid Enemies 
-Bandits / Mages Will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list.
+Bandits / Mages / Forsaken Will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list.
 
-Vampires, Rieklings, Falmer and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
+Vampires, Rieklings, and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
 
 For enemies wearing standard armor, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
 
