@@ -3,6 +3,14 @@
 This document will contain all of the Known gameplay related issues. It excludes any graphical issues, EG Clipping textures.
 
 ---
+
+When will these be fixed?
+
+There is a hotfix in the works to fix the major issues. Some of the more trivial issues will wait for the next build.
+
+Some cannot be resolved by us and have been reported to the respective mod authors, and will need to wait for a update from them.
+
+---
 ## Crash to desktop on save when using the BitDefender Antivirus.
 
 1) this is a setting issue with Bitdefender
@@ -12,6 +20,24 @@ This document will contain all of the Known gameplay related issues. It excludes
 
 If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
 
+---
+## Crash to desktop on Entering a building
+Generally caused by your Pagefile running out.
+
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
+
+A pagefile is a file on your disk Windows will use when there is not enough RAM available.
+
+Never disable the pagefile - this may lead to various issues on your system, such as this Skyrim crash.
+
+If you've never touched the pagefile, try performing the following steps:
+1. Press Windows + R on your keyboard and enter sysdm.cpl ,3
+2. Under the Performance section, press 'Settings'
+3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
+4. Disable 'Automatically manage paging file size for all drives'
+5. a) If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
+
+   b) Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
 
 ---
 ## Launcher issues
@@ -31,20 +57,22 @@ If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrgani
 ## Gameplay Issues
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
-- Some crafting recipes requiring bottled water dont work
-- Using the crafting "empty bottle" creates a empty bottle object you cannot fill
+- Some crafting recipes requiring bottled water dont work. (Will be hotfixed)
+- Using the crafting "empty bottle" creates a empty bottle object you cannot fill (Will be hotfixed)
 - Using a controller on a lock is cauing the camera to fluff up
-- Heartwood Mill Door Misplaced after entering
+- Heartwood Mill Door Misplaced after entering (Will be hotfixed)
 - Dodge perk is not working as intended when a controller is attached to the PC
 - Keybinds may not work on "none-US keyboard" - Specifically drink key. a list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
+- Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheath it right away. (Will be hotfixed)
 
 ---
 ## Quest issues
 - Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
 - Missives send you to Cedric in Rorikstead (who is inaccessable) and the courior
 - Hired muscle can send you to Cedric in Rorikstead (who is inaccessable) 
-- I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it.
+- I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
+- Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
 ---
 ## Mod Issues.
