@@ -127,10 +127,10 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 |Can Knockdown Player| No|
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 120 |
-|Ranged (Bows & Crossbows)  | 60 |
+|Slash (Swords & Axes)  | 2 |
+|Ranged (Bows & Crossbows)  | 1 |
 
 ## Wild prey
 
@@ -156,9 +156,9 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |Can Knockdown Player| No |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Ranged (Bows & Crossbows)  | 60 |
+|Ranged (Bows & Crossbows)  | 1 |
 
  *Resistances*
 |Type  | Protection |
@@ -253,7 +253,7 @@ Wild prey are usually not hostile unless attacked or if one gets to close.
 |AP| None |
 |Health Regeneration| None  |
 | Diseased | No |
-|Can Knockdown Player| |
+|Can Knockdown Player| No |
 
  *Resistances*
 |Type  | Protection | 
@@ -335,11 +335,11 @@ Mammoths are found a plenty on the plains of Skyrim, either roaming the land wil
  
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 180 |
-|Blunt (Maces & Hammers)   | 180 |
-|Ranged (Bows & Crossbows)  | 180 |
+|Pierce(Daggers)    | 3 |
+|Blunt (Maces & Hammers)   | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
 **Bristleback** 
 
@@ -589,10 +589,10 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
 |Knock Down| Minor | 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 180 |
-|Ranged (Bows & Crossbows)  | 180 |
+|Slash (Swords & Axes)  | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
 ---
 **Mudcrab Giant**
@@ -620,10 +620,10 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
 |Knock Down| Minor | 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 180 |
-|Ranged (Bows & Crossbows)  | 180 |
+|Slash (Swords & Axes)  | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
 ### Bears
 
@@ -637,11 +637,11 @@ Skyrim is home of many bears, with many variations depending on the given territ
 |Knock Down| Minor |  
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 240 |
-|Blunt (Maces & Hammers)   | 240 |
-|Ranged (Bows & Crossbows)  | 240 |
+|Pierce(Daggers)    | 4 |
+|Blunt (Maces & Hammers)   | 4 |
+|Ranged (Bows & Crossbows)  | 4 |
 
 **Standard**
 
@@ -768,11 +768,11 @@ The snow ones like jumpscares - you have been warned.
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 180 |
-|Blunt (Maces & Hammers)   | 180 |
-|Ranged (Bows & Crossbows)  | 180 |
+|Pierce(Daggers)    | 3 |
+|Blunt (Maces & Hammers)   | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
  *Resistances*
 |Type  | Protection | 
@@ -801,11 +801,11 @@ The snow ones like jumpscares - you have been warned.
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 180 |
-|Blunt (Maces & Hammers)   | 180 |
-|Ranged (Bows & Crossbows)  | 180 |
+|Pierce(Daggers)    | 3 |
+|Blunt (Maces & Hammers)   | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
 ### SlaughterFish
 
@@ -851,11 +851,11 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
 |Can Knockdown Player| No |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 120 |
-|Blunt (Maces & Hammers)   | 120 |
-|Ranged (Bows & Crossbows)  | 120 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 2 |
 
  *Resistances*
 |Type  | Protection | 
@@ -882,11 +882,11 @@ As they can be found in many provinces, Slaughterfish are also a common sight in
 |Can Knockdown Player| No |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 120 |
-|Blunt (Maces & Hammers)   | 120 |
-|Ranged (Bows & Crossbows)  | 120 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 2 |
 
  *Resistances*
 |Type  | Protection | 
