@@ -54,6 +54,11 @@ If you've never touched the pagefile, try performing the following steps:
 5) You cannot start as a none-dragonborn
 
 ---
+## When I equip my Lantern/Backpack I get a pouch/book/holder/carpet appearing at my feet
+
+You can possibly solve it by either dropping and buying a new item OR by dropping your item and using console commands help "item" and Player.Additem <itemid> 1
+
+---
 ## Gameplay Issues
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
@@ -65,6 +70,8 @@ If you've never touched the pagefile, try performing the following steps:
 - Keybinds may not work on "none-US keyboard" - Specifically drink key. a list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
 - Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheath it right away. (Will be hotfixed)
+- the Crafting menu is overly cluttered, especially at later levels of smithing.
+- 
 
 ---
 ## Quest issues
@@ -127,6 +134,7 @@ Work around: dont take a bath in cold water ;)
 7) Some NPC's like idling inside of bushes or sitting on invisible chairs.
 8) Milking a cow doesnt require a empty bottle and should.
 9) There is a stubborn pig in windhelm which likes being in the way
+10) The fell pony that is encountered by the smuggler's cave west of Whiterun either does not equip any saddle given, or the saddle is invisible. 
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
@@ -143,6 +151,9 @@ Work around: dont take a bath in cold water ;)
 1) Insect noise is overly loud.
 2) Some interiors have ghost children playing sound effect.
 3) Female Hungry/thirsty/sleep sounds play occasionally on male characters who have been gender switched
+
+### Followers
+1) If a follower is marked as a sheogorath worshipper, they dont attack they throw cheese.
 
 ----
 
