@@ -31,6 +31,14 @@ Damage Types implemented by Requiem. Weapons are assigned one damage type, and C
 |Pierce |Dagger
 |Ranged |Bow, Crossbow
 
+|Rank |Bonus Armor|
+|--|--|
+|1 |60
+|2 |120
+|3 |180
+|4 |240
+|5 |300
+
 ## Humanoid Enemies 
 Bandits / Mages / Forsaken Will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list.
 
