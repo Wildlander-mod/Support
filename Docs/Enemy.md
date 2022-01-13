@@ -19,6 +19,14 @@ About AR (Armor Resistance) Values
   -  1 point of Armor Penetration (AP) effectively reduces target AR by 1%. This means striking target with 500 AR with 10 AP makes the effective AR 450, making the target take 45% reduced damage not 50%.
   -  The AR cap applies after applying AP.
 
+About AP (Armor Penetration) Values
+Melee attacks and ranged attacks can penetrate armor, which reduces the effective armor rating and thus damage reduction of the target.
+
+- Per point of armor penetration will bypass 1% of the target's armor rating with ranged attacks and melee power attacks. Standard melee attacks will bypass 0.5% of the target's armor rating per point of armor penetration. The maximum which can be bypassed at most 80% of the target's armor rating. 
+
+- In ranged combat the ammunition used plays a key role for armor penetration. 
+
+
  
 ## Damage Types
 
