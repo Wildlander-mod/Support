@@ -13,10 +13,10 @@ Some cannot be resolved by us and have been reported to the respective mod autho
 ---
 ## Crash to Desktop on save when using the BitDefender Antivirus.
 
-1) This is a settings issue with Bitdefender
-2) Bit defender cannot work with mod organiser
-3) a) Easy solution - Turn off Advance Threat Defence when playing wildlander
-   b) Proper Solution - Add a ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
+1) This is a settings issue with BitDefender
+2) BitDefender cannot work with mod organiser
+3) a) Easy solution - Turn off Advance Threat Defence when playing Wildlander
+   b) Proper Solution - Add an ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
 
 If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
 
@@ -47,7 +47,7 @@ If you've never touched the pagefile, try performing the following steps:
 
 ---
 ## Character creation issues
-1) Several of the presets have options you cannot remove, E.g facepaint, scars.
+1) Several of the presets have options you cannot remove, e.g. facepaint, scars.
 2) You cannot start as a Werewolf or Vampire
 3) Several racemenu options are mislabeled.
 4) the Sculpting options does not make any changes.
@@ -64,19 +64,19 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
 - Some crafting recipes requiring bottled water don't work. (Will be hotfixed)
 - Using the crafting "empty bottle" creates an empty bottle object you cannot fill (Will be hotfixed)
-- Using a controller on a lock is cauing the camera to fluff up
+- Using a controller on a lock is causing the camera to fluff up
 - Heartwood Mill Door Misplaced after entering (Will be hotfixed)
 - Dodge perk is not working as intended when a controller is attached to the PC
-- Keybinds may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
+- Keybindings may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
-- Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheath it right away. (Will be hotfixed)
+- Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheathe it right away. (Will be hotfixed)
 - the Crafting menu is overly cluttered, especially at later levels of smithing.
 
 ---
 ## Quest issues
 - Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
-- Missives send you to Cedric in Rorikstead (who is inaccessable) and the courier
-- Hired muscle can send you to Cedric in Rorikstead (who is inaccessable) 
+- Missives send you to Cedric in Rorikstead (who is inaccessible) and the courier
+- Hired muscle can send you to Cedric in Rorikstead (who is inaccessible) 
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
@@ -94,21 +94,21 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Fences don't spawn as intended unless you create and load a save while inside the refuge
 - The stores contain static items which can't be stolen
 - Several beds have owned markers
-- Several objects (e.g training dummies) are not interactable and should be
+- Several objects (e.g. training dummies) are not interactable and should be
 
 ### Heljarchen Farm
 - was removed at last minute as we were unable to correct the bugs within.
 
 ### Properties Without Pestering
 - Hjerim is not available for purchase after completing "blood on the ice" until you are Thane.
-- You need to be carrying the full price of the house(before 'thane' deductions), even after completing the 'thane' quest (E.G if a hourse costs 35,000 before deductions, this is how much gold you need to be carrying, even though the house now only costs 20,000)
+- You need to be carrying the full price of the house(before 'thane' deductions), even after completing the 'thane' quest (E.G if a house costs 35,000 before deductions, this is how much gold you need to be carrying, even though the house now only costs 20,000)
 
 ### Wearable lanterns
 This mod is "touchy" in SE and breaks easily. 
 
 1) You cannot turn on and off the light using the "L" hotkey
 
-Workaround: use the MCM to change its slot to 46(cloak slot), equip the lantern, requip your cloak, then change the lanterns slot back to 56.
+Workaround: use the MCM to change its slot to 46(cloak slot), equip the lantern, reequip your cloak, then change the lanterns slot back to 56.
 
 2) You spawn a Carpet/Cookpot/Backpack instead of a light when using the "L" hotkey.
 
@@ -124,7 +124,7 @@ Work around: don't take a bath in cold water ;)
 ## Immersion issues
 
 ### NPC's
-1) Several NPC's are sleeping in unrealistic places. (e.g Orphans are found sleeping on the ground, in windhelm in the middle of a snowstorm not near a fire)
+1) Several NPC's are sleeping in unrealistic places. (e.g. Orphans are found sleeping on the ground, in Windhelm in the middle of a snowstorm not near a fire)
 2) Gerda has incorrect voice for appearance.
 3) Guards don't always use torches at night - and yet have perfect eyesight.
 4) Companion NPC's have missing voice dialog.
@@ -139,9 +139,9 @@ Work around: don't take a bath in cold water ;)
 1) Several wells are missing bucket activators
 2) Imperial Alehouse in Solitude is locked
 3) Several Barrels, Chests, Woodpiles and Herbs don't have ownership and should
-4) Wooden chopping blocks - Wood doesnt align correctly on the block.
-5) Training Dummies outside of Whiterun (on the battlements) cannot be interacted with
-6) Rain effects on trees gives a off blue glow.
+4) Wooden chopping blocks - Wood doesn't align correctly on the block.
+5) Training Dummies outside Whiterun (on the battlements) cannot be interacted with
+6) Rain effects on trees give off a blue glow.
 7) Aela's shield can be purchased before joining the companions and Vilkas's sword can be sold.
 8) Breezehome upon purchase has loot in the safe's. In addition the fire is located in the wrong place.
 9) The woodcutters axe in is invisible when equipped (Male Character)
