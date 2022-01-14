@@ -1,6 +1,6 @@
 # Known Issues
 
-This document will contain all of the Known gameplay related issues. It excludes any graphical issues, EG Clipping textures.
+This document will contain all of the known gameplay related issues. It excludes any graphical issues, EG Clipping textures.
 
 ---
 
@@ -8,20 +8,20 @@ When will these be fixed?
 
 There is a hotfix in the works to fix the major issues. Some of the more trivial issues will wait for the next build.
 
-Some cannot be resolved by us and have been reported to the respective mod authors, and will need to wait for a update from them.
+Some cannot be resolved by us and have been reported to the respective mod authors, and will need to wait for an update from them.
 
 ---
-## Crash to desktop on save when using the BitDefender Antivirus.
+## Crash to Desktop on save when using the BitDefender Antivirus.
 
-1) this is a setting issue with Bitdefender
+1) This is a settings issue with Bitdefender
 2) Bit defender cannot work with mod organiser
 3) a) Easy solution - Turn off Advance Threat Defence when playing wildlander
-   b) proper Solutions Add a ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
+   b) Proper Solution - Add a ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
 
 If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
 
 ---
-## Crash to desktop on Entering a building
+## Crash to Desktop when entering a building
 Generally caused by your Pagefile running out.
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
@@ -41,8 +41,8 @@ If you've never touched the pagefile, try performing the following steps:
 
 ---
 ## Launcher issues
-1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the before you begin section of the install section & are logged into the steam account which owns skyrim Special edition.
-2) "Launcher shows a screen which says skyrim is running but its not - so i click the close skyrim button then get a error message". This message shows on the launcher as soon as you click the launcher button. The message says Skyrim is STARTING/running. on slower PC's it can take several minutes before the skyrim process actually starts. you should only hit the close skyrim button if skyrim is visible in your task manager, but not visible in windows.
+1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the "Before we begin" section of the install section & are logged into the steam account which owns skyrim Special edition.
+2) "Launcher shows a screen which says Skyrim is running but its not - so I click the close Skyrim button then get a error message". This message shows on the launcher as soon as you click the launcher button. The message says Skyrim is STARTING/running. On slower PC's it can take several minutes before the Skyrim process actually starts. You should only hit the "Close Skyrim" button if Skyrim is visible in your task manager, but not visible in windows.
 
 
 ---
@@ -50,7 +50,7 @@ If you've never touched the pagefile, try performing the following steps:
 1) Several of the presets have options you cannot remove, E.g facepaint, scars.
 2) You cannot start as a Werewolf or Vampire
 3) Several racemenu options are mislabeled.
-4) the Sculpting options do not make any changes.
+4) the Sculpting options does not make any changes.
 5) You cannot start as a none-dragonborn
 
 ---
@@ -62,38 +62,37 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 ## Gameplay Issues
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
-- Some crafting recipes requiring bottled water dont work. (Will be hotfixed)
-- Using the crafting "empty bottle" creates a empty bottle object you cannot fill (Will be hotfixed)
+- Some crafting recipes requiring bottled water don't work. (Will be hotfixed)
+- Using the crafting "empty bottle" creates an empty bottle object you cannot fill (Will be hotfixed)
 - Using a controller on a lock is cauing the camera to fluff up
 - Heartwood Mill Door Misplaced after entering (Will be hotfixed)
 - Dodge perk is not working as intended when a controller is attached to the PC
-- Keybinds may not work on "none-US keyboard" - Specifically drink key. a list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
+- Keybinds may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
 - Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheath it right away. (Will be hotfixed)
 - the Crafting menu is overly cluttered, especially at later levels of smithing.
-- 
 
 ---
 ## Quest issues
 - Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
-- Missives send you to Cedric in Rorikstead (who is inaccessable) and the courior
+- Missives send you to Cedric in Rorikstead (who is inaccessable) and the courier
 - Hired muscle can send you to Cedric in Rorikstead (who is inaccessable) 
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
       - For ESF The requirements shown in the MCM do not reflect the requirements imported by dylan.
-         1) Level 30 for 1 weapon skill
+         1) Level 30 for 1 Weapon skill
          2) Level 30 for 1 Armor Skill
          3) Minimum player level 10
-         4) 10 radients
-         5) 1 Radient for each circle member. Note: If you are not getting a radient from either Skjor or Vilkas. Turn the requirement on in the MCM, then turn it back off and do 1 more radient.
+         4) 10 radiants
+         5) 1 Radiant for each circle member. Note: If you are not getting a radiant from either Skjor or Vilkas. Turn the requirement on in the MCM, then turn it back off and do 1 more radiant.
 
 ---
 ## Mod Issues.
 
 ### Outlaw Refuges. 
-- Fences dont spawn as intended unless you create and load a save while inside the refuge
-- The stores contain static items which cant be stolen
+- Fences don't spawn as intended unless you create and load a save while inside the refuge
+- The stores contain static items which can't be stolen
 - Several beds have owned markers
 - Several objects (e.g training dummies) are not interactable and should be
 
@@ -118,7 +117,7 @@ Workaround:  Drop the lantern and console yourself a new one then Follow the pro
 ### Bathing
 If bathing in very cold water, it can kill you before the animation finishes. 
 
-Work around: dont take a bath in cold water ;)
+Work around: don't take a bath in cold water ;)
 
 ---
 
@@ -127,25 +126,25 @@ Work around: dont take a bath in cold water ;)
 ### NPC's
 1) Several NPC's are sleeping in unrealistic places. (e.g Orphans are found sleeping on the ground, in windhelm in the middle of a snowstorm not near a fire)
 2) Gerda has incorrect voice for appearance.
-3) Guards dont always use torches at night - and yet have perfect eyesight.
+3) Guards don't always use torches at night - and yet have perfect eyesight.
 4) Companion NPC's have missing voice dialog.
 5) Some vendors don't show a inventory/show limited inventory when you open them for the first time.
 6) Wylandriah doesn't train Enchanting until after her quest
 7) Some NPC's like idling inside of bushes or sitting on invisible chairs.
-8) Milking a cow doesnt require a empty bottle and should.
+8) Milking a cow doesn't require a empty bottle and should.
 9) There is a stubborn pig in windhelm which likes being in the way
 10) The fell pony that is encountered by the smuggler's cave west of Whiterun either does not equip any saddle given, or the saddle is invisible. 
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
-2) Imperial Alehouse in solitude is locked
-3) Several Barrels, chests, woodpiles and herbs dont have ownership and should
+2) Imperial Alehouse in Solitude is locked
+3) Several Barrels, Chests, Woodpiles and Herbs don't have ownership and should
 4) Wooden chopping blocks - Wood doesnt align correctly on the block.
-5) Training dummies outside of whiterun (on the battlements) cannot be interacted with
+5) Training Dummies outside of Whiterun (on the battlements) cannot be interacted with
 6) Rain effects on trees gives a off blue glow.
 7) Aela's shield can be purchased before joining the companions and Vilkas's sword can be sold.
 8) Breezehome upon purchase has loot in the safe's. In addition the fire is located in the wrong place.
-9) the woodcutters axe in is invisible when equipped (Male Character)
+9) The woodcutters axe in is invisible when equipped (Male Character)
 
 ### Sounds
 1) Insect noise is overly loud.
@@ -153,12 +152,12 @@ Work around: dont take a bath in cold water ;)
 3) Female Hungry/thirsty/sleep sounds play occasionally on male characters who have been gender switched
 
 ### Followers
-1) If a follower is marked as a sheogorath worshipper, they dont attack they throw cheese.
+1) If a follower is marked as a sheogorath worshipper, they don't attack they throw cheese.
 
 ----
 
 ## Civil war
 - It exists. 
 - Its full of vanilla bugs.
-- Several immersion breaking issues during battle for whiterun (vendors in market are trying to make a living, The carriage driver be vibing as explosions happen all around him)
+- Several immersion breaking issues during battle for Whiterun (Vendors in market are trying to make a living, The carriage driver be vibing as explosions happen all around him)
 - Lights within Korvanjund Hall beyond the sealed door are lit (should be dark)
