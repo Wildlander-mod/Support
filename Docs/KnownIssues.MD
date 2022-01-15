@@ -16,6 +16,7 @@ Some cannot be resolved by us and have been reported to the respective mod autho
 1) This is a settings issue with BitDefender
 2) BitDefender cannot work with mod organiser
 3) a) Easy solution - Turn off Advance Threat Defence when playing Wildlander
+
    b) Proper Solution - Add an ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
 
 If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
@@ -70,13 +71,13 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Keybindings may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
 - Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheathe it right away. (Will be hotfixed)
-- the Crafting menu is overly cluttered, especially at later levels of smithing.
+- The Crafting menu is overly cluttered, especially at later levels of smithing.
 
 ---
-## Quest issues
+## Quest Issues
 - Several missives send you to characters who have scripted quests and cannot be completed unless you do their quests first.
 - Missives send you to Cedric in Rorikstead (who is inaccessible) and the courier
-- Hired muscle can send you to Cedric in Rorikstead (who is inaccessible) 
+- Hired muscle can send you to Cedric in Rorikstead (who is inaccessible) (His PRID is 6200418A. You can use this and moveto to bring him to you.>)
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
