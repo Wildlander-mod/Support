@@ -81,7 +81,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
-      - For ESF The requirements shown in the MCM do not reflect the requirements imported by dylan.
+      - For ESF The requirements  shown in the MCM do not reflect the requirements imported by dylan. For the first quest
          1) Level 30 for 1 weapon skill
          2) Level 30 for 1 Armor Skill
          3) Minimum player level 10
@@ -134,7 +134,8 @@ Work around: dont take a bath in cold water ;)
 7) Some NPC's like idling inside of bushes or sitting on invisible chairs.
 8) Milking a cow doesnt require a empty bottle and should.
 9) There is a stubborn pig in windhelm which likes being in the way
-10) The fell pony that is encountered by the smuggler's cave west of Whiterun either does not equip any saddle given, or the saddle is invisible. 
+10) The fell pony that is encountered by the smuggler's cave west of Whiterun, Frost and Lady Alfsigr  either does not equip any saddle given, or the saddle is invisible. 
+11) Farkas and Aela go invisible in werewolf form.  
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
