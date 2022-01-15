@@ -7,10 +7,10 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 *Shared Attributes*
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 250 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Slash (Swords & Axes)  | 5 |
+|Ranged (Bows & Crossbows)  | 4 |
 
 *Resistances*
 |Type  | Protection | 
