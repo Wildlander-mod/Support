@@ -1,6 +1,6 @@
 # Known Issues
 
-This document will contain all of the known gameplay related issues. It excludes any graphical issues, EG Clipping textures.
+This document will contain all of the known gameplay related issues. It excludes any graphical issues, EG Clipping textures. This document is updated as issues are verified/reproduced by staff or reported by multiple people.
 
 ---
 
@@ -11,6 +11,8 @@ There is a hotfix in the works to fix the major issues. Some of the more trivial
 Some cannot be resolved by us and have been reported to the respective mod authors, and will need to wait for an update from them.
 
 ---
+# Crashes
+
 ## Crash to Desktop on save when using the BitDefender Antivirus.
 
 1) This is a settings issue with BitDefender
@@ -22,7 +24,7 @@ Some cannot be resolved by us and have been reported to the respective mod autho
 If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
 
 ---
-## Crash to Desktop when entering a building
+## Crash to Desktop when entering a building or on "finalising setup" Error code fiss.dll+4481 or SkyrimSE.exe+D6DDDA
 Generally caused by your Pagefile running out.
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
@@ -39,6 +41,19 @@ If you've never touched the pagefile, try performing the following steps:
 5. a) If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
 
    b) Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
+---
+## when using a crossbow for the first time Crash code SkyrimSE.exe+7BEC84
+
+ - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheathe it right away.
+
+
+---
+## Unidentified causes.
+1) users have reported a crash on save, but dont use bitdefender (SkyrimSE.exe+126283A). 
+2) users have reported a crash when exiting/using from honed metal (SkyrimSE.exe+C2A5F3)
+3) users have reported a crash when leaving inn in dragonbridge (SkyrimSE.exe+21FFE3)
+
+   
 
 ---
 ## Launcher issues
@@ -70,7 +85,6 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Dodge perk is not working as intended when a controller is attached to the PC
 - Keybindings may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
-- Crash to Desktop when using a crossbow for the first time - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheathe it right away. (Will be hotfixed)
 - The Crafting menu is overly cluttered, especially at later levels of smithing.
 
 ---
@@ -137,6 +151,7 @@ Work around: don't take a bath in cold water ;)
 9) There is a stubborn pig in windhelm which likes being in the way
 10) The fell pony that is encountered by the smuggler's cave west of Whiterun, Frost and Lady Alfsigr  either does not equip any saddle given, or the saddle is invisible. 
 11) Farkas and Aela go invisible in werewolf form.  
+12) Dawnstar carriage driver apparently thinks that standing inside his carrige, instead of sitting on the seat is a great place to stand (his horse is disconnected too)  
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
