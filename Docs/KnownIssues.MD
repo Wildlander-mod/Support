@@ -76,6 +76,7 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 3) Several racemenu options are mislabeled.
 4) the Sculpting options does not make any changes.
 5) You cannot start as a none-dragonborn
+6) If you have missing 'Race' tab - this is because you started a new game during the same session as a existing save and is known to cause script issues. you should only ever create a new character in a "clean" skyrim session.
 
 ---
 ## When I equip my Lantern/Backpack I get a pouch/book/holder/carpet appearing at my feet
