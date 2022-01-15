@@ -22,11 +22,11 @@ The weakest form of dwarven automatons. Shaped like a spider, they're also the s
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 250 |
-|Pierce(Daggers)    | 150 |
-|Ranged (Bows & Crossbows)  | 250 |
+|Slash (Swords & Axes)  | 5 |
+|Pierce(Daggers)    | 3 |
+|Ranged (Bows & Crossbows)  | 5 |
 
 **Standard**
 
@@ -57,20 +57,19 @@ The weakest form of dwarven automatons. Shaped like a spider, they're also the s
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
-
+|Health| 162 |
+|Magicka| 3 |
+|Stamina| 10058 |
+|Movement Speed| 100  |
+|Melee Damage| 20 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 300 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 ---
 ## Dwarven Sphere
@@ -91,11 +90,12 @@ A less durable form of the dwarven automatons, the dwarven sphere is more common
 |Life Drain| Immune |  
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 250 |
-|Pierce(Daggers)    | 150 |
-|Ranged (Bows & Crossbows)  | 250 |
+|Slash (Swords & Axes)  | 5 |
+|Pierce(Daggers)    | 3 |
+|Ranged (Bows & Crossbows)  | 5 |
+
 
 ---
 
@@ -198,11 +198,12 @@ Ballistae are ranged attackers that will make every effort to stay as far away f
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 250 |
-|Pierce(Daggers)    | 150 |
-|Ranged (Bows & Crossbows)  | 250 |
+|Slash (Swords & Axes)  | 5 |
+|Pierce(Daggers)    | 3 |
+|Ranged (Bows & Crossbows)  | 5 |
+
 
 --- 
 ## Dwarven Centurion
@@ -240,12 +241,12 @@ The Centurion is one of the greatest inventions of dwemic craftmanship and prove
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier + Bonus  |
 |--|--|
-|Slash (Swords & Axes)  | 250 + 60% damage reduction |
-|Pierce(Daggers)    | 150 + 75% damage reduction|
+|Slash (Swords & Axes)  | T5 + 60% damage reduction |
+|Pierce(Daggers)    | T3 + 75% damage reduction|
 |Blunt (Maces & Hammers)   | 25% damage Reduction |
-|Ranged (Bows & Crossbows)  | 250 + 50% damage reduction|
+|Ranged (Bows & Crossbows)  | T5 + 50% damage reduction|
 
 ---
 ## The Forgemaster
@@ -283,13 +284,12 @@ The Forgemaster is a powerful Dwarven Centurion that guards the Aetherium Forge.
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier + Bonus  |
 |--|--|
-|Slash (Swords & Axes)  | 250 + 60% damage reduction |
-|Pierce(Daggers)    | 150 + 75% damage reduction|
+|Slash (Swords & Axes)  | T5 + 60% damage reduction |
+|Pierce(Daggers)    | T3 + 75% damage reduction|
 |Blunt (Maces & Hammers)   | 25% damage Reduction |
-|Ranged (Bows & Crossbows)  | 250 + 50% damage reduction|
-
+|Ranged (Bows & Crossbows)  | T5 + 50% damage reduction|
 --- 
 ## Enchanted Sphere
 
@@ -327,11 +327,11 @@ For any adventure foolish enough to take one on, poison and shock resistance is 
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier + Bonus  |
 |--|--|
-|Slash (Swords & Axes)  | 250 + 60% Damage reduction|
-|Pierce(Daggers)    | 150 + 75% Damage reduction|
-|Ranged (Bows & Crossbows) | 250 + 50% Damage reduction|
+|Slash (Swords & Axes)  | t5 + 60% Damage reduction|
+|Pierce(Daggers)    | t3 + 75% Damage reduction|
+|Ranged (Bows & Crossbows) | t5 + 50% Damage reduction|
 |Blunt (Maces & Hammers)   | 25% Damage Reduction |
 
 
