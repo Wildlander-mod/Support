@@ -84,9 +84,21 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 You can possibly solve it by either dropping and buying a new item OR by dropping your item and using console commands help "item" and Player.Additem <itemid> 1
 
 ---
+## All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
+   
+   If using ENB this can be fixed by the following steps :-
+   
+   - Do all this with the launcher *open*
+   - Inside of your downloaded mods folder you should have Rudy ENB CW Zangdar's Edit-39113-4-0-1613502340 
+   - If you navigate inside that zip to here Rudy ENB CW Zangdar's Edit\Rudy ENB CW Zangdar's Edit  + Reshade\ADDONS\Night Eye Fix\Predator Vision mod\enbseries\
+   - Copy those two files into your game-files\stock game\enb series folder
+   - Also copy into game-files\launcher\ENB Presets\Preset you are playing\Enbseries
+   
+   Unfortunatly I still dont have a fix for the No Shaders ENB option.
+   
+---
 ## Gameplay Issues
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
-- All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
 - Some crafting recipes requiring bottled water don't work. (Will be hotfixed)
 - Using the crafting "empty bottle" creates an empty bottle object you cannot fill (Will be hotfixed)
 - Using a controller on a lock is causing the camera to fluff up
