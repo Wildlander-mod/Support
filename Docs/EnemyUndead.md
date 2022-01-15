@@ -116,28 +116,15 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
 |Standard (Arrows)   | 10% damage |
 
-
-**Melee** 
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Movement Speed| 100 |
-|Melee Damage | Base - 10, additional Depends On Weapon |
-|Magical Damage| None |
-|Standard AR| None |
-|Magical AR| None |
-|AP| Depends On Perks |
-|Health Regeneration| No  |
-| Diseased | No |
-|Can Knockdown Player| No |
-
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
 |Pierce(Daggers)    | 50% Damage reduction |
 |Blunt (Maces & Hammers)   | 50% Damage reduction |
-|Ranged (Bows & Crossbows)  | 150 |
+|Ranged (Bows & Crossbows)  | 3 |
+
+
+**Melee** 
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -152,31 +139,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 
 **Caster** 
 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased | No |
-|Can Knockdown Player| |
-
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Pierce(Daggers)    | 50% Damage reduction |
-|Blunt (Maces & Hammers)   | 50% Damage reduction |
-|Ranged (Bows & Crossbows)  |  |
-
-
 
 ---
 **Armored Melee** 
@@ -184,23 +146,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed| 100 |
-|Melee Damage | Base - 20, additional Depends On Weapon |
-|Ranged Damage| Base - 0,  additional Depends On Weapon |
-|Magical Damage| None  |
 |Standard AR| 360 |
-|Magical AR| None |
-|AP| Depends On Perks |
-|Health Regeneration| No  |
-| Diseased | No |
-|Can Knockdown Player| No |
-
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Pierce(Daggers)    | 50% Damage reduction |
-|Blunt (Maces & Hammers)   | 50% Damage reduction |
-|Ranged (Bows & Crossbows)  | 150 |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -221,23 +167,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed| 100 |
-|Melee Damage | Base - 20, additional Depends On Weapon |
-|Ranged Damage| Base - 0,  additional Depends On Weapon |
-|Magical Damage| no  |
 |Standard AR| 600 |
-|Magical AR| None |
-|AP| Depends On Perks |
-|Health Regeneration| No  |
-| Diseased | No |
-|Can Knockdown Player| Yes - Unrelenting Force |
-
- *Weapon Protection*
-| Type | Bonus Armor |
-|--|--|
-|Pierce(Daggers)    | 50% Damage reduction |
-|Blunt (Maces & Hammers)   | 50% Damage reduction |
-|Ranged (Bows & Crossbows)  | 150 |
 
  *Resistances*
 |Type  | Protection | Weakness|
