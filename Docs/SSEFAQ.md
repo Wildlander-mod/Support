@@ -43,7 +43,8 @@
   - [How do I change the difficulty?](#how-do-i-change-the-difficulty)
   - [I contracted Sanguinare Vampiris and now I can't sleep!](#i-contracted-sanguinare-vampiris-and-now-i-cant-sleep)
   - [Can I remove Quick restore from control?](#can-i-remove-quick-restore-from-control)
-  - 
+  - [How Do i Enable Permadeath?](#How-Do-i-Enable-Permadeath)
+  
 - [**Questing Questions**](#questing-questions)
   - [How do I start the main quest?](#how-do-i-start-the-main-quest)
   - [Why can't I obtain the dragonstone?](#why-cant-i-obtain-the-dragonstone)
@@ -358,7 +359,6 @@ The in-game difficulty sliders do not work with Wildlander. Please use the Chang
 
 This is a 'Minor Arcana' change that prevents weak characters from acquiring Vampirism. You must survive for 3 days while Sanguinare Vampiris slowly drains health and negates natural healing, at which point you will become a Vampire.
 
-
 ----------
 
 ## Can I remove Quick restore from control?
@@ -366,6 +366,16 @@ This is a 'Minor Arcana' change that prevents weak characters from acquiring Vam
 Yes - The keybinding for this is in Iequip. Lizzy (being the sensible player that she is) switches it to 'C' and moves crouch using the Skyrim standard controls back to the default keybind.
 
 ----------
+
+How Do I Enable Permadeath?
+
+In short - there is no permadeath in wildlander as they are all known to cause issues. 
+
+Instead of a 'permadeath mod' the player, upon dying is presented with the Requiem death dialog telling you to load a save. If you wish to be permadeath, then you should exit and restart skyrim at this point then create a new character.
+
+NOTE: Creating a new character without restarting skyrim is known to cause script issues in several mods, several options during character creation maybe missing, spells and gear during the start-up will not be correctly assigned and you may get pop-up's from Trade and Barter due to it not initialising correctly.
+
+------
 
 # **Questing Questions**
 
