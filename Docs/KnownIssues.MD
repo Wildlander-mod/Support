@@ -46,6 +46,14 @@ If you've never touched the pagefile, try performing the following steps:
 
  - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheathe it right away.
 
+---
+## Entering Windpeak Inn in dawnstar while on quest  "Rise in the East" 
+
+NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC so can be safely deleted. Use the following console commands to make him go away.
+
+   - prid 0005226B
+   - markfordelete
+   - vdisable
 
 ---
 ## Unidentified causes.
