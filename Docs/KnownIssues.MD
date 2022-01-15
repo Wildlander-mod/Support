@@ -173,6 +173,7 @@ Work around: don't take a bath in cold water ;)
 10) The fell pony that is encountered by the smuggler's cave west of Whiterun, Frost and Lady Alfsigr  either does not equip any saddle given, or the saddle is invisible. 
 11) Farkas and Aela go invisible in werewolf form.  
 12) Dawnstar carriage driver apparently thinks that standing inside his carrige, instead of sitting on the seat is a great place to stand (his horse is disconnected too)  
+13) Sybille Stentor apparently doesnt realise the sun is fatal to vampires, and likes to go for afternoon stroll up to Castle Dour   
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
