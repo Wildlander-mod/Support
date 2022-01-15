@@ -149,34 +149,32 @@ A highly poisonous insectoid that shares some characteristics with a centipede. 
 The Falmer are humanoid-like creatures that dwell in Skyrim's underground areas, mostly in the parts of forsaken ruins of the dwemer. Without mentioning the astonishing history behind this race, it shall be noted that they're blind, yet can perceive their evironment exceptionally well via their other senses. They're highly intelligent and fight in groups while many of them also make use of potent poisons, making them formidable foes that aren't easily dispatched. However, they're somewhat vulnerable to fire - while, on the other hand, they're highly resistant to all kinds of poisons. They should be avoided by all but the most experienced adventurers.
 
 ### Melee
-A Falmer fighter carrying a Falmer sword
+A Falmer fighter carrying a Melee weapon
 
 These Falmer prefer to fight up close, wielding a fearsome weapon in one hand and a shield in the other. In addition to a Falmer Shield, they carry either a Falmer Sword, a Honed Falmer Sword, a Falmer War Axe, or a Honed Falmer War Axe. 
 
 Falmer's armor like the players depends on what they are wearing.
-
-For Level 22 & above.
-
-    Helmet: either a Falmer Hardened Helm or a Falmer Heavy Helm
+   
+*Weapons Stats*
+|Stat| Value | 
+|--|--|
+|Falmer Sword| 42 |
+|Honed Falmer Sword| 60 |
+|Falmer Axe| 48 |
+|Honed Falmer Axe| 66 |
     
-For Level 38 & Above
-
-    Boots: 25% chance to have either Falmer Hardened Boots or Falmer Heavy Boots
-    Cuirass: 75% chance to have either Falmer Hardened Armor or Falmer Heavy Armor
-    Gauntlets: 25% chance to have either Falmer Hardened Gauntlets or Falmer Heavy Gauntlets
-
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
+|Health| 400 |
+|Magicka| 600 |
+|Stamina| 400 |
+|Movement Speed|100  |
 |Melee Damage| Depends on Weapon + Falmer Poison(33 damage for 3 seconds) |
-|Standard AR|  |
+|Standard AR| 60 from helmet + 84 from shield (when blocking) |
 |AP|  |
-|Health Regeneration|  |
-| Diseased |  |
+|Health Regeneration| Can carry a Potion of Restore Health - various strengths |
+| Diseased | No |
 |Can Knockdown Player| Falmer Poison Can Paralyse |
 
  *Resistances*
@@ -186,8 +184,7 @@ For Level 38 & Above
 |Poison  | 75% | N/A |
 
 ### SpellSword
-Falmer spellswords mix the martial attacks of their melee cousins and the magical attacks of the Falmer shaman. They wield either a Falmer Sword, a Honed Falmer Sword, a Falmer War Axe, or a Honed Falmer War Axe, and they do not carry a shield, preferring instead to keep a hand free for spells. Falmer of higher levels will also be equipped with a Falmer Helmet, top level will have a full set of heavy falmer Armor.
-
+Falmer spellswords mix the martial attacks of their melee cousins and the magical attacks of the Falmer shaman. They wield either a Falmer Sword, a Honed Falmer Sword, a Falmer War Axe, or a Honed Falmer War Axe, and they do not carry a shield, preferring instead to keep a hand free for spells. 
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -295,11 +292,11 @@ Giants are what their name suggests and can be found a plenty in the mountains a
 |Can Knockdown Player| Yes - Giant Stomp |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 4 |
 
  *Resistances*
 |Type  | Protection |
@@ -328,11 +325,11 @@ Giants are what their name suggests and can be found a plenty in the mountains a
 |Can Knockdown Player| Yes - Giant Stomp |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 4 |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -508,11 +505,11 @@ They can detect steath players So Sneak attacks are impossible to perform
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 100 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 2 |
   
 
 
@@ -544,12 +541,12 @@ They can detect steath players So Sneak attacks are impossible to perform
 |Paralysis  | Immune |  
 
 
- *Weapon Protection*
+| Type | Tier |
 | Type | Bonus Armor |
 |--|--|
-|Pierce(Daggers)    | 150 |
-|Blunt (Maces & Hammers)   | 150 |
-|Ranged (Bows & Crossbows)  | 150 |
+|Pierce(Daggers)    | 3 |
+|Blunt (Maces & Hammers)   | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
 ## Riekling 
 ### Standard
@@ -648,9 +645,9 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player|  Can apply Paralysis |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Ranged (Bows & Crossbows)  | 50 |
+|Ranged (Bows & Crossbows)  | 1 |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -678,9 +675,9 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player| Can apply Paralysis |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Ranged (Bows & Crossbows)  | 50 |
+|Ranged (Bows & Crossbows)  | 1 |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -709,9 +706,9 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player| Can apply Paralysis |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Ranged (Bows & Crossbows)  | 50 |
+|Ranged (Bows & Crossbows)  | 1 |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -748,9 +745,9 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Knock Down| Ninor | N/A |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Ranged (Bows & Crossbows)  | 50 |
+|Ranged (Bows & Crossbows)  | 1 |
 
 ###Solsheim
 **Albino Spider**
@@ -1172,11 +1169,11 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 4 |
 
 ---
 **Large**
@@ -1207,11 +1204,11 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 4 |
 ---
 
 **Frost**
@@ -1241,11 +1238,11 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Knockdown  | Minor | N/A |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 100 |
-|Blunt (Maces & Hammers)   | 100 |
-|Ranged (Bows & Crossbows)  | 200 |
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 4 |
 
 ---
 
@@ -1304,11 +1301,11 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Knock Down| Minor | N/A | 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 50 |
-|Blunt (Maces & Hammers)   | 50 |
-|Ranged (Bows & Crossbows)  | 250 |
+|Pierce(Daggers)    | 1 |
+|Blunt (Maces & Hammers)   | 1 |
+|Ranged (Bows & Crossbows)  | 5 |
 
 ---
 
@@ -1339,11 +1336,11 @@ Trolls are found in great numbers in Skyrim's caves, mountains and plains alike.
 |Knock Down| Minor | N/A | 
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Pierce(Daggers)    | 50 |
-|Blunt (Maces & Hammers)   | 50 |
-|Ranged (Bows & Crossbows)  | 250 |
+|Pierce(Daggers)    | 1 |
+|Blunt (Maces & Hammers)   | 1 |
+|Ranged (Bows & Crossbows)  | 5 |
 
 ## WereWolf
 
