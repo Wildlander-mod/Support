@@ -10,6 +10,15 @@ There is a hotfix in the works to fix the major issues. Some of the more trivial
 
 Some cannot be resolved by us and have been reported to the respective mod authors, and will need to wait for an update from them.
 
+--- 
+## Getting asked to restart for the economy on a new game. DiD players - please read.
+
+This *isnt* a bug with the list. Skyrim does not handle you playing one character, returning to the menu and starting a second. This is because skyrim doesnt unload all of the previous games scripts and can cause severve issues with your new playthough (hotkeys not working, broken econemy, merchants with no gold, or even your character leveling up when they shouldnt be.
+
+Everytime you want to start a new character, you should be closing and reopening skyrim in its entirity.
+
+Please *DO NOT* report bugs relating to this topic as its a flaw with skyrim itself. There is nothing we can do to make this work!
+
 ---
 # Crashes
 
@@ -68,7 +77,6 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the "Before we begin" section of the install section & are logged into the steam account which owns skyrim Special edition.
 2) "Launcher shows a screen which says Skyrim is running but its not - so I click the close Skyrim button then get a error message". This message shows on the launcher as soon as you click the launcher button. The message says Skyrim is STARTING/running. On slower PC's it can take several minutes before the Skyrim process actually starts. You should only hit the "Close Skyrim" button if Skyrim is visible in your task manager, but not visible in windows.
 
-
 ---
 ## Character creation issues
 1) Several of the presets have options you cannot remove, e.g. facepaint, scars.
@@ -108,6 +116,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
 - The Crafting menu is overly cluttered, especially at later levels of smithing.
 - Orcish Blacksmithing perk requires Morrowind Smithing instead of other way around.
+- killmove Camera's are still being triggered and should not be.   
 
 ---
 ## Quest Issues
