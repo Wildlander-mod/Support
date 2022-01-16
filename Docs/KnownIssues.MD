@@ -13,7 +13,7 @@ Some cannot be resolved by us and have been reported to the respective mod autho
 --- 
 ## Getting asked to restart for the economy on a new game. DiD players - please read.
 
-This *isnt* a bug with the list. Skyrim does not handle you playing one character, returning to the menu and starting a second. This is because skyrim doesnt unload all of the previous games scripts and can cause severve issues with your new playthough (hotkeys not working, broken econemy, merchants with no gold, or even your character leveling up when they shouldnt be.
+This *isnt* a bug with the list. Skyrim does not handle you playing one character, returning to the menu and starting a second. This is because skyrim doesnt unload all of the previous games scripts and can cause severve issues with your new playthough (hotkeys not working, broken econemy, merchants with no gold, or even your character leveling up when they shouldnt be).
 
 Everytime you want to start a new character, you should be closing and reopening skyrim in its entirity.
 
