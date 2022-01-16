@@ -293,7 +293,7 @@ The Forgemaster is a powerful Dwarven Centurion that guards the Aetherium Forge.
 --- 
 ## Enchanted Sphere
 
-A much more Larger, rarer form of the Dwarven Sphere, and much more dangerous. It's massive metal body provides an exceptional protection from all forms of physical damage and is unpenetrable by common arrows, coupled with health regeneration which is only slowed by electirical discharges. It's weapon is coated in a powerful toxin which deals ever increasing damage per hit. Its crossbow is enchanted with shock damage.
+A much larger, rarer form of the Dwarven Sphere, and much more dangerous. It's massive metal body provides an exceptional protection from all forms of physical damage and is impenetrable by common arrows, coupled with health regeneration which is only slowed by electrical discharges. Its weapon is coated in a powerful toxin which deals ever increasing damage per hit. Its crossbow is enchanted with shock damage.
 
 For any adventure foolish enough to take one on, poison and shock resistance is therefore a must, along with shock enchanted blunt weaponry to reduce its healing.
 
@@ -308,7 +308,7 @@ For any adventure foolish enough to take one on, poison and shock resistance is 
 |Ranged Damage| Crossbow 60 Damage per shot + 84 for Ammo + 90 Shock damage |
 |Magical Damage| None |
 |Standard AR| 900 |
-|Magical AR| 30% Magika Absorb with exception to Sphere's located in Mzulf and Mzark |
+|Magical AR| 30% Magicka Absorb with exception to Sphere's located in Mzulf and Mzark |
 |AP| 75 when Melee attacking, 225 when using Crossbow |
 |Health Regeneration| Yes 60/s normally, 20/s if under shock damage |
 | Diseased | No |

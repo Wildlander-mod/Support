@@ -1,7 +1,7 @@
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
 
-Before we shall delve in details, let it be noted that almost any animal (with the exception of domesticated) might be infected with potent diseases that could even cause a mighty warrior to decay within days. Thus, I can only advise you to have the means at hand to cure such vile afflictions, as they can affect the victim's body almost immediately after the contraction, as they posses a truly unique magical nature.
+Before we shall delve in details, let it be noted that almost any animal (with the exception of domesticated) might be infected with potent diseases that could even cause a mighty warrior to decay within days. Thus, I can only advise you to have the means at hand to cure such vile afflictions, as they can affect the victim's body almost immediately after the contraction, as they possess a truly unique magical nature.
 
 ## Domesticated animals
 
@@ -449,13 +449,13 @@ Horkers are a common form of life at Skyrim's coasts. Their appearance is somewh
 - Waterbreathing
 
 *Weaknesses*
-- These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
+- These guys are slow as all hell. Just go in close to bait an attack, dodge or block and then attack. Rinse and repeat
 
 ### Wolves
 
 Probably the most common creature in Skyrim's forests and tundra, the Wolf is a dangerous beast that moves very fast and can kill with a few strong bites, but even a novice in the arts of combat should have no great challenge to kill one or two of them. However, if they are attacking in packs, they'll try to outmaneuver their prey, which can prove to be fatal to even more experienced adventurers - it is crucial to look out for them, and if possible, kill them with ranged weaponry.
 
-Just before they leap, dodge to the side. Its tricky at first but with practice you can do it almost everytime. If not you can try to bash them mid air.
+Just before they leap, dodge to the side. Its tricky at first but with practice you can do it almost everytime. If not you can try to bash them midair.
     
 **Wolf**
 
@@ -535,7 +535,7 @@ Just before they leap, dodge to the side. Its tricky at first but with practice 
 
 ### Mudcrabs
 
-As in many other provinces, mudcrabs can also be found in Skyrim, though their appearance differs from those that dwell in the lands of Cyrodiil and Morrowind, as their carapaces tend to be blue-grey and lack the common green-brown tone. Depending on their age, Skyrim's mudcrabs can be found in many sizes, from very small to very large, though they rarely become any bigger. Although there are claims of at least one mudcrab being as tall as a house in Skyrim's northern coast regions, these most likely are fairytales. Their size determines their overall strength in combat - the bigger they are, the harder they are to kill and the harder they hit. When facing them, magical damage is the best way to deal with them, as their very hard carapaces provide an exceptional amount of protection that will withstand most common weapons. If magic is not available, a skilled warrior might also try a mace or some other form of blunt weapon, as the sheer force of such blows can damage the internal organs of these creatures, rendering their protection practically useless.
+As in many other provinces, Mudcrabs can also be found in Skyrim, though their appearance differs from those that dwell in the lands of Cyrodiil and Morrowind, as their carapaces tend to be blue-grey and lack the common green-brown tone. Depending on their age, Skyrim's Mudcrabs can be found in many sizes, from very small to very large, though they rarely become any bigger. Although there are claims of at least one Mudcrab being as tall as a house in Skyrim's northern coast regions, these most likely are fairytales. Their size determines their overall strength in combat - the bigger they are, the harder they are to kill and the harder they hit. When facing them, magical damage is the best way to deal with them, as their very hard carapaces provide an exceptional amount of protection that will withstand most common weapons. If magic is not available, a skilled warrior might also try a mace or some other form of blunt weapon, as the sheer force of such blows can damage the internal organs of these creatures, rendering their protection practically useless.
 
 **Mudcrab Small**
 

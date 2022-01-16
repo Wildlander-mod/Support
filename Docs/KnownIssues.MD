@@ -1,6 +1,6 @@
 # Known Issues
 
-This document will contain all of the known gameplay related issues. It excludes any graphical issues, EG Clipping textures. This document is updated as issues are verified/reproduced by staff or reported by multiple people.
+This document will contain all of the known gameplay related issues. It excludes any graphical issues, e.g. clipping textures. This document is updated as issues are verified/reproduced by staff or reported by multiple people.
 
 ---
 
@@ -47,9 +47,9 @@ If you've never touched the pagefile, try performing the following steps:
  - The crossbow mod needs to initialise and cannot do this while in combat causing the CTD. When you get your crossbow - equip and unsheathe it right away.
 
 ---
-## Entering Windpeak Inn in dawnstar while on quest  "Rise in the East" 
+## Entering Windpeak Inn in Dawnstar while on quest  "Rise in the East" 
 
-NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC so can be safely deleted. Use the following console commands to make him go away.
+NPC Irlof is causing the game to bomb out. Fortunately he is just a "flavor" NPC so can be safely deleted. Use the following console commands to make him go away.
 
    - prid 0005226B
    - markfordelete
@@ -57,9 +57,9 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 
 ---
 ## Unidentified causes.
-1) users have reported a crash on save, but dont use bitdefender (SkyrimSE.exe+126283A). 
-2) users have reported a crash when exiting/using from honed metal (SkyrimSE.exe+C2A5F3)
-3) users have reported a crash when leaving inn in dragonbridge (SkyrimSE.exe+21FFE3)
+1) Users have reported a crash on save, but don't use BitDefender (SkyrimSE.exe+126283A). 
+2) Users have reported a crash when exiting/using honed metal (SkyrimSE.exe+C2A5F3)
+3) Users have reported a crash when leaving the Inn in Dragonbridge (SkyrimSE.exe+21FFE3)
 
    
 
@@ -89,12 +89,12 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
    If using ENB this can be fixed by the following steps :-
    
    - Do all this with the launcher *open*
-   - Inside of your downloaded mods folder you should have Rudy ENB CW Zangdar's Edit-39113-4-0-1613502340 
-   - If you navigate inside that zip to here Rudy ENB CW Zangdar's Edit\Rudy ENB CW Zangdar's Edit  + Reshade\ADDONS\Night Eye Fix\Predator Vision mod\enbseries\
-   - Copy those two files into your game-files\stock game\enb series folder
-   - Also copy into game-files\launcher\ENB Presets\Preset you are playing\Enbseries
+   - Inside of your downloaded mods folder you should have `Rudy ENB CW Zangdar's Edit-39113-4-0-1613502340` 
+   - If you navigate inside that zip to `Rudy ENB CW Zangdar's Edit\Rudy ENB CW Zangdar's Edit  + Reshade\ADDONS\Night Eye Fix\Predator Vision mod\enbseries\`
+   - Copy those two files into your `game-files\stock game\enb series` folder
+   - Also copy into `game-files\launcher\ENB Presets\<Preset you are playing>\Enbseries`
    
-   Unfortunatly I still dont have a fix for the No Shaders ENB option.
+   Unfortunately I still don't have a fix for the No Shaders ENB option.
    
 ---
 ## Gameplay Issues
@@ -105,7 +105,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Heartwood Mill Door Misplaced after entering (Will be hotfixed)
 - Dodge perk is not working as intended when a controller is attached to the PC
 - Keybindings may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
-- Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
+- Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: `prid  1C1A5` and `moveto player`.  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  `setstage MG01 30`.  You should only use that if you've met the minimum skill requirements for continuity reason)
 - The Crafting menu is overly cluttered, especially at later levels of smithing.
 
 ---
@@ -172,8 +172,8 @@ Work around: don't take a bath in cold water ;)
 9) There is a stubborn pig in windhelm which likes being in the way
 10) The fell pony that is encountered by the smuggler's cave west of Whiterun, Frost and Lady Alfsigr  either does not equip any saddle given, or the saddle is invisible. 
 11) Farkas and Aela go invisible in werewolf form.  
-12) Dawnstar carriage driver apparently thinks that standing inside his carrige, instead of sitting on the seat is a great place to stand (his horse is disconnected too)  
-13) Sybille Stentor apparently doesnt realise the sun is fatal to vampires, and likes to go for afternoon stroll up to Castle Dour   
+12) Dawnstar carriage driver apparently thinks that standing inside his carriage, instead of sitting on the seat is a great place to stand (his horse is disconnected too)  
+13) Sybille Stentor apparently doesn't realise the sun is fatal to vampires, and likes to go for afternoon stroll up to Castle Dour   
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
