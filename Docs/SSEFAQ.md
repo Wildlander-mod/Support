@@ -133,7 +133,7 @@ Sometimes Wabbajack gets stuck downloading.
 
 ## Getting a download failed on Elswaps Speed trees.
 
-If you are unable to download MEGA files through Wabbajack you can [download](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM) the file manually and save the Zip to the folder you entered as your "download location" from the wabbajack interface.
+If you are unable to download MEGA files through Wabbajack you can [download](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM) the file manually and save the Zip to the folder you entered as your "download location" from the Wabbajack interface.
 
 ----------
 
@@ -142,7 +142,7 @@ If you are unable to download MEGA files through Wabbajack you can [download](ht
 If you get the following error - Make sure Steam is installed in English, validate your game files in Steam. Steam > Right Click > Properties > Local files tab
 - Unable to download Skyrim_Default.ini 
 
-Wildlander requires Aniversary edition, If you get any of the following - update your Skyrim.
+Wildlander requires Anniversary edition, If you get any of the following - update your Skyrim.
 
 - Unable to download Skyrim.ccc 
 - Unable to download SkyrimSE.exe 
@@ -173,11 +173,11 @@ Wildlander requires Aniversary edition, If you get any of the following - update
 
 Quality Drop down
 
-These are your standard Skyrim paramaters. The Graphics dropdown determines the quality of basic graphical elements, such as the draw distance of grass and shadows, the number of effects visible at once, and the quality of distant objects. These elements use a mix of CPU and GPU.
+These are your standard Skyrim parameters. The Graphics dropdown determines the quality of basic graphical elements, such as the draw distance of grass and shadows, the number of effects visible at once, and the quality of distant objects. These elements use a mix of CPU and GPU.
 
 - Ultra  - Everything on, All the bells and whistles - For "beast" PC's
-- High   - Reduced Draw distaces compared to Ultra, but still the full mod package.
-- Medium - Reduced Draw distaces compared to High, but still the full mod package.
+- High   - Reduced Draw distances compared to Ultra, but still the full mod package.
+- Medium - Reduced Draw distances compared to High, but still the full mod package.
 - Low    - No grass, no shadows, but still the full mod package.
 - Potato - Stripped down lists for PC's which were build when oldrim was first released. 
 
@@ -198,11 +198,11 @@ These control the level of ENB Shaders being applied. The Shaders dropdown deter
 
 Ensure the following:
 
-1.  Check that your Antivirus is not flagging SKSE or any Skyrim related files (best Solution is to add Antivirus exceptions to the Wildlander Directory and subdirectories.
+1.  Check that your Antivirus is not flagging SKSE or any Skyrim related files (The best solution is to add Antivirus exceptions to the Wildlander directory and subdirectories.
     
-2.  Make sure you content folder contains usvfs_proxy_x64.exe & usvfs_proxy_x86.exe. If these files are missing its likely your anti-virus has moved them to the virus vault.
+2.  Make sure you content folder contains `usvfs_proxy_x64.exe` & `usvfs_proxy_x86.exe`. If these files are missing its likely your anti-virus has moved them to the virus vault.
     
-3.  Restore missing files from Mod Organiser Zip file in your Wildlander\download directory if you cannot find them in the virus vault
+3.  Restore missing files from Mod Organiser Zip file in your `Wildlander\download` directory if you cannot find them in the virus vault
 
 ----------
 
@@ -213,30 +213,30 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 ----------
 
 ## Does this pack support Ultrawide resolutions?
-Unfortunatly, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from our testing is as below.
+Unfortunately, the Wildlander is not capable of supporting Fullscreen Ultrawide resolutions. The end result from our testing is as below.
 
-* Camera issues - Too zoomed in during character creation, Fish-eye camera (E.g NPC's close to you are distorted/streched)
-* UI Elements misaligned, being drawn partially off screen, some elements which should be centred far to the right or just plain missing completely
-* Blank "pop-ups" E.g Informational messages during the new game process.
+* Camera issues - Too zoomed in during character creation, Fish-eye camera (E.g. NPC's close to you are distorted/stretched)
+* UI Elements misaligned, being drawn partially off-screen, some elements which should be centred far to the right or just plain missing completely
+* Blank "pop-ups" E.g. Informational messages during the new game process.
 
 ![image](https://user-images.githubusercontent.com/26418143/145678355-6c1376e3-86de-4033-be4c-08e9b14779bd.png)
 ![image](https://user-images.githubusercontent.com/26418143/146077138-966a88f8-3b23-43f0-8183-11931ffc97ef.png)
 
 
-The launcher has therefore disabled any resolution known to cause the above issues, No support will be provided to allow Ultrawide resultions. Any attempts by yourself to do so will be considered a unsupported custom install - this will deny you access to support.
+The launcher has therefore disabled any resolution known to cause the above issues, No support will be provided to allow Ultrawide resolutions. Any attempts by yourself to do so will be considered an unsupported custom install - this will deny you access to support.
 
 
 # **Customization Questions**
 
 ## Mod X has been updated, can I install that?
 
-No, For stability reasons - only the versions installed by wabbajack are supported.
+No, For stability reasons - only the versions installed by Wabbajack are supported.
 
 ----------
 
 ## Can I remove/disable mod X?
 
-Many mods have a Mod Configuration Menu (MCM) where they can be turned off. You cannot disable anything completly from Mod Organiser - this will deny you access to support.
+Many mods have a Mod Configuration Menu (MCM) where they can be turned off. You cannot disable anything completely from Mod Organiser - this will deny you access to support.
 
 ----------
 
@@ -291,15 +291,15 @@ Requiem's Gods are unforgiving of crime. Too much crime and they will no longer 
 
 ## Why am I not healing?
 
-Requiem disables passive health regeneration, you will need to obtain a healing poltice or a potion to regenerate health.
+Requiem disables passive health regeneration, you will need to obtain a healing poultice or a potion to regenerate health. There are, of course, also healing spells.
 
 ----------
 
 ## Lights are flickering on and off
 
-Most noticabled in Breezehome but can happen everywhere.
+Most noticeable in Breezehome but can happen everywhere.
 
-This is caused by Skyrim's engine limitation of 4 lightsources in a area. when you look in a area with more than 4 lightsurces they alternate/cycle and turn on and off.
+This is caused by Skyrim's engine limitation of 4 lightsources in an area. When you look in an area with more than 4 lightsources they alternate/cycle and turn on and off.
 
 ----------
 
@@ -343,8 +343,8 @@ Can also be caused by :-
 -   Conflict between AMD drivers and the ENB - only resolution to this is to either roll back until you find working AMD drivers or disable ENB graphics until a working driver is available.
 -   A Corrupt Skyrim installation (to check, launch skyrim from steam and see if it crashes on loading screen)
 -   Antivirus real-time scanning your Wildlander folders - add it to your exceptions.
--   You have lost permissions to write to "my documents\My Games\Skyrim" or Wildlander install folder
--   Onedrive and/or dropbox is Syncing your "my documents\My Games\Skyrim" or Wildlander install folder
+-   You have lost permissions to write to `documents\My Games\Skyrim` or Wildlander install folder
+-   Onedrive and/or dropbox is Syncing your `documents\My Games\Skyrim` or Wildlander install folder
 -   Can be caused by a corrupt save, you can try using a previous save or start a new game.
 
 ----------

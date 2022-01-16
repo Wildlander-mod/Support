@@ -4,7 +4,7 @@ This document will contain all of the known gameplay related issues. It excludes
 
 ---
 
-When will these be fixed?
+## When will these be fixed?
 
 There is a hotfix in the works to fix the major issues. Some of the more trivial issues will wait for the next build.
 
@@ -21,7 +21,7 @@ Some cannot be resolved by us and have been reported to the respective mod autho
 
    b) Proper Solution - Add an ADT exception for Wildlander\game-files\Stock Game\SkyrimSE.exe
 
-If you also have "Ransomware Remediation" on Add Wildlander\game-files\ModOrganizer.exe
+If you also have "Ransomware Remediation" on add `Wildlander\game-files\ModOrganizer.exe` as an exception
 
 ---
 ## Crash to Desktop when entering a building or on "finalising setup" Error code fiss.dll+4481 or SkyrimSE.exe+D6DDDA
@@ -34,7 +34,7 @@ A pagefile is a file on your disk Windows will use when there is not enough RAM 
 Never disable the pagefile - this may lead to various issues on your system, such as this Skyrim crash.
 
 If you've never touched the pagefile, try performing the following steps:
-1. Press Windows + R on your keyboard and enter sysdm.cpl ,3
+1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
 2. Under the Performance section, press 'Settings'
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
 4. Disable 'Automatically manage paging file size for all drives'
@@ -65,7 +65,7 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 
 ---
 ## Launcher issues
-1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the "Before we begin" section of the install section & are logged into the steam account which owns skyrim Special edition.
+1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the "Before we begin" section of the install section & are logged into the steam account which owns Skyrim Special edition.
 2) "Launcher shows a screen which says Skyrim is running but its not - so I click the close Skyrim button then get a error message". This message shows on the launcher as soon as you click the launcher button. The message says Skyrim is STARTING/running. On slower PC's it can take several minutes before the Skyrim process actually starts. You should only hit the "Close Skyrim" button if Skyrim is visible in your task manager, but not visible in windows.
 
 
@@ -81,7 +81,7 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 ---
 ## When I equip my Lantern/Backpack I get a pouch/book/holder/carpet appearing at my feet
 
-You can possibly solve it by either dropping and buying a new item OR by dropping your item and using console commands help "item" and Player.Additem <itemid> 1
+You can possibly solve it by either dropping and buying a new item OR by dropping your item and using console commands `help "item"` and `Player.Additem <itemid> 1`
 
 ---
 ## All forms of nighteye do not work. With ENB, no changes are made, without ENB whole screen goes blue.
