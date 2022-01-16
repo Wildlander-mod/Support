@@ -101,12 +101,13 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
 - Some crafting recipes requiring bottled water don't work. (Will be hotfixed)
 - Using the crafting "empty bottle" creates an empty bottle object you cannot fill (Will be hotfixed)
-- Using a controller on a lock is causing the camera to fluff up
+- Using a controller on a lock is causing the camera to fluff up (apparently alt-tab fixes?)
 - Heartwood Mill Door Misplaced after entering (Will be hotfixed)
 - Dodge perk is not working as intended when a controller is attached to the PC
 - Keybindings may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
 - The Crafting menu is overly cluttered, especially at later levels of smithing.
+- Orcish Blacksmithing perk requires Morrowind Smithing instead of other way around.
 
 ---
 ## Quest Issues
