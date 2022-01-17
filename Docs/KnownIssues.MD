@@ -117,6 +117,9 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - The Crafting menu is overly cluttered, especially at later levels of smithing.
 - Orcish Blacksmithing perk requires Morrowind Smithing instead of other way around.
 - killmove Camera's are still being triggered and should not be.   
+- Bookshelves can be used to duplicate items placed upon them
+- ENB when raining at night looks overly bright.
+- Crating some items say require forge - when you are actuially using one.
 
 ---
 ## Quest Issues
@@ -124,6 +127,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Missives send you to Cedric in Rorikstead (who is inaccessible) and the courier
 - Hired muscle can send you to Cedric in Rorikstead (who is inaccessible) (His PRID is 6200418A. You can use this and moveto to bring him to you.>)
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
+- Tolfir does not have a arguement with Ancano about the eye of magus when he is supposed to.
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
 
