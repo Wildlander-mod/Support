@@ -127,7 +127,6 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Missives send you to Cedric in Rorikstead (who is inaccessible) and the courier
 - Hired muscle can send you to Cedric in Rorikstead (who is inaccessible) (His PRID is 6200418A. You can use this and moveto to bring him to you.>)
 - I have "requiem for a better times" is stuck installing. This will not affect your gameplay - ignore it. (Will be hotfixed)
-- Tolfir does not have a arguement with Ancano about the eye of magus when he is supposed to.
 - Cannot progress Companions/Thieves guild despite meeting the requirements (Under investigation)
 
 
@@ -137,6 +136,10 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
          3) Minimum player level 10
          4) 10 radiants
          5) 1 Radiant for each circle member. Note: If you are not getting a radiant from either Skjor or Vilkas. Turn the requirement on in the MCM, then turn it back off and do 1 more radiant.
+   
+### Tolfdir will make his observations about the Orb, but Ancano will not interrupt the conversation. 
+   
+   This is intended. Not so fast mages guild has been added to intentionally delay proceeding to the next phase of the questline to give the player time to improve in skill before tackling labyrintian which is "end game" content.  After 8 days the Psijic monk will have arrived and if you enter the Hall of Elements Ancano will be looking for you. The quest will proceed from there.
 
 ---
 ## Mod Issues.
