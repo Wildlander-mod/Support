@@ -302,13 +302,13 @@ Summon Flame, Frost and Storm Thrall - Summons a potent variery of each atronoch
 |Magicka|  |
 |Stamina|  |
 |Movement Speed|  |
-|Damage|  + Weapon damage |
+|Damage| 50 + Weapon damage |
 |Standard AR|  |
 |Magical AR| 50% |
-|AP| 25 (When using 1h/2h weapons) 55% (When using bow & arrows) |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|AP| 25% (When using 1h/2h weapons) 55% (When using bow & arrows) |
+|Health Regeneration| No |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 *Materiel Protection*
 | Type | Damage change |
