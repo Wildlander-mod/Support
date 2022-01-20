@@ -141,7 +141,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 
  *Resistances*
 |Type  | Protection | 
-|--|--|--|
+|--|--|
 |Shock | Immune |
 |Poison  | Immune |
 |Paralysis  | Immune | 
@@ -241,6 +241,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 
 |Stat| Variation 1 |  Variation 2 | Variation 3 | Variation 4 |
 |--|--|--|--|--|
+| | | | |
 
 
 *Basic Stats*
