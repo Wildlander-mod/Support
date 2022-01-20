@@ -191,7 +191,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 
  *Resistances*
 |Type  | Protection | 
-|--|--|--|
+|--|--|
 |Fire  | 85% | 
 |Unrelenting Force  | Immune | 
 |Knock Down| Minor |
@@ -291,20 +291,20 @@ Weapons
 Can have any Daedric varient of weapon (Swords, axes, maces or bow)
 
 Spells
-Summon Flame, Frost and Storm Thrall - Summons a potent variery of each atronoch thrall.
+Summon Flame, Frost and Storm Thrall - Summons a potent varient of each atronoch type.
 
 |Stat| Oberoth |  All others |
 |--|--|--|
-|Health|  |  |
+|Health| 930 | 1430 |
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Damage| 50 + Weapon damage |
-|Standard AR|  |
+|Magicka| 800 |
+|Stamina| 2000 |
+|Movement Speed| 128 |
+|Damage| 68 Unarmed or Weapon damage |
+|Standard AR| 1320 (or 1716 if sword and board) |
 |Magical AR| 50% |
 |AP| 25% (When using 1h/2h weapons) 55% (When using bow & arrows) |
 |Health Regeneration| No |
@@ -326,7 +326,7 @@ Summon Flame, Frost and Storm Thrall - Summons a potent variery of each atronoch
 
 
 Weapons
-Can have any Daedric varient of weapon (Sword
+Can have any Daedric varient of weapon (Sword, Axe, Bow & arrows, Mace) in both 1h or 2h varients for Melee weapons.
 
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
