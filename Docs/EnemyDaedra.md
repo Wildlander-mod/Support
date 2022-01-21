@@ -285,12 +285,12 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 
 ## Slighted
 
-Slighted a a new type of Dremora introduced by Requiem. they (mostly) have identical stats, the differences come with weaponry or spells.
+Slighted a a new type of Dremora introduced by Requiem. they (mostly) have identical stats, the differences come with weaponry or spells. The Melee varients use weapons exclusivly and do not employ magic. The caster Varients come Equiped with a Sword and nothing in the offhand.
 
-Weapons
-Can have any Daedric varient of weapon (Swords, axes, maces or bow)
+*Weapons*
+Can have any Daedric varient of weapon in both 1h or 2h varients (Sword, Axe, Bow & arrows, Mace) and a shield for 1 handers.
 
-Spells
+*Spells*
 Summon Flame, Frost and Storm Thrall - Summons a potent varient of each atronoch type.
 
 |Stat| Oberoth |  All others |
@@ -319,14 +319,12 @@ Summon Flame, Frost and Storm Thrall - Summons a potent varient of each atronoch
 
  *Resistances*
 |Type  | Protection | 
-|--|--|--|
+|--|--|
 |Fire  | 85% | 
 |Unrelenting Force  | Immune | 
 |Knock Down| Minor |
 
 
-Weapons
-Can have any Daedric varient of weapon (Sword, Axe, Bow & arrows, Mace) in both 1h or 2h varients for Melee weapons.
 
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
