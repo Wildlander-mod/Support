@@ -1,10 +1,10 @@
 # Known Issues
 
-This document will contain all of the known gameplay related issues. It excludes any graphical issues, EG Clipping textures. This document is updated as issues are verified/reproduced by staff or reported by multiple people.
+This document will contain all of the known gameplay related issues. It excludes any graphical issues, EG Clipping textures. This document is updated as issues are verified/reproduced by staff or reported by multiple people. If you would like to see the entire list to date, you can use this Spreadsheet https://docs.google.com/spreadsheets/d/1nKzS_b-aPHgSQHRT42IZQC7uSx3tXFFA73f5THh1ypU/edit#gid=1619905529 
 
 ---
 
-When will these be fixed?
+# When will these be fixed?
 
 There is a hotfix in the works to fix the major issues. Some of the more trivial issues will wait for the next build.
 
@@ -107,19 +107,15 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 ---
 ## Gameplay Issues
 - The Drink/Refill hotkey (;) often unbinds itself. To fix this, go into the SunHelm MCM and rebind the key. (Press T to clear it, then ; to rebind it.)
-- Some crafting recipes requiring bottled water don't work. (Will be hotfixed)
-- Using the crafting "empty bottle" creates an empty bottle object you cannot fill (Will be hotfixed)
 - Using a controller on a lock is causing the camera to fluff up (apparently alt-tab fixes?)
 - Heartwood Mill Door Misplaced after entering (Will be hotfixed)
 - Dodge perk is not working as intended when a controller is attached to the PC
 - Keybindings may not work on "non-US keyboard" - Specifically drink key. A list of where you can go to rebind the keys is here https://docs.google.com/spreadsheets/d/10Clm3z8O9R0TlVlHdoLYHQ6FeMQiB0MA6iUkazfaxFA/preview
 - Faralda doesn't show up to allow you to join ( Workaround #1:  Stand on the bridge where Faralda is supposed to be, and type these two commands in the console: "prid  1C1A5" and "moveto player".  This will teleport her to you, and should initiate the acceptance test.  Workaround #2:  Type the following in the console to get past the acceptance test:  "setstage MG01 30".  You should only use that if you've met the minimum skill requirements for continuity reason)
-- The Crafting menu is overly cluttered, especially at later levels of smithing.
-- Orcish Blacksmithing perk requires Morrowind Smithing instead of other way around.
 - killmove Camera's are still being triggered and should not be.   
 - Bookshelves can be used to duplicate items placed upon them
 - ENB when raining at night looks overly bright.
-- Crating some items say require forge - when you are actuially using one.
+
 
 ---
 ## Quest Issues
@@ -211,7 +207,18 @@ Work around: don't take a bath in cold water ;)
 
 ### Followers
 1) If a follower is marked as a sheogorath worshipper, they don't attack they throw cheese.
-
+   
+### Crafting
+1) Crating some items say require forge - when you are already using one.
+2) Some crafting recipes requiring bottled water don't work. (Will be hotfixed)
+3) Using the crafting "empty bottle" creates an empty bottle object you cannot fill (Will be hotfixed)
+3) The Crafting menu is overly cluttered, especially at later levels of smithing.
+5) Orcish Blacksmithing perk requires Morrowind Smithing instead of other way around.
+6) Ebony smithing and draconic smithing perks affecting tempering of other materials.
+7) Eorland performs temper upgrades 10 times cheaper than intended
+8) Alchemists stock have too many reagents 
+   
+   
 ----
 
 ## Civil war
