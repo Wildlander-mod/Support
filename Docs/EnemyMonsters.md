@@ -568,7 +568,7 @@ They can detect steath players So Sneak attacks are impossible to perform
 
 ## Spiders
 
-###Frostbite
+### Frostbite
 These spiders are far more dangerous than those that dwell in the dungeons of High Rock, as they grow much larger and have an even thicker carapace. Their poison can easily kill an adult human and, if applied by their fangs, can also paralyze the victim if it is not protected greatly from poisons. Again, blunt weapons and magic are the best way to deal with their natural armor, however, they show a slight weakness to fire, which should be the prefered form of spell or enchantment if dealing with this specimen. Using poisons against them, however, is not advised, as they show a great resistance to it and also are immune to their own, which only the most experienced alchemists can extract from their very unaccessible poison sacks. Amatures will only be able to collect their less potent spittle from their fangs.
 
 **Baby**
@@ -749,7 +749,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |--|--|
 |Ranged (Bows & Crossbows)  | 1 |
 
-###Solsheim
+### Solsheim
 **Albino Spider**
 *Basic Stats*
 |Stat| Value |
