@@ -367,7 +367,7 @@ Yes - The keybinding for this is in Iequip. Lizzy (being the sensible player tha
 
 ----------
 
-How Do I Enable Permadeath?
+## How Do I Enable Permadeath?
 
 In short - there is no permadeath in wildlander as they are all known to cause issues. 
 
