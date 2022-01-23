@@ -70,7 +70,11 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 2) users have reported a crash when exiting/using from honed metal (SkyrimSE.exe+C2A5F3)
 3) users have reported a crash when leaving inn in dragonbridge (SkyrimSE.exe+21FFE3)
 
-   
+---
+## M/O 2 issues
+1) reporting a form 43 plugin. We know - this'll be fixed in the hotfix
+2) Reporting files in the overwrite - these are your crash logs
+3) All the Npc overhauls are disabled - They are supposed to be - they are for dylan's use only - Hence "DEV RESOURCES" label.
 
 ---
 ## Launcher issues
@@ -184,7 +188,7 @@ Work around: don't take a bath in cold water ;)
 8) Milking a cow doesn't require a empty bottle and should.
 9) There is a stubborn pig in windhelm which likes being in the way
 10) The fell pony that is encountered by the smuggler's cave west of Whiterun, Frost and Lady Alfsigr  either does not equip any saddle given, or the saddle is invisible. 
-11) Farkas and Aela go invisible in werewolf form.  
+11) Farkas and Aela go invisible in werewolf form (So does Sinding and all other werewolves).  
 12) Dawnstar carriage driver apparently thinks that standing inside his carrige, instead of sitting on the seat is a great place to stand (his horse is disconnected too)  
 13) Sybille Stentor apparently doesnt realise the sun is fatal to vampires, and likes to go for afternoon stroll up to Castle Dour   
 14) Muiri in Markarth has purple hair.
