@@ -136,6 +136,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
          3) Minimum player level 10
          4) 10 radiants
          5) 1 Radiant for each circle member. Note: If you are not getting a radiant from either Skjor or Vilkas. Turn the requirement on in the MCM, then turn it back off and do 1 more radiant.
+         6) Been a companions member for 10 or more days.
    
 ### Tolfdir will make his observations about the Orb, but Ancano will not interrupt the conversation. 
    
