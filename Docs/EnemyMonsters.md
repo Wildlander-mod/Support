@@ -175,7 +175,7 @@ Falmer's armor like the players depends on what they are wearing.
 |AP|  |
 |Health Regeneration| Can carry a Potion of Restore Health - various strengths |
 | Diseased | No |
-|Can Knockdown Player| Falmer Poison Can Paralyse |
+|Can Knockdown Player| Falmer Poison Paralyses for 7 seconds |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -192,7 +192,7 @@ Falmer spellswords mix the martial attacks of their melee cousins and the magica
 |Magicka| 600 |
 |Stamina| 400 |
 |Movement Speed| 100 |
-|Melee Damage| Weapon Damage * 140% |
+|Melee Damage| Weapon Damage * 140%  + Falmer Poison(33 damage for 3 seconds) |
 |Ranged Damage| None |
 |Magical Damage| Wall Of Frost - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and slows the victim my 40% for 5 seconds |
 |Magical Support| Healing Hands (Rank III) Heals 50 points of Health and stamina for caster, and everyone close to the caster.|
@@ -201,7 +201,7 @@ Falmer spellswords mix the martial attacks of their melee cousins and the magica
 |AP| None |
 |Health Regeneration| None |
 | Diseased | None |
-|Can Knockdown Player| Falmer Poison Can Paralyse |
+|Can Knockdown Player| Falmer Poison Paralyses for 7 seconds  |
 
 ### Archers
 Some Falmer prefer to stay at a distance and assault you with missile attacks. These archers wield a Falmer Bow and carry 12 Falmer Arrows, and have a chance to carry a small number of other arrows (of any quality from iron to Daedric). Archers also carry a Falmer Sword, and is equipped with a Falmer Helmet.
@@ -219,7 +219,7 @@ Some Falmer prefer to stay at a distance and assault you with missile attacks. T
 |AP| 50 |
 |Health Regeneration| No |
 | Diseased | No |
-|Can Knockdown Player| Falmer Poison Can Paralyse |
+|Can Knockdown Player| Falmer Poison Paralyses for 7 seconds  |
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -261,12 +261,76 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 
 ### Bosses
 
+*Weapons Stats*
+|Stat| Value | 
+|--|--|
+|Falmer Sword| 42 |
+|Honed Falmer Sword| 60 |
+|Falmer Axe| 48 |
+|Honed Falmer Axe| 66 |
+
+**Melee** EncFalmer05MeleeBoss [NPC_:0005238E]
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage| Weapon Damage * 140%  + Falmer Poison(33 damage for 3 seconds) |
+|Standard AR| 60 from helmet + 84 from shield (when blocking) |
+|AP| None |
+|Health Regeneration| Can carry a Potion of Restore Health - various strengths |
+| Diseased | No |
+|Can Knockdown Player| Falmer Poison Paralyses for 7 seconds |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 20% |
+|Poison  | 75% | N/A |
+
+**SpellSword** EncFalmer05SpellswordBoss [NPC_:00063230]
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage| Weapon Damage * 140%  + Falmer Poison(33 damage for 3 seconds) |
+|Ranged Damage| None |
+|Magical Damage| Wall Of Frost - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and slows the victim my 40% for 5 seconds |
+|Summon |  Spirit Troll - The caster summons the spirit of a rampaging troll for 60 seconds.|
+|Magical Support| Healing Hands (Rank III) Heals 50 points of Health and stamina for caster, and everyone close to the caster.|
+|Magical Aura| Frost Cloak - 12 frost damage for 60 seconds, 30% fire resistance for 60 seconds. |
+|Standard AR| 60 from helmet  |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| Falmer Poison Paralyses for 7 seconds |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 20% |
+|Poison  | 75% | N/A |
+
 ### Frozen
 
+#### Melee
+DLC1_BF_FrozenFalmerMelee03 [NPC_:02015121]
+DLC1_BF_FrozenFalmerMelee04 [NPC_:02015122]
+
+#### Shaman
+DLC1_BF_FrozenFalmerShaman03 [NPC_:02015129]
+DLC1_BF_FrozenFalmerShaman05 [NPC_:0201512B]
+
 ### Feral
-
-### Vampire
-
+DLC1FalmerFeralMelee "Feral Falmer" [NPC_:0200D984]
 
 ## Giants
 
@@ -371,27 +435,38 @@ They can detect steath players So Sneak attacks are impossible to perform
 
 ---
 **Glenmoril Witch**
+C04GlenmorilWitch "Glenmoril Witch" [NPC_:000A350A]
 
 ---
 **Moira**
+DA14Hagraven "Moira" [NPC_:0001CB33]
 
 ---
 **Petra**
 
 ---
+**Lucerne**
+DA05Lucerne "Lucerne" [NPC_:0002ABBE]
+
+---
 **Drascua**
+Drascua "Drascua" [NPC_:000240D7]
 
 ---
 **Melka**
+dunBlindcliffHagraven "Melka" [NPC_:00039B3E]
 
 ---
 **Ettiene**
+DLC2dunAltarOfThrondEttiene "Ettiene" [NPC_:040369ED]
 
 --- 
 **Fallaise** 
+DLC2dunAltarOfThrondFallaise "Fallaise" [NPC_:040369EE]
 
 ---
 **Isobel** 
+DLC2dunAltarOfThrondIsobel "Isobel" [NPC_:040369EC]
 
 ## Ice Wraith
 
@@ -931,6 +1006,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player| |
 
 **Exploding Frost Spider**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -949,6 +1025,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player| |
 
 **Exploding Poison Spider**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -967,6 +1044,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player| |
 
 **Exploding Shock Spider**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
