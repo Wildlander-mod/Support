@@ -163,7 +163,8 @@ This mod is "touchy" in SE and breaks easily.
 
 1) You cannot turn on and off the light using the "L" hotkey
 
-Workaround: use the MCM to change its slot to 46(cloak slot), equip the lantern, reequip your cloak, then change the lanterns slot back to 56.
+Workaround 1) Drop Lantern, then pick it back up.
+Workaround 2) use the MCM to change its slot to 46(cloak slot), equip the lantern, reequip your cloak, then change the lanterns slot back to 56.
 
 2) You spawn a Carpet/Cookpot/Backpack instead of a light when using the "L" hotkey.
 
