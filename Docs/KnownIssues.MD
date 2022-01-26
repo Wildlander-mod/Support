@@ -135,8 +135,11 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
          2) Level 30 for 1 Armor Skill
          3) Minimum player level 10
          4) 10 radiants
-         5) 1 Radiant for each circle member. Note: If you are not getting a radiant from either Skjor or Vilkas. Turn the requirement on in the MCM, then turn it back off and do 1 more radiant.
-         6) Been a companions member for 10 or more days.
+         5) 1 Radiant for each circle member.
+            A) Vilkas will not offer a quest until player is at least level 18. 
+            B) To skip this requirement, turn ON 1 quest from each circle member exit MCM, Enter MCM then turn it back off.
+            C) Do one more radient after this and if you have met the requirements, proving honor should start
+         6) Been a companions member for 10 or more days (unconfirmed - reported by users that this is a requirement).
    
 ### Tolfdir will make his observations about the Orb, but Ancano will not interrupt the conversation. 
    
