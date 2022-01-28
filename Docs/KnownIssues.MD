@@ -73,6 +73,13 @@ In the example below you can see a Coffin object (may also be a burial Urn) - ea
 Using console you can then execute the following commands 
 - prid <NPC id>
 - Unequipall.
+   
+If this fails to work - but you have managed to make a save after the NPC in question died. Then you will need to use a save cleaner and terminate the offending script (WIDeadBodyCleanupScript) causing the issue moving the NPC to the coffin.
+
+- using ReSaver from FallrimTools: 
+- Loaded the savegame > Active Scripts > WIDeadBodyCleanupScript 
+- Located ScriptInstance: WIDeadBodyCleanupScript: *refID=DEFAULT: Followed by the NPC Reference id causing issues
+- terminate the script
 
 Possible relevant objects (5)
    
