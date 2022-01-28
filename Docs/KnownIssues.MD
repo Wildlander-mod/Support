@@ -158,6 +158,14 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
             B) To skip this requirement, turn ON 1 quest from each circle member exit MCM, Enter MCM then turn it back off.
             C) Do one more radient after this and if you have met the requirements, proving honor should start
          6) Been a companions member for 10 or more days (unconfirmed - reported by users that this is a requirement).
+      - for second quest
+         1) Level 50 for 1 weapon skill
+         2) Level 50 for 1 Armor Skill
+         3) Minimum player level 20
+         4) 20 radiants
+         5) 1 Radiant for each circle member.
+         6) 20 days passed since First quest
+
    
 ### Tolfdir will make his observations about the Orb, but Ancano will not interrupt the conversation. 
    
