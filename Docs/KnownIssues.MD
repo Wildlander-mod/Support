@@ -64,6 +64,24 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
    - markfordelete
    - vdisable
 
+## Crash on save with crash code making no reference to skyrimSe.exe (e.g Unhandled native exception occurred at 0x0 on thread)
+
+Caused by a City NPC dying while wearing cold weather gear (e.g cloaks, gloves, facemasks). Will be fixed in hotfix.
+
+In the example below you can see a Coffin object (may also be a burial Urn) - each NPC has a unique hall of the dead object, to fix this you need to identify which NPC the object belongs to. Once you have done that - you can then use that's NPC ID to unequip the offending item. 
+
+Using console you can then execute the following commands 
+- prid <NPC id>
+- Unequipall.
+
+Possible relevant objects (5)
+   
+  [  24]    TESObjectREFR(FormId: 000DEFB5, File: `Skyrim.esm`, BaseForm: TESObjectCONT(Name: `Coffin`, FormId: 000F6891, File: `Requiem for the Indifferent.esp <- Requiem Record Fixes.esm <- Unofficial Skyrim Special Edition Patch.esp <- Skyrim.esm`))
+  
+  [  34]    TESObjectARMO(Name: `Wolfskin Cloak - Light Trimmed Black`, FormId: 76002348, File: `Requiem for the Indifferent.esp <- Wildlander.esp <- 1nivWICCloaks.esp`)
+
+Note: you may also be able to fix this by locating the coffin in the hall of the dead of the city where the NPC died and manually removing the offending item from the coffin
+
 ---
 ## Unidentified causes.
 1) users have reported a crash on save, but dont use bitdefender (SkyrimSE.exe+126283A). 
