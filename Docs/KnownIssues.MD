@@ -89,6 +89,9 @@ Possible relevant objects (5)
 
 Note: you may also be able to fix this by locating the coffin in the hall of the dead of the city where the NPC died and manually removing the offending item from the coffin
 
+Installing this mod https://www.nexusmods.com/skyrimspecialedition/mods/62413/ at the end of your load order will prevent the issue occuring in future (and will *not* remove your right to support) - Install at will. - Lizzy :)
+                                                                                              
+                                                                                                                                                      
 ---
 ## Unidentified causes.
 1) users have reported a crash on save, but dont use bitdefender (SkyrimSE.exe+126283A). 
