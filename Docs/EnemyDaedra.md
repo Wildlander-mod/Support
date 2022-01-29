@@ -12,16 +12,25 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Health|  |
 |Magicka|  |
 |Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
+|Movement Speed| 150 |
+|Melee Damage| + 5 Fire damage for 15 seconds. |
+|Ranged Damage| None |
+|Magical Damage| Fire explosion, Burns all opponents in a area of 15  for 40 points. Targets on fire take extra damage. Deals 2 damage / second for 30 second |
 |Standard AR|  |
-|Magical AR|  |
+|Magical AR| 50% |
 |AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| 100/s When on Fire |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Fire  | Immune |
+|Poison  | Immune |
+|Paralysis  | Immune | 
+|Sneak Attack | Immune | 
+|Knock Down| Minor | 
 
 *Materiel Protection*
 | Type | Damage change |
@@ -32,7 +41,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
  *Weapon Protection*
 | Type | Bonus  |
 |--|--|
-|Slash (Swords & Axes)      |  50% damage reduction |
+|Slash (Swords & Axes)      | 50% damage reduction |
 |Pierce(Daggers)            | 25% damage reduction |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
 
@@ -132,12 +141,13 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Melee Damage| 75 +  Target takes 20 points of Shock damage, and twice as much Magicka damage |
 |Ranged Damage| None |
 |Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+|Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
 |Standard AR| 720
 |Magical AR| 50% |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|AP| None |
+|Health Regeneration| No |
+| Diseased | No |
+|Can Knockdown Player| No |
 
  *Resistances*
 |Type  | Protection | 
@@ -159,7 +169,6 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |--|--|
 |Slash (Swords & Axes)  |  50% damage reduction |
 |Pierce(Daggers)    | 50% damage reduction |
-|Blunt (Maces & Hammers)   |  |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
 
 ---
@@ -239,10 +248,10 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 
 ## Seeker
 
-|Stat| Variation 1 |  Variation 2 | Variation 3 | Variation 4 |
+|Stat| Variation 1 |  Variation 2 | Variation 3 | 
 |--|--|--|--|--|
-|Health| 1172 |1168|1177| |
-|Magicka| 1108 |1102|1113| |
+|Health| 1172 |1168|1177| 
+|Magicka| 1108 |1102|1113| 
 
 
 *Basic Stats*
@@ -254,20 +263,19 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Ranged Damage| N/A |
 |Magical Damage|  Seeker Drain Absorb 20 Health/20 Magic/ 20 Stamina, Knowledge Drain 300 Damage + Stagger |
 |Standard AR| 360 |
-|Magical RR| 50 |
-|Armor Penetration|  |
-|AP|  |
-|Health Regeneration| yes - 90h per second |
-| Diseased |  |
+|Magical AR| 50 |
+|AP| None |
+|Health Regeneration| yes - 90h per second, 30/s under frost damage |
+| Diseased | No |
 |Can Knockdown Player| Yes |
 
 
  *Weapon Protection*
-| Type | Bonus Resistance |
+| Type | Tier |
 |--|--|
-|Pierce  | 250 |
-|Blunt   | 200 |
-|Ranged  | 200 |
+|Pierce(Daggers)    | 5 |
+|Blunt (Maces & Hammers)   | 4 |
+|Ranged (Bows & Crossbows)  | 4 |
 
  *Resistances*
 |Type  | Protection | Weakness|
