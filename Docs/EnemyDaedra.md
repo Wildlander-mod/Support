@@ -177,18 +177,27 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 Dremora are humanoid Daedra aligned with the Daedric Prince Mehrunes Dagon. They are often very intelligent and are generally hostile. In lore, it is said they can be found in clans of large numbers in the wastes of Oblivion. Dremora are a rare sight in Skyrim, only appearing as summoned creatures and in a few set locations.
 
 *Weapons*
+
 Can have any Daedric varient of weapon in both 1h or 2h varients (Sword, Axe, Bow & arrows, Mace) and a shield for 1 handers. Typically weapons are Enchanted with Inferno (deals 30 points of damage on hit)
 
 *Armor*
+
 Will always appear with Curiass, Boots and gloves. Helment is random chance.
 
 *Spells for caster varient*
+
 Mage Armor - Improves the caster's armor rating by 300 points for 60 seconds.
+
 Steadfast Ward  - The caster creates a protective shield that negates a great amount of physical damage and negates up to 60 points of spell damage or effects. Also renders the caster immune to most paralyzing effects.
+
 Flame Cloak - For 60 seconds, opponents in melee range take 12 points fire damage per second. Targets on fire take extra damage. Caster gains 30% Resist Frost while the cloak is active
+
 Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. The impact area continues to burn for 4 seconds, and deals 10 dps for anything standing in these flames.
-Incinerate - A blast of fire that does 65 points of damage, Staggers target and Plus 4 damage per second for 10 seconds after impact. Targets on fire take extra damage. 
+
+Incinerate - A blast of fire that does 65 points of damage, Staggers target and Plus 4 damage per second for 10 seconds after impact. Targets on fire take extra damage.
+
 Heal Self - Heals the caster by 40 points. 
+
 Summon Dremora Archer - Summons the archer varient from that table below. Archer varient will have Daedra Bow of the inferno, daedric arrows (T2 AP)
 
 
