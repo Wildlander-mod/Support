@@ -269,15 +269,15 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Falmer Axe| 48 |
 |Honed Falmer Axe| 66 |
 
-**Melee** EncFalmer05MeleeBoss [NPC_:0005238E]
+**Melee** 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
+|Health| 522 |
+|Magicka| 682 |
+|Stamina| 441 |
+|Movement Speed| 100 |
 |Melee Damage| Weapon Damage * 140%  + Falmer Poison(33 damage for 3 seconds) |
 |Standard AR| 60 from helmet + 84 from shield (when blocking) |
 |AP| None |
@@ -291,15 +291,15 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Fire  | N/A | 20% |
 |Poison  | 75% | N/A |
 
-**SpellSword** EncFalmer05SpellswordBoss [NPC_:00063230]
+**SpellSword** 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
+|Health| 500 |
+|Magicka| 900 |
+|Stamina| 950 |
+|Movement Speed| 100 |
 |Melee Damage| Weapon Damage * 140%  + Falmer Poison(33 damage for 3 seconds) |
 |Ranged Damage| None |
 |Magical Damage| Wall Of Frost - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and slows the victim my 40% for 5 seconds |
@@ -319,18 +319,78 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Fire  | N/A | 20% |
 |Poison  | 75% | N/A |
 
-### Frozen
+### Frozen Vampire
+
+
+
 
 #### Melee
-DLC1_BF_FrozenFalmerMelee03 [NPC_:02015121]
-DLC1_BF_FrozenFalmerMelee04 [NPC_:02015122]
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 300 |
+|Magicka| 150 |
+|Stamina| 150 |
+|Movement Speed| 100 |
+|Melee Damage| 20 |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 #### Shaman
-DLC1_BF_FrozenFalmerShaman03 [NPC_:02015129]
-DLC1_BF_FrozenFalmerShaman05 [NPC_:0201512B]
+
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 350 |
+|Magicka| 700 |
+|Stamina| 300 |
+|Movement Speed| 100 |
+|Melee Damage| 20 |
+|Ranged Damage| None  |
+|Magical Damage| Wall Of Frost - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and slows the victim my 40% for 5 seconds |
+|Summon |  Spirit Troll - The caster summons the spirit of a rampaging troll for 60 seconds.|
+|Magical Aura| Frost Cloak - 12 frost damage for 60 seconds, 30% fire resistance for 60 seconds. |
+|Magical Resistance When Cast| Steadfast Ward - The caster creates a protective shield that negates a great amount of physical damage and negates up to 60 points of spell damage or effects. Also renders the caster immune to most paralyzing effects.|
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Fast Heal - restores 20 HP and stamina to self.   |
+| Diseased | No |
+|Can Knockdown Player| No |
 
 ### Feral
-DLC1FalmerFeralMelee "Feral Falmer" [NPC_:0200D984]
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 300 |
+|Magicka| 150 |
+|Stamina| 150 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+*Shared*
+
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire | N/A  | -20 |
+|Poison  | 75 | N/A  |
 
 ## Giants
 
