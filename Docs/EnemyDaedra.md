@@ -9,16 +9,16 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
+|Health| 1000 |
+|Magicka| 100 |
+|Stamina| 10050 |
 |Movement Speed| 150 |
-|Melee Damage| + 5 Fire damage for 15 seconds. |
+|Melee Damage| 75 + 5 Fire damage for 15 seconds. |
 |Ranged Damage| None |
 |Magical Damage| Fire explosion, Burns all opponents in a area of 15  for 40 points. Targets on fire take extra damage. Deals 2 damage / second for 30 second |
-|Standard AR|  |
+|Standard AR| 820 |
 |Magical AR| 50% |
-|AP|  |
+|AP| None |
 |Health Regeneration| 100/s When on Fire |
 | Diseased | No |
 |Can Knockdown Player| No |
