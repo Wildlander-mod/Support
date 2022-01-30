@@ -48,24 +48,9 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 ---
 ## Atronach
 
-**Flame Atronach** 
+### Flame
 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health| 300 |
-|Magicka| 150 |
-|Stamina| 10000 |
-|Movement Speed| 125 |
-|Melee Damage| 25 Plus either Standard Attack - Burns the target for 10 points  + 1 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Power Attack - Burns the target for 15 points  + 2 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Flame Cloak (permenent effect) Opponents in melee range take 10 points fire damage per second. Targets on fire take extra damage.|
-|Ranged Damage| None |
-|Magical Damage| Firebolt The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage.  Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
-|Standard AR| 480 |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None |
-| Diseased | None |
-|Can Knockdown Player| None |
+*Shared* 
 
 *Materiel Weaknesses*
 | Type | Damage change |
@@ -83,26 +68,57 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Paralysis  | Immune | N/A  |
 |Knock Down| Minor | N/A  |
 
----
-
-**Frost Atronach**
+**Standard** 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| 1000 |
-|Magicka| 0 |
+|Health| 300 |
+|Magicka| 150 |
 |Stamina| 10000 |
-|Movement Speed| 100 |
-|Melee Damage| 60 + Frost Atronach Attack (Stagger + Target takes 25 points of Frost damage, and twice as much Stamina damage.) |
+|Movement Speed| 125 |
+|Melee Damage| 25 Plus either Standard Attack - Burns the target for 10 points  + 1 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Power Attack - Burns the target for 15 points  + 2 Damage per Second for  for 30 seconds. Targets on fire take extra damage. |
 |Ranged Damage| None |
-|Magical Damage| None |
-|Standard AR| 776 |
+|Magical Damage| Firebolt The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage.  Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
+|Passive damage| Flame Cloak (permenent effect) Opponents in melee range take 10 points fire damage per second. Targets on fire take extra damage.|
+|Standard AR| 480 |
 |Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes - 120/s |
+|Health Regeneration| None |
 | Diseased | None |
-|Can Knockdown Player| No |
+|Can Knockdown Player| None |
+
+**Potent Flame Thrall** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 825 |
+|Magicka| 400 |
+|Stamina| 10050 |
+|Movement Speed| 150 |
+|Melee Damage| 25 Plus either Standard Attack - Burns the target for 10 points  + 1 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Power Attack - Burns the target for 15 points  + 2 Damage per Second for  for 30 seconds. Targets on fire take extra damage. |
+|Ranged Damage| None |
+|Magical Damage| "Fireball" - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. The impact area continues to burn for 4 seconds, and deals 10 dps for anything standing in these flames. "Flames" - A Channelled gout of fire that does 8 points per second. Targets on fire take extra damage. Continues to burn for 10/s for 10 seconds 
+"Firebolt" The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage. Continues to burn for 10/s for 10 seconds.  
+Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
+|Passive damage| Flame Cloak (permenent effect) Opponents in melee range take 10 points fire damage per second. Targets on fire take extra damage.|
+|Standard AR| 480 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+
+
+
+---
+
+
+### Frost Atronach
+
+*Shared* 
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -127,27 +143,51 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Pierce(Daggers)    | 25% damage reduction |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
 
----
-
-**Storm Atronach** 
+**Standard**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| 800 |
-|Magicka| 100 |
-|Stamina| 10050 |
-|Movement Speed| 150 |
-|Melee Damage| 75 +  Target takes 20 points of Shock damage, and twice as much Magicka damage |
+|Health| 1000 |
+|Magicka| 0 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 60 + Frost Atronach Attack (Stagger + Target takes 25 points of Frost damage, and twice as much Stamina damage.) |
+|Passive damage| Frost Cloak (permenent effect) Opponents in melee range take 10 points frost damage per second. |
 |Ranged Damage| None |
-|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
-|Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
-|Standard AR| 720
-|Magical AR| 50% |
+|Magical Damage| None |
+|Standard AR| 776 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes - 120/s |
+| Diseased | None |
+|Can Knockdown Player| No |
+
+** Potent Thrall **
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1300 |
+|Magicka| 300 |
+|Stamina| 10000 |
+|Movement Speed| 150 |
+|Melee Damage| 60 + Frost Atronach Attack (Stagger + Target takes 25 points of Frost damage, and twice as much Stamina damage.) |
+|Passive damage| Frost Cloak (permenent effect) Opponents in melee range take 10 points frost damage per second. |
+|Ranged Damage| None |
+|Magical Damage| "Icesphere" - A freezing whirlwind that Staggers, Slows by 35% for 5 seconds and does 40 points of frost damage per second to Health and Stamina. |
+|Standard AR| 776 |
+|Magical AR| None |
 |AP| None |
 |Health Regeneration| No |
-| Diseased | No |
+| Diseased | None |
 |Can Knockdown Player| No |
+
+
+---
+## Storm
+
+*Shared*
 
  *Resistances*
 |Type  | Protection | 
@@ -170,6 +210,47 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Slash (Swords & Axes)  |  50% damage reduction |
 |Pierce(Daggers)    | 50% damage reduction |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
+
+**Standard** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 800 |
+|Magicka| 100 |
+|Stamina| 10050 |
+|Movement Speed| 150 |
+|Melee Damage| 75 +  Target takes 20 points of Shock damage, and twice as much Magicka damage |
+|Ranged Damage| None |
+|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+|Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
+|Standard AR| 720 |
+|Magical AR| 50% |
+|AP| None |
+|Health Regeneration| No |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+**Potent Thrall** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 950 |
+|Magicka| 400 |
+|Stamina| 10050 |
+|Movement Speed| 150 |
+|Melee Damage| 75 +  Target takes 20 points of Shock damage, and twice as much Magicka damage |
+|Ranged Damage| None |
+|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+|Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
+|Standard AR| 720 |
+|Magical AR| 50% |
+|AP| None |
+|Health Regeneration| No |
+| Diseased | No |
+|Can Knockdown Player| No |
+
 
 ---
 
@@ -328,8 +409,8 @@ Slighted a a new type of Dremora introduced by Requiem. they (mostly) have ident
 *Weapons*
 Can have any Daedric varient of weapon in both 1h or 2h varients (Sword, Axe, Bow & arrows, Mace) and a shield for 1 handers.
 
-*Spells*
-Summon Flame, Frost and Storm Thrall - Summons a potent varient of each atronoch type.
+* Caster varient Spell *
+Summon Flame, Frost and Storm Thrall - Summons a potent varient of each atronoch type for 300 seconds.
 
 |Stat| Oberoth |  All others |
 |--|--|--|
