@@ -182,7 +182,7 @@ Can have any Daedric varient of weapon in both 1h or 2h varients (Sword, Axe, Bo
 
 *Armor*
 
-Will always appear with Curiass, Boots and gloves. Helment is random chance.
+Melee/ Archer Will always appear with Curiass, Boots and gloves. Helment is random chance. Casters appear with unarmoured robes and linen boots.
 
 *Spells for caster varient*
 
