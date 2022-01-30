@@ -79,7 +79,8 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Movement Speed| 125 |
 |Melee Damage| 25 Plus either Standard Attack - Burns the target for 10 points  + 1 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Power Attack - Burns the target for 15 points  + 2 Damage per Second for  for 30 seconds. Targets on fire take extra damage. |
 |Ranged Damage| None |
-|Magical Damage| Firebolt The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage.  Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
+|Magical Damage| Firebolt The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage.  | 
+| | Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
 |Passive damage| Flame Cloak (permenent effect) Opponents in melee range take 10 points fire damage per second. Targets on fire take extra damage.|
 |Standard AR| 480 |
 |Magical AR| None |
@@ -99,9 +100,10 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 |Movement Speed| 150 |
 |Melee Damage| 25 Plus either Standard Attack - Burns the target for 10 points  + 1 Damage per Second for  for 30 seconds. Targets on fire take extra damage. Power Attack - Burns the target for 15 points  + 2 Damage per Second for  for 30 seconds. Targets on fire take extra damage. |
 |Ranged Damage| None |
-|Magical Damage| "Fireball" - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. The impact area continues to burn for 4 seconds, and deals 10 dps for anything standing in these flames. "Flames" - A Channelled gout of fire that does 8 points per second. Targets on fire take extra damage. Continues to burn for 10/s for 10 seconds 
-"Firebolt" The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage. Continues to burn for 10/s for 10 seconds.  
-Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
+|Magical Damage| "Fireball" - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. The impact area continues to burn for 4 seconds, and deals 10 dps for anything standing in these flames. |
+| | "Flames" - A Channelled gout of fire that does 8 points per second. Targets on fire take extra damage. Continues to burn for 10/s for 10 seconds |
+| |"Firebolt" The caster evokes a blast of fire that deals 30 points of damage. Targets on fire take extra damage. Continues to burn for 10/s for 10 seconds.  |
+| | Atronach Death Explosion Deals 150 damage plus 40/s for 4 seconds.|
 |Passive damage| Flame Cloak (permenent effect) Opponents in melee range take 10 points fire damage per second. Targets on fire take extra damage.|
 |Standard AR| 480 |
 |Magical AR| None |
@@ -284,7 +286,7 @@ Summon Dremora Archer - Summons the archer varient from that table below. Archer
 
 |Stat| Melee |  Archer | Caster |
 |--|--|--|--|
-|Health| 760 760|610|
+|Health| 760 | 760|610|
 |Magicka| 50  | 300 | 500 |
 |Stamina| 1540 |1500|1040|
 |Movement Speed| 100 | 115 | 100 |
