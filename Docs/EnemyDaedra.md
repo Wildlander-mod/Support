@@ -249,7 +249,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 ## Seeker
 
 |Stat| Variation 1 |  Variation 2 | Variation 3 | 
-|--|--|--|--|--|
+|--|--|--|--|
 |Health| 1172 |1168|1177| 
 |Magicka| 1108 |1102|1113| 
 
