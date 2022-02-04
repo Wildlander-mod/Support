@@ -58,12 +58,13 @@
 |Can Knockdown Player| No |
 
 |Type  | Protection | 
-|--|--|--|
+|--|--|
 |Frost  | 50|  
 |Shock  | 25 |  
 
 
 **Gigantic Mudcrab** : think bigger than a 18-wheeler Mudcrab 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -334,19 +335,30 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
+|Health| 200 |
+|Magicka| 4 |
+|Stamina| 250 |
+|Movement Speed| 100 |
+|Melee Damage| 35 |
+|Ranged Damage| Frostbite Poison - A blood-freezing poison that deals 0.2 points of damage to Health and Stamina per second for 15 seconds. |
+|Magical Damage| None |
+|Standard AR| 360 |
+|Magical AR| None |
 |AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player|  Yes - Spider poison Paralysis |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Ranged (Bows & Crossbows)  | 1 |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 25% |
+|Poison  | 60% | N/A |
 
 **Lord Tusk** : Big Horker.
 
