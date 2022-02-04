@@ -5,19 +5,33 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 220 |
+|Magicka| 0 |
+|Stamina| 573 |
+|Movement Speed| 100 |
+|Melee Damage| 60 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR| None |
+|Standard AR| 240 |
 |Magical AR| None |
 |AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| yes 60/s unless on fire |
+| Diseased | No |
+|Can Knockdown Player| Yes |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 25% | N/A |
+|Knockdown  | Minor | N/A |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Pierce(Daggers)    | 2 |
+|Blunt (Maces & Hammers)   | 2 |
+|Ranged (Bows & Crossbows)  | 4 |
 
 ##  **Ebony Warrior** (Humanoid)
 
@@ -367,25 +381,31 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 925 |
+|Magicka| -25 |
+|Stamina| 695 |
+|Movement Speed| 100 |
+|Melee Damage| 235 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 150 |
+|Magical AR| None |
+|AP| 50 |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player|  None |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Frost  | 50% |  
+|Knock Down| Minor |  
     
 **Additional Perks**
 - waterbreathing
 
 *Weaknesses*
-- These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
+- These guys attacks are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
 
 ##  **Nimhe** : Named giant Frostbite Spider
 
@@ -423,19 +443,25 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 325 |
+|Magicka| 4 |
+|Stamina| 25 |
+|Movement Speed| 100 |
+|Melee Damage| 60 |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 600 |
+|Magical AR| None |
+|AP| 50 |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Slash (Swords & Axes)  | 3 |
+|Ranged (Bows & Crossbows)  | 3 |
 
 ##  **Ragnok** : A Frost Giant
 
