@@ -251,7 +251,7 @@ Work around: don't take a bath in cold water ;)
 3) Female Hungry/thirsty/sleep sounds play occasionally on male characters who have been gender switched
 
 ### Followers
-1) If a follower is marked as a sheogorath worshipper, they don't attack they throw cheese.
+1) If a follower is marked as a sheogorath worshipper, they don't attack they throw cheese.  go FLP MCM menu Then change the religion for sheogorath to -2 for whichever follower is lobbing them.
    
 ### Crafting
 1) Crating some items say require forge - when you are already using one.
