@@ -557,10 +557,10 @@ As in many other provinces, mudcrabs can also be found in Skyrim, though their a
 |Can Knockdown Player| No |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 120 |
-|Ranged (Bows & Crossbows)  | 120 |
+|Slash (Swords & Axes)  | 2 |
+|Ranged (Bows & Crossbows)  | 2 |
 
 
 ---
