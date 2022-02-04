@@ -63,7 +63,7 @@
 |Shock  | 25 |  
 
 
-## **Gigantic Mudcrab** think bigger than a 18-wheeler Mudcrab 
+## **Gigantic Mudcrab** - think bigger than a 18-wheeler Mudcrab 
 
 *Basic Stats*
 |Stat| Value |
@@ -147,7 +147,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-##  **Kamel Snow demon* : Sewer Dwelling Ice Atronoch
+##  **Kamel Snow demon** : Sewer Dwelling Ice Atronoch
 
 *Basic Stats*
 |Stat| Value |
@@ -252,7 +252,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Kru'ul** : Giant Frost Troll
+## **Kru'ul** : Giant Frost Troll
 
 *Basic Stats*
 |Stat| Value |
@@ -299,7 +299,9 @@
 |Movement Speed| 150 |
 |Melee Damage| 75 |
 |Ranged Damage| None  |
-|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. |
+|| Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres.|
+|| Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
 |Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
 |Standard AR| 720 |
 |Magical AR| 50 |
@@ -475,19 +477,19 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
+|Health| 470 |
+|Magicka| 55 |
+|Stamina| 420 |
+|Movement Speed| 86 |
+|Melee Damage| 9 unarmed, 216 Damage from Bouncer (both multiply by 140% due to perks) |
+|Ranged Damage| None |
+|Magical Damage| None |
+|Standard AR| 780 |
+|Magical AR| None |
 |AP|  |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| None |
+| Diseased | None |
+|Can Knockdown Player| None |
 
 ##  **Sos** : Named Atronoch
 
@@ -500,7 +502,9 @@
 |Movement Speed| 150 |
 |Melee Damage| 75 |
 |Ranged Damage| None  |
-|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. |
+|| Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres.|
+|| Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
 |Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
 |Standard AR| 720 |
 |Magical AR| 50 |
@@ -618,26 +622,48 @@
 
 ##  **Thunder** : Giant Storm Atronach
 
-Storm Atronach Standard Attack Target takes 20 points of damage, and twice as much Magicka damage.
-Storm Atronach Power Attack Target takes 20 points of damage, and twice as much Magicka damage in a 25 area.
-Shock Cloak 
-
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 2200 |
+|Magicka| 1100 |
+|Stamina| 10050 |
+|Movement Speed| 150 |
+|Melee Damage| 275 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
+|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. |
+| | Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. |
+| | Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+| |His understanding of arcane energies grants you 30% chance to absorb incoming spells, shouts, or enchantments, as pure magicka.|
+|Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
+|Standard AR| 720 |
+|Magical AR| 50 |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Shock | Immune |
+|Poison  | Immune |
+|Paralysis  | Immune | 
+|Sneak Attack | Immune | 
+|Knock Down| Minor | 
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Daedric (Melee)     | 150% |
+|Daedric (Arrows)     | 150% |
+
+ *Weapon Protection*
+| Type | Bonus |
+|--|--|
+|Slash (Swords & Axes)  |  50% damage reduction |
+|Pierce(Daggers)    | 50% damage reduction |
+|Ranged (Bows & Crossbows)  | 50% damage reduction |
 
 ##  **Ulik** : Giant Troll
 
@@ -677,7 +703,9 @@ Shock Cloak
 |Movement Speed| 150 |
 |Melee Damage| 75 |
 |Ranged Damage| None  |
-|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres. Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
+|Magical Damage| Area Attack - Deals 20 points of Shock damage, and twice as much Magicka damage, to all enemies within 20 metres. |
+|| Chain Lightning - The caster evokes a bolt of lightning that deals 60 points of shock damage to Health and half that to Magicka, to all enemies within 20 metres.|
+|| Lighning Bolt  - The caster evokes a bolt of lightning that deals 50 points of shock damage to Health and half that to Magicka |
 |Passive Damage| Shock Cloak -  opponents in melee range take 10 points shock damage and magicka damage per second.|
 |Standard AR| 720 |
 |Magical AR| 50 |
