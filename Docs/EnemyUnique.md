@@ -1,6 +1,6 @@
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
 
-**Aldhissla** Named Troll
+## **Aldhissla** Sewer Troll
 
 *Basic Stats*
 |Stat| Value |
@@ -19,7 +19,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Ebony Warrior** Named Human.
+##  **Ebony Warrior** (Humanoid)
 
 *Basic Stats*
 |Stat| Value |
@@ -38,7 +38,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Elsi the Spiker**: Human Bandit.   
+##  **Elsi the Spiker** (Humanoid)  
 
 *Basic Stats*
 |Stat| Value |
@@ -63,7 +63,7 @@
 |Shock  | 25 |  
 
 
-**Gigantic Mudcrab** : think bigger than a 18-wheeler Mudcrab 
+## **Gigantic Mudcrab** think bigger than a 18-wheeler Mudcrab 
 
 *Basic Stats*
 |Stat| Value |
@@ -95,7 +95,7 @@
 |Pierce(Daggers)    | 100 |
 |Ranged (Bows & Crossbows)  | 250 |
         
-**Gorak the Trollslayer** : Named Giant
+##  **Gorak the Trollslayer** : Named Giant
 
 *Basic Stats*
 |Stat| Value |
@@ -128,7 +128,7 @@
 |Paralysis  | Immune |  
 |Knock Down| Minor |  
 
-**Jon the Mad**:
+##  **Jon the Mad**:
 
 *Basic Stats*
 |Stat| Value |
@@ -147,7 +147,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Kamel Snow demon* : Sewer Dwelling Ice Atronoch
+##  **Kamel Snow demon* : Sewer Dwelling Ice Atronoch
 
 *Basic Stats*
 |Stat| Value |
@@ -190,7 +190,7 @@
 |Pierce(Daggers)    | 25% damage reduction |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
 
-**Karstaag** : Powerful ghostly Frost Giant.
+##  **Karstaag** : Powerful ghostly Frost Giant.
 
 *Basic Stats*
 |Stat| Value |
@@ -233,7 +233,7 @@
 |Standard (Melee)    | 10% |
 |Standard (Arrows)   | 10% |
 
-**King Olaf**:
+##  **King Olaf**:
 
 *Basic Stats*
 |Stat| Value |
@@ -287,7 +287,7 @@
 |Blunt (Maces & Hammers)   | 2 |
 |Ranged (Bows & Crossbows)  | 4 |
 
-**Krii** : Named Atronoch
+##  **Krii** : Named Atronoch
 
 
 *Basic Stats*
@@ -330,7 +330,7 @@
 |Pierce(Daggers)    | 50% damage reduction |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
 
-**Lis** Named Frostbite Spider
+##  **Lis** Named Frostbite Spider
 
 *Basic Stats*
 |Stat| Value |
@@ -360,7 +360,7 @@
 |Fire  | N/A | 25% |
 |Poison  | 60% | N/A |
 
-**Lord Tusk** : Big Horker.
+##  **Lord Tusk** : Big Horker.
 
 *Basic Stats*
 |Stat| Value |
@@ -385,7 +385,7 @@
 *Weaknesses*
 - These guys are slow as all hell. Just go in close to bait an attack, dodge or block and than attack. rinse and repeat
 
-**Nimhe** : Named giant Frostbite Spider
+##  **Nimhe** : Named giant Frostbite Spider
 
 *Basic Stats*
 |Stat| Value |
@@ -416,7 +416,7 @@
 |--|--|
 |Ranged (Bows & Crossbows)  | 1 |
 
-**Old Salty** Named Mudcrab
+##  **Old Salty** Named Mudcrab
 
 *Basic Stats*
 |Stat| Value |
@@ -435,7 +435,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Ragnok** : A Frost Giant
+##  **Ragnok** : A Frost Giant
 
 *Basic Stats*
 |Stat| Value |
@@ -470,7 +470,7 @@
 |Knock Down| Minor | N/A |
 
     
-**Ron the Crow**: Human Bandit.
+##  **Ron the Crow**: Human Bandit.
 
 *Basic Stats*
 |Stat| Value |
@@ -489,7 +489,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Sos** : Named Atronoch
+##  **Sos** : Named Atronoch
 
 *Basic Stats*
 |Stat| Value |
@@ -531,7 +531,7 @@
 |Pierce(Daggers)    | 50% damage reduction |
 |Ranged (Bows & Crossbows)  | 50% damage reduction |
 
-**Snow** : Giant Snowy Sabrecat
+##  **Snow** : Giant Snowy Sabrecat
 
 *Basic Stats*
 |Stat| Value |
@@ -562,7 +562,7 @@
 |Ranged (Bows & Crossbows)  |  2 |
 
     
-**The Pale Lady** : Named Wispmother.
+##  **The Pale Lady** : Named Wispmother.
 
 *Basic Stats*
 |Stat| Value |
@@ -597,7 +597,7 @@
 |Sneak Attack | Immune |  
 |Paralysis  | Immune |  
 
-**The Beast**:
+##  **The Beast**:
 
 *Basic Stats*
 |Stat| Value |
@@ -616,7 +616,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Thunder** : Giant Storm Atronach
+##  **Thunder** : Giant Storm Atronach
 
 Storm Atronach Standard Attack Target takes 20 points of damage, and twice as much Magicka damage.
 Storm Atronach Power Attack Target takes 20 points of damage, and twice as much Magicka damage in a 25 area.
@@ -639,7 +639,7 @@ Shock Cloak
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Ulik** : Giant Troll
+##  **Ulik** : Giant Troll
 
 *Basic Stats*
 |Stat| Value |
@@ -666,7 +666,7 @@ Shock Cloak
 |Poison  | 60% | N/A |
 |Knock Down| Minor | N/A |  
 
-**Zah** : Named Atronoch
+##  **Zah** : Named Atronoch
 
 *Basic Stats*
 |Stat| Value |
