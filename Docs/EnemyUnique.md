@@ -38,19 +38,33 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
+|Health| 5110 |
+|Magicka| 3070 |
+|Stamina| 3160 |
+|Movement Speed| 138 |
+|Melee Damage| 54 Unarmed, 78 from sword |
+|Ranged Damage| 75 from bow, 90 from arrows + shock damage from both  |
+|Magical Damage| Warriors Fireball  |
+||Warrior Ice Spehere|
+||Warriors Conjour - Summions a (Potent Storm Thrall}[https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md#storm] |
+|Standard AR| 1290 |
+|Magical AR| 80% |
+|AP| At least 15  |
+|Health Regeneration| 5/s  |
+| Diseased | No |
 |Can Knockdown Player| |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 95|  
+|Fire | 60 |  
+|Shock | 95 |  
+|Poison  | 75 |  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune | 
+|Knock Down| Minor| 
+|Wabbajack|  Immune|  
+|Unrelenting Force| Immune |
 
 ##  **Elsi the Spiker** (Humanoid)  
 
