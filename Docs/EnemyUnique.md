@@ -61,6 +61,7 @@
 |Slash (Swords & Axes)  |  5 |
 |Ranged (Bows & Crossbows)  | 4 |
 
+ *Resistances*
 |Type  | Protection |
 |--|--|
 |Frost  | 95|  
@@ -168,19 +169,26 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 368 |
+|Magicka| 80 |
+|Stamina| 617 |
+|Movement Speed| 97.5 |
+|Melee Damage| 9 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+ 
+|Type  | Protection | 
+|--|--|
+|Frost  | 50 |  
+|Unrelenting Force| Immune | 
 
 ##  **Kamel Snow demon** : Sewer Dwelling Ice Atronoch
 
@@ -268,24 +276,49 @@
 |Standard (Melee)    | 10% |
 |Standard (Arrows)   | 10% |
 
-##  **King Olaf**:
+##  **King Olaf**: Called Dragur - but is final boss in King Olafs tomb
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 1300 |
+|Magicka| 10 |
+|Stamina| 10400 |
+|Movement Speed| 100 |
+|Melee Damage| 20 unarmed (150 from warhammer) |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
+|Shouts| Frost breath Shout  Enemies within the area of effect (45 feet) will suffer 60 frost damage and 50% slow for 5 seconds, plus a large stagger.   |
+|| Disarm Shout this shout will disarm any enemy up to level 999 within the path of the Thu'um.  |
+|| Unrelenting Force - pushing aside anything - or anyone - who stands in your path. (60 damage + knockdown) |
+|Standard AR| 600 |
 |Magical AR| None |
-|AP| None |
+|AP| 50 |
 |Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No |
+|Can Knockdown Player| Yes - Unrelenting Force|
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Standard (Arrows)   | 10% damage |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Pierce(Daggers)    | 50% Damage reduction |
+|Blunt (Maces & Hammers)   | 50% Damage reduction |
+|Ranged (Bows & Crossbows)  | 3 |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 85% | N/A |
+|Shock  | 50% | N/A |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune |  N/A|
 
 ## **Kru'ul** : Giant Frost Troll
 
