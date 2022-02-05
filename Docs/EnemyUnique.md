@@ -44,15 +44,22 @@
 |Movement Speed| 138 |
 |Melee Damage| 54 Unarmed, 78 from sword |
 |Ranged Damage| 75 from bow, 90 from arrows + shock damage from both  |
-|Magical Damage| Warriors Fireball  |
-||Warrior Ice Spehere|
-||Warriors Conjour - Summions a (Potent Storm Thrall}[https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md#storm] |
+|Magical Damage| Warriors Fireball - The caster evokes a flaming projectile that deals 80 points of damage to everything in its impact radius. Targets on fire take extra damage. Targets standing in the impact radius takes 114 damage for seconds and a stagger effect of 0.25|
+||Warrior Ice Sphere - A freezing whirlwind that does 80 points of frost damage per second to Health and Stamina. 35% slow for 5 seconds and a stagger effect of 0.25  |
+||Warriors Conjour - Summions a [Potent Storm Thrall](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md#storm) |
+||Drain Vitality Shout (3 words) 5 points of damage per second to stamina, magicka, and health for 60 seconds, and a stagger effect of 0.8 |
 |Standard AR| 1290 |
 |Magical AR| 80% |
-|AP| At least 15  |
+|AP| 50  |
 |Health Regeneration| 5/s  |
 | Diseased | No |
-|Can Knockdown Player| |
+|Can Knockdown Player| Yes - From Bull Rush |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Slash (Swords & Axes)  |  5 |
+|Ranged (Bows & Crossbows)  | 4 |
 
 |Type  | Protection |
 |--|--|
