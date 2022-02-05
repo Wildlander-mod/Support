@@ -414,7 +414,7 @@
 |Magical Damage| None |
 |Standard AR| 360 |
 |Magical AR| None |
-|AP|  |
+|AP| None |
 |Health Regeneration| None |
 | Diseased | None |
 |Can Knockdown Player|  Yes - Spider poison Paralysis |
@@ -771,6 +771,43 @@
 |Frost  | 25% | N/A |
 |Poison  | 60% | N/A |
 |Knock Down| Minor | N/A |  
+
+##  **Ulfric Stormcloak** : Rebel Jarl
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 420 |
+|Magicka| 480 |
+|Stamina| 610 |
+|Movement Speed| 94 |
+|Melee Damage| 35 unarmed, 206 from sword |
+|Ranged Damage| None  |
+|Shouts| Frost breath Shout  Enemies within the area of effect (45 feet) will suffer 60 frost damage and 50% slow for 5 seconds, plus a large stagger.   |
+|| Disarm Shout this shout will disarm any enemy up to level 999 within the path of the Thu'um.  |
+|| Unrelenting Force - pushing aside anything - or anyone - who stands in your path. (60 damage + knockdown) |
+|| Marked for Death - damage health: 8 per second for 12 seconds,  Damage armor: 800 for 12 seconds |
+|| Iceform  frost damage: 4 damage per second for 120 seconds,  freeze: 20 seconds|
+|Standard AR| 643 |
+|Magical AR| 50 |
+|AP| 85 |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player| Yes - Unrelenting force |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 50|  
+|Shock | 75  |  
+|Poison  | Immune |  
+|Paralysis  | Immune |  
+|Unrelenting Force| Immune |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Slash (Swords & Axes)  |  3 |
+|Ranged (Bows & Crossbows)  | 5 |
 
 ##  **Zah** : Named Atronoch
 
