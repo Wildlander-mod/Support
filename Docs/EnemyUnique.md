@@ -198,8 +198,8 @@
 |Health| 397 |
 |Magicka| 16 |
 |Stamina| 10032 |
-|Movement Speed|  |
-|Melee Damage|  |
+|Movement Speed| 100|
+|Melee Damage| 60 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Magical Cloak| Frost Cloak - While in combat, opponents in melee range take 10 points frost damage and stamina damage per second. |
@@ -356,7 +356,6 @@
 |Ranged (Bows & Crossbows)  | 4 |
 
 ##  **Krii** : Named Atronoch
-
 
 *Basic Stats*
 |Stat| Value |
@@ -570,6 +569,38 @@
 |Health Regeneration| None |
 | Diseased | None |
 |Can Knockdown Player| None |
+
+##  **Sinding** : Named Werewolf
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1400 |
+|Magicka| 0 |
+|Stamina| 1200 |
+|Movement Speed| 100 |
+|Melee Damage| 120 |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes - 1/s  |
+| Diseased | No |
+|Can Knockdown Player| Yes |
+
+
+ *Resistances*
+|Type  | Protection | 
+|--|--|
+|Poison  | 75% | 
+|Paralysis  | Immune | 
+|Knock Down| Minor |  
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Silver (Arrows)     | 150% |
 
 ##  **Sos** : Named Atronoch
 
