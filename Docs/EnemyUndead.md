@@ -235,8 +235,8 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 |Stamina|  |
 |Melee Damage|  |
 |Ranged Damage|  |
-|Magical Damage| Standard Attack -  Absorb 5 points of health from the target
-Power Attack  - Absorb 5 points of health from the target & a 0.75 magnitude stagger |
+|Magical Damage| Standard Attack -  Absorb 5 points of health from the target|
+||Power Attack  - Absorb 5 points of health from the target & a 0.75 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks  |
 
 *Grey*
@@ -249,8 +249,8 @@ Power Attack  - Absorb 5 points of health from the target & a 0.75 magnitude sta
 |Stamina|  |
 |Melee Damage|  |
 |Ranged Damage|  |
-|Magical Damage| Standard Attack -  Absorb 12 points of health from the target
-Power Attack  - Absorb 12 points of health from the target & a 1 magnitude stagger |
+|Magical Damage| Standard Attack -  Absorb 12 points of health from the target|
+||Power Attack  - Absorb 12 points of health from the target & a 1 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks  |
 
 *Albino*
@@ -263,8 +263,8 @@ Power Attack  - Absorb 12 points of health from the target & a 1 magnitude stagg
 |Stamina|  |
 |Melee Damage|  |
 |Ranged Damage|  |
-|Magical Damage| Standard Attack -  Absorb 16 points of health from the target
-Power Attack  - Absorb 16 points of health from the target & a 1 magnitude stagger |
+|Magical Damage| Standard Attack -  Absorb 16 points of health from the target|
+||Power Attack  - Absorb 16 points of health from the target & a 1 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks |
 
 ## Ghost 
