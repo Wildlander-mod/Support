@@ -117,14 +117,14 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Standard (Arrows)   | 10% damage |
 
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Change|
 |--|--|
 |Pierce(Daggers)    | 50% Damage reduction |
 |Blunt (Maces & Hammers)   | 50% Damage reduction |
-|Ranged (Bows & Crossbows)  | 3 |
+|Ranged (Bows & Crossbows)  | Tier 3 |
 
 
-**Melee** 
+**Physical** 
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -141,7 +141,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 
 
 ---
-**Armored Melee** 
+**Armored** 
 
 *Basic Stats*
 |Stat| Value |
@@ -198,28 +198,73 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Can Knockdown Player| |
 
 ## Gargoyles
-
-*Varients*
-|Stat| Standard| Brute| Sentinel|
-|--|--|--|--|
-|Level  |  |  |  |
-|Health |  |  |  |
-|Magicka|  |  |  |
-|Stamina|  |  |  |
+When stationary, gargoyles disguise themselves as statues. They can often be found beside regular statues, helping them blend in. While posing as a statue, they are immune to harm and cannot be killed. If they do not immediately burst from the rocks, magic (such as Soul Trap) can be used to distinguish a stationary gargoyle from a regular statue. 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Movement Speed|  |
+|Movement Speed| 120 |
+|Standard AR| 720 |
+|Magical AR| 75 |
+|AP| 50 |
+| Diseased | No |
+|Can Knockdown Player| Power Attacks Stagger |
+
+**Shared**
+|Type  | Protection |
+|--|--|
+|Poison  | Immune |  
+|Paralysis  | Immune|  
+|Knock Down| Minor | 
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Slash (Swords & Axes)  | 4  |
+|Pierce(Daggers)    | 3 |
+|Ranged (Bows & Crossbows)  | 4 |
+
+*Green*
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
 |Melee Damage|  |
 |Ranged Damage|  |
-|Magical Damage|  |
-|Standard AR|  |
-|Magical AR|  |
-|AP|  |
-|Health Regeneration|  |
-| Diseased | No |
-|Can Knockdown Player| |
+|Magical Damage| Standard Attack -  Absorb 5 points of health from the target
+Power Attack  - Absorb 5 points of health from the target & a 0.75 magnitude stagger |
+|Health Regeneration| yes - Absorbs health from physical attacks  |
+
+*Grey*
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Melee Damage|  |
+|Ranged Damage|  |
+|Magical Damage| Standard Attack -  Absorb 12 points of health from the target
+Power Attack  - Absorb 12 points of health from the target & a 1 magnitude stagger |
+|Health Regeneration| yes - Absorbs health from physical attacks  |
+
+*Albino*
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Melee Damage|  |
+|Ranged Damage|  |
+|Magical Damage| Standard Attack -  Absorb 16 points of health from the target
+Power Attack  - Absorb 16 points of health from the target & a 1 magnitude stagger |
+|Health Regeneration| yes - Absorbs health from physical attacks |
 
 ## Ghost 
 
@@ -304,6 +349,8 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 
 Skeletons are a form of weaker undead. They are easily destroyed by using a heavy blunt weapon like a warhammer and cannot withstand much damage in general, though arrows will sometimes just go through them without doing much damage. But when approaching in great numbers, it is advised to either be experienced in fighting groups or to have a powerful destruction spell at hand.
 
+### Standard
+
 **Shared **
  *Weapon Protection*
 | Type | Bonus Armor |
@@ -318,46 +365,11 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
-
-**Melee** 
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+**Physical** 
 
 **Caster** 
 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-**Armured** 
+### **Armured** 
 
 *Basic Stats*
 |Stat| Value |
@@ -369,14 +381,14 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 360 |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Boneman** 
+### **Boneman** 
 A variety of skeleton archer which inhabit the Soul Cairn. 
 
 *Basic Stats*
@@ -396,7 +408,7 @@ A variety of skeleton archer which inhabit the Soul Cairn.
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Mistman**
+### **Mistman**
 Floating, legless, black skeletons found in the Soul Cairn. You can summon them after learning Conjure Mistman from a spell tome in the Soul Cairn.
 
 *Basic Stats*
@@ -416,7 +428,7 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Wrathman**
+### **Wrathman**
 Black skeleton warriors found in the Soul Cairn. You can summon them after learning Conjure Wrathman from a spell tome in the Soul Cairn.
 
 *Basic Stats*
@@ -429,7 +441,7 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Melee Damage|  |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
+|Standard AR| 600 |
 |Magical AR|  |
 |AP| None |
 |Health Regeneration| Yes  |
