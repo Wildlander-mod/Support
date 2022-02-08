@@ -1,14 +1,10 @@
-
+# Ancano
 
 # Aldiun
 
-# Harkon
+# Lord Harkon
 
 # Miraak
-
-## Quest 2 Version
-
-## Quest 6 version
 
 Shouts (do 130% damage, shout recovery is 150% )
 - "Dragon Aspect" Take on the mighty aspect of a dragon, delivering colossal blows, with an armored hide, and more powerful shout (For 720 seconds, armor rating increases by 150, power attacks deal 75% more damage, fire & frost resistance improves by 25%, and shout cooldown reduces by 20%. Also, if His health is below 50%, an Ancient Dragonborn will manifest to protect him
@@ -26,6 +22,7 @@ Spells (Last 5 times longer than any durations listed)
 - "Knowledge Drain" The caster drains the soul fo the target for 150 Health and magicka damage, dealing a 0.5 Stagger, and Target is 75% weaker to magic for 5 seconds.
 - "Blizzard" Targets receive 50  points of frost and stamina damage for 9 seconds.
 - "Chain Lightning" The caster evokes a lightning bolt that deals 100 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other. Dealing a 0.5 Stagger to each person hit.
+- "Summons Thralls" Summon Flame, Frost and Storm Thrall - Summons a potent varient of each [atronoch](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md#atronach) type for 30 seconds. 
 
 
 Perks
@@ -33,30 +30,32 @@ Perks
 - 2 handed weapon damage reduced vby 45%
 - Will take 15% less damage from Summoned creatures
 - Target is 5% weaker to poison for 10 seconds.
-- Melee attacks fo 150% nmore damage                                                                                                                                
+- Melee attacks fo 150% nmore damage   
+- will absorb 10% of each spell in magika   
+- 150% weapons speed                                                                                                                          
                                                                                                                                  
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage| Miraaks sword - deals 135 slashing damage. |
+|Health| 4995 |
+|Magicka| 2280 |
+|Stamina| 5145 |
+|Movement Speed| 96 |
+|Melee Damage| 9 unarmed, Miraaks sword - deals 135 slashing damage. |
 |Ranged Damage| None  |
 |Magical Damage| See Above list  |
-|Standard AR| 700 |
-|Magical AR| 50% |
+|Standard AR| 925 |
+|Magical AR| 95% |
 |AP| 50 |
-|Health Regeneration|   |
+|Health Regeneration|  No |
 | Diseased | No |
 |Can Knockdown Player| Yes. through various methods. |             
                                                                                                                                  
 |Type  | Protection |
 |--|--|
-|Frost  | 60 |  
-|Fire | 10  |  
-|Shock | 35 |  
+|Frost  | 85 |  
+|Fire | 35  |  
+|Shock | 60 |  
 |Poison  | Immune |  
 |Paralysis  | Immune |  
 |Sneak Attack | Immune | 
@@ -75,6 +74,11 @@ Perks
 |Slash (Swords & Axes)  |  2 |
 |Pierce(Daggers)    | 2 |
 |Blunt (Maces & Hammers)   | 2 |
-|Ranged (Bows & Crossbows)  | 3 |                                                                                                                                 
-                                                                                                                                 
+|Ranged (Bows & Crossbows)  | 3 |        
+
+# Potema
+
+# The Reaper
+
+                            
                                                                                                                                  
