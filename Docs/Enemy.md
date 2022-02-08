@@ -7,6 +7,7 @@ Important note: this is WIP - Wildlander launch happened before completion.
 - Animals With exception to Sunhelm diseases is complete.
 - Automations page is complete
 - Daedra is complete
+- Unique and named page is complete - With exception to Sunhelm diseases.
 - Monsters page 80% complete, missing Solstheim creatures and Some named Hagravens
 - Undead page is a placeholder
 - Bosses page is a placeholder
