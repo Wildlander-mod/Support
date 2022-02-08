@@ -2,7 +2,16 @@
 
 ## Resistances List
 
-Important note: this is WIP - Wildlander launch happened before completion
+Important note: this is WIP - Wildlander launch happened before completion. 
+- Some diseases are missing
+- Animals With exception to Sunhelm diseases is complete.
+- Automations page is complete
+- Daedra is complete
+- Monsters page 80% complete, missing Solstheim creatures and Some named Hagravens
+- Undead page is a placeholder
+- Bosses page is a placeholder
+- Dragons page is a placeholder
+
 
 List of basic resistances used in Skyrim.
 |Type 	|	Cap|
