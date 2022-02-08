@@ -91,12 +91,13 @@ If the Enemy has protection or vunerability to Weapon materiels such as Silver o
             
 [Dragons](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDragons.MD) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim. .
               
-            Fire • Ice • Poison • Skeletal • Serpantine • Durnehviir • Aldiun • Paarthurnax • Vulthuryol        
+            Fire • Ice • Poison • Skeletal • Serpantine • Durnehviir • Paarthurnax • Vulthuryol        
             
 [Undead](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
               
             Ash Spawn • Dragon Priest • Draugr • Ghost • Hulking Draugr • Shades • Skeleton • Vampires • Gargoyles       
             
-[Unique and Named Bosses](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUnique.md) – The various Named Unique Enemies found in Requiems world
+[Unique and Named creature](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUnique.md) – The various Named Unique Enemies found in Requiems world
   
-   
+[Bosses](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyBosses.md) – The Bosses
+            Aldiun • Harkon • Miraak •  
