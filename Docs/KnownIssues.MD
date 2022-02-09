@@ -106,7 +106,7 @@ Installing this mod https://www.nexusmods.com/skyrimspecialedition/mods/62413/ a
 
 ---
 ## Launcher issues
-1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the "Before we begin" section of the install section & are logged into the steam account which owns skyrim Special edition.
+1) "Launcher locks and unlocks" - This is because you didn't install all the pre-requirements. Please make sure you download and install all 3 requirements from the "Before we begin" section of the install section & are logged into the steam account which owns skyrim Special edition. 
 2) "Launcher shows a screen which says Skyrim is running but its not - so I click the close Skyrim button then get a error message". This message shows on the launcher as soon as you click the launcher button. The message says Skyrim is STARTING/running. On slower PC's it can take several minutes before the Skyrim process actually starts. You should only hit the "Close Skyrim" button if Skyrim is visible in your task manager, but not visible in windows.
 
 ---
@@ -117,6 +117,7 @@ Installing this mod https://www.nexusmods.com/skyrimspecialedition/mods/62413/ a
 4) the Sculpting options does not make any changes.
 5) You cannot start as a none-dragonborn
 6) If you have missing 'Race' tab - this is because you started a new game during the same session as a existing save and is known to cause script issues. you should only ever create a new character in a "clean" skyrim session.
+7) picking a caster class only gives 1 spell, not 2 as originally intended.                                                                                                                                                    
 
 ---
 ## When I equip my Lantern/Backpack I get a pouch/book/holder/carpet appearing at my feet
@@ -234,6 +235,8 @@ Work around: don't take a bath in cold water ;)
 12) Dawnstar carriage driver apparently thinks that standing inside his carrige, instead of sitting on the seat is a great place to stand (his horse is disconnected too)  
 13) Sybille Stentor apparently doesnt realise the sun is fatal to vampires, and likes to go for afternoon stroll up to Castle Dour   
 14) Muiri in Markarth has purple hair.
+15) Karita in the Windpeak Inn in Dawnstar has a NSFW issue with her model. Her nipple can be seen with her default outfit.
+16) Lord Harkon goes invisible in Vampire lord form.
    
 ### Objects / Buildings
 1) Several wells are missing bucket activators
