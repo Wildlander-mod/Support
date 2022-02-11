@@ -111,4 +111,4 @@ If the Enemy has protection or vunerability to Weapon materiels such as Silver o
   
 [Bosses](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyBosses.md) – The Bosses
 
-            Aldiun • Harkon • Miraak •  
+            Ancano  • Aldiun • Harkon • Miraak • Potema • The Reaper 
