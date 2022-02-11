@@ -147,17 +147,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Stat| Value |
 |--|--|
 |Standard AR| 360 |
-
- *Resistances*
-|Type  | Protection | Weakness|
-|--|--|--|
-|Fire  | N/A | 50% |
-|Frost  | 85% | N/A |
-|Shock  | 50% | N/A |
-|Poison  | Immune | N/A |
-|Sneak Attack | Immune |  N/A|
-
-
 ---
 
 **Boss**
@@ -168,16 +157,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Stat| Value |
 |--|--|
 |Standard AR| 600 |
-
- *Resistances*
-|Type  | Protection | Weakness|
-|--|--|--|
-|Fire  | N/A | 50% |
-|Frost  | 85% | N/A |
-|Shock  | 50% | N/A |
-|Poison  | Immune | N/A |
-|Sneak Attack | Immune |  N/A|
-
 
 **Hulking**
 *Basic Stats*
