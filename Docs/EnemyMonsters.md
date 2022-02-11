@@ -850,7 +850,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |--|--|--|
 |Fire  | N/A | 25% |
 |Poison  | 60% | N/A |
-|Knock Down| Ninor | N/A |
+|Knock Down| Minor | N/A |
 
 ---
 **Giant**
@@ -877,7 +877,7 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |--|--|--|
 |Fire  | N/A | 25% |
 |Poison  | 60% | N/A |
-|Knock Down| Ninor | N/A |
+|Knock Down| Minor | N/A |
 
  *Weapon Protection*
 | Type | Tier |
