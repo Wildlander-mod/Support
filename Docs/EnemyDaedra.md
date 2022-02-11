@@ -165,7 +165,7 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased | None |
 |Can Knockdown Player| No |
 
-** Potent Thrall **
+**Potent Thrall**
 
 *Basic Stats*
 |Stat| Value |
@@ -334,7 +334,8 @@ Summon Dremora Archer - Summons the archer varient from that table below. Archer
 |Magicka| 1015 |
 |Movement Speed| 120 |
 |Melee Damage| 150 |
-|Ranged Damage|  Acid Spit, 150 pts for 1 secs,  Lurker Spray, 30 pts for 5 sec (Variations 1,2,3)  Lurker Spray, 80 pts for 5 sec (Variations 4) |
+|Ranged Damage|  Acid Spit, 150 pts for 1 secs
+|| Lurker Spray, 30 pts for 5 sec (Variations 1,2,3), Lurker Spray, 80 pts for 5 sec (Variations 4)  - Lurker spary is a Channeled ability, and therefore can stack if you dont MOVE.|
 |Magical Damage| None |
 |Standard AR| 500 |
 |Magical AR| 40% |
@@ -350,6 +351,7 @@ Summon Dremora Archer - Summons the archer varient from that table below. Archer
 |Blunt (Maces & Hammers)   | 4 |
 |Ranged (Bows & Crossbows)  | 4 |
 
+ *Resistances*
 |Type  | Protection |
 |--|--|
 |Frost  | 80% |  
