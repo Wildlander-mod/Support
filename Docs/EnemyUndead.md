@@ -107,7 +107,7 @@ In Requiem - these guys are various shades of "utter bastard"
 
 Almost always found in the ruins of the ancient nords, these creatures were once followers of the dragon cults, being lead by mighty sorcerers also known as dragon priests. Basically, Draugrs share many characteristics with the common zombie found in many other provinces. They're very durable, as they no longer possess vulnerable organs and such; only severe dismemberment will stop them from functioning any longer, most likely because the magic animating them cannot be sustained after a certain degree of mutilation - therefore, the best way to deal with them in combat is using axes or swords, as blunt weapons don't work well on them. Also, non-magical bows and arrows will be of no use against this enemy - arrows are too small to cause dismemberment and also won't damage any organs, therefore, you could put a hundred arrows into one draugr without him stopping his furious charge. However, projectiles made from silver are still capable of dealing considerable amounts of damage to them... They're also highly resistant against frost and shock, though the latter shows a greater effect, probably because the lightning causes the disruption of the magic field that maintains their undeath, however, fire will cause overall damage to their rotten bodies, causing them to be quickly consumed by the flames - the best option to deal with them, besides certain spells of the school of restoration. Another strategy to deal with these creatures is to lure them into the traps that can be found in the ruins in which they reside, as they do not seem to possess enough intelligence to recognize them as a potential threat.
 
-**Shared **
+### ** Shared **
 
 *Materiel Protection*
 | Type | Damage change |
@@ -124,7 +124,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Ranged (Bows & Crossbows)  | Tier 3 |
 
 
-**Physical** 
+**Melee Resistances** 
 
  *Resistances*
 |Type  | Protection | Weakness|
@@ -137,7 +137,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 
 ---
 
-**Caster** 
+**Caster Resistances** 
 
 
 ---
@@ -179,6 +179,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 ## Gargoyles
 When stationary, gargoyles disguise themselves as statues. They can often be found beside regular statues, helping them blend in. While posing as a statue, they are immune to harm and cannot be killed. If they do not immediately burst from the rocks, magic (such as Soul Trap) can be used to distinguish a stationary gargoyle from a regular statue. 
 
+### Shared
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -189,7 +190,6 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 | Diseased | No |
 |Can Knockdown Player| Power Attacks Stagger |
 
-**Shared**
 |Type  | Protection |
 |--|--|
 |Poison  | Immune |  
@@ -203,7 +203,7 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 |Pierce(Daggers)    | 3 |
 |Ranged (Bows & Crossbows)  | 4 |
 
-*Green*
+### *Green*
 
 *Basic Stats*
 |Stat| Value |
@@ -217,7 +217,7 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 ||Power Attack  - Absorb 5 points of health from the target & a 0.75 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks  |
 
-*Grey*
+### *Grey*
 
 *Basic Stats*
 |Stat| Value |
@@ -231,7 +231,7 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 ||Power Attack  - Absorb 12 points of health from the target & a 1 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks  |
 
-*Albino*
+### *Albino*
 
 *Basic Stats*
 |Stat| Value |
@@ -270,7 +270,8 @@ Ghosts are spirits that haunt this world for whatever reason. One should note th
 
 Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meridia's Temple on Mount Kilkreath. 
 
-**Shared **
+### **Shared **
+
  *Weapon Protection*
 | Type | Bonus Armor |
 |--|--|
@@ -284,7 +285,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
-**Corrupted Shade** 
+### **Corrupted Shade** 
 
 *Basic Stats*
 |Stat| Value |
@@ -304,7 +305,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 |Can Knockdown Player| |
 
 ---
-**Malkoran's Shade**
+### **Malkoran's Shade**
 
 *Basic Stats*
 |Stat| Value |
@@ -431,7 +432,7 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 
 Vampires are known to reside throughout Tamriel and Skyrim is no exception. The most renowned local clan bears the name "Volkihar", though not much is known about their kin. As all vampires, they suffer much less from non-bladed weapons and are somewhat resistant to arrows. On the other hand, they do fear fire, for it causes severe damage to their bodies. Sunlight will also pose a threat to them, though it's not clear if they suffer as badly as other vampires from it. The real threat they pose, however, comes from their experience, as most vampires are very, very old - old enough to have studied probably all of the arcane schools to the very limits of Mundus or even beyond. Therefore, they almost all are foes incredibly skilled and thus, incredibly dangerous. Most importantly, one should not even think about using a holy symbol or garlic as protection, for the vampires will just laugh up their sleeve while tearing such a fool apart...
 
-**Standard** 
+### **Standard** 
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -449,7 +450,7 @@ Vampires are known to reside throughout Tamriel and Skyrim is no exception. The 
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Master Vampire ** 
+### **Ebony** 
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -467,8 +468,24 @@ Vampires are known to reside throughout Tamriel and Skyrim is no exception. The 
 | Diseased |  |
 |Can Knockdown Player| |
 
+### Lord
 
-
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration| Yes  |
+| Diseased |  |
+|Can Knockdown Player| |
 
 
 
