@@ -97,7 +97,7 @@ If the Enemy has protection or vunerability to Weapon materiels such as Silver o
             
 [Daedra](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDaedra.md) – Daedra are creatures from the planes of Oblivion.
               
-            Ash Guardian • Flame Atronach • Frost Atronach • Lurker • Seeker • Storm Atronach • Soultorn Entity • Dremora
+            Ash Guardian • Flame Atronach • Frost Atronach • Lurker • Seeker • Storm Atronach • The Slighted • Dremora
             
 [Dragons](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDragons.MD) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim. .
               
