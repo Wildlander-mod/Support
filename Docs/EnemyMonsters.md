@@ -174,7 +174,7 @@ Falmer's armor like the players depends on what they are wearing.
 |Standard AR| 60 from helmet + 84 from shield (when blocking) |
 |AP|  |
 |Health Regeneration| Can carry a Potion of Restore Health - various strengths |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| Falmer Poison Paralyses for 7 seconds |
 
  *Resistances*
@@ -200,7 +200,7 @@ Falmer spellswords mix the martial attacks of their melee cousins and the magica
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None |
-| Diseased | None |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| Falmer Poison Paralyses for 7 seconds  |
 
 ### Archers
@@ -218,7 +218,7 @@ Some Falmer prefer to stay at a distance and assault you with missile attacks. T
 |Standard AR| 60 |
 |AP| 50 |
 |Health Regeneration| No |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| Falmer Poison Paralyses for 7 seconds  |
 
  *Resistances*
@@ -249,7 +249,7 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Magical AR| 30% |
 |AP| None |
 |Health Regeneration| No |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| Venomous Blast can paralyse |
 
  *Resistances*
@@ -282,7 +282,7 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Standard AR| 60 from helmet + 84 from shield (when blocking) |
 |AP| None |
 |Health Regeneration| Can carry a Potion of Restore Health - various strengths |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| Falmer Poison Paralyses for 7 seconds |
 
  *Resistances*
@@ -310,7 +310,7 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None |
-| Diseased | None |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| Falmer Poison Paralyses for 7 seconds |
 
  *Resistances*
@@ -320,9 +320,6 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Poison  | 75% | N/A |
 
 ### Frozen Vampire
-
-
-
 
 #### Melee
 
@@ -340,7 +337,7 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| No |
 
 #### Shaman
@@ -363,7 +360,7 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| Fast Heal - restores 20 HP and stamina to self.   |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| No |
 
 ### Feral
@@ -382,7 +379,7 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | No |
+| Diseased | Yes - Damp worms |
 |Can Knockdown Player| No |
 
 *Shared*
@@ -483,7 +480,7 @@ Hagravens seem to be part woman and part raven. Generally, they're creatures tha
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes - Can cast both Fast Healing - Heals the caster by 25 points.  Heal Self (Rank III) -  Heals the caster by 40 points.  |
-| Diseased | Brain Rot |
+| Diseased | Yes- Brain Rot |
 |Can Knockdown Player| No |
 
 
