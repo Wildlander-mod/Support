@@ -180,8 +180,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-
-**Alduin**
+**Vulthuryol**
 
 *Basic Stats*
 |Stat| Value |
@@ -200,7 +199,7 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-**Vulthuryol**
+
 
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
