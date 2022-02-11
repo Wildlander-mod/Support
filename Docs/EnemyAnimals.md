@@ -42,7 +42,7 @@ Domesticated animals are usually found in camps, villages, cities or occasionall
 |Magical AR| None |
 |Armor Penetration| None |
 |Health Regeneration| None |
-| Diseased | None |
+| Diseased | Yes - Chills |
 |Can Knockdown Player| No|
 
 **Cow**
@@ -737,7 +737,7 @@ The snow ones like jumpscares - you have been warned.
 |Magical AR| none |
 |AP| 25 |
 |Health Regeneration| None |
-| Diseased | Yes - Witbane |
+| Diseased | Yes - Witbane or Wither |
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
@@ -764,7 +764,7 @@ The snow ones like jumpscares - you have been warned.
 |Magical AR| None |
 |AP| 25 |
 |Health Regeneration| None  |
-| Diseased | Yes - Witbane  |
+| Diseased | Yes - Witbane or Wither  |
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
@@ -797,7 +797,7 @@ The snow ones like jumpscares - you have been warned.
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None  |
-| Diseased | Yes - Witbane  |
+| Diseased | Yes - Witbane or Wither  |
 |Can Knockdown Player| Yes |
 
  *Weapon Protection*
