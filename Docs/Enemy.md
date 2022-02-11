@@ -36,6 +36,23 @@ Melee attacks and ranged attacks can penetrate armor, which reduces the effectiv
 
 - In ranged combat the ammunition used plays a key role for armor penetration. 
 
+## Diseases
+
+|Name|What it does|Rank 1| Rank 2 | Rank 3 | Carriers
+|--|--|--|--|--|--|
+|Ataxia| Picking locks and picking pockets is {mag}% harder.| 10 |25|50| Skeevers
+|Bone Break Fever| Stamina is reduced by {mag} points.| 10 |25|50|Bears
+|Brain Rot| Magicka is reduced by {mag} points| 10 |25|50|Hagravens
+|Chills|Health regeneration is reduced by {mag}% | 10 |25|50|Frostbite Spiders, Dogs and Deathhounds
+|Damp worms|Speed is reduced by {mag}%. | 10 |25|50|Falmer
+|Droops|Melee weapons are {mag}% less effective.| 10 |25|50|Ash Hoppers & Scribs
+|Feeble Limb|Blocking is {mag} less effective.| 10 |25|50|Wolves & Bears
+|Rattles|Stamina regeneration is reduced by {mag}%. | 10 |25|50|Chaurus
+|Rock Joint|You are {mag}% less effective with melee weapons| 10 |25|50|Foxes & Wolves
+|Shakes|Archery is {mag}% less effective. | 10 |25|50|Skeevers
+|Wit Bane|Magicka regeneration is reduced by {mag}%.| 10 |25|50|Sabrecats
+|Wither|Armor rating reduced by {mag} points. | 50 | 100 |150|Sabrecats
+
 
  
 ## Damage Types
