@@ -40,6 +40,7 @@ Melee attacks and ranged attacks can penetrate armor, which reduces the effectiv
 |Name|What it does|Rank 1| Rank 2 | Rank 3 | Carriers
 |--|--|--|--|--|--|
 |Ataxia| Picking locks and picking pockets is {mag}% harder.| 10 |25|50| Skeevers
+|Black Heart Blight | Carry Weight  is reduced by {mag} points.| 10 | 10 | 10 | Ash Spawn
 |Bone Break Fever| Stamina is reduced by {mag} points.| 10 |25|50|Bears
 |Brain Rot| Magicka is reduced by {mag} points| 10 |25|50|Hagravens
 |Chills|Health regeneration is reduced by {mag}% | 10 |25|50|Frostbite Spiders, Dogs and Deathhounds
