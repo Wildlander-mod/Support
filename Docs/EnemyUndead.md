@@ -238,7 +238,10 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |--|--|
 |Standard AR| 600 |
 
+--- 
+
 **Hulking**
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
