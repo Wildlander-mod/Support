@@ -475,7 +475,8 @@ Hagravens seem to be part woman and part raven. Generally, they're creatures tha
 |Movement Speed| 100 |
 |Melee Damage| 40 |
 |Ranged Damage| None  |
-|Magical Damage| Firebolt - The caster evokes a blast of fire that deals 25 points of damage and staggers. Targets on fire take extra damage. Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
+|Magical Damage| Firebolt - The caster evokes a blast of fire that deals 25 points of damage and staggers. Targets on fire take extra damage. |
+| | Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
 |Standard AR| None  |
 |Magical AR| None |
 |AP| None |
@@ -488,42 +489,63 @@ Hagravens seem to be part woman and part raven. Generally, they're creatures tha
 They can detect steath players So Sneak attacks are impossible to perform
 
 ---
-**Karthspire's Hagraven** dunKarthspireHagraven [NPC_:0010196A]
+**Karthspire's Hagraven**
 
----
-**Glenmoril Witch**
-C04GlenmorilWitch "Glenmoril Witch" [NPC_:000A350A]
+Same as standard except for spells.
 
----
-**Moira**
-DA14Hagraven "Moira" [NPC_:0001CB33]
-
----
-**Petra**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Magical Damage| Frostbite - The caster evokes a blast of cold that freezes everyone inside for 20 points per second, draining both health and stamina and applying a 20% slow. When the spell is released, the cold slowly ebbs away. Casting multiple Frostbite at the same target will not increase the applied damage.|
+| | IceSpike - A spike of ice that does 15 points of frost damage to Health and Stamina. a 30% slow for 3 seconds |
+|Magical AR| Lesser Ward |
+|Health Regeneration| Yes - Can cast Fast Healing - Heals the caster by 25 points. a 0.5 Stagger  |
 
 ---
 **Lucerne**
-DA05Lucerne "Lucerne" [NPC_:0002ABBE]
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 301 |
+|Magicka| 150 |
+|Stamina| 50 |
+|Movement Speed| 100 |
+|Melee Damage| 40 |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None  |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None |
+| Diseased | Yes- Brain Rot |
+|Can Knockdown Player| No |
+
+**Additional Perks**
+They can detect steath players So Sneak attacks are impossible to perform
 
 ---
-**Drascua**
-Drascua "Drascua" [NPC_:000240D7]
-
----
-**Melka**
-dunBlindcliffHagraven "Melka" [NPC_:00039B3E]
-
----
-**Ettiene**
+**Ettiene / Fallaise / Isobel**
 DLC2dunAltarOfThrondEttiene "Ettiene" [NPC_:040369ED]
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 419 |
+|Magicka| 852 |
+|Stamina| 150 |
+|Movement Speed| 100 |
+|Melee Damage| 40 |
+|Ranged Damage| None  |
+|Magical Damage| Firebolt - The caster evokes a blast of fire that deals 25 points of damage and staggers. Targets on fire take extra damage. |
+| | Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
+|Standard AR| 150  |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes - Can cast  Heal Self (Rank III) -  Heals the caster by 40 points.  |
+| Diseased | Yes- Brain Rot |
+|Can Knockdown Player| No |
 
---- 
-**Fallaise** 
-DLC2dunAltarOfThrondFallaise "Fallaise" [NPC_:040369EE]
-
----
-**Isobel** 
-DLC2dunAltarOfThrondIsobel "Isobel" [NPC_:040369EC]
+**Additional Perks**
+They can detect steath players So Sneak attacks are impossible to perform
 
 ## Ice Wraith
 
@@ -684,19 +706,125 @@ DLC2dunAltarOfThrondIsobel "Isobel" [NPC_:040369EC]
 ### Standard
 **Melee**
 
+*Size Variations*
+|Stat| Level 18 | Level 21| Level 24|  
+|--|--|--|--|
+|Health | 231 | 240 | 249|
+|Stamina| 284 | 290 | 296|
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Magicka| 0 |
+|Movement Speed| 100 |
+|Melee Damage| 35 unarmed, 168 from spear |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 300 |
+|Magical AR| None |
+|AP| 55 |
+|Health Regeneration| None  |
+| Diseased | No  |
+|Can Knockdown Player| No |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Ranged (Bows & Crossbows)  | 1 |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 35 |  
+
 **Missle**
+
+
+*Size Variations*
+|Stat| Level 18 | Level 21| Level 24|  
+|--|--|--|--|
+|Health | 231 | 240 | 249|
+|Stamina| 284 | 290 | 296|
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Magicka| 0 |
+|Movement Speed| 100 |
+|Melee Damage| 35 unarmed, 65 from Spear thrower |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 300 |
+|Magical AR| None |
+|AP| 55 |
+|Health Regeneration| None  |
+| Diseased | No  |
+|Can Knockdown Player| No |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Ranged (Bows & Crossbows)  | 1 |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 35 |  
 
 ### Mounted
 
-## Thirsk Mead Hall Riekling
-### Standard
-**Melee**
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 381 |
+|Magicka| 0 |
+|Stamina| 284 |
+|Movement Speed| 100 |
+|Melee Damage| 35 unarmed, 150 from Spear  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 300 |
+|Magical AR| None |
+|AP| 55 |
+|Health Regeneration| None  |
+| Diseased | No  |
+|Can Knockdown Player| No |
 
-**Missle**
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Ranged (Bows & Crossbows)  | 1 |
 
-### Mounted
+|Type  | Protection |
+|--|--|
+|Frost  | 35 |  
+|Paralysis  | Immune |  
 
-### Chief
+## Thirsk Mead Hall Chief
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 249 |
+|Magicka| 0 |
+|Stamina| 296 |
+|Movement Speed| 100 |
+|Melee Damage| 35 unarmed, 120 from Spear  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 300 |
+|Magical AR| None |
+|AP| 55 |
+|Health Regeneration| None  |
+| Diseased | No  |
+|Can Knockdown Player| No |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Ranged (Bows & Crossbows)  | 1 |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 35 |  
 
 ## Spiders
 
