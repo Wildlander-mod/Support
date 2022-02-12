@@ -148,6 +148,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - killmove Camera's are still being triggered and should not be.   
 - Bookshelves can be used to duplicate items placed upon them
 - ENB when raining at night looks overly bright.
+- Asking a enchanter to recharge your weapon will take the gold, but not recharge.   
 
 
 ---
@@ -196,6 +197,7 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 
 ### Properties Without Pestering
 - Hjerim is not available for purchase after completing "blood on the ice" until you are Thane.
+- Honeyside pricing is incorrect.
 - You need to be carrying the full price of the house(before 'thane' deductions), even after completing the 'thane' quest (E.G if a house costs 35,000 before deductions, this is how much gold you need to be carrying, even though the house now only costs 20,000)
 
 ### Wearable lanterns
