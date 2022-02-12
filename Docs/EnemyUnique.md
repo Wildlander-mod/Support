@@ -415,7 +415,7 @@
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| None |
-| Diseased | None |
+| Diseased | Yes - Chills |
 |Can Knockdown Player|  Yes - Spider poison Paralysis |
 
  *Weapon Protection*
