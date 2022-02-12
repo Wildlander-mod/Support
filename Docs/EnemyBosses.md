@@ -30,7 +30,7 @@ Perks
 - 2 handed weapon damage reduced vby 45%
 - Will take 15% less damage from Summoned creatures
 - Target is 5% weaker to poison for 10 seconds.
-- Melee attacks fo 150% nmore damage   
+- Melee attacks fo 150% more damage   
 - will absorb 10% of each spell in magika   
 - 150% weapons speed                                                                                                                          
                                                                                                                                  
