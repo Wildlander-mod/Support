@@ -2,22 +2,102 @@
 
 ## Ash Spawn 
 
+###Shared
+
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Standard (Arrows)   | 10% damage |
+
+ *Weapon Protection*
+| Type | Change|
+|--|--|
+|Pierce(Daggers)           | 80% Damage reduction |
+|Blunt (Maces & Hammers)   | 50% Damage reduction |
+|Ranged (Bows & Crossbows)  | Tier 3 |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | N/A | -30 |
+|Fire | Immune | N/A |
+|Poison  | Immune | N/A |
+|Shock  | 50 | N/A |
+|Sneak Attack | Immune |  N/A |
+
+### 1 hander
+*Variations*
+|Stat| Level 55 |Level 60 |Level 70 |
+|--|--|--|--|
+|Health| 550 | 700 | 850 |
+|Stamina| 10005 |10005 | 10300|
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Magicka| 300 |
+|Movement Speed| 100 |
+|Melee Damage| 55 unarmed, 78 from Axe |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage| AshBolt - Ash and embers cause 50 points of damage. |
+|Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| Yes  100/s when on Fire |
+| Diseased | yes - Black Heart Blight |
+|Can Knockdown Player| No |
+
+### 2 Hander
+
+|Stat| Level 55 |Level 59 |Level 60 |
+|--|--|--|--|
+|Health| 684 | 995 | 790 |
+|Stamina| 10094 | 10102 | 10098 |
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Magicka| 300 |
+|Movement Speed| 100 |
+|Melee Damage| 55 unarmed, 132 from BattleAxe |
+|Ranged Damage| None  |
+|Magical Damage| None |
+|Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes  100/s when on Fire |
+| Diseased | yes - Black Heart Blight |
+|Can Knockdown Player| No |
+
+### Unarmed
+*Variations*
+|Stat| Level 55 |Level 60 |Level 70 |
+|--|--|--|--|
+|Health| 663 | 867 | 972 |
+|Magicka| 564 |568|572| 
+|Stamina| 10005 |10005 | 10300|
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Magicka| 300 |
+|Movement Speed| 100 |
+|Melee Damage| 55 unarmed |
+|Ranged Damage| None  |
+|Magical Damage| AshBolt - Ash and embers cause 50 points of damage. |
+|Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| Yes  100/s when on Fire |
+| Diseased | yes - Black Heart Blight |
+|Can Knockdown Player| No |
+
 
 ## Death Hound
 
