@@ -115,7 +115,7 @@
 |Magical AR| None |
 |AP| None |
 |Health Regeneration| Yes - 1.5/s |
-| Diseased | None |
+| Diseased | Yes - Chills |
 |Can Knockdown Player| None |
 
 *Materiel Protection*
@@ -263,9 +263,11 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 *Basic Stats*
 |Stat| Value |
 |--|--|
+|Magicka| 0 |
 |Movement Speed| 120 |
 |Standard AR| 720 |
 |Magical AR| 75 |
+|Ranged Damage| None |
 |AP| 50 |
 | Diseased | No |
 |Can Knockdown Player| Power Attacks Stagger |
@@ -288,11 +290,10 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Melee Damage|  |
-|Ranged Damage|  |
+|Health| 913  |
+|Stamina| 107 |
+|Melee Damage| 50 |
+|Ranged Damage| None |
 |Magical Damage| Standard Attack -  Absorb 5 points of health from the target|
 ||Power Attack  - Absorb 5 points of health from the target & a 0.75 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks  |
@@ -302,11 +303,9 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Melee Damage|  |
-|Ranged Damage|  |
+|Health| 1013 |
+|Stamina| 157 |
+|Melee Damage| 50 |
 |Magical Damage| Standard Attack -  Absorb 12 points of health from the target|
 ||Power Attack  - Absorb 12 points of health from the target & a 1 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks  |
@@ -316,11 +315,9 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Melee Damage|  |
-|Ranged Damage|  |
+|Health| 963 |
+|Stamina| 232 |
+|Melee Damage| 70 |
 |Magical Damage| Standard Attack -  Absorb 16 points of health from the target|
 ||Power Attack  - Absorb 16 points of health from the target & a 1 magnitude stagger |
 |Health Regeneration| yes - Absorbs health from physical attacks |
