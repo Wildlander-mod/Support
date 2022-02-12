@@ -138,6 +138,7 @@ They are typically buried in one of the many ancient tombs and temples dotted al
 In Requiem - these guys are various shades of "utter bastard"
 
 **Krosis** 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
