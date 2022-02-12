@@ -1029,241 +1029,55 @@ These spiders are far more dangerous than those that dwell in the dungeons of Hi
 |Can Knockdown Player| Paralyzing Poison - A poison that burns like fire, paralyzing those unfortunate enough to make contact with it for 15 seconds. |
 
 **Flame Cloaked Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+Same as Albino.
+
+Has Flame cloak Spell 20/s in melee Range. Immune to its element.
 
 **Frost Cloaked Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+
+Same as Albino.
+
+Has Frost cloak Spell 20/s in melee Range. Immune to its element.
 
 **Poison Cloaked Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+
+Same as Albino.
+
+Has Poison cloak Spell 20/s in melee Range. Immune to its element.
 
 **Shock Cloaked Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+
+Same as Albino.
+
+Has Shock cloak Spell 20/s in melee Range. Immune to its element.
 
 **Jumping Frost Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+
+Same as Albino.
+
+Jumps and Explodes for 96 Frost Damage. Immune to its element.
 
 **Jumping Flame Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+
+Same as Albino.
+
+Jumps and Explodes for 96 Fire Damage. Immune to its element.
 
 **Jumping Poison Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+
+Same as Albino.
+
+Jumps and Explodes for 96 Poison Damage. Immune to its element.
+
 
 **Jumping Shock Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
 
-**Exploding Flame Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+Same as Albino.
 
-**Exploding Frost Spider**
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-**Exploding Poison Spider**
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
-
-**Exploding Shock Spider**
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+Jumps and Explodes for 96 Shock Damage. Immune to its element.
 
 **Oil Spider**
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+Same as Albino, not hostile, leaves a tail of flamanble oil behind itself.
 
   
 ## Spriggan
