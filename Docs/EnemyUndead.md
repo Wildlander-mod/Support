@@ -187,7 +187,7 @@ In Requiem - these guys are various shades of "utter bastard"
 
 Almost always found in the ruins of the ancient nords, these creatures were once followers of the dragon cults, being lead by mighty sorcerers also known as dragon priests. Basically, Draugrs share many characteristics with the common zombie found in many other provinces. They're very durable, as they no longer possess vulnerable organs and such; only severe dismemberment will stop them from functioning any longer, most likely because the magic animating them cannot be sustained after a certain degree of mutilation - therefore, the best way to deal with them in combat is using axes or swords, as blunt weapons don't work well on them. Also, non-magical bows and arrows will be of no use against this enemy - arrows are too small to cause dismemberment and also won't damage any organs, therefore, you could put a hundred arrows into one draugr without him stopping his furious charge. However, projectiles made from silver are still capable of dealing considerable amounts of damage to them... They're also highly resistant against frost and shock, though the latter shows a greater effect, probably because the lightning causes the disruption of the magic field that maintains their undeath, however, fire will cause overall damage to their rotten bodies, causing them to be quickly consumed by the flames - the best option to deal with them, besides certain spells of the school of restoration. Another strategy to deal with these creatures is to lure them into the traps that can be found in the ruins in which they reside, as they do not seem to possess enough intelligence to recognize them as a potential threat.
 
-### ** Shared **
+### Shared
 
 *Materiel Protection*
 | Type | Damage change |
@@ -242,19 +242,30 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 600 |
+|Magicka| 0 |
+|Stamina| 10400 |
+|Movement Speed| 100 |
+|Melee Damage| 20 Unarmed, 48 if using Sword, 54 in using Axe |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
+|Standard AR| None, 153 if using shield |
+|Magical AR| None |
+|AP| 25 |
+|Health Regeneration| No  |
 | Diseased | No |
-|Can Knockdown Player| |
+|Can Knockdown Player|  No|
+
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Fire  | N/A | 50% |
+|Frost  | 85% | N/A |
+|Shock  | 50% | N/A |
+|Poison  | Immune | N/A |
+|Sneak Attack | Immune |  N/A|
+
 
 ## Gargoyles
 When stationary, gargoyles disguise themselves as statues. They can often be found beside regular statues, helping them blend in. While posing as a statue, they are immune to harm and cannot be killed. If they do not immediately burst from the rocks, magic (such as Soul Trap) can be used to distinguish a stationary gargoyle from a regular statue. 
