@@ -137,7 +137,41 @@ They are typically buried in one of the many ancient tombs and temples dotted al
 
 In Requiem - these guys are various shades of "utter bastard"
 
-**Standard** 
+**Krosis** 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1500 |
+|Magicka| 6300 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| None |
+|Ranged Damage| Staff of Fireballs - The caster evokes a flaming projectile that deals 80 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
+|Magical Damage|  Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.
+|      |Ice Storm - The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
+|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. Can control two at once.|
+|Standard AR| None |
+|Magical AR| 10 and 30% absorb|
+|AP| None |
+|Health Regeneration| Yes - 80/s  |
+|Magic Regeneration| Yes - 50/s  |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+
+|Type  | Protection |
+|--|--|
+|Frost  | 90 |  
+|Fire | 50 |  
+|Shock | 85 |  
+|Poison  | Immune|  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune | 
+|Knock Down| | 
+|Life Drain| |  
+|Unrelenting Force| Immune |
 
 ---
 **Hevnoraak** 
