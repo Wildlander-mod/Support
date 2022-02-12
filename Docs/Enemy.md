@@ -3,10 +3,9 @@
 ## Resistances List
 
 Important note: this is WIP - Wildlander launch happened before completion. 
-- Some diseases are missing
-- Animals With exception to Sunhelm diseases is complete.
+- Animals Page is complete.
 - Automations page is complete
-- Daedra is complete
+- Daedra Page is complete
 - Unique and named page is complete - With exception to Sunhelm diseases.
 - Monsters page 80% complete, missing Solstheim creatures and Some named Hagravens
 - Undead page is a placeholder
