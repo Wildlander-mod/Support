@@ -1,4 +1,29 @@
 # Ancano
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1722 |
+|Magicka| 2013 |
+|Stamina| 450 |
+|Movement Speed| 97 |
+|Melee Damage| 5 |
+|Ranged Damage| None  |
+|Magical Damage| Thunderbolt A thunderbolt that does 65 points of shock damage to Health and half that to Magicka. 25% chance of applying a stagger|
+|Magical Cloak| Lightning Cloak  For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. Ancano gains 30% Shock resists|
+|Magical Summmon| Summon Storm Thrall - he caster summons an exceptionally strong Storm Atronach that brings the devastating havoc of Oblivion's storms upon its foes.  |
+|Standard AR| None |
+|Magical AR| 945 - Invunerable if eye is open |
+||Mage Armor on Self (Rank IV) - Ancano gains 120 armor for 60 seconds|
+||Greater Ward - The caster creates a protective shield that negates a great amount of physical damage and negates up to 80 points of spell damage or effects. Also renders the caster immune to most paralyzing and life drain effects.|
+|AP| None |
+|Health Regeneration| Healing Hands (Rank III) Heals everyone close to the caster by 100 points. Restores 100 Stamina, Does not affect his summon. |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Shock | 25 |  
 
 # Aldiun
 
