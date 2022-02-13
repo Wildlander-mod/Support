@@ -168,9 +168,23 @@ In Requiem - these guys are various shades of "utter bastard"
 
 **Shock Priest**
 
+|Magical Damage|  Chain Lightning 
+|      | Thunderbolt
+|Cloak | Lightning Cloak |
+|Summmon| Summon Storm Atronach - summons a Storm Atronach for 60 seconds. |
+
 **Frost Priest**
+|Magical Damage|   Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.|
+|      |Ice Storm -  The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
+|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
 
 **Fire Priest**
+
+|Magical Damage|  Fireball 
+|      | Incinerate
+|Cloak | Flame Cloak|
+|Summmon| Summon Fire Atronach - summons a Storm Atronach for 60 seconds. |
 
 **Ghostly Priest**
 
@@ -186,21 +200,16 @@ In Requiem - these guys are various shades of "utter bastard"
 |Unrelenting Force| Immune |
 
 **Krosis** 
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Ranged Damage| Staff of Fireballs - The caster evokes a flaming projectile that deals 80 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
-|Magical Damage|  Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.
-|      |Ice Storm - The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
-|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
-|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. Can control two at once.|
+A standard Frost Varient Dragon priest.
 
 ---
 **Hevnoraak** 
+A Storm Varient Dragon priest.
 
 ---
 **Morokei** 
+
+A Stornger Storm Varient Dragon priest.
 
 *Basic Stats*
 |Stat| Value |
@@ -209,58 +218,62 @@ In Requiem - these guys are various shades of "utter bastard"
 |Magicka| 7500 |
 |Stamina| 10000 |
 |Ranged Damage| None  |
-|Magical Damage|  |
 
 ---
 **Nahkriin** 
 
 ---
-**Otar** 
+**Otar The Mad** 
+A Storm Varient Dragon priest.
 
 ---
 **Rahgot** 
+A Fire Varient Dragon priest.
 
 ---
 **Vokun** 
+A Fire Varient Dragon priest.
 
 ---
 **Volsung** 
-
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage|   Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.|
-|      |Ice Storm -  The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
-|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
-|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
-
----
-**Konahrik** 
+A Frost Varient Dragon priest.
 
 ---
 **Ahzidal** 
+REQ_Alteration4_MageArmorOnSelf_LeftHand "Mage Armor on Self (Rank IV)" [SPEL:00072318]
+REQ_Restoration4_ArcaneWard_LeftHand "Greater Ward" [SPEL:0007231B]
+REQ_Destruction3_FlameCloak_LeftHand "Flame Cloak" [SPEL:000DE511]
+REQ_Destruction4_Incinerate_RightHand "Incinerate" [SPEL:0010F7F6]
+WallOfFlamesLeftHand "Wall of Flames" [SPEL:0401DBD1]
+REQ_Ability_NaturalArmor150 [SPEL:81032D91]
+FZR_FlameThrallLeftHand "Summon Flame Thrall" [SPEL:8419A9DD]
+REQ_Conjuration4_BanishDaedra_LeftHand "Expel Daedra" [SPEL:000F95EF]
 
 ---
 **Dukaan** 
 
+REQ_Destruction3_FrostCloak_LeftHand "Frost Cloak" [SPEL:000400AC]
+REQ_Alteration4_MageArmorOnSelf_LeftHand "Mage Armor on Self (Rank IV)" [SPEL:00072318]
+REQ_Restoration4_ArcaneWard_LeftHand "Greater Ward" [SPEL:0007231B]
+REQ_Destruction4_WallOfFrost_LeftHand "Wall of Frost" [SPEL:0010F142]
+REQ_Conjuration4_BanishDaedra_LeftHand "Expel Daedra" [SPEL:000F95EF]
+REQ_Destruction4_WallOfFrost_LeftHand "Wall of Frost" [SPEL:0010F142]
+REQ_Destruction4_IcySpear_RightHand "Icy Spear" [SPEL:0010F7F7]
+REQ_Ability_NaturalArmor150 [SPEL:81032D91]
+FZR_FrostThrallLeftHand "Summon Frost Thrall" [SPEL:8419FB4C]
 ---
 **Zahkriisos** 
-
+REQ_Destruction3_LightningCloak_LeftHand "Lightning Cloak" [SPEL:000400AD]
+REQ_Restoration4_ArcaneWard_LeftHand "Greater Ward" [SPEL:0007231B]
+REQ_Conjuration4_BanishDaedra_LeftHand "Expel Daedra" [SPEL:000F95EF]
+REQ_Destruction4_Thunderbolt_RightHand "Thunderbolt" [SPEL:0010F7F8]
+DLC2ConjureSeekerHighLeftHand "Summon Seeker" [SPEL:04030CE0]
+FZR_WallOfStormsLeftHand "Wall of Storms" [SPEL:8419A9DE]
+FZR_StormThrallLeftHand "Summon Storm Thrall" [SPEL:8419FB4B]
 ---
 
 **Jsashe** 
+A Storm Varient Dragon priest.
 
 --- 
 
@@ -302,7 +315,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Sneak Attack | Immune |  N/A|
 
 ---
-**Armored** 
+**Armored (No Helmet)** 
 
 *Basic Stats*
 |Stat| Value |
@@ -310,12 +323,13 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Standard AR| 360 |
 ---
 
-**Armored (Horned Helmet) **
+**Armored (Horned Helmet)**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
 |Standard AR| 600 |
+|Shout| Unrelenting Force |
 
 --- 
 
