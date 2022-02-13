@@ -292,8 +292,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 
 ### Standard 
 
-**Melee Resistances** 
-
  *Resistances*
 |Type  | Protection | Weakness|
 |--|--|--|
@@ -302,11 +300,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Shock  | 50% | N/A |
 |Poison  | Immune | N/A |
 |Sneak Attack | Immune |  N/A|
-
----
-
-**Caster Resistances** 
-
 
 ---
 **Armored** 
@@ -434,6 +427,36 @@ Weapons
 
 ## Spectral Warhound
 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 427 |
+|Magicka| 0 |
+|Stamina| 10078 |
+|Movement Speed| 125 |
+|Melee Damage| 45 |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None has a 33% weakness to magic |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased | None |
+|Can Knockdown Player| No |
+
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Standard (Melee)    | 10% damage |
+|Standard (Arrows)   | 10% damage |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 95|  
+|Poison  | immune |  
+|Paralysis  |immune |  
+|Sneak Attack | immune| 
 
 ## Gargoyles
 When stationary, gargoyles disguise themselves as statues. They can often be found beside regular statues, helping them blend in. While posing as a statue, they are immune to harm and cannot be killed. If they do not immediately burst from the rocks, magic (such as Soul Trap) can be used to distinguish a stationary gargoyle from a regular statue. 
@@ -521,6 +544,12 @@ Ghosts are spirits that haunt this world for whatever reason. One should note th
 |Health Regeneration| Yes  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Standard (Melee)    | 10% damage |
+|Standard (Arrows)   | 10% damage |
 
 ## Shades
 
