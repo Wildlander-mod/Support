@@ -195,6 +195,26 @@ In Requiem - these guys are various shades of "utter bastard"
 ---
 **Volsung** 
 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage|   Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.|
+|      |Ice Storm -  The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
+|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
 ---
 **Konahrik** 
 
