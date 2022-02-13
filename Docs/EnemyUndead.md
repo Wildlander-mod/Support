@@ -137,10 +137,7 @@ They are typically buried in one of the many ancient tombs and temples dotted al
 
 In Requiem - these guys are various shades of "utter bastard"
 
-**Standard**
-
-
-**Krosis** 
+**Shared **
 
 *Basic Stats*
 |Stat| Value |
@@ -149,13 +146,8 @@ In Requiem - these guys are various shades of "utter bastard"
 |Magicka| 6300 |
 |Stamina| 10000 |
 |Movement Speed| 100 |
-|Melee Damage| None |
-|Ranged Damage| Staff of Fireballs - The caster evokes a flaming projectile that deals 80 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
-|Magical Damage|  Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.
-|      |Ice Storm - The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
-|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
-|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. Can control two at once.|
-|Standard AR| None |
+|Melee Damage| 1 |
+|Standard AR| 240 |
 |Magical AR| 10 and 30% absorb|
 |AP| None |
 |Health Regeneration| Yes - 80/s  |
@@ -164,7 +156,6 @@ In Requiem - these guys are various shades of "utter bastard"
 |Can Knockdown Player| No |
 
  *Resistances*
-
 |Type  | Protection |
 |--|--|
 |Frost  | 90 |  
@@ -175,11 +166,50 @@ In Requiem - these guys are various shades of "utter bastard"
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
+**Shock Priest**
+
+**Frost Priest**
+
+**Fire Priest**
+
+**Ghostly Priest**
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Frost  | Immune |  
+|Fire | 50 |  
+|Shock | 85 |  
+|Poison  | Immune|  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune |  
+|Unrelenting Force| Immune |
+
+**Krosis** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Ranged Damage| Staff of Fireballs - The caster evokes a flaming projectile that deals 80 points of damage to everything in its impact radius. Targets on fire take extra damage.  |
+|Magical Damage|  Icy Spear -   A spear of ice that does a 0.25 stagge, 35 points of frost damage to Health and Stamina and 40% slow.
+|      |Ice Storm - The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .
+|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. Can control two at once.|
+
 ---
 **Hevnoraak** 
 
 ---
 **Morokei** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 4000 |
+|Magicka| 7500 |
+|Stamina| 10000 |
+|Ranged Damage| None  |
+|Magical Damage|  |
 
 ---
 **Nahkriin** 
@@ -260,6 +290,8 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Ranged (Bows & Crossbows)  | Tier 3 |
 
 
+### Standard 
+
 **Melee Resistances** 
 
  *Resistances*
@@ -285,9 +317,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Standard AR| 360 |
 ---
 
-**Boss**
-
-**Boss Armored Melee** 
+**Armored (Horned Helmet) **
 
 *Basic Stats*
 |Stat| Value |
@@ -296,7 +326,7 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 
 --- 
 
-**Hulking**
+### Hulking
 
 *Basic Stats*
 |Stat| Value |
@@ -324,6 +354,85 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Shock  | 50% | N/A |
 |Poison  | Immune | N/A |
 |Sneak Attack | Immune |  N/A|
+
+
+### Spectral 
+
+**Shared**
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
+|Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
+|Standard (Melee)    | 10% damage |
+|Standard (Arrows)   | 10% damage |
+
+ *Weapon Protection*
+| Type | Change|
+|--|--|
+|Pierce(Daggers)            | 50% Damage reduction |
+|Blunt (Maces & Hammers)    | 50% Damage reduction |
+|Ranged (Bows & Crossbows)  | Tier 3 |
+
+|Type  | Protection |
+|--|--|
+|Frost  | 95|  
+|Fire | 50 |  
+|Shock | 50  |  
+|Poison  | immune |  
+|Paralysis  |immune |  
+|Sneak Attack | immune| 
+
+**Phyicial**
+
+Weapons
+|Name|Stats|
+|--|--|
+|Spectral Battleaxe| 126 Damage can Spawn enchanted with 15 point absorb health enchantment.
+|Spectral Bow      |60 Damage can Spawn enchanted with 15 point absorb Magic enchantment. With a 90 damage Bound Arrow. 
+|Spectral Sword    | 66 Damage can Spawn enchanted with 15 point absorb Stamina enchantment.
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 772 |
+|Magicka| 0 |
+|Stamina| 10123 |
+|Movement Speed| 100 |
+|Melee Damage| Depends on weapon |
+|Ranged Damage| Depends on weapon  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None has a 33% weakness to magic |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+**Caster**
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 772 |
+|Magicka| 623 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Ranged Damage| None |
+|Magical Damage| Frostbite  The caster evokes a blast of cold that freezes everyone inside for 20 points per second, draining both health and stamina. When the spell is released, the cold slowly ebbs away.  |
+| | Ice Spike A spike of ice that does 30 points of frost damage to Health and Stamina. |
+| | Ice Storm A freezing whirlwind that does 40  points of frost damage per second to Health and Stamina. Targets in this whirlwind also get afflicted by a 35% slow. |
+|Magical Summon| Summon Frost Atronach (Standard Varient) for 60 seconds. |
+|Standard AR| None |
+|Magical AR| None has a 33% weakness to magic |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+## Spectral Warhound
 
 
 ## Gargoyles
