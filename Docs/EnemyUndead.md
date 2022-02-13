@@ -137,6 +137,9 @@ They are typically buried in one of the many ancient tombs and temples dotted al
 
 In Requiem - these guys are various shades of "utter bastard"
 
+**Standard**
+
+
 **Krosis** 
 
 *Basic Stats*
@@ -169,9 +172,7 @@ In Requiem - these guys are various shades of "utter bastard"
 |Shock | 85 |  
 |Poison  | Immune|  
 |Paralysis  | Immune |  
-|Sneak Attack | Immune | 
-|Knock Down| | 
-|Life Drain| |  
+|Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
 ---
