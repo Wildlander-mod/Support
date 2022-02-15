@@ -4,13 +4,13 @@
 
 ### Shared
 
-
 *Materiel Protection*
 | Type | Damage change |
 |--|--|
 |Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
 |Silver (Arrows)     | 100% Damage Done (after armor Mitigation) |
 |Standard (Arrows)   | 10% damage |
+
 
  *Weapon Protection*
 | Type | Change|
@@ -632,7 +632,7 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 
 **Shared **
  *Weapon Protection*
-| Type | Bonus Armor |
+| Type | Reductions |
 |--|--|
 |Slash (Swords & Axes)      | 50% reduction |
 |Pierce(Daggers)            | 80% reduction |
@@ -643,6 +643,8 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |--|--|
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
+
+
 
 **Physical** 
 
