@@ -93,6 +93,9 @@
 |Silver (Melee)      | 150% Damage Done (after armor Mitigation) |
 |Standard (Arrows)   | 20% damage |
 
+
+ *Resistances*
+
 |Type  | Protection |
 |--|--|
 |Frost  | 95 |  
