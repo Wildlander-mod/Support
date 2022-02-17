@@ -33,7 +33,7 @@ Melee attacks and ranged attacks can penetrate armor, which reduces the effectiv
 
 - Per point of armor penetration will bypass 1% of the target's armor rating with ranged attacks and melee power attacks. Standard melee attacks will bypass 0.5% of the target's armor rating per point of armor penetration. The maximum which can be bypassed at most 80% of the target's armor rating. 
 
-- In ranged combat the ammunition used plays a key role for armor penetration. 
+- In ranged combat the ammunition used plays a key role for armor penetration. You can see the arrow guide [here](https://docs.google.com/spreadsheets/d/1Xp1LE79R4uHC2yP7KkA2p1sS-l_TkaRAQfdHV4t0aOM/edit#gid=0)
 
 ## Diseases
 
@@ -80,6 +80,8 @@ Bandits / Mages / Forsworn / Necromancers Will not be covered in the guide (with
 Vampires, Rieklings, and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
 
 For enemies wearing standard armor, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
+
+For enemies weapons and arrows you can check the weapon guide [here](https://docs.google.com/spreadsheets/d/1Xp1LE79R4uHC2yP7KkA2p1sS-l_TkaRAQfdHV4t0aOM/edit#gid=0)
 
 ## About these Guides
 
