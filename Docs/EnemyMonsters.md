@@ -667,7 +667,7 @@ They can detect steath players So Sneak attacks are impossible to perform
   
 
 
-**Netch Baby (level 38) ** 
+**Netch Baby (level 38)** 
 
 *Basic Stats*
 |Stat| Value |
