@@ -166,14 +166,20 @@ In Requiem - these guys are various shades of "utter bastard"
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
+ *Spells*
+|Type  | Description |
+|--|--|
+|Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
+|Utility | Command Daedra - The caster takes over the control of the target summoned or raised creature. |
+
 **Shock Priest**
 
  *Spells*
 |Type  | Description |
 |--|--|
-|Magical Damage|  Chain Lightning 
-|      | Thunderbolt
-|Cloak | Lightning Cloak |
+|Magical Damage|  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock damage disintegrates targets if their health is low (below 25%) 
+|      | Thunderbolt The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%) 
+|Cloak | Lightning Cloak For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. The caster gains 30% of shock resist for the duration. |
 |Summmon| Summon Storm Atronach - summons a Storm Atronach for 60 seconds. |
 
 **Frost Priest**
@@ -191,9 +197,9 @@ In Requiem - these guys are various shades of "utter bastard"
  *Spells*
 |Type  | Description |
 |--|--|
-|Magical Damage|  Fireball |
-|      | Incinerate |
-|Cloak | Flame Cloak|
+|Magical Damage|  Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. Targets take a 0.5 Stagger. Targets burn for 10/s for 4 seconds after impact. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds.|
+|      | Incinerate  The caster evokes a blast of fire that deals 65 points of damage and a 0.2 Stagger. Targets on fire take extra damage. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after impact.|
+|Cloak | Flame Cloak - for 60 seconds, Targets in melee range take 12 damage per second, and the caster gains 30% frost resistance.|
 |Summmon| Summon Fire Atronach - summons a Storm Atronach for 60 seconds. |
 
 **Ghostly Priest**
