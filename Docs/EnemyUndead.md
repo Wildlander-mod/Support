@@ -282,7 +282,7 @@ A Standard Storm Varient Dragon priest.
 |Movement Speed| 100 |
 |Melee Damage| 1 |
 |Ranged Damage| None  |
-|Magical Damage|Wall of Flames Sprayed on the ground, it creates a wall of fire that does 20 points of fire damage per second. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after contact. |
+|Magical Damage|Wall of Flames Sprayed on the ground, it creates a wall of fire that does 20 points of fire damage per second. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Contact with the Hazard causes 50 Damage per second. |
 |      | Incinerate  The caster evokes a blast of fire that deals 65 points of damage and a 0.2 Stagger. Targets on fire take extra damage. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after impact.|
 |Summmon| Summon Flame Thrall - summons a strong Fire Atronach for 60 seconds. |
 |Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
@@ -319,7 +319,7 @@ A Standard Storm Varient Dragon priest.
 |Movement Speed| 100 |
 |Melee Damage| 1 |
 |Ranged Damage| None  |
-|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. |
+|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Hazard deals 50 damage per second of contact |
 |      | Icy Spear -   A spear of ice that does a 0.25 stagger, 35 points of frost damage to Health and Stamina and 40% slow. |
 |Summmon| Summon Frost Thrall - summons a strong Frost Atronach for 60 seconds. |
 |Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
@@ -394,7 +394,7 @@ A Standard Storm Varient Dragon priest.
 |Stamina| 10000 |
 |Movement Speed| 100 |
 |Melee Damage| 1 |
-|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. |
+|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Hazard deals 50 damage per second of contact. |
 |      |  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock damage disintegrates targets if their health is low (below 25%) |
 |      | Thunderbolt The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%) |
 |      |  Fire Stream  The caster Sprays a fiery stream which deals 120 Damage | 
@@ -796,9 +796,9 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 |Movement Speed| 100 |
 |Melee Damage| 1 |
 |Ranged Damage| None  |
-|One Of the following Wall Spells| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. |
+|One Of the following Wall Spells| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Hazard deals 50 damage per second of contact |
 | | Wall of Storms Sprayed on the ground, it creates a wall of lightning that does 20 points of shock damage per second and 40 points of magika damage. |
-| | Wall of Flames Sprayed on the ground, it creates a wall of fire that does 20 points of fire damage per second. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after contact. |
+| | Wall of Flames Sprayed on the ground, it creates a wall of fire that does 20 points of fire damage per second. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after contact. Contact with the Hazard causes 50 Damage per second.|
 |One Of the following Magical Damage spells|  Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. Targets take a 0.5 Stagger. Targets burn for 10/s for 4 seconds after impact. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds.|
 ||Ice Storm -  The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .|
 ||  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other. |
@@ -892,7 +892,7 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 |Movement Speed| 150 |
 |Melee Damage| N/A |
 |Ranged Damage| None  |
-|Magical Damage| Wall of frost  - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and deals a 40% slow for 5 seconds. |
+|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Hazard deals 50 damage per second of contact |
 |Standard AR|  None |
 |Magical AR| None |
 |AP| None |
