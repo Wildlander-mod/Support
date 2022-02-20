@@ -224,6 +224,7 @@ Note: Does not have the shared spells.
 |      |Snow Spume -  The caster manifests an explosion of ice shards at the target location, dealing 45 points of damage in its radius..
 |Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
 
+---
 **Krosis** 
 A standard Frost Varient Dragon priest.
 
@@ -263,6 +264,11 @@ A Standard Fire Varient Dragon priest.
 ---
 **Volsung** 
 A Standard Frost Varient Dragon priest.
+
+---
+
+**Jsashe** 
+A Standard Storm Varient Dragon priest.
 
 ---
 **Ahzidal** 
@@ -375,11 +381,6 @@ A Standard Frost Varient Dragon priest.
 |Paralysis  | Immune |  
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
-
----
-
-**Jsashe** 
-A Standard Storm Varient Dragon priest.
 
 --- 
 
@@ -737,19 +738,31 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 87 |
+|Magicka| 0 |
+|Stamina| 138 |
+|Movement Speed| 100 |
+|Melee Damage| 1 + Weapon |
+|Ranged Damage| Bow damage (Steel and Silver arrows) |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Standard AR| None |
+|Magical AR| None |
+|AP| 6% AP for Archers |
+|Health Regeneration| None  |
+| Diseased |None |
+|Can Knockdown Player| None |
+
+*Weapon Stats*
+|Name| Damage |
+|Iron Warhammer| 48 |
+|Iron Battle Axe| 102 |
+|Iron Greatsword| 96 |
+|Steel Warhammer| 108 |
+|Steel Battle Axe| 108 |
+|Steel Greatsword| 102 |
+|Imperial Sword| 48 |
+|Imperial Bow| 120 |
+|Wooden Bow| 80 |
 
 ---
 ### **Malkoran's Shade**
@@ -757,19 +770,31 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 112 |
+|Magicka| 201 |
+|Stamina| 50 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|One Of the following Wall Spells| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. |
+| | Wall of Storms Sprayed on the ground, it creates a wall of lightning that does 20 points of shock damage per second and 40 points of magika damage. |
+| | Wall of Flames Sprayed on the ground, it creates a wall of fire that does 20 points of fire damage per second. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after contact. |
+|One Of the following Magical Damage spells|  Fireball - The caster evokes a flaming projectile that deals 40 points of damage to everything in its impact radius. Targets on fire take extra damage. Targets take a 0.5 Stagger. Targets burn for 10/s for 4 seconds after impact. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds.|
+||Ice Storm -  The caster evokes a freezing whirlwind that deals 45 points of frost damage per second to Health and Stamina and 35% slow .|
+||  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other. |
+|Summmon| Summon Dread Zombie  - The caster reanimates a very powerful dead body for 60 seconds.|
+| | Summon Storm Atronach - summons a Storm Atronach for 60 seconds. |
+|One of the Following Cloak | Lightning Cloak For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. The caster gains 30% of shock resist for the duration. |
+|  |Frost Cloak - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+| | Flame Cloak - for 60 seconds, Targets in melee range take 12 damage per second, and the caster gains 30% frost resistance.|
+|Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
+|Utility | Command Daedra - The caster takes over the control of the target summoned or raised creature. |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| None  |
+| Diseased |None  |
+|Can Knockdown Player| None |
 
 
 ## Skeleton 
@@ -792,13 +817,11 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
-
-
 **Physical** 
 
 **Caster** 
 
-### **Armured** 
+### **Armored** 
 
 *Basic Stats*
 |Stat| Value |
