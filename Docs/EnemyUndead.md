@@ -229,7 +229,7 @@ A standard Frost Varient Dragon priest.
 
 ---
 **Hevnoraak** 
-A Storm Varient Dragon priest.
+A standard Storm Varient Dragon priest.
 
 ---
 **Morokei** 
@@ -246,63 +246,181 @@ A Stornger Storm Varient Dragon priest.
 
 ---
 **Nahkriin** 
+A Standard Fire Varient Dragon priest.
 
 ---
 **Otar The Mad** 
-A Storm Varient Dragon priest.
+A Standard Storm Varient Dragon priest.
 
 ---
 **Rahgot** 
-A Fire Varient Dragon priest.
+A Standard Fire Varient Dragon priest.
 
 ---
 **Vokun** 
-A Fire Varient Dragon priest.
+A Standard Fire Varient Dragon priest.
 
 ---
 **Volsung** 
-A Frost Varient Dragon priest.
+A Standard Frost Varient Dragon priest.
 
 ---
 **Ahzidal** 
-REQ_Alteration4_MageArmorOnSelf_LeftHand "Mage Armor on Self (Rank IV)" [SPEL:00072318]
-REQ_Restoration4_ArcaneWard_LeftHand "Greater Ward" [SPEL:0007231B]
-REQ_Destruction3_FlameCloak_LeftHand "Flame Cloak" [SPEL:000DE511]
-REQ_Destruction4_Incinerate_RightHand "Incinerate" [SPEL:0010F7F6]
-WallOfFlamesLeftHand "Wall of Flames" [SPEL:0401DBD1]
-REQ_Ability_NaturalArmor150 [SPEL:81032D91]
-FZR_FlameThrallLeftHand "Summon Flame Thrall" [SPEL:8419A9DD]
-REQ_Conjuration4_BanishDaedra_LeftHand "Expel Daedra" [SPEL:000F95EF]
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 4000 |
+|Magicka| 7500 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Ranged Damage| None  |
+|Magical Damage|Wall of Flames Sprayed on the ground, it creates a wall of fire that does 20 points of fire damage per second. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after contact. |
+|      | Incinerate  The caster evokes a blast of fire that deals 65 points of damage and a 0.2 Stagger. Targets on fire take extra damage. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after impact.|
+|Summmon| Summon Flame Thrall - summons a strong Fire Atronach for 60 seconds. |
+|Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
+|| Greater Ward The caster creates a protective shield that negates a great amount of physical damage and negates up to 80 points of spell damage or effects. Also renders the caster immune to most paralyzing and life drain effects.
+|Cloak | Flame Cloak - for 60 seconds, Targets in melee range take 12 damage per second, and the caster gains 30% frost resistance.|
+|Utility | Expel Daedra - The caster sends even powerful creatures back to the realms of Oblivion. |
+|Standard AR| 390 |
+|Magical AR| 10% + 30% absorb |
+|AP| None |
+|Health Regeneration| 80/s   |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Frost  | 90 |  
+|Fire | Immune |  
+|Shock | 85 |  
+|Poison  | Immune|  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune |  
+|Unrelenting Force| Immune |
 
 ---
 **Dukaan** 
 
-REQ_Destruction3_FrostCloak_LeftHand "Frost Cloak" [SPEL:000400AC]
-REQ_Alteration4_MageArmorOnSelf_LeftHand "Mage Armor on Self (Rank IV)" [SPEL:00072318]
-REQ_Restoration4_ArcaneWard_LeftHand "Greater Ward" [SPEL:0007231B]
-REQ_Destruction4_WallOfFrost_LeftHand "Wall of Frost" [SPEL:0010F142]
-REQ_Conjuration4_BanishDaedra_LeftHand "Expel Daedra" [SPEL:000F95EF]
-REQ_Destruction4_WallOfFrost_LeftHand "Wall of Frost" [SPEL:0010F142]
-REQ_Destruction4_IcySpear_RightHand "Icy Spear" [SPEL:0010F7F7]
-REQ_Ability_NaturalArmor150 [SPEL:81032D91]
-FZR_FrostThrallLeftHand "Summon Frost Thrall" [SPEL:8419FB4C]
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 4000 |
+|Magicka| 7500 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Ranged Damage| None  |
+|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. |
+|      | Icy Spear -   A spear of ice that does a 0.25 stagger, 35 points of frost damage to Health and Stamina and 40% slow. |
+|Summmon| Summon Frost Thrall - summons a strong Frost Atronach for 60 seconds. |
+|Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
+|| Greater Ward The caster creates a protective shield that negates a great amount of physical damage and negates up to 80 points of spell damage or effects. Also renders the caster immune to most paralyzing and life drain effects.
+|Cloak | "Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+|Utility | Expel Daedra - The caster sends even powerful creatures back to the realms of Oblivion. |
+|Standard AR| 390 |
+|Magical AR| 10% + 30% absorb |
+|AP| None |
+|Health Regeneration| 80/s   |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Frost  | Immune |  
+|Fire | 50% |  
+|Shock | 85 |  
+|Poison  | Immune|  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune |  
+|Unrelenting Force| Immune |
+
 ---
 **Zahkriisos** 
-REQ_Destruction3_LightningCloak_LeftHand "Lightning Cloak" [SPEL:000400AD]
-REQ_Restoration4_ArcaneWard_LeftHand "Greater Ward" [SPEL:0007231B]
-REQ_Conjuration4_BanishDaedra_LeftHand "Expel Daedra" [SPEL:000F95EF]
-REQ_Destruction4_Thunderbolt_RightHand "Thunderbolt" [SPEL:0010F7F8]
-DLC2ConjureSeekerHighLeftHand "Summon Seeker" [SPEL:04030CE0]
-FZR_WallOfStormsLeftHand "Wall of Storms" [SPEL:8419A9DE]
-FZR_StormThrallLeftHand "Summon Storm Thrall" [SPEL:8419FB4B]
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 5500 |
+|Magicka| 7500 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Ranged Damage| None  |
+|Magical Damage|Wall of Storms Sprayed on the ground, it creates a wall of lightning that does 20 points of shock damage per second and 40 points of magika damage. |
+|      | Thunderbolt The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%) 
+|Cloak | Lightning Cloak For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. The caster gains 30% of shock resist for the duration. |
+|Summmon| Summon Storm Thrall - summons a Thrall Atronach for 60 seconds. |
+| | Summon Seeker - summons a Seeker for 60 seconds. |
+|Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
+|| Greater Ward The caster creates a protective shield that negates a great amount of physical damage and negates up to 80 points of spell damage or effects. Also renders the caster immune to most paralyzing and life drain effects.
+|Utility | Expel Daedra - The caster sends even powerful creatures back to the realms of Oblivion. |
+|Standard AR| 390 |
+|Magical AR| 10% + 30% absorb |
+|AP| None |
+|Health Regeneration| 80/s   |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Frost  | 90% |  
+|Fire | 50% |  
+|Shock | Immune |  
+|Poison  | Immune|  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune |  
+|Unrelenting Force| Immune |
+
 ---
 
 **Jsashe** 
-A Storm Varient Dragon priest.
+A Standard Storm Varient Dragon priest.
 
 --- 
 
 **Vahlok the Jailer** 
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 1647 |
+|Magicka| 6648 |
+|Stamina| 10000 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
+|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. |
+|      |  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock damage disintegrates targets if their health is low (below 25%) |
+|      | Thunderbolt The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%) |
+|      |  Fire Stream  The caster Sprays a fiery stream which deals 120 Damage | 
+|      |  Frost Stream   The caster Sprays a Icey stream which deals 20/s for 5 seconds |
+|Summmon| Summon Ash Guardian  - summons a Ash Guardian for 10 seconds. |
+|Cloak | Lightning Cloak For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. The caster gains 30% of shock resist for the duration. |
+|Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
+|| Greater Ward The caster creates a protective shield that negates a great amount of physical damage and negates up to 80 points of spell damage or effects. Also renders the caster immune to most paralyzing and life drain effects.
+|Utility | Expel Daedra - The caster sends even powerful creatures back to the realms of Oblivion. |
+|Standard AR| 390 |
+|Magical AR| 20 and 30% absorb|
+|AP| None |
+|Health Regeneration| Yes - 80/s  |
+|Magic Regeneration| Yes - 50/s  |
+| Diseased | No |
+|Can Knockdown Player| No |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Frost  | 90% |  
+|Fire | 50% |  
+|Shock | Immune |  
+|Poison  | Immune|  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune |  
+|Unrelenting Force| Immune |
 
 
 
