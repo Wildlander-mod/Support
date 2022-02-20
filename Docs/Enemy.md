@@ -8,9 +8,9 @@ Important note: this is WIP - Wildlander launch happened before completion.
 - Daedra Page is complete
 - Unique and named page is complete - With exception to Sunhelm diseases.
 - Monsters page is complete.
-- Undead page is a placeholder
-- Bosses page is a placeholder
-- Dragons page is a placeholder
+- Undead page is at 75% ( Dragur,Skeleton,Ghost Spells/Weapons sets and vampires to do.) 
+- Bosses page is at 30% (miraak & Ancano complete, rest are placeholders)
+- Dragons page is at 10% 1 dragon complete, rest are placeholders.
 
 
 List of basic resistances used in Skyrim.
