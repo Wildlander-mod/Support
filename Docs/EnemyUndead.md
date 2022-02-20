@@ -738,7 +738,7 @@ Ghosts are spirits that haunt this world for whatever reason. One should note th
 
 Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meridia's Temple on Mount Kilkreath. 
 
-### **Shared **
+### Shared
 
  *Weapon Protection*
 | Type | Bonus Armor |
@@ -753,7 +753,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
-### **Corrupted Shade** 
+### Corrupted Shade
 
 *Basic Stats*
 |Stat| Value |
@@ -785,7 +785,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 |Wooden Bow| 80 |
 
 ---
-### **Malkoran's Shade**
+### Malkoran's Shade
 
 *Basic Stats*
 |Stat| Value |
@@ -823,7 +823,7 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 
 ### Standard
 
-**Shared **
+**Shared**
  *Weapon Protection*
 | Type | Reductions |
 |--|--|
