@@ -204,6 +204,8 @@ In Requiem - these guys are various shades of "utter bastard"
 
 **Ghostly Priest**
 
+Note: Does not have the shared spells.
+
  *Resistances*
 |Type  | Protection |
 |--|--|
@@ -214,6 +216,13 @@ In Requiem - these guys are various shades of "utter bastard"
 |Paralysis  | Immune |  
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
+
+ *Spells*
+|Type  | Description |
+|--|--|
+|Magical Damage|   Icy Spear -   A spear of ice that does a 0.25 stagger, 35 points of frost damage to Health and Stamina and 40% slow.|
+|      |Snow Spume -  The caster manifests an explosion of ice shards at the target location, dealing 45 points of damage in its radius..
+|Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
 
 **Krosis** 
 A standard Frost Varient Dragon priest.
@@ -378,6 +387,11 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Poison  | Immune | N/A |
 |Sneak Attack | Immune |  N/A|
 
+---
+### Keeper
+
+
+---
 
 ### Spectral 
 
@@ -701,9 +715,21 @@ A variety of skeleton archer which inhabit the Soul Cairn.
 |Standard AR|  |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration|   |
+| Diseased | None |
+|Can Knockdown Player| No |
+
+ *Resistances*
+ 
+ |Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 80% | N/A |
+|Fire | N/A  | 25% |
+|Shock  | 25% | N/A |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A  |
+|Sneak Attack | Immune | N/A |
+|Knock Down| Minor | N/A|
 
 ### **Mistman**
 Floating, legless, black skeletons found in the Soul Cairn. You can summon them after learning Conjure Mistman from a spell tome in the Soul Cairn.
@@ -721,7 +747,7 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 |Standard AR|  |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration|   |
 | Diseased |  |
 |Can Knockdown Player| |
 
@@ -741,7 +767,7 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Standard AR| 600 |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration|   |
 | Diseased |  |
 |Can Knockdown Player| |
 
