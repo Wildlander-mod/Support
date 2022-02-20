@@ -62,7 +62,7 @@ NPC Irlof is causing the game to bomb out. Fortunatly he is just a "flavor" NPC 
 
    - prid 0005226B
    - markfordelete
-   - vdisable
+   - disable
 
 ## Crash on save with crash code making no reference to skyrimSe.exe (e.g Unhandled native exception occurred at 0x0 on thread)
 
