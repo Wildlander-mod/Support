@@ -507,7 +507,44 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Sneak Attack | Immune |  N/A|
 
 ---
-### Soul Cairn
+### Keeper
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 2050 |
+|Magicka| 0 |
+|Stamina| 5080 |
+|Movement Speed| 125 |
+|Melee Damage| 1 + weapon damage |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Shout| Unrelenting Force  |
+|Standard AR| 720 |
+|Magical AR| 10% |
+|AP| 50% |
+|Health Regeneration| Yes - 50/s  unless on fire |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 105 | N/A |
+|Fire | N/A  | -5 |
+|Shock | 75 | N/A  |
+|Poison  | Immune | N/A  |
+|Sneak Attack | Immune | N/A   |
+|Knock Down| Immune| N/A   |
+
+ *Weapons*
+
+|Weapon set| Weapons | Damage |
+|--|--|--|
+|1 |Dragonbone Battleaxe | 144 Damage
+|2 |Dragonbone Bow & Dragonbone Arrow| 90 + 108 + 28% AP + 70% Stagger chance on power attacks|
+|3 |Dragonbone Mace & Dragonplate Shield| 96 + 270 Block|
 
 
 ---
@@ -691,23 +728,6 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 
 Ghosts are spirits that haunt this world for whatever reason. One should note that there are two varities of ghosts one must not mix up. The first one is the ethereal one that does not acutally exist physically in this world, causing it to be invulnerable and unable to interact with the enviroment of this realm. The other would be the ones that actually manifest themselves physically in this world by the use of ectoplasm, in which case they do possess a physical body that can be damaged by conventional means - however, ectoplasm behaves quite extraordinarily, as it's both harder than steel but more flexible than water as long as it's part of a ghost's body, causing the creature to be able to deliver dangerous blows while also being highly resistant to physical weapons - in fact, it's almost like hitting a body of water, blows do cause a sort of disruption, but it takes a lot of hits to destroy it entirely. Also, some ghosts seem to have traits that they once had in their real life, like ghostly trolls being able to regenerate their ectoplasmic body - in this case fire would behave the same as with living trolls.
 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
-
 *Materiel Protection*
 | Type | Damage change |
 |--|--|
@@ -826,37 +846,25 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
 |Standard AR| 360 |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
 
 ### **Boneman** 
-A variety of skeleton archer which inhabit the Soul Cairn. 
+A variety of skeleton which inhabit the Soul Cairn. 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
+|Health| 220 |
+|Magicka| 0 |
+|Stamina| 380 |
+|Movement Speed| 100 |
+|Melee Damage|  Ancient Nord Sword (48 damage) or Ancient Nord War Axe (54 damage) & Iron shield - 153 block |
+|Ranged Damage| Ancient Nord Bow & Ancient Nord Arrow 77 damage + 6% AP |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration|   |
+|Health Regeneration|  None |
 | Diseased | None |
 |Can Knockdown Player| No |
 
@@ -878,19 +886,31 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 500 |
+|Magicka| 2000 |
+|Stamina| 3080 |
+|Movement Speed| 150 |
+|Melee Damage| N/A |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Magical Damage| Wall of frost  - Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and deals a 40% slow for 5 seconds. |
+|Standard AR|  None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration|   |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| yes - 50/s  |
+| Diseased | No |
+|Can Knockdown Player| Yes - Wall of frost Can Paralyse if frost resist is under 25% |
+
+ *Resistances*
+ 
+ |Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 80% | N/A |
+|Fire | N/A  | 5% |
+|Shock  | 75% | N/A |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A  |
+|Sneak Attack | Immune | N/A |
+|Knock Down| Minor | N/A|
 
 ### **Wrathman**
 Black skeleton warriors found in the Soul Cairn. You can summon them after learning Conjure Wrathman from a spell tome in the Soul Cairn.
@@ -898,19 +918,46 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 1000 |
+|Magicka| 0 |
+|Stamina| 3000 |
+|Movement Speed| 125 |
+|Melee Damage| Battleaxe of Soulreaping 21 damage + 3/s for 10 seconds of frost damage. * 140% weapons damage perk
 |Ranged Damage| None  |
 |Magical Damage| None  |
+|Shout| Unrelenting Force  |
 |Standard AR| 600 |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration|   |
-| Diseased |  |
-|Can Knockdown Player| |
+|Magical AR| None |
+|AP| 50% |
+|Health Regeneration|  None |
+| Diseased | None |
+|Can Knockdown Player| None |
+
+ *Weapon Protection*
+| Type | Reductions |
+|--|--|
+|Slash (Swords & Axes)      | 50% reduction |
+|Pierce(Daggers)            | 80% reduction |
+|Ranged (Bows & Crossbows)  | 75% reduction + Tier 3 protection |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Standard (Arrows)   | 20% |
+
+ *Resistances*
+ 
+ |Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 85% | N/A |
+|Fire | N/A  | 50% |
+|Shock  | 50% | N/A |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A  |
+|Sneak Attack | Immune | N/A |
+|Knock Down| Minor | N/A|
+
 
 ## Vampires
 
