@@ -35,10 +35,11 @@ Melee attacks and ranged attacks can penetrate armor, which reduces the effectiv
 
 - In ranged combat the ammunition used plays a key role for armor penetration. You can see the arrow guide [here](https://docs.google.com/spreadsheets/d/1Xp1LE79R4uHC2yP7KkA2p1sS-l_TkaRAQfdHV4t0aOM/edit#gid=0)
 
-ABout Magic/Elemental Resistances.
+About Magic/Elemental Resistances Values.
 - Magic Resistance protects against all magic damage including elemental magic such as fire, frost and Shock .
 - The effect of magic resistance is  multiplicative when combined with elemental resistance. Let's say you have 90% magic and fire resist. This will mean that you only receive (100%-90%) * (100%-90%)= (10% * 10%) = 1% fire damage, which is equal to 99% fire resistance. This also means that your effective resistences raises exponentialy as your resistance %'s become higher.
 - Magic resistance protects you from Shouts, Fears and other none elemental spells E.g those in the illusion tree. 
+- Unlike Vanilla, NPC's can have both elemental resistance and magic resistances.
 
 ## Diseases
 
