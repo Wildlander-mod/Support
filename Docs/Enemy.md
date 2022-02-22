@@ -91,13 +91,13 @@ For enemies weapons and arrows you can check the weapon guide [here](https://doc
 
 ## About these Guides
 
-*Varients*
+**Varients**
 Level/Health/Stamina/Magic if the creature comes in different sizes but same base creature. 
 
-*Basic Stats*
+**Basic Stats**
 Movement Speed, Melee/Ranged damage or spells that the Enemy can cast, Standard armor, Magical armor, Enemy ability to penetrate your armor, If its has health regenation, diseases or can knock the player down.
 
-*Weapon Protection*
+**Weapon Protection**
 Bonus armor that the Enemy gains if attacked by weapon damage types.
  
 **Resistances & Weaknesses**
@@ -105,6 +105,9 @@ If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the E
 
 **Weapon Resistances & Weaknesses**
 If the Enemy has protection or vunerability to Weapon materiels such as Silver or Daedric, or if they take reduced damage from converntional materiels.
+
+**Additional Perks**
+Any aditional perks that the Enemy may have which affects gameplay.
 
 ## The Guides 
 
