@@ -774,6 +774,7 @@ Shades are the ghostly and corrupted remnants of the deceased, exclusive to Meri
 
 *Weapon Stats*
 |Name| Damage |
+|--|--|
 |Iron Warhammer| 48 |
 |Iron Battle Axe| 102 |
 |Iron Greatsword| 96 |
