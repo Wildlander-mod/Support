@@ -25,6 +25,10 @@
 |--|--|
 |Shock | 25 |  
 
+*Additional Perks*
+Electromancy 2 - All shock spells deal 30% more damage.
+Stabilized Binding - bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
+
 # Aldiun
 
 # Lord Harkon
