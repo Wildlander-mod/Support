@@ -26,8 +26,23 @@
 |Shock | 25 |  
 
 *Additional Perks*
+* Focused Mind You've learned to keep concentration when running or sustaining damage, thus all magicka penalties are nullified. Magicka regenerates 50% faster.
+* Magical Absorption His understanding of arcane energies grants him 30% chance to absorb incoming spells, shouts, or enchantments, as pure magicka.
+* Improved Healing - Healing spells are 25% more effective.
+* Respite - Healing spells restore both health and stamina.
 * Electromancy 2 - All shock spells deal 30% more damage.
-* Stabilized Binding - bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
+* Stability - All Alteration spells last 50% longer.
+* Improved Wards - Arcane wards are 25% more effective, absorb 25% Magicka from hostile spells, and cost 5% less Magicka to cast.
+* Extended Binding - He can summon Daedra and Spirits up to five times farther away for 25% less magicka.
+* Elemental Binding - His Atronachs are much stronger, and his high-level Thralls are immune to Banishment and Control spells.
+* Improved Mage Armor He has mastered the art of metaphysical protection. All "Mage Armor on Self" spells provide additional damage resistance.
+* Electrostatic Discharge - - His shock spells damage damage his opponent's Magicka alongside their Health.
+* Stabilized Binding You bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
+* Shock Mastery - His fascination with Shock now grants him 25% resistance to it, while Shock spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 - mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
+* Spell Armor - His Mage Armor spells reduce incoming elemental damage by 15%.
+* Metamagical Thesis - His fundamental knowledge of Aetherial power decreases magicka cost for all spells by 10%
+* Metamagical Empowerment - He is a master spellcaster. Duration and magnitude of all spells are enhanced by 20%.
 
 # Aldiun
 
