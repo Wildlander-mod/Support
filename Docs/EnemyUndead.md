@@ -172,6 +172,17 @@ In Requiem - these guys are various shades of "utter bastard"
 |Magical Protection| Mage Armor on Self (Rank IV) - Improves the caster's armor rating by 150 points for 60 seconds. |
 |Utility | Command Daedra - The caster takes over the control of the target summoned or raised creature. |
 
+*Shared Perks*
+* Recovery - Magicka regenerates 50% faster.
+* Improved Healing - Healing spells are 25% more effective.
+* Respite - Healing spells restore both health and stamina.
+* Stability - All Alteration spells last 50% longer.
+* Extended Binding - You can summon Daedra and Spirits up to five times farther away for 25% less magicka.
+* Improved Wards - Arcane wards are 25% more effective, absorb 25% Magicka from hostile spells, and cost 5% less Magicka to cast.
+* Priest Mage Armor - Protection spells like Stoneflesh are 2.5 times as strong.
+* Cognitive Flexibility- Your expanded mental focus allows you to maintain two summons at once, including those outside the school of Conjuration.
+* Magical Absorption - Your understanding of arcane energies grants you 30% chance to absorb incoming spells, shouts, or enchantments, as pure magicka.
+
 **Shock Priest**
 
  *Spells*
@@ -181,6 +192,11 @@ In Requiem - these guys are various shades of "utter bastard"
 |      | Thunderbolt The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%) 
 |Cloak | Lightning Cloak For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. The caster gains 30% of shock resist for the duration. |
 |Summmon| Summon Storm Atronach - summons a Storm Atronach for 60 seconds. |
+
+*Shared Perks plus Additional Perks*
+* Electromancy 2 - All shock spells deal 30% more damage.
+* Electrostatic Discharge - Your shock spells damage your opponent's Magicka alongside their Health.
+* Skill 100 Destruction - Destruction spells do 100% more damage
 
 **Frost Priest**
 
@@ -192,6 +208,12 @@ In Requiem - these guys are various shades of "utter bastard"
 |Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
 |Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
 
+*Shared Perks plus Additional Perks*
+* Deep Freeze Many of your ice spells can freeze enemies who are susceptible to frost.
+* Cryomancy 2  All frost spells deal 30% more damage.
+* Skill 100 Destruction - Destruction spells do 100% more damage
+
+
 **Fire Priest**
 
  *Spells*
@@ -201,6 +223,12 @@ In Requiem - these guys are various shades of "utter bastard"
 |      | Incinerate  The caster evokes a blast of fire that deals 65 points of damage and a 0.2 Stagger. Targets on fire take extra damage. Targets with under 50% magic resistance or under 80% fire resistance will flee for 120 seconds. Targets burn for 4/s for 10 seconds after impact.|
 |Cloak | Flame Cloak - for 60 seconds, Targets in melee range take 12 damage per second, and the caster gains 30% frost resistance.|
 |Summmon| Summon Fire Atronach - summons a Storm Atronach for 60 seconds. |
+
+*Shared Perks plus Additional Perks*
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
+* Pyromancy - All fire spells deal 30% more damage.
+* Skill 100 Destruction - Destruction spells do 100% more damage
+
 
 **Ghostly Priest**
 
@@ -223,6 +251,9 @@ Note: Does not have the shared spells.
 |Magical Damage|   Icy Spear -   A spear of ice that does a 0.25 stagger, 35 points of frost damage to Health and Stamina and 40% slow.|
 |      |Snow Spume -  The caster manifests an explosion of ice shards at the target location, dealing 45 points of damage in its radius..
 |Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
+
+**Additional Perks*
+Has the shared perks, plus Same as Standard Frost priests
 
 ---
 **Krosis** 
@@ -307,6 +338,9 @@ A Standard Storm Varient Dragon priest.
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
+**Additional Perks*
+Has the shared perks, plus Same as Standard Fire priests
+
 ---
 **Dukaan** 
 
@@ -343,6 +377,9 @@ A Standard Storm Varient Dragon priest.
 |Paralysis  | Immune |  
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
+
+**Additional Perks*
+Has the shared perks, plus Same as Standard Frost priests
 
 ---
 **Zahkriisos** 
@@ -381,6 +418,9 @@ A Standard Storm Varient Dragon priest.
 |Paralysis  | Immune |  
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
+
+**Additional Perks*
+Has the shared perks, plus Same as Standard Shock priests
 
 --- 
 
@@ -423,7 +463,8 @@ A Standard Storm Varient Dragon priest.
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
-
+*Additional Perks*
+Has the shared perks, plus all the Perks Shock, Fire and Frost Priests do.
 
 
 ## Draugr 
@@ -914,7 +955,8 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 |Knock Down| Minor | N/A|
 
 *Additional Perks*
-* Cryomancy - Frost spell damage increased by 15% + 1% destruction skill for each perk taken (220% total frost damage)
+* Cryomancy II - Frost spell damage increased by 30% 
+* Level 95 destruction bonus (spell damage increased by 95% )
 
 ### **Wrathman**
 Black skeleton warriors found in the Soul Cairn. You can summon them after learning Conjure Wrathman from a spell tome in the Soul Cairn.
