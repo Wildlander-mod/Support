@@ -893,6 +893,7 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 |Melee Damage| N/A |
 |Ranged Damage| None  |
 |Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Hazard deals 50 damage per second of contact |
+| | Cryomancy perks - +220% Frost Spell Damage.|
 |Standard AR|  None |
 |Magical AR| None |
 |AP| None |
