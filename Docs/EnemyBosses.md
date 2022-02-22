@@ -54,12 +54,11 @@ Perks
 * All incoming attacks reduced to 90%
 * 2 handed weapon damage reduced by 45%
 * Will take 15% less damage from Summoned creatures
-* Target is 5% weaker to poison for 10 seconds.
 * Skill 100 Destruction - Destruction spells do 100% more damage
-* Empowered Elements You can dual-cast Destruction spells to augment their power by 125% for double magicka cost.
-* Impact Dual-casted projectile Destruction spells have 25% chance of staggering His foes. 
-* Stabilized Binding You bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
-* Focused Mind You've learned to keep - Hisconcentration when running or sustaining damage, thus all magicka penalties are nullified. Magicka regenerates 50% faster.
+* Empowered Elements - He can dual-cast Destruction spells to augment their power by 125% for double magicka cost.
+* Impact - Dual-casted projectile Destruction spells have 25% chance of staggering His foes. 
+* Stabilized Binding - He Can bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
+* Focused Mind - learned to keep his concentration when running or sustaining damage, thus all magicka penalties are nullified. Magicka regenerates 50% faster.
 * Respite - Healing spells restore both health and stamina.
 * Powerful Strike - One-handed and unarmed power attacks shatter bone and sinew. [Power attack damage x 1.2]
 * Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
