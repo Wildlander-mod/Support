@@ -51,13 +51,35 @@ Spells (Last 5 times longer than any durations listed)
 
 
 Perks
-- All incoming attacks reduced to 90%
-- 2 handed weapon damage reduced vby 45%
-- Will take 15% less damage from Summoned creatures
-- Target is 5% weaker to poison for 10 seconds.
-- Melee attacks fo 150% more damage   
-- will absorb 10% of each spell in magika   
-- 150% weapons speed                                                                                                                          
+* All incoming attacks reduced to 90%
+* 2 handed weapon damage reduced by 45%
+* Will take 15% less damage from Summoned creatures
+* Target is 5% weaker to poison for 10 seconds.
+* Skill 100 Destruction - Destruction spells do 100% more damage
+* Empowered Elements You can dual-cast Destruction spells to augment their power by 125% for double magicka cost.
+* Impact Dual-casted projectile Destruction spells have 25% chance of staggering His foes. 
+* Stabilized Binding You bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
+* Focused Mind You've learned to keep - Hisconcentration when running or sustaining damage, thus all magicka penalties are nullified. Magicka regenerates 50% faster.
+* Respite - Healing spells restore both health and stamina.
+* Powerful Strike - One-handed and unarmed power attacks shatter bone and sinew. [Power attack damage x 1.2]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Sword Focus - His masterful skill with one-handed blades further enhances his attacks.[+24% attack speed, +21 armor penetration]
+* Weapon Mastery - Improved fighting techniques bolster the damage and ease of his one-handed and unarmed attacks.[Damage x 140% , -50% weapon weight penalties]
+* Powerful Charge - His sprinting power attack propels him through the air and deals terrifying damage. [Unlocks sprinting power attack, -25% weapon weight penalties]
+* Extended Binding - He can summon Daedra and Spirits up to five times farther away for 25% less magicka.
+* Elemental Binding - His Atronachs are much stronger, and his high-level Thralls are immune to Banishment and Control spells.
+* Improved Mage Armor He has mastered the art of metaphysical protection. All "Mage Armor on Self" spells provide additional damage resistance.
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
+* Electrostatic Discharge - - His shock spells damage damage his opponent's Magicka alongside their Health.
+* Electromancy 2 (Has this perk twice!) - All shock spells deal 60% more damage.
+* Pyromancy 2 - All Fire spells deal 30% more damage.
+* Fire Mastery - His fascination with fire now grants him 25% resistance to it, while fire spells are 5% stronger and 10% less costly.
+* Frost Mastery - His fascination with Frost now grants him 25% resistance to it, while Frost spells are 5% stronger and 10% less costly.
+* Shock Mastery - His fascination with Shock now grants him 25% resistance to it, while Shock spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 - mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
+* Spell Armor - His Mage Armor spells reduce incoming elemental damage by 15%.
+* Twin Souls - He can maintain two atronachs or reanimated zombies.
+                                                                                                                     
                                                                                                                                  
 *Basic Stats*
 |Stat| Value |
