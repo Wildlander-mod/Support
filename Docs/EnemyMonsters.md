@@ -259,6 +259,9 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Poison  | 75% |  
 |Paralysis  | When Steadfast Ward  is active |  
 
+**Additional Perks**
+* Electromancy 2 - All shock spells deal 30% more damage.
+
 ### Bosses
 
 *Weapons Stats*
@@ -362,6 +365,9 @@ All shaman carry either a Atronoch Summon Staff, Or a Elemental staff (Fire, ice
 |Health Regeneration| Fast Heal - restores 20 HP and stamina to self.   |
 | Diseased | Yes - Damp worms |
 |Can Knockdown Player| No |
+
+**Additional Perks**
+* Electromancy - All shock spells deal 15% more damage.
 
 ### Feral
 
@@ -525,7 +531,7 @@ They can detect steath players So Sneak attacks are impossible to perform
 
 ---
 **Ettiene / Fallaise / Isobel**
-DLC2dunAltarOfThrondEttiene "Ettiene" [NPC_:040369ED]
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -545,7 +551,14 @@ DLC2dunAltarOfThrondEttiene "Ettiene" [NPC_:040369ED]
 |Can Knockdown Player| No |
 
 **Additional Perks**
-They can detect steath players So Sneak attacks are impossible to perform
+* They can detect steath players So Sneak attacks are impossible to perform
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
+* Respite - Healing spells restore both health and stamina.
+* Pyromancy 2 - All frost spells deal 30% more damage.
+* Fire Mastery - Her fascination with fire now grants her 25% resistance to it, while fire spells are 5% stronger and 10% less costly.
+* Improved Healing - Healing spells are 25% more effective.
+* Level 56 destruction bonus (spell damage increased by 56% )
+* Level 57 Restoration bonus (Healing Spells increased by 57% )
 
 ## Ice Wraith
 
@@ -1095,8 +1108,12 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Ranged (Bows & Crossbows)  | 75% damage reduction |
 
 **Additional Perks - Except Burnt Spriggans**
-"Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
-"Spriggan Resiliance" - When health drops below 20%, Apply a 90% damage reduction from all sources
+* "Spriggan Call of the Wild" -  Call Animals in 6000 feet to help, for 60 seconds, Invisibility, 5 seconds
+
+
+**Additional Perks*
+* Improved Healing - Healing spells are 25% more effective.
+* "Spriggan Resiliance" - When health drops below 20%, Apply a 90% damage reduction from all sources
 
 **Spriggan**
 
@@ -1205,7 +1222,6 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 | Diseased | None |
 |Can Knockdown Player| No |
 
-
  *Resistances*
 |Type  | Protection | 
 |--|--|
@@ -1213,6 +1229,11 @@ Spriggans are somewhat like Nymphs, but are more associated with forests and gro
 |Poison  | Immune | 
 |Sneak Attack | Immune |
 |Paralysis  | Immune | 
+
+**Additional perks**
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
+* Pyromancy 2 - All frost spells deal 30% more damage.
+
 
 ## Troll 
 
@@ -1600,6 +1621,12 @@ Wisps are glowing, spherical creatures flying around that will attack the Dragon
 |--|--|
 |Sneak Attack | Immune |  
 |Paralysis  | Immune |  
+
+
+**Additional Perks**
+* Cryomancy 2  All frost spells deal 30% more damage.
+
+---
 
 **Wispering Spirit** 
 *Basic Stats*
