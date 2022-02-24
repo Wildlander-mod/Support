@@ -28,6 +28,10 @@
 |Shock  | 50 | N/A |
 |Sneak Attack | Immune |  N/A |
 
+*perks*
+* Pyromancy - All Fire spells deal 15% more damage.
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
+
 ### 1 hander
 *Variations*
 |Stat| Level 55 |Level 60 |Level 70 |
@@ -40,16 +44,22 @@
 |--|--|
 |Magicka| 300 |
 |Movement Speed| 100 |
-|Melee Damage| 55 unarmed, 78 from Axe |
+|Melee Damage| 85 unarmed, 78 from Axe |
 |Ranged Damage| None  |
 |Magical Damage| AshBolt - Ash and embers cause 50 points of damage. |
 |Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 26 from perks |
 |Health Regeneration| Yes  100/s when on Fire |
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
+
+*Perks*
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Axe Focus - His masterful skill with one-handed Axes further enhances his attacks.[+24% attack speed, +21 armor penetration]
+* Weapon Mastery - Improved fighting techniques bolster the damage and ease of his one-handed and unarmed attacks.[Damage x 140% , -50% weapon weight penalties]
+* Martial Arts - He's a passionate pugilist. Unarmed power attacks deal 30 more damage and cost 66% less stamina.
 
 ### 2 Hander
 
@@ -69,10 +79,16 @@
 |Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 50 From Perks|
 |Health Regeneration| Yes  100/s when on Fire |
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
+
+*Perks*
+* Armor Penetration 15 - He gains 15 AP when using 2Handed Weapons
+* Battle Axe Focus - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]
+* Great Weapon Mastery - Advanced martial techniques further increase the damage and ease of your two-handed attacks. [Damage x 1.4, -50% weapon weight penalties]
+* Barbaric Might Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
 
 ### Unarmed
 *Variations*
@@ -87,7 +103,7 @@
 |--|--|
 |Magicka| 300 |
 |Movement Speed| 100 |
-|Melee Damage| 55 unarmed |
+|Melee Damage| 85 unarmed |
 |Ranged Damage| None  |
 |Magical Damage| AshBolt - Ash and embers cause 50 points of damage. |
 |Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
@@ -97,6 +113,9 @@
 |Health Regeneration| Yes  100/s when on Fire |
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
+
+*Perks*
+* Martial Arts - He's a passionate pugilist. Unarmed power attacks deal 30 more damage and cost 66% less stamina.
 
 
 ## Death Hound
@@ -339,7 +358,10 @@ A Standard Storm Varient Dragon priest.
 |Unrelenting Force| Immune |
 
 **Additional Perks*
-Has the shared perks, plus Same as Standard Fire priests
+* Has the shared perks, plus Same as Standard Fire priests
+* Mysticism - Spells that affect the Undead and Daedra are 10% more effective and last 25% longer.
+* Fire Mastery Your fascination with fire now grants you 25% resistance to it, while your fire spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
 
 ---
 **Dukaan** 
@@ -379,7 +401,13 @@ Has the shared perks, plus Same as Standard Fire priests
 |Unrelenting Force| Immune |
 
 **Additional Perks*
-Has the shared perks, plus Same as Standard Frost priests
+* Has the shared perks, plus Same as Standard Frost priests
+* Ritualism - Raising the dead and summoning ghosts costs 25% less magicka.
+* Mysticism - Spells that affect the Undead and Daedra are 10% more effective and last 25% longer.
+* Frost Mastery our understanding of frost magic grants you 25% resistance to it, while your frost spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
+
+
 
 ---
 **Zahkriisos** 
@@ -420,7 +448,10 @@ Has the shared perks, plus Same as Standard Frost priests
 |Unrelenting Force| Immune |
 
 **Additional Perks*
-Has the shared perks, plus Same as Standard Shock priests
+* Has the shared perks, plus Same as Standard Shock priests
+* Mysticism - Spells that affect the Undead and Daedra are 10% more effective and last 25% longer.
+* Shock Mastery Your fascination with Shock now grants you 25% resistance to it, while your Shock spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
 
 --- 
 
@@ -464,7 +495,11 @@ Has the shared perks, plus Same as Standard Shock priests
 |Unrelenting Force| Immune |
 
 *Additional Perks*
-Has the shared perks, plus all the Perks Shock, Fire and Frost Priests do.
+* Has the shared perks, plus all the Perks Shock, Fire and Frost Priests do.
+* Shock Mastery Your fascination with Shock now grants you 25% resistance to it, while your Shock spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
+* Metamagical Thesis - His fundamental knowledge of Aetherial power decreases magicka cost for all spells by 10%
+* Metamagical Empowerment - He is a master spellcaster. Duration and magnitude of all spells are enhanced by 20%.
 
 
 ## Draugr 
@@ -486,7 +521,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Pierce(Daggers)    | 50% Damage reduction |
 |Blunt (Maces & Hammers)   | 50% Damage reduction |
 |Ranged (Bows & Crossbows)  | Tier 3 |
-
 
 ### Standard 
 
@@ -537,7 +571,6 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 | Diseased | No |
 |Can Knockdown Player|  No|
 
-
  *Resistances*
 |Type  | Protection | Weakness|
 |--|--|--|
@@ -562,11 +595,11 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Magical Damage| None  |
 |Shout| Unrelenting Force  |
 |Standard AR| 720 |
-|Magical AR| 10% |
-|AP| 50% |
+|Magical AR| 10% (Sword and Board keepers have Elemental Protection which reduces incoming elemental damage by 50%) |
+|AP| Depends on Weapon - See additional perks |
 |Health Regeneration| Yes - 50/s  unless on fire |
 | Diseased | None |
-|Can Knockdown Player| None |
+|Can Knockdown Player| Yes |
 
 
  *Resistances*
@@ -587,6 +620,37 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |2 |Dragonbone Bow & Dragonbone Arrow| 90 + 108 + 28% AP + 70% Stagger chance on power attacks|
 |3 |Dragonbone Mace & Dragonplate Shield| 96 + 270 Block|
 
+**Additional Perks**
+*Sword and Board*
+* Stunning Charge - he expertly utilize His weight and momentum during forward power attacks.[Forward power attacks can knock down]
+* Disarming Bash - His precise bashes have a chance to disarm opponents.<br> [25% chance with a shield, 6% chance with a weapon.]
+* Powerful Bashes - Unlocks Power Bashing with a weapon or shield.<br>Successful Power Bashes stagger most foes, and cost additional stamina.
+* Strong Grip - Blocking with shield or weapon is 40% more effective.  His equipped shield can deflect arrows, grants 10% more armor rating, and weighs 75% less
+* Overpowering Bashes Power bashing with His shield will sometimes knock His opponent over. Wearing heavier gear improves the chance of success.
+* Armsman - One-Handed weapons do 140% damage.
+* Defensive Stance - Blocking no longer slows him down.
+* Elemental Protection - His  raised shield negates 50% of all incoming elemental damage.
+* Mace Focus I - His basic skill with one-handed maces enhances armor penetration.[Power attack damage x 1.05, +15 armor penetration]
+* Mace Focus III- His advanced skill with one-handed maces further enhances armor penetration.[Power attack damage x 1.1, +30 armor penetration]
+* Mace Focus III- His masterful with one-handed maces renders enemy armor almost useless.[Power attack damage x 1.15, +45 armor penetration]
+
+*Archer*
+* Power Shot - His shots land with tremendous impact, occasionally staggering foes.[70% chance to stagger targets]
+* Ranger - You've improved His footwork with light ranged weaponry.<br>[Allows running while attacking with light bows and crossbows]
+* Stunning Precision - Any successful staggering shot will almost always stun the target.[Staggering hits will also stun the target]
+* OverDraw - Bows do 140% damage.
+* Marksman AP - 50 points of AP when using a Bow.
+
+*2-Hander*
+* Cleave - His power attacks are truly devastating and he can cut down multiple foes with a single sweeping blow. [Sideways power attack can hit multiple targets]
+* Devastating Cleave - You've enhanced His cleave with terrifying finesse and power.[Sideways power attacks can knock down]
+* Barbaric Might - Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
+* Devastating Strike  - His two-handed power attacks are even deadlier, and absolutely devastate foes. [Power attack damage x 1.25]
+* Great Weapon Mastery I  - Diligent practice bolsters the damage and ease of His two-handed weapon attacks. [Damage x 1.2, -50% weapon weight penalties]
+* Great Weapon Mastery II - Advanced martial techniques further increase the damage and ease of His two-handed attacks. [Damage x 1.4, -50% weapon weight penalties]
+* Devastating Charge - You've learned to perform a leaping power attack while sprinting, reducing His enemies to smithereens. [Unlocks sprinting power attack, -25% weapon weight penalties]
+* Mighty Strike - A single strike from His two-handed weapon can fell almost any foe.<br>[damage x 1.25, +20 armor penetration]
+* Barbarian - 2 Handed Weapons do 150% damage.
 
 ---
 
@@ -879,9 +943,12 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
-**Physical** 
+### Melee
 
-**Caster** 
+### Caster
+
+**Additional Perks**
+Cryomancy - All frost spells deal 15% more damage.
 
 ### **Armored** 
 
@@ -905,14 +972,37 @@ A variety of skeleton which inhabit the Soul Cairn.
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None |
-|AP| None |
+|AP| 56 if using a Axe, 50 in using a bow, 5 if using sword |
 |Health Regeneration|  None |
 | Diseased | None |
-|Can Knockdown Player| No |
+|Can Knockdown Player| Yes |
 
- *Resistances*
- 
- |Type  | Protection | Weakness|
+**Additional Perks**
+*Sword and Board*
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Stunning Charge - He expertly utilizes his weight and momentum during forward power attacks.[Forward power attacks can knock down]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.[-50% power attack stamina cost, +5 armor penetration]
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.[Damage x 1.05, +10 Armor Penetration]
+* War Axe Focus III- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.[Damage x 1.15, +20 armor penetration]
+* War Axe Focus III- His masterful skill with one-handed War Axes further enhances his attacks.[+24% attack speed, +21 armor penetration]
+* Armsman - One-Handed weapons do 140% damage.
+* Powerful Charge - His sprinting power attack propels him through the air and deals terrifying damage. [Unlocks sprinting power attack, -25% weapon weight penalties]
+* Disarming Bash - His precise bashes have a chance to disarm opponents. [25% chance with a shield, 6% chance with a weapon.]
+* Powerful Bashes - Unlocks Power Bashing with a weapon or shield. Successful Power Bashes stagger most foes, and cost additional stamina.
+* Strong Grip - Blocking with shield or weapon is 40% more effective.  His equipped shield can deflect arrows, grants 10% more armor rating, and weighs 75% less
+* Overpowering Bashes Power bashing with your shield will sometimes knock his opponent over. Wearing heavier gear improves the chance of success.
+* Defensive Stance - Blocking no longer slows him down.
+
+*Archer*
+* Power Shot - His shots land with tremendous impact, occasionally staggering foes.[70% chance to stagger targets]
+* Ranger  -He has improved his footwork with light ranged weaponry.[Allows running while attacking with light bows and crossbows]
+* Stunning Precision - Any successful staggering shot will almost always stun the target.[Staggering hits will also stun the target]
+* OverDraw - Bows do 140% damage.
+* Marksman AP - 50 points of AP when using a Bow.
+
+*Resistances*
+
+|Type  | Protection | Weakness|
 |--|--|--|
 |Frost  | 80% | N/A |
 |Fire | N/A  | 25% |
@@ -968,16 +1058,16 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Magicka| 0 |
 |Stamina| 3000 |
 |Movement Speed| 125 |
-|Melee Damage| Battleaxe of Soulreaping 21 damage + 3/s for 10 seconds of frost damage. * 140% weapons damage perk
+|Melee Damage| Battleaxe of Soulreaping 21 damage + 3/s for 10 seconds of frost damage. 
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Shout| Unrelenting Force  |
 |Standard AR| 600 |
 |Magical AR| None |
-|AP| 50% |
+|AP| 85 from perks |
 |Health Regeneration|  None |
 | Diseased | None |
-|Can Knockdown Player| None |
+|Can Knockdown Player| Yes - With Cleaves |
 
  *Weapon Protection*
 | Type | Reductions |
@@ -992,9 +1082,8 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
- *Resistances*
- 
- |Type  | Protection | Weakness|
+*Resistances*
+|Type  | Protection | Weakness|
 |--|--|--|
 |Frost  | 85% | N/A |
 |Fire | N/A  | 50% |
@@ -1003,6 +1092,19 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Paralysis  | Immune | N/A  |
 |Sneak Attack | Immune | N/A |
 |Knock Down| Minor | N/A|
+
+** Additional Perks **
+Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
+Battle Axe Focus II - His advanced battleaxe skill further increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.15, +20 armor penetration]
+Battle Axe Focus III - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]
+Barbaric Might - Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
+Cleave - His power attacks are truly devastating and he can cut down multiple foes with a single sweeping blow. [Sideways power attack can hit multiple targets]
+Devastating Cleave - You've enhanced His cleave with terrifying finesse and power.[Sideways power attacks can knock down]
+Devastating Strike  - His two-handed power attacks are even deadlier, and absolutely devastate foes. [Power attack damage x 1.25]
+Great Weapon Mastery I  - Diligent practice bolsters the damage and ease of His two-handed weapon attacks. [Damage x 1.2, -50% weapon weight penalties]
+Great Weapon Mastery II - Advanced martial techniques further increase the damage and ease of His two-handed attacks. [Damage x 1.4, -50% weapon weight penalties]
+Devastating Charge - You've learned to perform a leaping power attack while sprinting, reducing His enemies to smithereens. [Unlocks sprinting power attack, -25% weapon weight penalties]
+Mighty Strike - A single strike from His two-handed weapon can fell almost any foe.<br>[damage x 1.25, +20 armor penetration]
 
 
 ## Vampires
