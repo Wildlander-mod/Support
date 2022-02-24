@@ -1258,17 +1258,19 @@ Weapon Enchants
 |Unrelenting Force| Immune | N/A |
 
 **Additional Perks**
+
 *Regardless of weapon*
 * 300% Damage done.
 * Poisoned weapons - A blood-freezing poison that deals 2 points of damage to Health and Stamina per second for 60 Seconds, Paralysing for 2 seconds. The target is 50% weaker to poison for 12 seconds.
 
-* When using archery*
+*When using archery*
 * Power Shot - His shots land with tremendous impact, occasionally staggering foes.[70% chance to stagger targets]
 * Stunning Precision - Any successful staggering shot will almost always stun the target.[Staggering hits will also stun the target]
 * OverDraw - Bows do 140% damage.
 * Marksman AP - 50 points of AP when using a Bow.
 
 *When using One-hand*
+
 * Armsman - One-Handed weapons do 140% damage.
 * War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
 * War Axe Focus III- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.15, +20 armor penetration]
