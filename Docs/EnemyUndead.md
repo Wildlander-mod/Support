@@ -1115,86 +1115,187 @@ Mighty Strike - A single strike from His two-handed weapon can fell almost any f
 
 Vampires are known to reside throughout Tamriel and Skyrim is no exception. The most renowned local clan bears the name "Volkihar", though not much is known about their kin. As all vampires, they suffer much less from non-bladed weapons and are somewhat resistant to arrows. On the other hand, they do fear fire, for it causes severe damage to their bodies. Sunlight will also pose a threat to them, though it's not clear if they suffer as badly as other vampires from it. The real threat they pose, however, comes from their experience, as most vampires are very, very old - old enough to have studied probably all of the arcane schools to the very limits of Mundus or even beyond. Therefore, they almost all are foes incredibly skilled and thus, incredibly dangerous. Most importantly, one should not even think about using a holy symbol or garlic as protection, for the vampires will just laugh up their sleeve while tearing such a fool apart...
 
-### **Standard** 
+### Shared
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Standard (Arrows)   | 33% |
+
+### **Standard Sloot Vampire** 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
+|Health| 620 |
+|Magicka| 480 |
+|Stamina| 1319 |
+|Movement Speed| 90 |
+|Melee Damage| 39 |
+|Ranged Damage|   |
+|Standard AR| 240 |
+|Magical Damage|   |
 |Standard AR|  |
-|Magical AR|  |
+|Magical AR| 20% |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration|  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | Immune | N/A |
+|Fire |  N/A  | -75 |
+|Shock  | 75 | N/A |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A |
+|Unrelenting Force| Immune | N/A |
+
+
+### **Standard Armored Vampire** 
+
+Wears a full set of any ingame Armor.
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 810 |
+|Magicka| 1400 |
+|Stamina| 1410 |
+|Movement Speed| 65 |
+|Melee Damage| 39 |
+|Ranged Damage|   |
+|Standard AR| Depends on Armor set |
+|Magical Damage|   |
+|Standard AR|  |
+|Magical AR| 20% |
+|AP| None |
+|Health Regeneration|  |
+| Diseased |  |
+|Can Knockdown Player| |
+
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 95 | N/A |
+|Fire |  N/A  | -75 |
+|Shock  | 50 | N/A |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A |
+|Unrelenting Force| Immune | N/A |
 
 ### **Ebony** 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
 
-### Lord
+The "boss" of all vampires. Equiped with a fullset of Enchanted Ebony armor, a Enchanted Ebony bow and arrows, and a enchanted melee weapon.
+
+Each Piece of armor can be enchanted with one of 
+- Extreme Health
+- Noble knight
+- Regeneration
+- Invigeration
+- Extreme Alteration
+- Extreme Conjuring
+- Extreme Restoration
+- Extreme Destrution
+- Extreme Illusion
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 1820 |
+|Magicka| 1980 |
+|Stamina| 10320 |
+|Movement Speed| 70 |
+|Melee Damage| 39 unarmed or  Weapon damage |
+|Ranged Damage| Ebony bow (base) 75 + 90 (arrows)  |
+|Magical Damage|  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock                   damage disintegrates targets if their health is low (below 25%) |
+|      | Icy Spear -   A spear of ice that does a 0.25 stagger, 35 points of frost damage to Health and Stamina and 40% slow.|
+|      | Thunderbolt The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%) |
+|| Drain Life - Absorb 35 points of health/Magic/Stamina per second from the target. Only equipped in the left hand.|
+|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
+|Summon| Summon Ghostly Dragonpriest The caster binds the ghost of a terrifying Dragon Priest that brings cold death for 300 seconds.
+|Utility| Vampiric Invisibility - he can become invisible for 20 Seconds.
+||Stone of the Lord - The Stone of the Lord grants those who possess its blessing increased damage resistance and weakened hostile spells.
+|Shout| Ice Form - Your Thu'um is ice, and so are those unfortunate ones who tease your wrath. for targets under 75% frost resist (frost damage: 4 damage per second for 120 seconds freeze: 20 seconds ) 
+|Standard AR| 570 |
+|Magical AR| 45% + 30% Absorb|
+|AP| Depends on weapons |
+|Health Regeneration| yes 1/s  Can be more - Depends on Armor enchants  |
+| Diseased | Yes - Sanguine Vampirais |
+|Can Knockdown Player| Yes |
 
 
 
+Weapons
+|Name|Base Stats|
+|--|--|
+|Ebony Mace     | 90               |
+|Ebony Bow      | 75 + 90 (arrows) |
+|Ebony Sword    | 78               |
+|Ebony War Axe  | 84               |
 
+Weapon Enchants
+- Banish
+- Fear
+- Fire
+- Shock
+- Frost
+- Magika
+- Paralyse
+- Soul Trap
+- Stamina
+- Turn Undead
+- Absorb Health
+- Absorb Magika
+- Absorb Stamina
 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | Immune | N/A |
+|Fire |  | -5 |
+|Shock  | Immune | N/A |
+|Poison  | Immune | N/A |
+|Paralysis  | Immune | N/A |
+|Unrelenting Force| Immune | N/A |
 
+**Additional Perks**
+*Regardless of weapon*
+* 300% Damage done.
+* Poisoned weapons - A blood-freezing poison that deals 2 points of damage to Health and Stamina per second for 60 Seconds, Paralysing for 2 seconds. The target is 50% weaker to poison for 12 seconds.
 
+* When using archery*
+* Power Shot - His shots land with tremendous impact, occasionally staggering foes.[70% chance to stagger targets]
+* Stunning Precision - Any successful staggering shot will almost always stun the target.[Staggering hits will also stun the target]
+* OverDraw - Bows do 140% damage.
+* Marksman AP - 50 points of AP when using a Bow.
 
+*When using One-hand*
+* Armsman - One-Handed weapons do 140% damage.
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* War Axe Focus III- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.15, +20 armor penetration]
+* War Axe Focus III- His masterful skill with one-handed War Axes further enhances his attacks.[+24% attack speed, +21 armor penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+* Sword Focus II - Your improving skill with one-handed blades further enhances your attacks.<br>[+16% attack speed, +14 armor penetration]
+* Sword Focus III - Your masterful skill with one-handed blades further enhances your attacks.<br>[+24% attack speed, +21 armor penetration]
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Stunning Charge - he expertly utilize His weight and momentum during forward power attacks.[Forward power attacks can knock down]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*When using Magical Spells*
+* Dark Infusion Reanimated entities have more health, higher resistance to elemental damage, <br>and they no longer decay into dust.
+* Necromancy Undead and ghostly summons last 50% longer. He can reanimate more powerful corpses (3x higher level) that last 10x longer.
+* Pyromancy 2  All frost spells deal 30% more damage.
+* Cryomancy 2  All frost spells deal 30% more damage.
+* Electromancy 2 - All shock spells deal 30% more damage.
+* Magical Absorption Your understanding of arcane energies grants you 30% chance to absorb incoming spells, shouts, or enchantments, as pure magicka.
+* Improved Healing - Healing spells are 25% more effective.
+* Respite - Healing spells restore both health and stamina.
+* Improved Wards - Your arcane wards are 25% more effective, absorb 25% Magicka from hostile spells, and cost 5% less Magicka to cast.
+* Extended Binding - He can summon Daedra and Spirits up to five times farther away for 25% less magicka.
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
+* Electrostatic Discharge - - His shock spells damage damage his opponent's Magicka alongside their Health.
+* Fire Mastery - His fascination with fire now grants him 25% resistance to it, while fire spells are 5% stronger and 10% less costly.
+* Frost Mastery - His fascination with Frost now grants him 25% resistance to it, while Frost spells are 5% stronger and 10% less costly.
+* Shock Mastery - His fascination with Shock now grants him 25% resistance to it, while Shock spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility His expanded mental focus allows you to maintain two summons at once, including those outside the school of Conjuration.
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
