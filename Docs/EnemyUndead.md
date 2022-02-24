@@ -81,7 +81,7 @@
 |Magical Cloak| Flame Cloak - Opponents in melee range take 8 points fire damage per second. Targets on fire take extra damage. |
 |Standard AR| None |
 |Magical AR| None |
-|AP| 50 From Perks|
+|AP| 80 From Perks|
 |Health Regeneration| Yes  100/s when on Fire |
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
