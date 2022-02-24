@@ -28,7 +28,7 @@
 |Shock  | 50 | N/A |
 |Sneak Attack | Immune |  N/A |
 
-*perks*
+**Additional Perks**
 * Pyromancy - All Fire spells deal 15% more damage.
 * Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
 
@@ -55,9 +55,11 @@
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
 
-*Perks*
+**Additional Perks**
 * Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
-* Axe Focus - His masterful skill with one-handed Axes further enhances his attacks.[+24% attack speed, +21 armor penetration]
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* War Axe Focus III- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.15, +20 armor penetration]
+* War Axe Focus III- His masterful skill with one-handed War Axes further enhances his attacks.[+24% attack speed, +21 armor penetration]
 * Weapon Mastery - Improved fighting techniques bolster the damage and ease of his one-handed and unarmed attacks.[Damage x 140% , -50% weapon weight penalties]
 * Martial Arts - He's a passionate pugilist. Unarmed power attacks deal 30 more damage and cost 66% less stamina.
 
@@ -84,9 +86,11 @@
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
 
-*Perks*
+**Additional Perks**
 * Armor Penetration 15 - He gains 15 AP when using 2Handed Weapons
-* Battle Axe Focus - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]
+* Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
+* Battle Axe Focus II - His advanced battleaxe skill further increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.15, +20 armor penetration]
+* Battle Axe Focus III - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]
 * Great Weapon Mastery - Advanced martial techniques further increase the damage and ease of your two-handed attacks. [Damage x 1.4, -50% weapon weight penalties]
 * Barbaric Might Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
 
@@ -114,7 +118,7 @@
 | Diseased | yes - Black Heart Blight |
 |Can Knockdown Player| No |
 
-*Perks*
+**Additional Perks**
 * Martial Arts - He's a passionate pugilist. Unarmed power attacks deal 30 more damage and cost 66% less stamina.
 
 
@@ -357,7 +361,7 @@ A Standard Storm Varient Dragon priest.
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
-**Additional Perks*
+**Additional Perks**
 * Has the shared perks, plus Same as Standard Fire priests
 * Mysticism - Spells that affect the Undead and Daedra are 10% more effective and last 25% longer.
 * Fire Mastery Your fascination with fire now grants you 25% resistance to it, while your fire spells are 5% stronger and 10% less costly.
@@ -400,7 +404,7 @@ A Standard Storm Varient Dragon priest.
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
-**Additional Perks*
+**Additional Perks**
 * Has the shared perks, plus Same as Standard Frost priests
 * Ritualism - Raising the dead and summoning ghosts costs 25% less magicka.
 * Mysticism - Spells that affect the Undead and Daedra are 10% more effective and last 25% longer.
@@ -447,7 +451,7 @@ A Standard Storm Varient Dragon priest.
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
-**Additional Perks*
+**Additional Perks**
 * Has the shared perks, plus Same as Standard Shock priests
 * Mysticism - Spells that affect the Undead and Daedra are 10% more effective and last 25% longer.
 * Shock Mastery Your fascination with Shock now grants you 25% resistance to it, while your Shock spells are 5% stronger and 10% less costly.
@@ -494,7 +498,7 @@ A Standard Storm Varient Dragon priest.
 |Sneak Attack | Immune |  
 |Unrelenting Force| Immune |
 
-*Additional Perks*
+**Additional Perks**
 * Has the shared perks, plus all the Perks Shock, Fire and Frost Priests do.
 * Shock Mastery Your fascination with Shock now grants you 25% resistance to it, while your Shock spells are 5% stronger and 10% less costly.
 * Cognitive Flexibility 2 mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
@@ -1044,7 +1048,7 @@ Floating, legless, black skeletons found in the Soul Cairn. You can summon them 
 |Sneak Attack | Immune | N/A |
 |Knock Down| Minor | N/A|
 
-*Additional Perks*
+**Additional Perks**
 * Cryomancy II - Frost spell damage increased by 30% 
 * Level 95 destruction bonus (spell damage increased by 95% )
 
@@ -1093,7 +1097,7 @@ Black skeleton warriors found in the Soul Cairn. You can summon them after learn
 |Sneak Attack | Immune | N/A |
 |Knock Down| Minor | N/A|
 
-** Additional Perks **
+**Additional Perks**
 Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
 Battle Axe Focus II - His advanced battleaxe skill further increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.15, +20 armor penetration]
 Battle Axe Focus III - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]
