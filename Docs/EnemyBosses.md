@@ -48,6 +48,8 @@
 
 # Lord Harkon
 
+# Malkoran
+
 # Miraak
 
 Shouts (do 130% damage, shout recovery is 150% )
@@ -139,7 +141,10 @@ Perks
 |Slash (Swords & Axes)  |  2 |
 |Pierce(Daggers)    | 2 |
 |Blunt (Maces & Hammers)   | 2 |
-|Ranged (Bows & Crossbows)  | 3 |        
+|Ranged (Bows & Crossbows)  | 3 |    
+
+# Morvarth 
+See [Ebony Vampire](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md#ebony)
 
 # Potema
 
