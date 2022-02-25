@@ -275,8 +275,9 @@ Note: Does not have the shared spells.
 |      |Snow Spume -  The caster manifests an explosion of ice shards at the target location, dealing 45 points of damage in its radius..
 |Summmon| Summon Frost Atronach - summons a Frost Atronach for 60 seconds. |
 
-**Additional Perks*
-Has the shared perks, plus Same as Standard Frost priests
+**Additional Perks**
+Has the shared perks, plus Same as Standard Frost priests.
+
 
 ---
 **Krosis** 
@@ -763,9 +764,9 @@ Weapons
 |Type  | Protection |
 |--|--|
 |Frost  | 95|  
-|Poison  | immune |  
-|Paralysis  |immune |  
-|Sneak Attack | immune| 
+|Poison  | Immune |  
+|Paralysis  |Immune |  
+|Sneak Attack | Immune| 
 
 ## Gargoyles
 When stationary, gargoyles disguise themselves as statues. They can often be found beside regular statues, helping them blend in. While posing as a statue, they are immune to harm and cannot be killed. If they do not immediately burst from the rocks, magic (such as Soul Trap) can be used to distinguish a stationary gargoyle from a regular statue. 
