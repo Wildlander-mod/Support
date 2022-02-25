@@ -56,6 +56,7 @@ About Magic/Elemental Resistances Values.
 |Rattles|Stamina regeneration is reduced by {mag}%. | 10 |25|50|Chaurus
 |Rock Joint|You are {mag}% less effective with melee weapons| 10 |25|50|Foxes & Wolves
 |Shakes|Archery is {mag}% less effective. | 10 |25|50|Skeevers
+|Sanguine Vampiris|This vile miasma rots your body, negating restorative power. Healing potions are still effective, but unless the malediction is cleansed within three days, the victim will become a vampire. | Constant Health Drain for 3 days | N/A | N/A | Vampires Drain life spell, Vampire dust 
 |Wit Bane|Magicka regeneration is reduced by {mag}%.| 10 |25|50|Sabrecats
 |Wither|Armor rating reduced by {mag} points. | 50 | 100 |150|Sabrecats
 
