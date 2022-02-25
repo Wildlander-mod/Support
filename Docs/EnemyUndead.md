@@ -1131,14 +1131,13 @@ Vampires are known to reside throughout Tamriel and Skyrim is no exception. The 
 |Stamina| 1319 |
 |Movement Speed| 90 |
 |Melee Damage| 39 |
-|Ranged Damage|   |
+|Ranged Damage| None  |
 |Standard AR| 240 |
 |Magical Damage|   |
-|Standard AR|  |
 |Magical AR| 20% |
-|AP| None |
-|Health Regeneration|  |
-| Diseased |  |
+|AP| See Perks. |
+|Health Regeneration| Yes 1/s |
+| Diseased | Yes - Sanguine Vampiris  |
 |Can Knockdown Player| |
 
 
@@ -1154,7 +1153,7 @@ Vampires are known to reside throughout Tamriel and Skyrim is no exception. The 
 
 ### **Standard Armored Vampire** 
 
-Wears a full set of any ingame Armor.
+Wears a full set of Steel Plate Armor
 
 *Basic Stats*
 |Stat| Value |
@@ -1163,16 +1162,19 @@ Wears a full set of any ingame Armor.
 |Magicka| 1400 |
 |Stamina| 1410 |
 |Movement Speed| 65 |
-|Melee Damage| 39 |
-|Ranged Damage|   |
-|Standard AR| Depends on Armor set |
-|Magical Damage|   |
-|Standard AR|  |
+|Melee Damage| 39 Unarmed |
+|Ranged Damage| None |
+|Standard AR| 720 |
+|Magical Damage|  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock                   damage disintegrates targets if their health is low (below 25%) |
+|      | Icy Storm The caster evokes a freezing whirlwind that deals 40 points of frost damage per second to Health and Stamina. Targets in the ice storm suffer a 35% slow for 5 seconds.
+|| Drain Life - Absorb 35 points of health/Magic/Stamina per second from the target. Only equipped in the left hand.|
+|Summon| Revenant The caster reanimates a powerful dead body for 60 seconds.
+|Utility| Vampiric Invisibility - he can become invisible for 20 Seconds.
 |Magical AR| 20% |
-|AP| None |
-|Health Regeneration|  |
-| Diseased |  |
-|Can Knockdown Player| |
+|AP| See Perks. |
+|Health Regeneration| Yes 1/s |
+| Diseased | Yes - Sanguine Vampiris |
+|Can Knockdown Player| No |
 
 |Type  | Protection | Weakness|
 |--|--|--|
@@ -1182,6 +1184,37 @@ Wears a full set of any ingame Armor.
 |Poison  | Immune | N/A |
 |Paralysis  | Immune | N/A |
 |Unrelenting Force| Immune | N/A |
+
+Weapons
+|Name|Base Stats|
+|--|--|
+|Iron Sword       | 42 |
+|Iron War Axe     | 48 |
+|Steel Sword      | 48 |
+|Steel War Axe    | 54 |
+|Orcish Sword     | 60 |
+|Orcish War Axe   | 66 |
+|Dwarven Sword    | 66 |
+|Dwarven War Axe  | 72 |
+
+**Additional Perks**
+* They can detect steath players So Sneak attacks are impossible to perform
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Stunning Charge - he expertly utilize His weight and momentum during forward power attacks.[Forward power attacks can knock down]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+* Sword Focus II - Your improving skill with one-handed blades further enhances your attacks.<br>[+16% attack speed, +14 armor penetration]
+* Sword Focus III - Your masterful skill with one-handed blades further enhances your attacks.<br>[+24% attack speed, +21 armor penetration]
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* War Axe Focus III- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.15, +20 armor penetration]
+* War Axe Focus III- His masterful skill with one-handed War Axes further enhances his attacks.[+24% attack speed, +21 armor penetration]
+* Armsman - One-Handed weapons do 140% damage.
+* Dark Infusion Reanimated entities have more health, higher resistance to elemental damage, <br>and they no longer decay into dust.
+* Necromancy Undead and ghostly summons last 50% longer. He can reanimate more powerful corpses (3x higher level) that last 10x longer.
+* Cryomancy 2  All frost spells deal 30% more damage.
+* Deep Freeze Many of His ice spells can freeze enemies who are susceptible to frost.
+* Mage Armor - Protection spells like Stoneflesh are 2.5 times as strong.
+
 
 ### **Ebony** 
 
@@ -1220,10 +1253,8 @@ Each Piece of armor can be enchanted with one of
 |Magical AR| 45% + 30% Absorb|
 |AP| Depends on weapons |
 |Health Regeneration| yes 1/s  Can be more - Depends on Armor enchants  |
-| Diseased | Yes - Sanguine Vampirais |
+| Diseased | Yes - Sanguine Vampiris |
 |Can Knockdown Player| Yes |
-
-
 
 Weapons
 |Name|Base Stats|
