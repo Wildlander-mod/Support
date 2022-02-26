@@ -948,9 +948,62 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
-### Melee
+### Physical
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 170 |
+|Magicka| 0 |
+|Stamina| 80 |
+|Movement Speed| 100 |
+|Standard AR| None |
+|Magical AR| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player|  |
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 80 | N/A  |
+|Fire | N/A | 25 |
+|Shock  | 50 | N/A  |
+|Poison  | Immune | N/A  |
+|Paralysis  | |  |
+|Sneak Attack | Immune | N/A  |
+|Knock Down| | |
+|Life Drain| |  |
+|Unrelenting Force| | |
 
 ### Caster
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 150 |
+|Magicka| 500 |
+|Stamina| 3080 |
+|Movement Speed| 71 |
+|Standard AR| None |
+|Magical AR| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player|  |
+
+ *Resistances*
+|Type  | Protection |
+|--|--|
+|Frost  | 80 |  
+|Fire | 5 |  
+|Shock | 50 |  
+|Poison  | Immune |  
+|Paralysis  | |  
+|Sneak Attack | Immune | 
+|Knock Down| | 
+|Life Drain| |  
+|Unrelenting Force| |
 
 **Additional Perks**
 Cryomancy - All frost spells deal 15% more damage.
@@ -960,7 +1013,34 @@ Cryomancy - All frost spells deal 15% more damage.
 *Basic Stats*
 |Stat| Value |
 |--|--|
+|Health| 200 |
+|Magicka| 0 |
+|Stamina| 80 |
+|Movement Speed| 100 |
 |Standard AR| 360 |
+|Magical AR| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player|  |
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 85 | N/A  |
+|Fire | N/A | 50 |
+|Shock  | 50 | N/A  |
+|Poison  | Immune | N/A  |
+|Paralysis  | |  |
+|Sneak Attack | Immune | N/A  |
+|Knock Down| | |
+|Life Drain| |  |
+|Unrelenting Force| | |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Ranged (Bows & Crossbows)  | 3 |
 
 ### **Boneman** 
 A variety of skeleton which inhabit the Soul Cairn. 
