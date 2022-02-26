@@ -48,6 +48,108 @@
 
 # Aldiun
 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 1200 |
+|Magical AR| None |
+|AP| 30% |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| Yes |
+
+**Additional perks** 
+* Worldeater's Howl  - Shouts are 5% more powerful
+
+**Shouts**
+*While in Alduin's Bane Quest*
+* Alduin Invulnerability - Immune to damage while Flying
+* Dragon Storm Call - The Storm Call shout creates a heavy metoer shower directly above the Dragonborn that throws powerful meteors down upon anyone underneath, friend and foe alike. (Staggers and creates a flaming hazard which deals 10 damage per second. Hazard lasts for 600 seconds)
+* Drain Vitality - His Thu'um reaches out and takes away the very lifeforce of His enemies and and gives it to Him (  drain stamina: 5 per second for 60 seconds,   drain magicka: 5 per second for 60 seconds,   drain health: 5 per second for 60 seconds,   small stagger)
+* Dragon Unrelenting Force 
+* Fire Ball - There are few things a Dragon's scorching breath cannot reduce to ashes and cinders within a trice. (Deals 120 Fire Damage for enemies within 15 feet for 5 seconds). 
+* Ice Storm There are few things a Dragon's freezing breath cannot freeze to death in a mere blink of an eye (Deals 120 Frost Damage for enemies within 15 feet for 5 seconds). 
+* Fire Breath  - There are few things a Dragon's scorching breath cannot reduce to ashes and cinders within a trice. (Deals 105 fire Damage)
+* Frost Breath - There are few things a Dragon's freezing breath cannot freeze to death in a mere blink of an eye (Deals 105 Frost Damage & 50% slow). 
+
+*While In Sovnguard Quest*
+* Alduin Invulnerability - Immune to damage while Flying
+* Soul Cairn Summon - Calls 24 Wrathment from Soul Cairn for 60 seconds.
+* Dragon Storm Call - The Storm Call shout creates a heavy metoer shower directly above the Dragonborn that throws powerful meteors down upon anyone underneath, friend and foe alike. (Staggers and creates a flaming hazard which deals 10 damage per second. Hazard lasts for 600 seconds)
+* Drain Vitality - His Thu'um reaches out and takes away the very lifeforce of His enemies and and gives it to Him (  drain stamina: 5 per second for 60 seconds,   drain magicka: 5 per second for 60 seconds,   drain health: 5 per second for 60 seconds,   small stagger)
+
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Slash (Swords & Axes)  | 70% Damage reduction  |
+|Pierce(Daggers)    | 70% Damage Reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 85% Damage reduction  |
+
+ *Resistances*
+ 
+|Type  | Protection |
+|--|--|
+|Frost  | 33 |  
+|Fire | 33 |  
+|Shock | 33 |  
+|Poison  | 80 |  
+|Paralysis  | Immune |  
+|Knock Down| Minor | 
+| Mehrunes Razor| Immune |  
+
+
+# Champion of Boethiah 
+
+NPC id:000834FE
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None |
+|Standard AR| 720 |
+|Magical AR| 30% |
+|AP| See Perks |
+|Health Regeneration| None  |
+| Diseased | None |
+|Can Knockdown Player| Yes |
+
+Weapons
+|Name|Base Stats|
+|--|--|
+|Ebony Mace of the Vampire    |  |
+|Ebony Shield      | 270 Armor When blocking |
+
+ *Weapon Protection*
+| Type | Tier |
+|--|--|
+|Slash (Swords & Axes)  | 5  |
+|Pierce(Daggers)    | 3 |
+|Ranged (Bows & Crossbows)  | 4 |
+
+**Additional Perks**
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Stunning Charge - he expertly utilize His weight and momentum during forward power attacks.[Forward power attacks can knock down]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Mace Focus I - His basic skill with one-handed maces enhances armor penetration.[Power attack damage x 1.05, +15 armor penetration]
+* Mace  Focus III- His advanced skill with one-handed maces further enhances armor penetration.[Power attack damage x 1.1, +30 armor penetration]
+* Mace  Focus III- His masterful with one-handed maces renders enemy armor almost useless.[Power attack damage x 1.15, +45 armor penetration]
+* Armsman - One-Handed weapons do 140% damage.
+
 # Lord Harkon
 
 # Malkoran
