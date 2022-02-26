@@ -77,6 +77,7 @@
 |Fall Damage | Immune |
 
 **Additional Perks**
+
 *Shared*
 * Damage Recieved from the Player (all sources) is reduced by 66%
 * Fortitude - He has a permanent bonus of 40 stamina and 20 carry weight.
