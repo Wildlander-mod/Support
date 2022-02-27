@@ -92,6 +92,9 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased | None |
 |Can Knockdown Player| None |
 
+**Additional Perks**
+* Pyromancy  - All frost spells deal 15% more damage.
+
 **Potent Flame Thrall** 
 
 *Basic Stats*
