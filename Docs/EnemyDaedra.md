@@ -118,7 +118,9 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased | None |
 |Can Knockdown Player| None |
 
-
+**Additional Perks**
+* Pyromancy 2  All fire spells deal 30% more damage.
+* Cremation - high-tier fire spells can set ablaze those who are susceptible to fire, and force them to flee in fear. Undead, Automatons and Daedra are immune to the Fear effect.
 
 
 ---
@@ -239,6 +241,9 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased | No |
 |Can Knockdown Player| No |
 
+**Additional Perks**
+* Electromancy - All shock spells deal 15% more damage.
+
 **Potent Thrall** 
 
 *Basic Stats*
@@ -259,6 +264,9 @@ Atronachs are humanoid beings (except the Storm Atronach) that are formed out of
 | Diseased | No |
 |Can Knockdown Player| No |
 
+**Additional Perks**
+* Electromancy 2 - All shock spells deal 30% more damage.
+* Electrostatic Discharge - - His shock spells damage damage his opponent's Magicka alongside their Health.
 
 ---
 
@@ -321,7 +329,7 @@ Summon Dremora Archer - Summons the archer varient from that table below. Archer
 |Unrelenting Force  | Immune | 
 |Knock Down| Minor |
 
-
+**Additional Perks**
 
 
 ---
@@ -408,7 +416,8 @@ Summon Dremora Archer - Summons the archer varient from that table below. Archer
 |Knock Down| Minor | N/A |
 
 **Additional Perks**
-- WaterWalking
+*  WaterWalking
+*  Focused Mind - He's learned to keep his concentration when running or sustaining damage, thus all magicka penalties are nullified. Magicka regenerates 50% faster.
 
 ---
 
@@ -453,7 +462,7 @@ Summon Flame, Frost and Storm Thrall - Summons a potent varient of each atronoch
 |Unrelenting Force  | Immune | 
 |Knock Down| Minor |
 
-
+**Additional Perks**
 
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
