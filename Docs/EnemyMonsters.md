@@ -492,7 +492,9 @@ Hagravens seem to be part woman and part raven. Generally, they're creatures tha
 
 
 **Additional Perks**
-They can detect steath players So Sneak attacks are impossible to perform
+* They can detect steath players So Sneak attacks are impossible to perform
+* Pyromancy 2  All Fire spells deal 30% more damage.
+* Improved Healing - Healing spells are 25% more effective.
 
 ---
 **Karthspire's Hagraven**
