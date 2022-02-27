@@ -114,11 +114,13 @@ Any aditional perks that the Enemy may have which affects gameplay.
 
 [Animals](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAnimals.md) – Animals comprise various mundane creatures that have no magical or weapon-wielding abilities.
 
-        Ash Hopper • Bear • Bristleback • Chicken • Cow • Deer • Dog • Fox • Goat • Husky •  Horker • Horse • Mammoth • Mudcrab  Rabbit • Sabre Cat • Skeever • Slaughterfish • Wolf
+        Ash Hopper • Bear • Bristleback • Chicken • Cow • Deer • Dog • Elk • Fox • Goat • Husky •  Horker • Horse 
+        • Mammoth • Mudcrab  Rabbit • Sabre Cat • Skeever • Slaughterfish • Wolf
 
 [Monsters](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyMonsters.md) – Monsters are creatures with various magical abilities, ranging from magical attacks to various magical resistances.
 
-             Chaurus • Falmer •  Frostbite Spider • Gargoyle • Giant • Hagraven • Ice Wraith • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp • Wispmother
+             Chaurus • Falmer •  Frostbite Spider • Giant • Hagraven • Ice Wraith 
+             • Magic Anomaly • Netch • Riekling • Spiders • Spriggan • Troll • Werewolf • WereBear • Wisp • Wispmother
         
 [Automations](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAutomations.md) – Dwarven Automatons are ancient, robot-like machines encountered in Dwarven Ruins.
 
