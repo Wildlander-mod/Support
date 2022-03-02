@@ -1115,11 +1115,7 @@ Archer
 |Fire | N/A | 25 |
 |Shock  | 50 | N/A  |
 |Poison  | Immune | N/A  |
-|Paralysis  | |  |
 |Sneak Attack | Immune | N/A  |
-|Knock Down| | |
-|Life Drain| |  |
-|Unrelenting Force| | |
 
 ### Caster
 
@@ -1143,11 +1139,8 @@ Archer
 |Fire | 5 |  
 |Shock | 50 |  
 |Poison  | Immune |  
-|Paralysis  | |  
 |Sneak Attack | Immune | 
-|Knock Down| | 
-|Life Drain| |  
-|Unrelenting Force| |
+
 
 **Additional Perks**
 Cryomancy - All frost spells deal 15% more damage.
@@ -1175,16 +1168,20 @@ Cryomancy - All frost spells deal 15% more damage.
 |Fire | N/A | 50 |
 |Shock  | 50 | N/A  |
 |Poison  | Immune | N/A  |
-|Paralysis  | |  |
 |Sneak Attack | Immune | N/A  |
-|Knock Down| | |
-|Life Drain| |  |
-|Unrelenting Force| | |
 
  *Weapon Protection*
 | Type | Tier |
 |--|--|
 |Ranged (Bows & Crossbows)  | 3 |
+
+**Additional Perks**
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+* Mace Focus I - His basic skill with one-handed maces enhances armor penetration.[Power attack damage x 1.05, +15 armor penetration]
+* Armsman - One-Handed weapons do 140% damage.
 
 ### **Boneman** 
 A variety of skeleton which inhabit the Soul Cairn. 
