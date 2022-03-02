@@ -290,7 +290,7 @@ A standard Storm Varient Dragon priest.
 ---
 **Morokei** 
 
-A Stornger Storm Varient Dragon priest.
+A Stronger Fire Varient Dragon priest.
 
 *Basic Stats*
 |Stat| Value |
@@ -298,7 +298,11 @@ A Stornger Storm Varient Dragon priest.
 |Health| 4000 |
 |Magicka| 7500 |
 |Stamina| 10000 |
-|Ranged Damage| None  |
+
+
+**Additional Perks**
+* Has the shared perks, plus Same as Standard Fire priests
+* Cognitive Flexibility II - mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
 
 ---
 **Nahkriin** 
@@ -327,6 +331,8 @@ A Standard Storm Varient Dragon priest.
 
 ---
 **Ahzidal** 
+
+A Stronger Fire Varient Dragon priest.
 
 *Basic Stats*
 |Stat| Value |
@@ -371,6 +377,8 @@ A Standard Storm Varient Dragon priest.
 ---
 **Dukaan** 
 
+A Stronger Ice Varient Dragon priest.
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -412,10 +420,11 @@ A Standard Storm Varient Dragon priest.
 * Frost Mastery our understanding of frost magic grants you 25% resistance to it, while your frost spells are 5% stronger and 10% less costly.
 * Cognitive Flexibility 2 mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
 
-
-
 ---
 **Zahkriisos** 
+
+A Stronger Storm Varient Dragon priest.
+
 
 *Basic Stats*
 |Stat| Value |
@@ -523,9 +532,53 @@ Almost always found in the ruins of the ancient nords, these creatures were once
  *Weapon Protection*
 | Type | Change|
 |--|--|
-|Pierce(Daggers)    | 50% Damage reduction |
-|Blunt (Maces & Hammers)   | 50% Damage reduction |
-|Ranged (Bows & Crossbows)  | Tier 3 |
+|Pierce(Daggers)            | 50% Damage reduction |
+|Blunt (Maces & Hammers)    | 50% Damage reduction |
+|Ranged (Bows & Crossbows)  | Tier 3 (Only if armored) |
+
+*Spells*
+* Frostbite  The caster evokes a blast of cold that freezes everyone inside for 20 points per second, draining both health and stamina. When the spell is released, the cold slowly ebbs away.  
+* Ice Spike A spike of ice that does 30 points of frost damage to Health and Stamina. 
+* Draugr Frost Cloak (Armored (Horned Helmet)) - For 50 seconds, opponents in melee range take 10 points frost damage and Stamina damage per second and gainst 30% of fire resistance.
+* Summon Frost Atronach (Armored (no Helmet) Draugr Only) Summon Frost Atronach (Standard Varient) for 60 seconds.
+
+ *Weapons*
+* Note: Spellsword dragur weapons can Spawn with Frost Enchants. (Chills, Frost or Ice)
+
+| Weapons/Shield | Damage / Defence |
+|--|--|
+|Ancient Nord Sword  | 48 |
+|Ancient Nord War Axe  | 54 |
+|Ancient Nord Battleaxe | 108 |
+|Ancient Nord Greatsword | 102 |
+|Ancient Nord Bow + Ancient Nord Arrow | 23 + |
+|Honed Ancient Nord Battle Axe| 126 |
+|Honed Ancient Nord Greatsword| 120
+|Iron Shield| 153 |
+
+**Additional Perks**
+
+*Sword and Board*
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* War Axe Focus II- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.15, +20 armor penetration]
+* Mace Focus I - His basic skill with one-handed maces enhances armor penetration.[Power attack damage x 1.05, +15 armor penetration]
+* Mace  Focus II- His advanced skill with one-handed maces further enhances armor penetration.[Power attack damage x 1.1, +30 armor penetration]
+
+*Two Handers* 
+Warhammer Focus basic warhammer skill enhances all attacks with blunt two-handers.<br>[Power attack damage x 1.05, +15 armor penetration]
+Warhammer Focus advanced warhammer skill further enhances all attacks with blunt two-handers.<br>[Power attack damage x 1.1, +30 armor penetration]
+Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
+Battle Axe Focus II - His advanced battleaxe skill further increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.15, +20 armor penetration]
+Barbaric Might - Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
+
+*Archers*
+Ranged Combat Training Basic ranged training enhances damage with bows and crossbows.<br>[Damage x 1.2, -50% weapon weight penalties, ammunition grants armor penetration]
+Precise Aim reveals weak spots in the enemy's defenses.[Damage x 1.2 with bow and crossbow attacks]
+Piercing Shot - He's learned to hit the weakest parts of armor, rendering armored foes more vulnerable to ranged weapons.[+10 armor penetration, +50% armor penetration from ammunition]
+Penetrating Shot He can keenly spot the gaps in armor, further increasing armor penetration with ranged weapons.<br>[+15 Armor penetration, +100% armor penetration from ammunition]
+
+
 
 ### Standard 
 
@@ -545,15 +598,18 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Stat| Value |
 |--|--|
 |Standard AR| 360 |
+
 ---
 
-**Armored (Horned Helmet)**
+**Death lords (Armored Horned Helmet)**
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
 |Standard AR| 600 |
 |Shout| Unrelenting Force |
+| | Disarm|
+| | Frost breath|
 
 --- 
 
@@ -584,6 +640,31 @@ Almost always found in the ruins of the ancient nords, these creatures were once
 |Shock  | 50% | N/A |
 |Poison  | Immune | N/A |
 |Sneak Attack | Immune |  N/A|
+
+ *Weapons*
+
+| Weapons | Damage |
+|--|--|
+|Ancient Nord Sword + Dented Iron Shield | 48  +  153 Armor from Shield|
+|Ancient Nord War Axe + Dented Iron Shield | 54  +  153 Armor from Shield|
+
+
+**Additional Perks**
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Weapon Mastery I Diligent practice bolsters the damage and ease of your one-handed and unarmed attacks.[Damage x 1.2, -50% weapon weight penalties]
+* Weapon Mastery II - mproved fighting techniques bolster the damage and ease of your one-handed and unarmed attacks.<br>[Damage x 1.4, -50% weapon weight penalties]
+* Powerful Charge - His sprinting power attack propels him through the air and deals terrifying damage. [Unlocks sprinting power attack, -25% weapon weight penalties]
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* War Axe Focus II- His advanced war axe skill further increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.15, +20 armor penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+* Sword Focus II - Your improving skill with one-handed blades further enhances your attacks.<br>[+16% attack speed, +14 armor penetration]
+* Mace Focus I - His basic skill with one-handed maces enhances armor penetration.[Power attack damage x 1.05, +15 armor penetration]
+* Mace  Focus II- His advanced skill with one-handed maces further enhances armor penetration.[Power attack damage x 1.1, +30 armor penetration]
+* Powerful Bashes - Unlocks Power Bashing with a weapon or shield.<br>Successful Power Bashes stagger most foes, and cost additional stamina.
+* Overpowering Bashes Power bashing with His shield will sometimes knock His opponent over. Wearing heavier gear improves the chance of success.
+* Experienced Blocking - You block 50% more damage with weapon or shield. Each successful block restores 12 points of stamina.
+* Improved Blocking Your honed blocking technique mitigates 25% more damage.
 
 ---
 ### Keeper
@@ -708,10 +789,46 @@ Weapons
 |Magical Damage| None  |
 |Standard AR| None |
 |Magical AR| None has a 33% weakness to magic |
-|AP| None |
+|AP| See Perks |
 |Health Regeneration| None  |
 | Diseased | No |
 |Can Knockdown Player| No |
+
+**Additional Perks**
+*One hand.*
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Stunning Charge - he expertly utilize His weight and momentum during forward power attacks.[Forward power attacks can knock down]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+* Sword Focus II - Your improving skill with one-handed blades further enhances your attacks.<br>[+16% attack speed, +14 armor penetration]
+* Sword Focus III - Your masterful skill with one-handed blades further enhances your attacks.<br>[+24% attack speed, +21 armor penetration]
+* Weapon Mastery Diligent practice bolsters the damage and ease of your one-handed and unarmed attacks.[Damage x 1.2, -50% weapon weight penalties]
+* Weapon Mastery II - mproved fighting techniques bolster the damage and ease of your one-handed and unarmed attacks.<br>[Damage x 1.4, -50% weapon weight penalties]
+* Powerful Charge - His sprinting power attack propels him through the air and deals terrifying damage. [Unlocks sprinting power attack, -25% weapon weight penalties]
+
+*Two Handers* 
+* Barbaric Might - Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
+* Cleave - His power attacks are truly devastating and he can cut down multiple foes with a single sweeping blow. [Sideways power attack can hit multiple targets]
+* Devastating Cleave - You've enhanced His cleave with terrifying finesse and power.[Sideways power attacks can knock down]
+* Devastating Strike  - His two-handed power attacks are even deadlier, and absolutely devastate foes. [Power attack damage x 1.25]
+* Great Weapon Mastery I  - Diligent practice bolsters the damage and ease of His two-handed weapon attacks. [Damage x 1.2, -50% weapon weight penalties]
+* Great Weapon Mastery II - Advanced martial techniques further increase the damage and ease of His two-handed attacks. [Damage x 1.4, -50% weapon weight penalties]
+* Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
+* Battle Axe Focus II - His advanced battleaxe skill further increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.15, +20 armor penetration]
+* Battle Axe Focus III - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]*
+* Mighty Strike - A single strike from His two-handed weapon can fell almost any foe.<br>[damage x 1.25, +20 armor penetration]
+
+
+*Archers*
+* Power Shot - His shots land with tremendous impact, occasionally staggering foes.[70% chance to stagger targets]
+* Ranger - You've improved His footwork with light ranged weaponry.<br>[Allows running while attacking with light bows and crossbows]
+* Stunning Precision - Any successful staggering shot will almost always stun the target.[Staggering hits will also stun the target]
+* Ranged Combat Training Basic ranged training enhances damage with bows and crossbows.<br>[Damage x 1.2, -50% weapon weight penalties, ammunition grants armor penetration]
+* Marksman's Focus - Ranged weapons are easier to handle, and aiming precisely seems to slow time. [time slows by 75% while zooming, -25% weapon weight penalties]
+* Quick Shot draw and release in a single fluid motion, quickening your rate of fire with all bows.<br>[+10 armor penetration, +50% draw speed with bows]
+* Piercing Shot - He's learned to hit the weakest parts of armor, rendering armored foes more vulnerable to ranged weapons.[+10 armor penetration, +50% armor penetration from ammunition]
+* Penetrating Shot He can keenly spot the gaps in armor, further increasing armor penetration with ranged weapons.<br>[+15 Armor penetration, +100% armor penetration from ammunition]
+* Rapid Reload  advanced mechanical knowledge lessens reload time for all crossbows.[+10 armor penetration, +50% reload speed with crossbows]
 
 **Caster**
 
@@ -734,6 +851,13 @@ Weapons
 |Health Regeneration| None  |
 | Diseased | No |
 |Can Knockdown Player| No |
+
+**Additional Perks**
+* Cryomancy 2  All frost spells deal 30% more damage.
+* Extended Binding - He can summon Daedra and Spirits up to five times farther away for 25% less magicka.
+* Elemental Binding - His Atronachs are much stronger, and his high-level Thralls are immune to Banishment and Control spells.
+* Deep Freeze Many of his ice spells can freeze enemies who are susceptible to frost.
+* Stabilized Binding You bend the barriers between realms, extending the duration of summoned Spirits and Daedra by 50%
 
 ## Spectral Warhound
 
@@ -959,9 +1083,29 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Movement Speed| 100 |
 |Standard AR| None |
 |Magical AR| None |
+|AP| Depends on Weapon - See perks |
 |Health Regeneration| None  |
 | Diseased | No |
-|Can Knockdown Player|  |
+|Can Knockdown Player| No |
+
+One handed
+* Powerful Strike - His one-handed and unarmed power attacks shatter bone and sinew.[Power attack damage x 1.2]
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+* Armsman - One-Handed weapons do 140% damage.
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* Mace Focus I - His basic skill with one-handed maces enhances armor penetration.[Power attack damage x 1.05, +15 armor penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+
+Two-handed
+* Barbaric Might - Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
+* Devastating Charge - You've learned to perform a leaping power attack while sprinting, reducing His enemies to smithereens. [Unlocks sprinting power attack, -25% weapon weight penalties]
+* Barbarian - 2 Handed Weapons do 150% damage.
+Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
+* Greatsword Focus His basic skill with bladed two-handers enhances your attacks.[+10% attack speed with greatswords, +7 armor penetration]
+* Warhammer Focus His basic warhammer skill enhances all attacks with blunt two-handers.[Power attack damage x 1.05, +15 armor penetration]
+
+Archer
+* OverDraw - Bows do 140% damage.
 
  *Resistances*
  
