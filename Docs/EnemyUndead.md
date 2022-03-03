@@ -579,7 +579,6 @@ Piercing Shot - He's learned to hit the weakest parts of armor, rendering armore
 Penetrating Shot He can keenly spot the gaps in armor, further increasing armor penetration with ranged weapons.<br>[+15 Armor penetration, +100% armor penetration from ammunition]
 
 
-
 ### Standard 
 
  *Resistances*
@@ -961,6 +960,8 @@ When stationary, gargoyles disguise themselves as statues. They can often be fou
 ## Ghost 
 
 Ghosts are spirits that haunt this world for whatever reason. One should note that there are two varities of ghosts one must not mix up. The first one is the ethereal one that does not acutally exist physically in this world, causing it to be invulnerable and unable to interact with the enviroment of this realm. The other would be the ones that actually manifest themselves physically in this world by the use of ectoplasm, in which case they do possess a physical body that can be damaged by conventional means - however, ectoplasm behaves quite extraordinarily, as it's both harder than steel but more flexible than water as long as it's part of a ghost's body, causing the creature to be able to deliver dangerous blows while also being highly resistant to physical weapons - in fact, it's almost like hitting a body of water, blows do cause a sort of disruption, but it takes a lot of hits to destroy it entirely. Also, some ghosts seem to have traits that they once had in their real life, like ghostly trolls being able to regenerate their ectoplasmic body - in this case fire would behave the same as with living trolls.
+
+As Ghosts are essentially treated as bandits by the engine, they can spawn with any weapon, any armor and any spells than bandits can.  The Only difference is ghosts have protection from standard weaponry.
 
 *Materiel Protection*
 | Type | Damage change |
@@ -1387,7 +1388,7 @@ Wears a full set of Steel Plate Armor
 |Melee Damage| 39 Unarmed |
 |Ranged Damage| None |
 |Standard AR| 720 |
-|Magical Damage|  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock                   damage disintegrates targets if their health is low (below 25%) |
+|Magical Damage|  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock damage disintegrates targets if their health is low (below 25%) |
 |      | Icy Storm The caster evokes a freezing whirlwind that deals 40 points of frost damage per second to Health and Stamina. Targets in the ice storm suffer a 35% slow for 5 seconds.
 || Drain Life - Absorb 35 points of health/Magic/Stamina per second from the target. Only equipped in the left hand.|
 |Summon| Revenant The caster reanimates a powerful dead body for 60 seconds.
