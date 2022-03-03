@@ -82,9 +82,9 @@ Damage Types implemented by Requiem. Weapons are assigned one damage type, and C
 |5 |300
 
 ## Humanoid Enemies 
-Bandits / Mages / Forsworn / Necromancers Will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list.
+Bandits / Mages / Forsworn / Necromancers  Will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list.
 
-Vampires, Rieklings, and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
+Ghosts and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
 
 For enemies wearing standard armor, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
 
@@ -136,7 +136,7 @@ Any aditional perks that the Enemy may have which affects gameplay.
             
 [Undead](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
               
-            Ash Spawn • Dragon Priest • Draugr • Ghost • Hulking Draugr • Shades • Skeleton • Vampires • Gargoyles       
+            Ash Spawn • Dragon Priest • Draugr  • Gargoyles • Ghost • Shades • Skeleton • Vampires • Gargoyles       
             
 [Unique and Named creature](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUnique.md) – The various Named Unique Enemies found in Requiems world
   
