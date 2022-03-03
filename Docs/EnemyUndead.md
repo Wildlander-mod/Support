@@ -1073,6 +1073,17 @@ Skeletons are a form of weaker undead. They are easily destroyed by using a heav
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 20% |
 
+| Weapons/Shield | Damage / Defence |
+|--|--|
+|Ancient Nord Sword  | 48 |
+|Ancient Nord War Axe  | 54 |
+|Ancient Nord Battleaxe | 108 |
+|Ancient Nord Greatsword | 102 |
+|Ancient Nord Bow + Ancient Nord Arrow | 23 + |
+|Honed Ancient Nord Battle Axe| 126 |
+|Honed Ancient Nord Greatsword| 120
+|Iron Shield| 153 |
+
 ### Physical
 
 *Basic Stats*
@@ -1127,6 +1138,8 @@ Archer
 |Magicka| 500 |
 |Stamina| 3080 |
 |Movement Speed| 71 |
+|Magical Damage| Wall of Frost Sprayed on the ground, it creates a wall of frost that does 20 points of frost damage per second and 40% slow for 5 seconds after contact. The hazard effect lasts for 30 seconds on the ground. Hazard deals 50 damage per second of contact |
+|Cloak |"Frost Cloak" - For 60 seconds, opponents in melee range take 12 points frost damage and Stamina damage per second and gainst 30% of fire resistance.|
 |Standard AR| None |
 |Magical AR| None |
 |Health Regeneration| None  |
