@@ -219,7 +219,7 @@ Identical to Labyrinthian Undead dragon - Except
 | Diseased | None |
 |Can Knockdown Player| No |
 
-**Shouts **
+**Shouts**
 * Frost Breath
 * Ice Storm
 
@@ -253,7 +253,7 @@ Identical to Labyrinthian Undead dragon - Except
 | Diseased | No |
 |Can Knockdown Player| Tail swipe can Stagger |
 
-**Shouts **
+**Shouts**
 * Unrelenting Force
 * Disarm
 * Fire Breath
@@ -294,7 +294,7 @@ Identical to Labyrinthian Undead dragon - Except
 | Diseased | No |
 |Can Knockdown Player| Tail swipe can Stagger |
 
-**Shouts **
+**Shouts**
 * Unrelenting Force
 * Disarm
 * Frost Breath
@@ -338,59 +338,117 @@ Identical to Labyrinthian Undead dragon - Except
 | Diseased |  |
 |Can Knockdown Player| |
 
- *Weapon Protection*
-| Type | Tier and reductions|
-|--|--|
-|Slash (Swords & Axes)  |  70% Damage reduction |
-|Pierce(Daggers)    |  70% Damage reduction |
-|Blunt (Maces & Hammers)   | 85% Damage reduction |
-|Ranged (Bows & Crossbows)  |  85% Damage reduction|
-
-## Paarthurnax
+## Krosulhah
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 7350 |
+|Magicka| 5000  |
+|Stamina| 20900 |
+|Movement Speed| 100 |
+|Melee Damage| 425 |
+
+*Abilities & Resistances*
+* Same as Standard Frost Dragon
+
+**Shouts**
+* Unrelenting Force
+* Frost Breath
+* Ice Storm
+
+## Naaslaarum
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 7800 |
+|Magicka| 5000  |
+|Stamina| 20900 |
+|Movement Speed| 100 |
+|Melee Damage| 525 |
+
+*Abilities & Resistances*
+* Same as Standard Fire Dragon
+
+**Shouts**
+* Disarm
+* Unrelenting Force
+* Fire Breath
+* Fire ball
+
+## Paarthurnax
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 7000 |
+|Magicka| 5000  |
+|Stamina| 20900 |
+|Movement Speed| 100 |
+|Melee Damage| 350 |
+
+*Abilities & Resistances*
+* Same as Standard Fire Dragon
+
+**Shouts**
+* Fire Breath
+* Fire ball
+
+## Sahrotaar
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 7646 |
+|Magicka| 5000  |
+|Stamina| 21024 |
+|Movement Speed| 100 |
+|Melee Damage| 450 |
+
+*Abilities & Resistances*
+* Same as Standard Frost Dragon
+
+**Shouts**
+* Frost Breath
+* Ice Storm
+
+## Voslaarum
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 7800 |
+|Magicka| 5000  |
+|Stamina| 20900 |
+|Movement Speed| 100 |
+|Melee Damage| 525 |
+
+*Abilities & Resistances*
+* Same as Standard Fire Dragon
+
+**Shouts**
+* Disarm
+* Unrelenting Force
+* Fire Breath
+* Fire ball
 
 ## Vulthuryol
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 17000 |
+|Magicka| 5000  |
+|Stamina| 1000 |
+|Movement Speed| 100 |
+|Melee Damage| 425 |
 
- *Weapon Protection*
-| Type | Tier and reductions|
-|--|--|
-|Slash (Swords & Axes)  |  70% Damage reduction |
-|Pierce(Daggers)    |  70% Damage reduction |
-|Blunt (Maces & Hammers)   | 85% Damage reduction |
-|Ranged (Bows & Crossbows)  |  85% Damage reduction|
+*Abilities & Resistances*
+* Same as Standard Fire Dragon
+
+**Shouts**
+* Fire Breath
+* Fire ball
 
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
