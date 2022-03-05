@@ -1352,60 +1352,27 @@ Mighty Strike - A single strike from His two-handed weapon can fell almost any f
 Vampires are known to reside throughout Tamriel and Skyrim is no exception. The most renowned local clan bears the name "Volkihar", though not much is known about their kin. As all vampires, they suffer much less from non-bladed weapons and are somewhat resistant to arrows. On the other hand, they do fear fire, for it causes severe damage to their bodies. Sunlight will also pose a threat to them, though it's not clear if they suffer as badly as other vampires from it. The real threat they pose, however, comes from their experience, as most vampires are very, very old - old enough to have studied probably all of the arcane schools to the very limits of Mundus or even beyond. Therefore, they almost all are foes incredibly skilled and thus, incredibly dangerous. Most importantly, one should not even think about using a holy symbol or garlic as protection, for the vampires will just laugh up their sleeve while tearing such a fool apart...
 
 ### Shared
+
+Vampires (like bandits) have too manu variations of Health/Magic/Stamina to list. however the minimums are listed below.
+
+
 *Materiel Protection*
 | Type | Damage change |
 |--|--|
 |Silver (Melee)      | 150% |
 |Standard (Arrows)   | 33% |
 
-### **Standard Sloot Vampire** 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| 620 |
-|Magicka| 480 |
-|Stamina| 1319 |
-|Movement Speed| 90 |
-|Melee Damage| 39 |
-|Ranged Damage| None  |
-|Standard AR| 240 |
-|Magical Damage|   |
-|Magical AR| 20% |
-|AP| See Perks. |
-|Health Regeneration| Yes 1/s |
-| Diseased | Yes - Sanguine Vampiris  |
-|Can Knockdown Player| |
-
-
-|Type  | Protection | Weakness|
-|--|--|--|
-|Frost  | Immune | N/A |
-|Fire |  N/A  | -75 |
-|Shock  | 75 | N/A |
-|Poison  | Immune | N/A |
-|Paralysis  | Immune | N/A |
-|Unrelenting Force| Immune | N/A |
-
-
-### **Standard Armored Vampire** 
-
-Wears a full set of Steel Plate Armor
-
-*Basic Stats*
 |Stat| Value |
 |--|--|
-|Health| 810 |
-|Magicka| 1400 |
-|Stamina| 1410 |
-|Movement Speed| 65 |
-|Melee Damage| 39 Unarmed |
-|Ranged Damage| None |
-|Standard AR| 720 |
-|Magical Damage|  Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock damage disintegrates targets if their health is low (below 25%) |
-|      | Icy Storm The caster evokes a freezing whirlwind that deals 40 points of frost damage per second to Health and Stamina. Targets in the ice storm suffer a 35% slow for 5 seconds.
-|| Drain Life - Absorb 35 points of health/Magic/Stamina per second from the target. Only equipped in the left hand.|
-|Summon| Revenant The caster reanimates a powerful dead body for 60 seconds.
-|Utility| Vampiric Invisibility - he can become invisible for 20 Seconds.
+|Starting Health| 620+ |
+|Starting Magicka| 580+ |
+|Starting Stamina| 1119+ |
+|Starting Movement Speed| 70 |
+|Starting Melee Damage| 31+ unarmed or  Weapon damage |
+|Standard AR| Varies depends on gear (0 - 720) |
 |Magical AR| 20% |
 |AP| See Perks. |
 |Health Regeneration| Yes 1/s |
@@ -1414,11 +1381,12 @@ Wears a full set of Steel Plate Armor
 
 |Type  | Protection | Weakness|
 |--|--|--|
-|Frost  | 95 | N/A |
+|Frost  | 95 - 145 | N/A |
 |Fire |  N/A  | -75 |
-|Shock  | 50 | N/A |
+|Shock  | 50 - 75 | N/A |
 |Poison  | Immune | N/A |
 |Paralysis  | Immune | N/A |
+|Knockdown| Minor | N/A |
 |Unrelenting Force| Immune | N/A |
 
 Weapons
@@ -1451,6 +1419,19 @@ Weapons
 * Deep Freeze Many of His ice spells can freeze enemies who are susceptible to frost.
 * Mage Armor - Protection spells like Stoneflesh are 2.5 times as strong.
 
+*Spells Standard*
+* Vampiric Invisibility - he can become invisible for 20 Seconds.
+* Drain Life - Absorb 35 points of health/Magic/Stamina per second from the target. Only equipped in the left hand.
+
+*Possible Additional Spells*
+* Chain Lightning  The caster evokes a lightning bolt that deals 0.5 Stagger, 40 points of shock damage to Health and half to Magicka and hits multiple targets at once if they stand close to each other.  Shock damage disintegrates targets if their health is low (below 25%) 
+* Icy Storm The caster evokes a freezing whirlwind that deals 40 points of frost damage per second to Health and Stamina. Targets in the ice storm suffer a 35% slow for 5 seconds.
+* Revenant The caster reanimates a powerful dead body for 60 seconds.
+* Lightning Bolt - The caster evokes a bolt of lightning that deals 25 points of shock damage to Health and half that to Magicka.
+* Ice Spike - A spike of ice that does 30 points of frost damage to Health and Stamina.
+* Reanimate Corpse - The caster reanimates a dead body for 60 seconds.
+* Raise Zombie - The caster reanimates a dead body for 60 seconds.
+* Thunderbolt - The caster evokes a thunderbolt that deals a 0.25 stagger, 65 points of shock damage to Health and half that to Magicka. Shock damage disintegrates targets if their health is low (below 20%)
 
 ### **Ebony** 
 
