@@ -283,6 +283,10 @@ Cryomancy 2  All frost spells deal 30% more damage.
 
 ##  **King Olaf**: Called Dragur - but is final boss in King Olafs tomb
 
+NPC: 81AD38BF
+
+Mod: Requiem
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -463,6 +467,10 @@ Mod: Base Game
 
 ##  **Lord Tusk** : Big Horker.
 
+NPC: 04026196
+
+Mod Fozar's Requiem
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -494,6 +502,10 @@ Mod: Base Game
 
 ##  **Nimhe** : Named giant Frostbite Spider
 
+ACHR: 00060BB5
+
+Mod: Base Game
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -524,6 +536,10 @@ Mod: Base Game
 |Ranged (Bows & Crossbows)  | 1 |
 
 ##  **Old Salty** Named Mudcrab
+
+NPC: 0401D77A
+
+Mod: Fozar's Requiem
 
 *Basic Stats*
 |Stat| Value |
