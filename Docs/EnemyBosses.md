@@ -250,8 +250,6 @@ Perks
 # Morvarth 
 See [Ebony Vampire](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md#ebony)
 
-# Potema
-
 # The Reaper
 
                             
