@@ -2,31 +2,30 @@
 
 #Shouts
 
-|Name| Dragons who have Shout |  Damage Done | 
-|--|--|
-|Unrelenting Force| All |
-|Disarm| All |
-|Fire Ball | Some fire dragons | 
-|Fire Breath| All Fire Dragons |
-|Drain Vitality| All |
-|Ice Storm| Some Frost Dragons |
-|Frost breath| All Frost Dragons |
-|Vile Vapor  | All Poison Dragons |
-
-
+|Name| Description | Effects
+|--|--|--|
+|Unrelenting Force| Staggers targets and knocks over loose objects.|  
+|Disarm| Targets in mid swing drop their weapons.| (up to level 999)
+|Fire Ball | There are few things a Dragon's scorching breath cannot reduce to ashes and cinders within a trice.|Deals 120 Fire Damage for enemies within 15 feet for 5 seconds
+|Fire Breath| Inhale air, exhale flame, and behold the Thu'um as a blazing inferno.|  fire damage: 300 instantly, plus 5/s for 31 seconds and Large stagger|
+|Drain Vitality| Thu'um reaches out and takes away the very lifeforce of your enemies and and gives it to the dragon|drain stamina: 5 per second for 60 seconds, drain magicka: 5 per second for 60 seconds, drain health: 5 per second for 60 seconds, small stagger
+|Ice Storm| There are few things a Dragon's freezing breath cannot freeze to death in a mere blink of an eye |Deals 120 Frost Damage for enemies within 15 feet for 5 seconds
+|Frost breath| Inhale air, exhale Frost, and behold the Thu'um as a a blizzard.| frost damage: 60 per second for 5 seconds,  slow: 50% and Large stagger
+|Vile Vapor  |  Inhale air, vomit poisonous fog, which does lingering health damage.| Poison Spray, 50 points for 2 seconds|
 
 # Fire
 
 *Variations*
 |Stat / Color| Gold (level 40) | Silver | Gold with Black Spots | Gold (level 30)| Fantail Gold(Purple Back)  | Purple |
-|--|--|--|--|--|
-|Health| 7400 |  7000  |  7400 | 7200 | 7600| 7800 
+|--|--|--|--|--|--|--|
+|Health| 7400 |  7000  |  7400 | 7300 | 7600| 7800 
 |Melee Damage| 450 | 350  | 450 | 400 | 525 | 525
 |Movement Speed| 100 | 100 | 100 | 100 | 100 | 100
-|Extra Shout| Fire Ball |  |  | Fire Ball | Fire Ball | |
+|Extra Shout| Fire Ball |  |  Disarm | Fire Ball | Fire Ball | | Fireball, Disarm
 
-** Shouts (All Variations) **
+**Shouts (All Variations)**
 * Unrelenting Force
+* Fire Breath
 
 *Basic Stats*
 |Stat| Value |
@@ -35,12 +34,29 @@
 |Stamina| 20900 |
 |Standard AR| 660 |
 |Magical AR| None |
-|AP|  |
+|AP| 50 |
 |Health Regeneration| None  |
 | Diseased | None |
-|Can Knockdown Player|  |
+|Can Knockdown Player| Tail swipe can Stagger |
 
 
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | N/A | -75% |
+|Fire | 90% |  N/A |
+|Poison  | 60% |  N/A |
+|Paralysis  | Immune |  N/A  |
+
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction |
+|Pierce(Daggers)    | 2 + 70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction|
 
 ---
 
@@ -52,7 +68,7 @@
 |Health| 7400 |  7000  | 7200  | 7350  | 7600 |  7800|
 |Melee Damage| 450 | 350  | 400 | 425 | 450 |525 |
 |Movement Speed| 100 | 100 | 175 | 100 | 100 | 100|
-|Shout| Ice Storm, Frost Breath |  | Ice Storm|  | Ice Storm | Ice Storm
+|Shout| Ice Storm, Frost Breath |  | Ice Storm|  Disarm | Ice Storm, Disarm | Ice Storm, Disarm|
 
 *Basic Stats*
 |Stat| Value |
@@ -61,10 +77,28 @@
 |Stamina| 20900 |
 |Standard AR| 660 |
 |Magical AR| None |
-|AP|  |
+|AP| 50  |
 |Health Regeneration| None  |
 | Diseased | None |
-|Can Knockdown Player|  |
+|Can Knockdown Player| Tail swipe can Stagger |
+
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 90% | N/A |
+|Fire |  N/A |  -75% |
+|Poison  | 60% |  N/A |
+|Paralysis  | Immune |  N/A  |
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction |
+|Pierce(Daggers)    | 2 + 70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction|
 
 ---
 
@@ -78,14 +112,33 @@
 |Stamina| 20900 |
 |Movement Speed| 175 |
 |Melee Damage| 400 |
-|Shout| Vile Vapor  |
 |Standard AR| 660 |
 |Magical AR| None |
-|AP|  |
+|AP| 50  |
 |Health Regeneration| None  |
 | Diseased | None |
-|Can Knockdown Player|  |
+|Can Knockdown Player| Tail swipe can Stagger |
 
+**Shouts**
+* Unrelenting Force
+* Disarm
+* Vile Vapor
+
+ *Resistances*
+ 
+|Type  | Protection |
+|--|--|
+|Poison  | 160% |  
+|Paralysis  | Immune |  
+
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction |
+|Pierce(Daggers)    | 2 + 70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction|
 
 # Undead
 
@@ -136,7 +189,7 @@
 
 ---
 
-## Others 
+## Others NPC_:0402BF3B
 
 *Basic Stats*
 |Stat| Value |
@@ -157,7 +210,25 @@
 
 ---
 
-## Spectral
+## Fire Spectral Dragon NPC_:84228829
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR|  |
+|Magical AR|  |
+|AP| None |
+|Health Regeneration|   |
+| Diseased |  |
+|Can Knockdown Player| |
+
 
 ---
 
@@ -168,38 +239,80 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 7653 |
+|Magicka| 5000 |
+|Stamina| 21027 |
+|Movement Speed| 100 |
+|Melee Damage| 450 |
+|Standard AR| 660 |
+|AP| 50 |
+|Health Regeneration| No  |
+| Diseased | No |
+|Can Knockdown Player| Tail swipe can Stagger |
+
+**Shouts **
+* Unrelenting Force
+* Disarm
+* Fire Breath
+* Fire Ball
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | N/A | -75% |
+|Fire | 90% |  N/A |
+|Poison  | 60% |  N/A |
+|Paralysis  | Immune |  N/A  |
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction |
+|Pierce(Daggers)    | 2 + 70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction|
+
+
 
 ## Frost
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health| 7646 |
+|Magicka| 5000 |
+|Stamina| 21024 |
+|Movement Speed| 100 |
+|Melee Damage| 450 |
+|Standard AR| 660 |
+|AP| 50 |
+|Health Regeneration| No  |
+| Diseased | No |
+|Can Knockdown Player| Tail swipe can Stagger |
+
+**Shouts **
+* Unrelenting Force
+* Disarm
+* Frost Breath
+* Ice Storm
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 90% | N/A |
+|Fire |  N/A |  -75% |
+|Poison  | 60% |  N/A |
+|Paralysis  | Immune |  N/A  |
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction |
+|Pierce(Daggers)    | 2 + 70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction|
 
 # Named
 
@@ -218,9 +331,17 @@
 |Standard AR|  |
 |Magical AR|  |
 |AP| None |
-|Health Regeneration| Yes  |
+|Health Regeneration| no  |
 | Diseased |  |
 |Can Knockdown Player| |
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  |  70% Damage reduction |
+|Pierce(Daggers)    |  70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  |  85% Damage reduction|
 
 ## Paarthurnax
 
@@ -260,7 +381,13 @@
 | Diseased |  |
 |Can Knockdown Player| |
 
-
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  |  70% Damage reduction |
+|Pierce(Daggers)    |  70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  |  85% Damage reduction|
 
 
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)
