@@ -132,7 +132,8 @@ Any aditional perks that the Enemy may have which affects gameplay.
             
 [Dragons](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDragons.MD) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim. .
               
-            Fire • Fire Spectral Dragon •  Ice • Poison • Skeletal • Serpantine • Durnehviir • Paarthurnax • Vulthuryol  • Krosulhah • Naaslaarum • Sahrotaar • Voslaarum         
+            Fire • Fire Spectral Dragon •  Ice • Poison • Skeletal • Serpantine • Durnehviir • Paarthurnax 
+            • Vulthuryol  • Krosulhah • Naaslaarum • Sahrotaar • Voslaarum         
             
 [Undead](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
               
@@ -142,4 +143,4 @@ Any aditional perks that the Enemy may have which affects gameplay.
   
 [Bosses](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyBosses.md) – The Bosses
 
-            Ancano  • Aldiun • Ebony Warrior • Champion of Boethiah • Harkon • Malkorian •  Miraak • Old Orc •  Potema • The Reaper 
+            Ancano  • Aldiun • Ebony Warrior • Champion of Boethiah • Harkon • Malkorian • Miraak • Old Orc • Potema • The Reaper 
