@@ -258,7 +258,73 @@ Weapons
 
 # Lord Harkon
 
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health|  |
+|Magicka|  |
+|Stamina|  |
+|Movement Speed|  |
+|Melee Damage|  |
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| None |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased |  |
+|Can Knockdown Player| |
+
 # Malkoran
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 450 |
+|Magicka| 1730 |
+|Stamina| 349 |
+|Movement Speed| 104 |
+|Melee Damage| 5 + 84 from glass Battlestaff |
+|Ranged Damage| None  |
+|Magical Damage| Icy Sphere The caster evokes a freezing whirlwind that deals 40 points of frost damage per second to Health and Stamina. Targets in the ice storm suffer a 35% slow for 5 seconds and a small stagger |
+|Summon| Summon Ghostly Dragonpriest The caster binds the ghost of a terrifying Dragon Priest that brings cold death for 300 seconds.
+|Utility| Turn Greater Undead - The caster causes Undead up to level 21  to flee for 30 seconds.
+|Stone| Stone of the Atronach|
+|Standard AR| None |
+|Magical AR| 10% Weakness to Magic |
+|| Greater Ward The caster creates a protective shield that negates a great amount of physical damage and negates up to 80 points of spell damage or effects. Also renders the caster immune to most paralyzing and life drain effects.
+|AP| None |
+|Health Regeneration| Yes Can cast  Heal Self (Rank III) - Heals the caster by 40 points. Healing Hands (Rank III) Heals 50 points of Health and stamina for caster, and everyone close to the caster. Absorb Essence - Absorb 30 points of Health/Magika/Stamina from target. |
+| Diseased | No |
+|Can Knockdown Player| Can Stagger |
+
+**Additional Perks**
+* Can detect stealthed players, making sneak attacks impossible
+* Empowered Elements You can dual-cast Destruction spells to augment their power by 125% for double magicka cost.
+* Impact Dual-casted projectile Destruction spells have 25% chance of staggering His foes. 
+* Necromancy Undead and ghostly summons last 50% longer. He can reanimate more powerful corpses (3x higher level) that last 10x longer.
+* Dark Infusion Reanimated entities have more health, higher resistance to elemental damage, and they no longer decay into dust.
+* Magical Absorption Your understanding of arcane energies grants you 30% chance to absorb incoming spells, shouts, or enchantments, as pure magicka.
+* Improved Healing - Healing spells are 25% more effective.
+* Respite - Healing spells restore both health and stamina.
+* Improved Wards - Your arcane wards are 25% more effective, absorb 25% Magicka from hostile spells, and cost 5% less Magicka to cast.
+* Stability - All Alteration spells last 50% longer.
+* Deep Freeze Many of - His ice spells can freeze enemies who are susceptible to frost.
+* Priest Mage Armor - Protection spells like Stoneflesh are 2.5 times as strong.
+* Cryomancy 2  All frost spells deal 30% more damage.
+* Frost Mastery - His fascination with Frost now grants him 25% resistance to it, while Frost spells are 5% stronger and 10% less costly.
+* Cognitive Flexibility 2 - mastered the art of Cognitive Flexibility and can now maintain three summons of any type.
+
+
+ *Resistances*
+ 
+|Type  | Protection |
+|--|--|
+|Frost  | 25 |  
+|Poison  | 100 |  
+|Paralysis  | Immune |  
+|Sneak Attack | Immune| 
+|Unrelenting Force| Immune |
 
 # Miraak
 
@@ -356,7 +422,76 @@ Perks
 # Morvarth 
 See [Ebony Vampire](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md#ebony)
 
+# Old Orc
+WE24Orc "Old Orc" [NPC_:00062128]
+
+#Potema
+dunMS06PotemaSkeleton "Potema's Remains" [NPC_:0010349B]
+
 # The Reaper
+
+Npc: 0201A73E
+
+*Basic Stats*
+|Stat| Value |
+|--|--|
+|Health| 2350 |
+|Magicka| 0 |
+|Stamina| 2245 |
+|Movement Speed| 100 |
+|Melee Damage| 1 + 102 from Axe|
+|Ranged Damage| None  |
+|Magical Damage| None  |
+|Standard AR| 229 |
+|Magical AR| None |
+|AP| None |
+|Health Regeneration| None  |
+| Diseased | No |
+|Can Knockdown Player| Yes |
+
+**Additional Perks**
+* Mighty Strike - A single strike from His two-handed weapon can fell almost any foe.<br>[damage x 1.25, +20 armor penetration]
+* Defensive Stance - Blocking no longer slows he down.
+* Devastating Cleave - You've enhanced His cleave with terrifying finesse and power.[Sideways power attacks can knock down]
+* Battle Axe Focus I His basic battleaxe skill increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.05, +10 armor penetration]
+* Battle Axe Focus II - His advanced battleaxe skill further increases damage and armor penetration with all two-handed chopping weapons. [Damage x 1.15, +20 armor penetration]
+* Battle Axe Focus III - He's become a master of battle axe combat, allowing Him to perform devastating attacks with them. [Damage x 1.3, +30 armor penetration]
+* Great Weapon Mastery I  - Diligent practice bolsters the damage and ease of His two-handed weapon attacks. [Damage x 1.2, -50% weapon weight penalties]
+* Great Weapon Mastery II - Advanced martial techniques further increase the damage and ease of His two-handed attacks. [Damage x 1.4, -50% weapon weight penalties]
+* Overpowering Bashes Power bashing with his shield will sometimes knock His opponent over. Wearing heavier gear improves the chance of success.
+* Disarming Bash - His precise bashes have a chance to disarm opponents.<br> [25% chance with a shield, 6% chance with a weapon.]
+* Powerful Bashes - Unlocks Power Bashing with a weapon or shield.<br>Successful Power Bashes stagger most foes, and cost additional stamina.
+* Strong Grip - Blocking with shield or weapon is 40% more effective.  His equipped shield can deflect arrows, grants 10% more armor rating, and weighs 75% less
+* Devastating Strike  - His two-handed power attacks are even deadlier, and absolutely devastate foes. [Power attack damage x 1.25]
+* Barbaric Might - Two-handed power attacks are easier to execute, and further penetrate enemy armor. [-50% power attack stamina cost, +5 armor penetration]
+* Cleave - His power attacks are truly devastating and he can cut down multiple foes with a single sweeping blow. [Sideways power attack can hit multiple targets]
+* Devastating Cleave - You've enhanced His cleave with terrifying finesse and power.[Sideways power attacks can knock down]
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Standard (Melee)    | 10% damage |
+|Standard (Arrows)   | 10% damage |
+
+ *Weapon Protection*
+ | Type | Reductions |
+|--|--|
+|Slash (Swords & Axes)      | 50% reduction |
+|Pierce(Daggers)            | 80% reduction |
+|Ranged (Bows & Crossbows)  | 75% reduction |
+
+ *Resistances*
+ |Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 80% | N/A |
+|Fire |N/A |  25% |
+|Poison  | 100 | N/A |
+|Paralysis  | Immune | N/A |
+|Sneak Attack | Immune | N/A |
+|Unrelenting Force|Immune | N/A |
+
+
+
 
                             
 [Back](https://github.com/Wildlander-mod/Support/blob/master/Docs/Enemy.md)                                                                                                                                 
