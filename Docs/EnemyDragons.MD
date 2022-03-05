@@ -189,45 +189,48 @@
 
 ---
 
-## Others NPC_:0402BF3B
+## Others
+
+Identical to Labyrinthian Undead dragon - Except
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
-|AP| None |
-|Health Regeneration| Yes  |
-| Diseased |  |
-|Can Knockdown Player| |
+|AP| 30 |
+
 
 ---
 
-## Fire Spectral Dragon NPC_:84228829
+## Fire Spectral Dragon 
 
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Health| 846 |
+|Magicka| 700 |
+|Stamina| 774 |
+|Movement Speed| 100 |
+|Melee Damage| 210 |
+| |Fire Wyrm Attack 20 Fire damage, 2/s Fire damage for 30 seconds
+|Standard AR| None |
+|Magical AR| None |
 |AP| None |
-|Health Regeneration|   |
-| Diseased |  |
-|Can Knockdown Player| |
+|Health Regeneration| No  |
+| Diseased | None |
+|Can Knockdown Player| No |
+
+**Shouts **
+* Frost Breath
+* Ice Storm
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | N/A | -25% |
+|Fire | 100 | N/A  |
+|Poison  | 100 | N/A  |
+|Paralysis  | Immune |  N/A  |
 
 
 ---
