@@ -13,7 +13,7 @@
 |Frost breath| Inhale air, exhale Frost, and behold the Thu'um as a a blizzard.| frost damage: 60 per second for 5 seconds,  slow: 50% and Large stagger
 |Vile Vapor  |  Inhale air, vomit poisonous fog, which does lingering health damage.| Poison Spray, 50 points for 2 seconds|
 
-# Fire
+# Standard Fire
 
 *Variations*
 |Stat / Color| Gold (level 40) | Silver | Gold with Black Spots | Gold (level 30)| Fantail Gold(Purple Back)  | Purple |
@@ -60,7 +60,7 @@
 
 ---
 
-# Frost
+# Standard Frost
 
 *Variations*
 |Stat / Color| Gold | Silver | Green | Purple (level 79) |Gold with Black Spots | Purple (level 75) 
@@ -324,19 +324,41 @@ Identical to Labyrinthian Undead dragon - Except
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 18900 |
+|Magicka| 6150 |
+|Stamina| 20050 |
+|Movement Speed| 100 |
+|Melee Damage| 575 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
-|Standard AR|  |
-|Magical AR|  |
+|Standard AR| 660 |
+|Magical AR| None |
 |AP| None |
 |Health Regeneration| no  |
-| Diseased |  |
-|Can Knockdown Player| |
+| Diseased | No  |
+|Can Knockdown Player|  Tail swipe can Stagger |
+
+**Shouts**
+* Drain Vitality
+* Frost Breath
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 90% | N/A |
+|Fire |  N/A |  -75% |
+|Poison  | 100% |  N/A |
+|Paralysis  | Immune |  N/A  |
+|Sneak Attack  | Immune |  N/A  |
+
+ *Weapon Protection*
+| Type | Tier and reductions|
+|--|--|
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction |
+|Pierce(Daggers)    | 2 + 70% Damage reduction |
+|Blunt (Maces & Hammers)   | 85% Damage reduction |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction|
 
 ## Krosulhah
 
