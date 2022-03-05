@@ -1,17 +1,32 @@
-# References
-
-## Resistances List
+# Wildlander Enemy Guide and Compendium
 
 Important note: this is WIP - Wildlander launch happened before completion. 
 - Animals Page is complete.
 - Automations page is complete.
-- Daedra Page is complete.
+- Daedra Page is structurally complete, but Perks for Slighted need adding. 
 - Unique and named page is complete. 
-- Monsters page is complete.
+- Monsters page is structurally complete, but Perks for Rieklings need adding. 
 - Undead page Is Complete.
 - Bosses page is at 80% (Potema, Harkon & Old orc remaining)
 - Dragons page is complete.
 
+This Guide is intended to be a reference guide to enable the player to be able to work out how the heck to kill some things in wildlander. It Kinda grew from there to include all sorts of reference materiel from Requiem so that players wouldnt have to go look up a billion & one perks, spells and the like to work out what the enemies were shooting at them. 
+
+This guide is broken up into several sections - The resistances used by enemies and, how those resistances are applied. The diseases that enemies carry, the weapons and damage types and the like.  Bandits / Mages / Forsworn / Necromancers will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list, all of which have different perks, weapons, armor. The next section contains reference material to identify weaknesses of the armor specific human type enemies can do and the weapons they use.
+
+Vampires Will be covered, but not in-depth as like bandits they have a lot of variations of Armor, weapons and base stats.
+
+Ghosts and Dragur will only be in summary form for the various types. They will not have detailed breakdowns as various types of these NPC all look the same, but have differing stats. 
+
+The final section of this page contains links to the various enemy types in the game, broken by their type. 
+
+## Humanoid Enemies 
+
+For enemies wearing standard armor, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
+
+For enemies weapons and arrows you can check the weapon guide [here](https://docs.google.com/spreadsheets/d/1Xp1LE79R4uHC2yP7KkA2p1sS-l_TkaRAQfdHV4t0aOM/edit#gid=0)
+
+## Resistances List
 
 List of basic resistances used in Skyrim.
 |Type 	|	Cap|
@@ -81,15 +96,6 @@ Damage Types implemented by Requiem. Weapons are assigned one damage type, and C
 |4 |240
 |5 |300
 
-## Humanoid Enemies 
-Bandits / Mages / Forsworn / Necromancers  Will not be covered in the guide (with the exception to the Named Unique bosses) as there are far to many varieties to list.
-
-Ghosts and Dragur will only be in summary form (known strengths and weaknesses) for the various types.
-
-For enemies wearing standard armor, and therefore with standard resistances you can check the armor guide [here](https://docs.google.com/spreadsheets/d/1zGVErJigPePGmMetQRBgdFgfFEbFU2R_ymiNzGP9Y78/edit#gid=0) 
-
-For enemies weapons and arrows you can check the weapon guide [here](https://docs.google.com/spreadsheets/d/1Xp1LE79R4uHC2yP7KkA2p1sS-l_TkaRAQfdHV4t0aOM/edit#gid=0)
-
 ## About these Guides
 
 **Varients**
@@ -104,13 +110,16 @@ Bonus armor that the Enemy gains if attacked by weapon damage types.
 **Resistances & Weaknesses**
 If the Enemy has protection or vunerability to Fire/Frost/Shock/Poison, If the Enemy has Knockdown, Sneak Attack or Paralysis protection, and if the enemy has any additional protections - E.g Drain life, Unrelenting force.
 
-**Weapon Resistances & Weaknesses**
+**Materiel Protection**
 If the Enemy has protection or vunerability to Weapon materiels such as Silver or Daedric, or if they take reduced damage from converntional materiels.
+
+**Weapon Resistances**
+If the Enemy has protection from Damage types, will also contain damage reduction by type.
 
 **Additional Perks**
 Any aditional perks that the Enemy may have which affects gameplay.
 
-## The Guides 
+### The Guides 
 
 [Animals](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyAnimals.md) – Animals comprise various mundane creatures that have no magical or weapon-wielding abilities.
 
