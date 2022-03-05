@@ -124,6 +124,10 @@ Mod: Requiem
         
 ##  **Gorak the Trollslayer** : Named Giant
 
+NPC: 81044BF2
+
+Mod: Requiem
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -566,6 +570,10 @@ Mod: Fozar's Requiem
 
 ##  **Ragnok** : A Frost Giant
 
+NPC: 8135214E
+
+Mod: Requiem
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
@@ -811,22 +819,11 @@ Mod: Base Game
 
 ##  **The Beast**:
 
-*Basic Stats*
-|Stat| Value |
-|--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
-|AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
-|Can Knockdown Player| |
+NPC :81094B16
+
+Modd:Reqiuem
+
+Named Version of a standard [troll](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyMonsters.md#troll)
 
 ##  **Thunder** : Giant Storm Atronach
 
