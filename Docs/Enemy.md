@@ -10,7 +10,7 @@ Important note: this is WIP - Wildlander launch happened before completion.
 - Monsters page is complete.
 - Undead page is at 95% (vampires - need to check other variations) 
 - Bosses page is at 30% (miraak & Ancano complete, rest are placeholders)
-- Dragons page is at 10% 1 dragon complete, rest are placeholders.
+- Dragons page is complete
 
 
 List of basic resistances used in Skyrim.
