@@ -9,7 +9,7 @@ Important note: this is WIP - Wildlander launch happened before completion.
 - Unique and named page is complete. 
 - Monsters page is complete.
 - Undead page Is Complete.
-- Bosses page is at 30% (Aldiun, miraak & Ancano complete, rest are placeholders)
+- Bosses page is at 80% (Potema, Harkon & Old orc remaining)
 - Dragons page is complete.
 
 
@@ -132,14 +132,14 @@ Any aditional perks that the Enemy may have which affects gameplay.
             
 [Dragons](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyDragons.MD) – Dragons (drah-gkon and dov-rha to the ancient Nords, or dov in their native language) are large flying reptilian creatures that are encountered in Skyrim. .
               
-            Fire • Ice • Poison • Skeletal • Serpantine • Durnehviir • Paarthurnax • Vulthuryol        
+            Fire • Fire Spectral Dragon •  Ice • Poison • Skeletal • Serpantine • Durnehviir • Paarthurnax • Vulthuryol  • Krosulhah • Naaslaarum • Sahrotaar • Voslaarum         
             
 [Undead](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUndead.md) – Undead creatures consist of spirits, reanimated skeletons, and reanimated corpses. 
               
-            Ash Spawn • Dragon Priest • Draugr  • Gargoyles • Ghost • Shades • Skeleton • Vampires • Gargoyles       
+            Ash Spawn • Dragon Priest • Draugr • Gargoyles • Ghost • Shades • Skeleton • Vampires       
             
 [Unique and Named creature](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyUnique.md) – The various Named Unique Enemies found in Requiems world
   
 [Bosses](https://github.com/Wildlander-mod/Support/blob/master/Docs/EnemyBosses.md) – The Bosses
 
-            Ancano  • Aldiun • Harkon • Miraak • Potema • The Reaper 
+            Ancano  • Aldiun • Ebony Warrior • Champion of Boethiah • Harkon • Malkorian •  Miraak • Old Orc •  Potema • The Reaper 
