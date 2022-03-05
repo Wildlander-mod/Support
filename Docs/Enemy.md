@@ -4,13 +4,13 @@
 
 Important note: this is WIP - Wildlander launch happened before completion. 
 - Animals Page is complete.
-- Automations page is complete
-- Daedra Page is complete
-- Unique and named page is complete - With exception to Sunhelm diseases.
+- Automations page is complete.
+- Daedra Page is complete.
+- Unique and named page is complete. 
 - Monsters page is complete.
 - Undead page Is Complete.
-- Bosses page is at 30% (miraak & Ancano complete, rest are placeholders)
-- Dragons page is complete
+- Bosses page is at 30% (Aldiun, miraak & Ancano complete, rest are placeholders)
+- Dragons page is complete.
 
 
 List of basic resistances used in Skyrim.
