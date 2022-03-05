@@ -51,18 +51,18 @@
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 16580 |
+|Magicka| 25050 |
+|Stamina| 20415 |
+|Movement Speed| 125 |
+|Melee Damage| 1000 |
 |Ranged Damage| None  |
 |Magical Damage| None  |
 |Standard AR| 1200 |
 |Magical AR| None |
 |AP| 30% |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| Yes |
 
 **Additional perks** 
@@ -89,10 +89,10 @@
  *Weapon Protection*
 | Type | Tier |
 |--|--|
-|Slash (Swords & Axes)  | 70% Damage reduction  |
-|Pierce(Daggers)    | 70% Damage Reduction |
+|Slash (Swords & Axes)  | 3 + 70% Damage reduction  |
+|Pierce(Daggers)    | 2 + 70% Damage Reduction |
 |Blunt (Maces & Hammers)   | 85% Damage reduction |
-|Ranged (Bows & Crossbows)  | 85% Damage reduction  |
+|Ranged (Bows & Crossbows)  | 4 + 85% Damage reduction  |
 
  *Resistances*
  
