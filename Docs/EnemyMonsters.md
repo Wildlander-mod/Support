@@ -506,7 +506,7 @@ Same as standard except for spells.
 |--|--|
 |Magical Damage| Frostbite - The caster evokes a blast of cold that freezes everyone inside for 20 points per second, draining both health and stamina and applying a 20% slow. When the spell is released, the cold slowly ebbs away. Casting multiple Frostbite at the same target will not increase the applied damage.|
 | | IceSpike - A spike of ice that does 15 points of frost damage to Health and Stamina. a 30% slow for 3 seconds |
-|Magical AR| Lesser Ward |
+|Magical AR| Lesser Ward  The caster creates a protective shield that negates a great amount of physical damage and negates up to 40 points of spell damage or effects. |
 |Health Regeneration| Yes - Can cast Fast Healing - Heals the caster by 25 points. a 0.5 Stagger  |
 
 ---
