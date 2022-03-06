@@ -1144,7 +1144,7 @@ Archer
 |Magical AR| None |
 |Health Regeneration| None  |
 | Diseased | No |
-|Can Knockdown Player|  |
+|Can Knockdown Player| No |
 
  *Resistances*
 |Type  | Protection |
