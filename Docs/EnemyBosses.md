@@ -446,6 +446,14 @@ NPC: 00062128
 | Diseased | No |
 |Can Knockdown Player|  Yes - See Perks|
 
+*Skills*
+|Name| Stats|
+|--|--|
+|One handed  |100|
+|Two handed  |100|
+|Marksman    |100|
+|Block       |100|
+|Heavy Armor |100|
 
 *Weapons*
 |Name|Base Stats|
@@ -531,15 +539,64 @@ dunMS06PotemaSkeleton "Potema's Remains" [NPC_:0010349B]
 |Movement Speed|  |
 |Melee Damage|  |
 |Ranged Damage| None  |
-|Magical Damage| None  |
+|Magical Damage|Lightning Bolt - The caster evokes a bolt of lightning that deals 25 points of shock damage to Health and half that to Magicka.   |
+|| Sparks - The caster causes lightning arcs to spring forth that shocks everyone inside for 20 points per second, draining both health and magicka. When the spell is released, the currents slowly ebbs away. Casting multiple Lightning Sparks at the same target will not increase the applied damage.
+|Cloak| Lightning Cloak For 60 seconds nearby opponents take 12 points of shock damage and half magicka damage. The caster gains 30% of shock resist for the duration.| 
+|Shout| Unrelenting Force |
+|Summon| Reanimate Corpse - The caster reanimates a more powerful dead body for 60 seconds.
+|      | Summon Storm Atronach - Summongs a Standard Storm Atronoch for 60 seconds
 |Standard AR| None |
-|Magical AR| None |
+|Magical AR| 30% |
+|Magical Protection| Lesser Ward -  The caster creates a protective shield that negates a great amount of physical damage and negates up to 40 points of spell damage or effects.|
 |AP| None |
 |Health Regeneration| None  |
-| Diseased |  |
+| Diseased | No |
 |Can Knockdown Player| |
 
+*Weapons*
+* One of the following Weapons
+|Name|Base Stats|
+|--|--|
+|Daedric Sword	|90
+|Dwarven Sword	|66
+|Ebony Sword|	78
+|Elven Sword|	54
+|Glass Sword	|72
+|Iron Sword	|42
+|Orcish Sword|60
+|Steel Sword|	48
+* with one of the following Enchants
+|Name| Stats|
+|--|--|
+|Thunderbolts| |
+|Lightning| |
+|Storms | |
+
 **Additional Perks**
+* Necromancy Undead and ghostly summons last 50% longer. He can reanimate more powerful corpses (3x higher level) that last 10x longer.
+
+ *Weapon Protection*
+| Type | Reductions |
+|--|--|
+|Slash (Swords & Axes)      | 50% reduction |
+|Pierce(Daggers)            | 80% reduction |
+|Ranged (Bows & Crossbows)  | 75% reduction |
+
+*Materiel Protection*
+| Type | Damage change |
+|--|--|
+|Silver (Melee)      | 150% |
+|Standard (Arrows)   | 20% |
+
+ *Resistances*
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 80 | N/A  |
+|Fire | N/A | 25 |
+|Shock  | 50 | N/A  |
+|Poison  | Immune | N/A  |
+|Sneak Attack | Immune | N/A  |
+
 
 # The Reaper
 
@@ -561,6 +618,16 @@ Npc: 0201A73E
 |Health Regeneration| None  |
 | Diseased | No |
 |Can Knockdown Player| Yes |
+
+*Skills*
+|Name| Stats|
+|--|--|
+|One handed  |100|
+|Two handed  |100|
+|Marksman    |100|
+|Block       |100|
+|Light Armor |100|
+|Illusion    |40|
 
 **Additional Perks**
 * Mighty Strike - A single strike from His two-handed weapon can fell almost any foe.<br>[damage x 1.25, +20 armor penetration]
