@@ -260,22 +260,54 @@ Wears Ebony Mail, Gauntlets and Boots.
 
 # Lord Harkon
 
+
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 2600 |
+|Magicka| 1200 |
+|Stamina| 5300 |
+|Movement Speed| 91 |
+|Melee Damage| |
 |Ranged Damage| None  |
-|Magical Damage| None  |
-|Standard AR| None |
-|Magical AR| None |
+|Magical Damage| Drain Life - Absorb 75 points of health/Magic/Stamina per second from the target.    |
+| | Vampiric drain -  deals 25 damage to taregts, plus Absorb 15 points of health per second from the target.   |
+| Summon | Gargoyle Summons a Green Gargoyle for 60 seconds. |
+|  | Revenent Revenant The caster reanimates a powerful dead body for 60 seconds.|
+|  | Reanimate Corpse - The caster reanimates a dead body for 60 seconds.|
+|  | Raise Zombie - The caster reanimates a dead body for 60 seconds. |
+|Utility| Vampiric Invisibility - he can become invisible for 20 Seconds.|
+|Standard AR| 255 |
+|Magical AR| Unknown |
 |AP| None |
-|Health Regeneration| None  |
-| Diseased |  |
+|Health Regeneration| yes 1/s formally, can also cast Mistform - he becomes invulnerable, but unable to attack, while health, magicka and Stamina regenerate quickly. |
+| Diseased | Yes - Sanguine Vampiris  |
 |Can Knockdown Player| |
+
+ *Resistances*
+ 
+|Type  | Protection | Weakness|
+|--|--|--|
+|Frost  | 95 |  |
+|Fire |  | -75 |
+|Poison  | 200|  |
+|Paralysis  | Immune |  |
+|Wabbajack | Immune |  |
+|Knock Down| minor | |
+|Aetherial Shield | Immune |  |
+
+*Materiel Protection*
+|Type | 	Damage change|
+|--|--|
+|Silver (Melee) |	150%
+|Standard (Arrows) |	33%
+
+**Additional Perks**
+* War Axe Focus I - His basic war axe skill increases damage and armor penetration with one-handed chopping weapons.<br>[Damage x 1.05, +10 Armor Penetration]
+* Sword Focus I - Your basic skill with one-handed blades enhances your attacks.<br>[+8% attack speed, +7 armor penetration]
+* Finesse -  His training enhances your power attack damage by 3%<br>for every piece of Evasion armor or clothing currently equipped, for a maximum of 12%.
+* Penetrating Strikes - One-handed power attacks are easier to execute, and further penetrate enemy armor.<br>[-50% power attack stamina cost, +5 armor penetration]
+
 
 # Malkoran
 
@@ -430,14 +462,14 @@ NPC: 00062128
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
-|Ranged Damage|   |
+|Health| 470 |
+|Magicka| 60 |
+|Stamina| 370 |
+|Movement Speed| 115 |
+|Melee Damage| 25 Unarmed, Depends on Weapon |
+|Ranged Damage|  180  |
 |Magical Damage| None  |
-|Standard AR| 720 + At least 216 from shield |
+|Standard AR| 874 + At least 216 from shield |
 |Magical AR| 75% |
 | Stone | Lord's Stone |
 | Utility | Berserker Rage - Once a day, Orcs can fall into a wild rage that stops their ability to feel pain and greatly increases dealt physical damage and Stamina for 60 seconds.
@@ -533,11 +565,11 @@ dunMS06PotemaSkeleton "Potema's Remains" [NPC_:0010349B]
 *Basic Stats*
 |Stat| Value |
 |--|--|
-|Health|  |
-|Magicka|  |
-|Stamina|  |
-|Movement Speed|  |
-|Melee Damage|  |
+|Health| 385 |
+|Magicka| 365 |
+|Stamina| 90 |
+|Movement Speed| 100 |
+|Melee Damage| 1 |
 |Ranged Damage| None  |
 |Magical Damage|Lightning Bolt - The caster evokes a bolt of lightning that deals 25 points of shock damage to Health and half that to Magicka.   |
 || Sparks - The caster causes lightning arcs to spring forth that shocks everyone inside for 20 points per second, draining both health and magicka. When the spell is released, the currents slowly ebbs away. Casting multiple Lightning Sparks at the same target will not increase the applied damage.
@@ -554,7 +586,9 @@ dunMS06PotemaSkeleton "Potema's Remains" [NPC_:0010349B]
 |Can Knockdown Player| |
 
 *Weapons*
+
 * One of the following Weapons
+
 |Name|Base Stats|
 |--|--|
 |Daedric Sword	|90
@@ -565,12 +599,15 @@ dunMS06PotemaSkeleton "Potema's Remains" [NPC_:0010349B]
 |Iron Sword	|42
 |Orcish Sword|60
 |Steel Sword|	48
+
 * with one of the following Enchants
+
 |Name| Stats|
 |--|--|
-|Thunderbolts| |
-|Lightning| |
-|Storms | |
+|Thunderbolts| 20 Shock Damage |
+|Lightning| 10 Shock Damage |
+|Storms | 30 Shock Damage |
+|Shocks | 15 Shock Damage  |
 
 **Additional Perks**
 * Necromancy Undead and ghostly summons last 50% longer. He can reanimate more powerful corpses (3x higher level) that last 10x longer.
