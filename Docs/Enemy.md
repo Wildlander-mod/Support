@@ -1,14 +1,8 @@
 # Wildlander Enemy Guide and Compendium
 
 Important note: this is WIP - Wildlander launch happened before completion. 
-- Animals Page is complete.
-- Automations page is complete.
-- Daedra Page is structurally complete, but Perks for Slighted need adding. 
-- Unique and named page is complete. 
 - Monsters page is structurally complete, but Perks for Rieklings need adding. 
-- Undead page Is Complete.
-- Bosses page is at 80% (Potema, Harkon & Old orc remaining)
-- Dragons page is complete.
+- all other pages are complete.
 
 This Guide is intended to be a reference guide to enable the player to be able to work out how the heck to kill some things in wildlander. It Kinda grew from there to include all sorts of reference materiel from Requiem so that players wouldnt have to go look up a billion & one perks, spells and the like to work out what the enemies were shooting at them. 
 
