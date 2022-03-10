@@ -149,7 +149,13 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 - Bookshelves can be used to duplicate items placed upon them
 - ENB when raining at night looks overly bright.
 - Asking a enchanter to recharge your weapon will take the gold, but not recharge.   
-
+   
+---
+## Horse Issues
+-  Randomly stop wearing barding
+-  Die when you are inside of a dungeon and shouldnt because they were not being attacked when you entered.
+-  Disappear from your ownership altogether (only to reappear at the original location) - seems to affect only stolen horses
+-  STart walking back to their stables instead of waiting (purchased horses)  
 
 ---
 ## Quest Issues
