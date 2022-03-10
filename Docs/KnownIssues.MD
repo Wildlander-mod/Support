@@ -155,7 +155,8 @@ You can possibly solve it by either dropping and buying a new item OR by droppin
 -  Randomly stop wearing barding
 -  Die when you are inside of a dungeon and shouldnt because they were not being attacked when you entered.
 -  Disappear from your ownership altogether (only to reappear at the original location) - seems to affect only stolen horses
--  STart walking back to their stables instead of waiting (purchased horses)  
+-  Start walking back to their stables instead of waiting (purchased horses)  
+-  they have no mane !( 
 
 ---
 ## Quest Issues
