@@ -224,6 +224,10 @@ Workaround:  Drop the lantern and console yourself a new one then Follow the pro
 If bathing in very cold water, it can kill you before the animation finishes. 
 
 Work around: don't take a bath in cold water ;)
+   
+### Spell Research
+   
+Reimporting the spells causes the mod to hang in a unrecoverable way. There is no work around other than to load a save before you did this.
 
 ---
 
@@ -265,6 +269,7 @@ Work around: don't take a bath in cold water ;)
 
 ### Followers
 1) If a follower is marked as a sheogorath worshipper, they don't attack they throw cheese.  go FLP MCM menu Then change the religion for sheogorath to -2 for whichever follower is lobbing them.
+2) Delphine cannot accept followers to join the blades - Current work around is to console skip the quest setstage FreeformSkyhavenTempleA 40
    
 ### Crafting
 1) Crating some items say require forge - when you are already using one.
