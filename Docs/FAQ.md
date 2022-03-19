@@ -137,7 +137,7 @@ Annoucement Trailer - https://youtu.be/-8MYFRBJX8U
 Release date: 7Th January, 2022. 
 
 Based on the current Gold build.
-> [Mod List](https://loadorderlibrary.com/lists/wildlander-internal-gold-build)
+> [Mod List](https://loadorderlibrary.com/lists/wildlander-ultra-profile)
 
 > [Differences list](https://docs.google.com/document/d/151jvogISYYDSa-xUbPOmhQGVL4_gF457oLZX_VZy1fY/preview)
 
