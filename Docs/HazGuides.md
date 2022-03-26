@@ -1,3 +1,5 @@
+# NONE OF THESE PATCHES WILL WORK FOR WILDLANDER. Dont waste your time !!!
+
 ## **Installing Wintersun - Faiths of Skyrim with Seg's patch**
 
 Even if you are familiar with[ Wintersun](https://www.nexusmods.com/skyrim/mods/95545?tab=description), do check out the changes in[ Seg's Requiem patch](https://www.nexusmods.com/skyrim/mods/95859?tab=description) used here. Some of the tweaks are significant.
