@@ -1,3 +1,6 @@
+# NONE OF THESE PATCHES WILL WORK FOR WILDLANDER. Dont waste your time !!!
+
+
 # Modding Guides
 
 If you have issues with any of the guides below - you can submit feedback here https://forms.gle/jG4DadrizsRz3bwT9
