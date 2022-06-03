@@ -347,15 +347,15 @@ Firstly: The wabbajack discord had strict rules regarding the addition of mods t
 
 The answer to this is "sometimes". 
 
-For a list of known mods which have Issues/Incompatibilities/ please click [here](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#known-mod-issuesincompatibilities)
+For a list of known mods which have Issues/Incompatibilities/ please click [here](https://github.com/Wildlander-mod/Support/blob/master/Docs/UltimateSkyrimGuides/ModdingUltSky.md#known-mod-issuesincompatibilities)
 
-Before you begin modding Please read the [basics](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#ultimate-skyrim-modding-basics) which contains the rules for modding in ultsky and are slightly different to other modlists you might have tried. The most important rule is
+Before you begin modding Please read the [basics](https://github.com/Wildlander-mod/Support/blob/master/Docs/UltimateSkyrimGuides/ModdingUltSky.md#ultimate-skyrim-modding-basics) which contains the rules for modding in ultsky and are slightly different to other modlists you might have tried. The most important rule is
 
 ▶️ **YOU CANT USE LOOT**  ◀️
 
 The support Team has put together a set of guides for adding popularaly requested additional mods.
 
-Please visit [this page](https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/ModdingUltSky.md#guides-list) for install guides or the Ultimate Skyrim discord (customisation channel) advice for other type of mods.
+Please visit [this page](https://github.com/ildlander-mod/Support/blob/master/Docs/UltimateSkyrimGuides/ModdingUltSky.md#guides-list) for install guides or the Ultimate Skyrim discord (customisation channel) advice for other type of mods.
 
 ---
 
