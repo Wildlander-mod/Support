@@ -355,7 +355,7 @@ Before you begin modding Please read the [basics](https://github.com/Wildlander-
 
 The support Team has put together a set of guides for adding popularaly requested additional mods.
 
-Please visit [this page](https://github.com/ildlander-mod/Support/blob/master/Docs/UltimateSkyrimGuides/ModdingUltSky.md#guides-list) for install guides or the Ultimate Skyrim discord (customisation channel) advice for other type of mods.
+Please visit [this page](https://github.com/Wildlander-mod/Support/blob/master/Docs/UltimateSkyrimGuides/ModdingUltSky.md#guides-list) for install guides or the Ultimate Skyrim discord (customisation channel) advice for other type of mods.
 
 ---
 
@@ -367,7 +367,7 @@ No and if you try then SKSE crashes from Mod Organizer. You will need to install
 
 ## Can I backup and restore Ultimate Skyrim
 
-Yes, please follow this guide https://github.com/phinocio/UltimateSkyrim/blob/master/Docs/Backup.md
+Yes, please follow this guide https://github.com/Wildlander-mod/Support/blob/master/Docs/Backup.md
 
 
 ---
