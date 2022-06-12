@@ -1,3 +1,24 @@
+## A warning before proceeding
+
+The reason for this is obvious. Skyrim by itself is full of issues. Adding hundreds of mods from very many modders compound this into the n'th degree.
+
+A curated modlist like Wildlander however, can be considered identical across many installations and will have issues that are common (enough) across every installation.
+
+Finding and fixing these issues will increase the stability of the modpack as a whole and iterative publishing of modpack updates will over time give the modpack player a very stable game.
+
+Then enter your wish for "just one more mod".
+
+What has happened then is that now your installation is slightly different from what everyone else have. And this is pretty much guaranteed to introduce unintended effects. Which can lead to issues that are specific to ONLY YOU and others that use the same customization as you.
+
+This mean that if you report a "bug" to the community support staff, they will have absolutely NO IDEA if this is caused by something in Wildlander modlist (which everyone will benefit from fixing), or if it is caused by your custom add-on.
+
+Helping you will basically be a waste of volunteer time that should go to those who have NOT customized the modlist.
+
+You will be ON YOUR OWN.
+
+If you accept this, then Grab yourself a custom build role on discord and continue!
+
+
 ## Modding Basics
 Installing Mods not covered by guides.
 
@@ -41,6 +62,92 @@ The following types of mods have Issues
 > *  New creatures/enemies/NPC's/followers   (unless requiem patch available) - Note: for enemies - they are generally added as unleveled, and in requiem this means they are always level 1. for NPC's and Followers - they will be missing the requiem perks and may also be unleveled (ergo level 1)
 > *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
 > *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
-> *  3Tweaks ( It also changes so much stuff, that it won't be compatible with anything without 3tweaks dedicated patch - which just doesn't exist for the bulk of the mods in the list - Including Wildlander.esp itself).     
+> *  3Tweaks/BTweaks (Wont be compatible OUT OF THE BOX - It changes so much stuff, that it won't be compatible with anything without 3tweaks dedicated patch - which just doesn't exist for the bulk of the mods in the list - Including Wildlander.esp itself).     
 
 ---
+
+## General guidance
+
+If you start modding make a copy of Wildlander profile and name it something like "$Original Wildlander Profile name+ Modified".
+You will always be able to switch back to the original profile and load it that way in case you screw up badly. or run loot or otherwise fubar your load order.
+
+Quick Links to a variety of Helpful Topics:
+
+### The Distinction between List/Loose Files Load Order and Plugins Load Order: 
+
+![image](https://user-images.githubusercontent.com/26418143/173229360-cc431243-c5fb-4f1b-babd-74efc9cb80db.png)
+
+### Building New Animations with Nemesis/FNIS alternative: 
+
+https://youtu.be/gc8Ai7jYDXc?t=1077
+The video covers most of it and I already linked to the timestamp that is really important, but there are a few edge cases still left.
+
+Q: I have followed the tutorial but my animations don't show up/Nemesis just throws up something like: Initializing Engine update, engine update complete 15 seconds. But none of my extra animation mods are referenced.
+A: Click Launch Nemesis Engine and not Update.
+
+Q: I clicked Launch Nemesis engine and now I am getting an access error or some other sort of crash.
+A: You have to add Nemesis Engine to the windows defender exception list, or whatever Anti Virus you are running. For Windows defender, go to its system  and add "Nemesis Unlimited Behavior Engine.exe" Process to the exclusion list. It should look something like this. 
+
+![image](https://user-images.githubusercontent.com/26418143/173229406-08b78e3a-6ec5-4eaf-9647-5d618559c6e0.png)
+
+
+### A quick guide to NetScriptFramework Error Codes
+
+https://www.nexusmods.com/skyrimspecialedition/articles/3031/
+
+More crash help here
+
+https://github.com/Fikthenig/Crash-Bonanza
+
+and finally - if all else fails
+
+https://www.nexusmods.com/skyrimspecialedition/mods/49130?tab=posts
+
+-----
+
+# Guides
+
+## Inn's can be closed
+
+**Original Mod name. and link**
+E.G Inns Can be Closed - https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=description
+
+**What does your patch do?**
+This is only a patch to keep the possibility of inns having no free beds, while also keeping the changes from Relationship Dialogue Overhaul and Wildlander for the different NPC answers.
+
+**Patch URL**
+https://www.nexusmods.com/skyrimspecialedition/mods/62112?tab=description
+
+
+**Load order**
+Please include details instructions of where the original AND you patch should go on both sides of the load order.  An Example Below.
+
+On the RIGHT side:
+
+	Wildlander.esp
+	-
+	-
+	Inns Can Be Closed
+	Inns Can Be Closed Wildlander Patch.esp
+	-
+	-
+	Requiem for the indifferent.esp
+
+On the LEFT side:
+
+	Doesn't matter
+  
+---
+### Requiem - Static Skill Leveling (Experience Mod Add-on)
+
+**Original Mod name. and link**
+Requiem - Static Skill Leveling - https://www.nexusmods.com/skyrimspecialedition/mods/43185
+
+**Guide URL**
+https://docs.google.com/document/d/1ybW3_zI60rtaCIDrKZIz_vNDzu-cXECO5sx6oMisS7U/edit
+
+**Additional Notes*
+Added a final note to the guide to state that the patcher needs to be run every time new mods are added that change perks, quests, or books. Synthesis.esp should remain last in the load order. (Unless the Synthesis changes are manually forwarded into another patch)
+  
+---
+
