@@ -110,17 +110,19 @@ https://www.nexusmods.com/skyrimspecialedition/mods/49130?tab=posts
 ## Inn's can be closed
 
 **Original Mod name. and link**
+
 E.G Inns Can be Closed - https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=description
 
 **What does your patch do?**
+
 This is only a patch to keep the possibility of inns having no free beds, while also keeping the changes from Relationship Dialogue Overhaul and Wildlander for the different NPC answers.
 
 **Patch URL**
+
 https://www.nexusmods.com/skyrimspecialedition/mods/62112?tab=description
 
 
 **Load order**
-Please include details instructions of where the original AND you patch should go on both sides of the load order.  An Example Below.
 
 On the RIGHT side:
 
@@ -141,12 +143,15 @@ On the LEFT side:
 ### Requiem - Static Skill Leveling (Experience Mod Add-on)
 
 **Original Mod name. and link**
+
 Requiem - Static Skill Leveling - https://www.nexusmods.com/skyrimspecialedition/mods/43185
 
 **Guide URL**
+
 https://docs.google.com/document/d/1ybW3_zI60rtaCIDrKZIz_vNDzu-cXECO5sx6oMisS7U/edit
 
 **Additional Notes*
+
 Added a final note to the guide to state that the patcher needs to be run every time new mods are added that change perks, quests, or books. Synthesis.esp should remain last in the load order. (Unless the Synthesis changes are manually forwarded into another patch)
   
 ---
