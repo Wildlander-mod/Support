@@ -53,6 +53,7 @@ The following Types of mods are NOT Compatible. (cause game breaking bugs)
 > * Populated Cities Towns Village SE - Can cause the game to bug out into an endless loading scene when entering cities. COC'ing into one of the cities shops and leaving into the city from there circumvents and fixes it for some time
 > * New Races (unless requiem patch available) Requiem won’t start and will return you to the main menu.
 > * Skyrim Together (Just doesnt work)  
+> * Enhanced character edit - Not compatible with racemenu, which cannot be disabled.
 
 The following Mods are extremely script heavy, Will possibly break your game.
 > *  Open Cities (also requires a tonne of manual patching)
