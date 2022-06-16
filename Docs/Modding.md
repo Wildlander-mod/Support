@@ -81,12 +81,15 @@ Quick Links to a variety of Helpful Topics:
 ### Building New Animations with Nemesis/FNIS alternative: 
 
 https://youtu.be/gc8Ai7jYDXc?t=1077
+
 The video covers most of it and I already linked to the timestamp that is really important, but there are a few edge cases still left.
 
 Q: I have followed the tutorial but my animations don't show up/Nemesis just throws up something like: Initializing Engine update, engine update complete 15 seconds. But none of my extra animation mods are referenced.
+
 A: Click Launch Nemesis Engine and not Update.
 
 Q: I clicked Launch Nemesis engine and now I am getting an access error or some other sort of crash.
+
 A: You have to add Nemesis Engine to the windows defender exception list, or whatever Anti Virus you are running. For Windows defender, go to its system  and add "Nemesis Unlimited Behavior Engine.exe" Process to the exclusion list. It should look something like this. 
 
 ![image](https://user-images.githubusercontent.com/26418143/173229406-08b78e3a-6ec5-4eaf-9647-5d618559c6e0.png)
