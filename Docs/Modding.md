@@ -115,7 +115,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/49130?tab=posts
 
 **Original Mod name. and link**
 
-E.G Inns Can be Closed - https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=description
+Inns Can be Closed - https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=description
 
 **What does your patch do?**
 
