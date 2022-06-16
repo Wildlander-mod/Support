@@ -28,7 +28,7 @@ open < Wildlander install directory >\Game-files\mod organiser.exe. Once open - 
 - find the mod in the list and right click > install (you may need to click the refresh button to make it appear)
 - choose your settings (if it has installation options) then once its finished installing turn it on, on the left side of the mod organizer (should be at bottom of the list).
 - **Important** if patching from "Requiem patch central" Untick any ticked patches for mods in the base wildlander install, and only tick ones for mods you are adding yourself.
-- If you mod doesn’t have any ESP/ESM's then that’s it - otherwise continue!
+- If you mod doesn’t have any ESP/ESM/ESL's then that’s it - otherwise continue!
 
 Sort your (right side) Plugins load order manually (LOOT IS THE DEVIL - ERASE its Existence from your memory).
 
