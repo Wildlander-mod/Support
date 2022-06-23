@@ -20,6 +20,16 @@ If you accept this, then Grab yourself a custom build role on discord and contin
 
 
 ## Modding Basics
+
+    NEVER EVER uninstall mods unless you are starting a new playthrough.
+
+    Be careful updating mods. Check for update instructions. Some updates require you to start a new playthrough.
+
+    When you load your savefile, wait at least thirty seconds before saving again. Some scripts will break if you save too soon after loading.
+    
+    At least try to avoid saving during combat or other conditions of heavy script load.
+
+
 Installing Mods not covered by guides.
 
 - Download it to your Wildlander download folder (this will be the directory you entered on the wabbajack installer when you first installed the list)
@@ -106,6 +116,15 @@ https://github.com/Fikthenig/Crash-Bonanza
 and finally - if all else fails
 
 https://www.nexusmods.com/skyrimspecialedition/mods/49130?tab=posts
+
+### Resaver - Save cleaner and script remover.
+
+This tool is useful for removing Bugged/crashed scripts from your save and correct scriptlag. 
+
+I strongly recommend reading the modpage And/or watching tutorial videos before using.
+
+ReSaver from FallrimTools: https://www.nexusmods.com/skyrimspecialedition/mods/5031?tab=files
+
 
 -----
 
