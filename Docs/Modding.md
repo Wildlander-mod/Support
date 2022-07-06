@@ -25,7 +25,8 @@ If you accept this, then Grab yourself a custom build role on discord and contin
 
     Be careful updating mods. Check for update instructions. Some updates require you to start a new playthrough.
 
-    When you load your savefile, wait at least thirty seconds before saving again. Some scripts will break if you save too soon after loading.
+    When you load your savefile, wait at least thirty seconds before saving again. 
+    Some scripts will break if you save too soon after loading.
     
     At least try to avoid saving during combat or other conditions of heavy script load.
 
