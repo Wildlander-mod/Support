@@ -125,6 +125,28 @@ This tool is useful for removing Bugged/crashed scripts from your save and corre
 I strongly recommend reading the modpage And/or watching tutorial videos before using.
 
 ReSaver from FallrimTools: https://www.nexusmods.com/skyrimspecialedition/mods/5031?tab=files
+-----
+# Tool Setup
+
+## Creation Kit
+
+1) Download and install into steam Folder : https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
+2) Download and install into steam Folde  https://www.nexusmods.com/skyrimspecialedition/mods/67096/
+
+* Copy Papyrus Compiler folder from Steam skryim into Game-files\Stock game
+* Copy Creation kit.exe from Steam skryim into Game-files\Stock game  
+* Unzip <steam fold>\data\Scripts.zip into Game-files\Stock game\Data
+	
+Download https://www.nexusmods.com/skyrimspecialedition/mods/20061 and unzip contents into Game-files\Stock game
+
+## Papyrus Compiler SE
+	
+1) Download and install creation kit as per above instructions
+2) Open program from mod organiser
+![image](https://user-images.githubusercontent.com/26418143/180988545-9a2f1b18-553e-455c-ba28-73c67f225e5a.png)
+3) from above screen click cog icon
+4) Set  Skyrim SE folder to Game-files\Stock game 
+5) Set  papyrus compiler to Game-files\Stock game\Papyrus Compiler
 
 
 -----
