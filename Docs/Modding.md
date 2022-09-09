@@ -30,8 +30,11 @@ If you accept this, then Grab yourself a custom build role on discord and contin
     
     At least try to avoid saving during combat or other conditions of heavy script load.
 
+    Vortex / Wyrebash / Loot have their place, that place is 2 billion miles away from wildlander and should not be used.
 
 Installing Mods not covered by guides.
+
+All most should be added to Mod organiser, not to your Skyrim directory. 
 
 - Download it to your Wildlander download folder (this will be the directory you entered on the wabbajack installer when you first installed the list)
 open < Wildlander install directory >\Game-files\mod organiser.exe. Once open - top left dropdown - select the profile you plan on playing.
