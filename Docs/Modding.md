@@ -1,38 +1,56 @@
 ## A warning before proceeding
 
-The reason for this is obvious. Skyrim by itself is full of issues. Adding hundreds of mods from very many modders compound this into the n'th degree.
+Adding mods is generally considered a bad idea unless you know what you are doing. Any form of customisation "support" will be in the Dedicated Customisation channels. Should you ask in general or either of the support channels, your posts will be deleted and you will be directed to ask in the appropriate locations.
 
-A curated modlist like Wildlander however, can be considered identical across many installations and will have issues that are common (enough) across every installation.
+Helping you will basically be a waste of volunteer time that should go to those who have NOT customized the modlist. 
 
-Finding and fixing these issues will increase the stability of the modpack as a whole and iterative publishing of modpack updates will over time give the modpack player a very stable game.
-
-Then enter your wish for "just one more mod".
-
-What has happened then is that now your installation is slightly different from what everyone else have. And this is pretty much guaranteed to introduce unintended effects. Which can lead to issues that are specific to ONLY YOU and others that use the same customization as you.
-
-This mean that if you report a "bug" to the community support staff, they will have absolutely NO IDEA if this is caused by something in Wildlander modlist (which everyone will benefit from fixing), or if it is caused by your custom add-on.
-
-Helping you will basically be a waste of volunteer time that should go to those who have NOT customized the modlist.
-
-You will be ON YOUR OWN.
+Should you customise your list - You will be ON YOUR OWN unless another member of the community takes pity on you.
 
 If you accept this, then Grab yourself a custom build role on discord and continue!
 
 
 ## Modding Basics
 
-    NEVER EVER uninstall mods unless you are starting a new playthrough.
+NEVER EVER uninstall mods unless you are starting a new playthrough.
 
-    Be careful updating mods. Check for update instructions. Some updates require you to start a new playthrough.
+Be careful updating mods. Check for update instructions. Some updates require you to start a new playthrough.
 
-    When you load your savefile, wait at least thirty seconds before saving again. 
-    Some scripts will break if you save too soon after loading.
+When you load your savefile, wait at least thirty seconds before saving again. Some scripts will break if you save too soon after loading.
     
-    At least try to avoid saving during combat or other conditions of heavy script load.
+At least try to avoid saving during combat or other conditions of heavy script load.
 
-    Vortex / Wyrebash / Loot have their place, that place is 2 billion miles away from wildlander and should not be used.
+Vortex / Wyrebash / Loot have their place, that place is 2 billion miles away from wildlander and should not be used.
+    
+Make sure when downloading mods - they work with skyrim 1.5.97. Downloading SKSE for aniversary editions WILL NOT WORK.
 
-Installing Mods not covered by guides.
+You Cannot Disable Essential mods required by wildlander.ESP.
+
+## Known Mod Issues/Incompatibilities
+
+The following Types of mods are NOT Compatible. (cause game breaking bugs)
+> * Any Alternate start mod. (Skyrim unbound reborn is included in the list, which acts as a alternate start mod. It cannot be removed and replaced with something else)
+> * Any Mod which affects the perk trees E.g. Ordinator 
+> * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
+> * Cold & Wet SE - causes Various CTD
+> * Populated Cities Towns Village SE - Can cause the game to bug out into an endless loading scene when entering cities. COC'ing into one of the cities shops and leaving into the city from there circumvents and fixes it for some time
+> * New Races (unless requiem patch available) Requiem won’t start and will return you to the main menu.
+> * Skyrim Together (Just doesnt work)  
+> * Enhanced character edit - Not compatible with racemenu, which cannot be disabled.
+> * Any SKSE mods for Skyrim version 1.6 onwards.
+
+The following Mods are extremely script heavy, Will possibly break your game.
+> *  Open Cities (also requires a tonne of manual patching)
+> *  Sexlab Separate Orgasms (known to cause fps degradation/script bloat)
+
+The following types of mods have Issues 
+> *  New creatures/enemies/NPC's/followers   (unless requiem patch available) - Note: for enemies - they are generally added as unleveled, and in requiem this means they are always level 1. for NPC's and Followers - they will be missing the requiem perks and may also be unleveled (ergo level 1)
+> *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
+> *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
+> *  3Tweaks/BTweaks (Wont be compatible OUT OF THE BOX - It changes so much stuff, that it won't be compatible with anything without 3tweaks dedicated patch - which just doesn't exist for the bulk of the mods in the list - Including Wildlander.esp itself).     
+
+---
+
+### Installing Mods not covered by guides.
 
 All most should be added to Mod organiser, not to your Skyrim directory. 
 
@@ -54,30 +72,6 @@ If there isn't a specific guide, then as a general rule of thumb
 - Run the reqtificator whenever you change the load order.
 
 Close mod organizer - and use the launcher to start the game.
-
----
-
-## Known Mod Issues/Incompatibilities
-
-The following Types of mods are NOT Compatible. (cause game breaking bugs)
-> * Any Alternate start mod. (Skyrim reloaded reborn is included in the list, which acts as a alternate start mod. It cannot be removed and replaced with something else)
-> * Any Mod which affects the perk trees E.g. Ordinator 
-> * Truly Absorb Dragon Souls, DSAMG - Dragon Soul Absorb More Glorious and Dragon Remains (prevents the main quest from firing upon killing a dragon)
-> * Cold & Wet SE - causes Various CTD
-> * Populated Cities Towns Village SE - Can cause the game to bug out into an endless loading scene when entering cities. COC'ing into one of the cities shops and leaving into the city from there circumvents and fixes it for some time
-> * New Races (unless requiem patch available) Requiem won’t start and will return you to the main menu.
-> * Skyrim Together (Just doesnt work)  
-> * Enhanced character edit - Not compatible with racemenu, which cannot be disabled.
-
-The following Mods are extremely script heavy, Will possibly break your game.
-> *  Open Cities (also requires a tonne of manual patching)
-> *  Sexlab Separate Orgasms (known to cause fps degradation/script bloat)
-
-The following types of mods have Issues 
-> *  New creatures/enemies/NPC's/followers   (unless requiem patch available) - Note: for enemies - they are generally added as unleveled, and in requiem this means they are always level 1. for NPC's and Followers - they will be missing the requiem perks and may also be unleveled (ergo level 1)
-> *  Dead NPC Body Cleaner Remover (caused Immortal Vampires when you attempt to burn them, also causes civil war patrols to scream like banshee's)  
-> *  New Quest area mods   (unless requiem patch available) - Note: This is because new area's generally add new creatures/enemies/NPC's and followers
-> *  3Tweaks/BTweaks (Wont be compatible OUT OF THE BOX - It changes so much stuff, that it won't be compatible with anything without 3tweaks dedicated patch - which just doesn't exist for the bulk of the mods in the list - Including Wildlander.esp itself).     
 
 ---
 
