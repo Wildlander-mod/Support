@@ -141,7 +141,9 @@ Download https://www.nexusmods.com/skyrimspecialedition/mods/20061 and unzip con
 	
 1) Download and install creation kit as per above instructions
 2) Open program from mod organiser
+	
 ![image](https://user-images.githubusercontent.com/26418143/180988545-9a2f1b18-553e-455c-ba28-73c67f225e5a.png)
+	
 3) from above screen click cog icon
 4) Set  Skyrim SE folder to Game-files\Stock game 
 5) Set  papyrus compiler to Game-files\Stock game\Papyrus Compiler
