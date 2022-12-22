@@ -7,6 +7,7 @@
 * Make the missive board give more details on the quests.
 * Fix the rewards so the value of the item is taken into account.
 * Expand the existing INN quests to include fish and Veggies.
+* Missive boards in Towns.
 
 
 --------
