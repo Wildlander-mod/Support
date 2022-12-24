@@ -11,7 +11,7 @@ Known issues
 3) Some "kill the leader" quests Auto complete - if you do the dungeon while the quest is spawned on the missive board.
 
 
-Version 1.o
+Version 1.0
 Initial Release
 
 V1.1
