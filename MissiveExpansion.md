@@ -354,6 +354,32 @@ Four Varients
 2) Local Priest, Distant drop
 3) Other priest, Local Drop
 4) Other priest, Distant Drop
+  
+--------
+## Quest Pickpocket Transport plans
+  
+First part of a two part missive - the second one starts when the first one is handed in.
+  
+Objecctive Pickpocket plans from a miner
+
+Missive note: I've recently learned that the miners inside of <Alias=Mine> Have dug up a huge gemstone. They have arranged a sale with Tonila of the Thieves guild - however we need to know the plans of the route her runner is going to take. Get that letter.
+  
+Quest giver: Hold Fence.
+  
+Reward: Gold - Plus part 2 of the missive.
+  
+## Part 2: Intercept the runner before he makes it to the Thieves guild.
+  
+Objective: A NPC disguised as a courior will start at the mine and run towards the ragged flagon - The Player has to kill him and obtain the gem shipment Before he makes it to the thieves guild.
+  
+Missive Note: OK - The runner is already here, We need to get that shipment before he makes it to Riften. Go. Now. Get that Stone and return it to me - any other gems he is carrying are yours - but get me the big one!
+  
+Reward: Gold + Gems the runner was carrying.
+  
+Item needed: Huge Gemstone - Use the Stone of Barinth model for it.
+Use the Courior Template - But amp his stats up and give him decent weapons.
+  
+Quest fails if the runner makes it to the ragged flaggon. 
 
 --------
 
