@@ -2,7 +2,7 @@
 
 ## Existing Missives
 
-* Fix the vampire quest so that guards dont kill thenm for you
+* Fix the vampire quest so that guards dont kill them for you
 * Add all of the Requiem / Hunterborn Materials to the appropriate existing missive lists
 * Make the missive board give more details on the quests.
 * Fix the rewards so the value of the item is taken into account.
