@@ -219,7 +219,7 @@ ________
 
 ## Quest: Dark Missive: Deliver Poison (WIP)
 
-Objective: Collect poison from the Solitude Refuge alchemist NPC and deliver to the "shady" NPC requesting it
+Objective: Collect poison from a alchemist NPC and deliver to the "shady" NPC requesting it
   
 Quest giver: Shady (Generated) NPC - kinda like the thieves currently are 
   
@@ -229,7 +229,22 @@ Additional rewards? None
 
 Two Varients
 1) Local Hold.
-2) Other Hold.
+2) Other Hold. (DONE)
+
+--------
+## Quest: Dark Missive: Deliver Scrolls (WIP)
+
+Objective: Collect Scroll from the A Refuge wizard NPC and deliver to the "shady" NPC requesting it
+  
+Quest giver: Shady (Generated) NPC - kinda like the thieves currently are 
+  
+Gold Reward Twice the value of the items.
+  
+Additional rewards? None
+
+Two Varients
+1) Local Hold.
+2) Other Hold. (DONE)
 
 --------
 
@@ -242,6 +257,11 @@ Quest giver: Outlaw refuge fence
 Gold Reward 250g
   
 Additional rewards? None
+  
+
+Two Varients
+1) Noble on horse + bodyguard - Tracked
+2) Traitor (Untracked)  
 
 --------
 
@@ -281,8 +301,8 @@ Two Varients
 
 --------
 
-## Quest: Dark Missive: Deliver Warning (WIP)
-Objective:  Deliver a warning to a NPC
+## Quest: Dark Missive: Deliver Warning 
+Objective:  Deliver a warning to a NPC (Done & Tested)
 
 Missive note: <Target> hasn't payed this months protection money. Deliver this note to remind him that he *will* pay up.
 
@@ -294,11 +314,12 @@ Additional rewards? None
 
 Kinda like the reverse of the Deliver Missive - you collect the "payment" from the NPC and deliver it to the Fence.
 
-Payment item will be in the form of a gemstone when you collect the missive you also get a threatening note, which you deliver to the NPC. the NPC will give you the payment and act afraid and/or cower. you then return the payment to the outlaw fence
+Payment item will be in the form of a 50g bribe when you collect the item. the NPC will act afraid and/or cower. you then return the payment to the outlaw fence who will give you the rest of the payment (value of the item)
 
-Two Varients
-1) In city.
-2) In Hold.
+Three Varients
+1) In city. (Done)
+2) In Hold. (Done)
+3) In other hold (Done)
 
 --------
 
