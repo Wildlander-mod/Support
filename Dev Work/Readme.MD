@@ -19,3 +19,7 @@ Fix for 1.1.6
 
 V1.2 24/12
 Fix for visiting both missive boards in a hold removing all quests from the first board.
+
+V1.3 15/01
+Added Quests raise dispostion patch
+Fixed missive boards to regen quests when empty (e.g if visiting two toens in same holds and identical quests are selected, the first missive board empties when the second starts the quests)
