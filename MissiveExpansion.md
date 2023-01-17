@@ -486,6 +486,7 @@ Additional rewards: Alchemy solutions
 * Necromancy spell scroll smuggling (pick up X spells or tomes from a dead drop, get them to Y NPC in a city on the other side of skyrim)
 * A missive placed on a town which has a khajiit camp where you go beat up the khajiits to force them to move on
 * Missives in Windhelm to go brawl/attack random dark elves or argonians that belong to Windhelm
+* Missive to collect a item from a dead budy in the hall of the dead "one of my operatives was killed in action. His body has been taken to the hall of the dead - but if i know him right - he swallowed the item i asked him to retrive. Go and get it"
 
 ## Civil war camp missives
   
