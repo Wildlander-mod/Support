@@ -212,39 +212,30 @@ Gold Reward Twice the value of the items.
 Additional rewards? None
 
 Status: Done
-
---------
+  
+  
+________
 PLANNED Dark Missives
+  
+* Destroying or using items should fail the quest.
+* Going to jail with items should fail quest.
+* Killing the boss fails quest.
+  
 ________
 
-## Quest: Dark Missive: Deliver Poison (WIP)
+## Quest: Dark Missive: Deliveries Poison (DONE)
 
-Objective: Collect poison from a alchemist NPC and deliver to the "shady" NPC requesting it
+Objective: Collect poison from a alchemist NPC and deliver to the "shady" NPC requesting it OR Collect Scroll from the A Refuge wizard NPC and deliver to the "shady" NPC requesting it OR Collect Skooma from the A Dealer NPC and deliver to the "shady" NPC requesting it
   
 Quest giver: Shady (Generated) NPC - kinda like the thieves currently are 
   
 Gold Reward Twice the value of the items.
   
 Additional rewards? None
-
-Two Varients
-1) Local Hold.
-2) Other Hold. (DONE)
-
---------
-## Quest: Dark Missive: Deliver Scrolls (WIP)
-
-Objective: Collect Scroll from the A Refuge wizard NPC and deliver to the "shady" NPC requesting it
   
-Quest giver: Shady (Generated) NPC - kinda like the thieves currently are 
-  
-Gold Reward Twice the value of the items.
-  
-Additional rewards? None
-
-Two Varients
-1) Local Hold.
-2) Other Hold. (DONE)
+Varient 1 - Poison
+Varient 2 - Scrolls
+Varient 3 - Skooma 
 
 --------
 
@@ -262,6 +253,7 @@ Additional rewards? None
 Two Varients
 1) Noble on horse + bodyguard - Tracked
 2) Traitor (Untracked)  
+3) Assassinate the Assassin - Inside of a bandit or Mage Location,  Add a Assassin NPC (Perked to the eyeballs)
 
 --------
 
@@ -278,10 +270,63 @@ Gold Reward 1000g Automatically given to player on acivation of dead drop
 Additional rewards? 
 
 Four Varients
-1) Local Priest, Local Drop
+1) Local Priest, Local Drop 
 2) Local Priest, Distant drop
-3) Other priest, Local Drop
-4) Other priest, Distant Drop
+  
+  
+--------
+
+## Quest: Dark Missive: Deliver Skooma (WIP)
+
+Objective:  Collect Skooma from a Shady NPC and drop them at a dead drop
+
+Missive note: 
+
+Quest giver: Shady NPC
+  
+Gold Reward 100g Automatically given to player on acivation of dead drop
+  
+Additional rewards? 
+
+Four Varients
+1) Local Shady, Local Drop 
+2) Local Shady, Distant drop
+  
+--------
+
+## Quest: Dark Missive: Body parts disposal (WIP)
+  
+Objective:  Collect Body parts from a dead drop and drop them ioff at Priest NPC
+
+Missive note: A Necromancer client of my has excessive supplies left over from his experiments. He has placed them in the local dead drop. Collect them and our Priest friend will ensure they are placed inside of a coffin for us.
+
+Quest giver: priest NPC
+  
+Gold Reward 1000g Automatically given to the player on talking to the Priest
+  
+Additional rewards? 
+
+two Varients
+1) Local Priest, Local Drop (WIP)
+2) Local Priest, Distant drop
+  
+--------
+
+## Quest: Dark Missive: Skooma Collection (WIP)
+  
+Objective:  Collect Body parts from a dead drop and drop them ioff at Priest NPC
+
+Missive note: A Necromancer client of my has excessive supplies left over from his experiments. He has placed them in the local dead drop. Collect them and our Priest friend will ensure they are placed inside of a coffin for us.
+
+Quest giver: priest NPC
+  
+Gold Reward 1000g Automatically given to the player on talking to the Priest
+  
+Additional rewards? 
+
+Four Varients
+1) Local Shady, Local Drop (WIP)
+2) Local Shady, Distant drop
 
 --------
 
@@ -301,8 +346,8 @@ Two Varients
 
 --------
 
-## Quest: Dark Missive: Deliver Warning 
-Objective:  Deliver a warning to a NPC (Done & Tested)
+## Quest: Dark Missive: Debt Collection
+Objective: Collect a Debt from a NPC (Done & Tested)
 
 Missive note: <Target> hasn't payed this months protection money. Deliver this note to remind him that he *will* pay up.
 
@@ -334,29 +379,24 @@ Quest giver: Outlaw refuge fence
 Gold Reward 500g
   
 Additional rewards? 
-
+  
 --------
 
-## Quest: Dark Missive: Body parts disposal (WIP)
+## Quest: Dark Missive: Collect the Scrolls 
   
-Objective:  Collect Body parts from a dead drop and drop them ioff at Priest NPC
+Objective:  Find and eliminate a Mage - Recover Scrolls from his corpse
 
-Missive note: A Necromancer client of my has excessive supplies left over from his experiments. He has placed them in the local dead drop. Collect them and our Priest friend will ensure they are placed inside of a coffin for us.
+Missive note: One of my clients has had a Deal go bad, Go in, kill the Mage, Recover his merchanise.
 
-Quest giver: priest NPC
+Quest giver: Outlaw refuge fence
   
-Gold Reward 1000g Automatically given to the player on talking to the Priest
+Gold Reward 500g
   
 Additional rewards? 
 
-Four Varients
-1) Local Priest, Local Drop
-2) Local Priest, Distant drop
-3) Other priest, Local Drop
-4) Other priest, Distant Drop
   
 --------
-## Quest Pickpocket Transport plans
+## Quest Pickpocket Transport plans (WIP)
   
 First part of a two part missive - the second one starts when the first one is handed in.
   
@@ -395,22 +435,6 @@ Additional rewards? None
 
 --------
 
-## Quest: Dark Missive: Skooma Delivery 
-  
-Objective:  Deliver Skooma to a Shady NPC (collected from Local Dead Drop)
-  
-Quest giver: Shady (Generated) NPC - kinda like the thieves currently are 
-  
-Gold Reward Value of the Skooma + 5%
-  
-Additional rewards? None
-
-Two Varients
-1) Local NPC
-2) Other Hold NPC.
-
---------
-
 ## Quest: Dark Missive: Collect ingredients of a more nefarious nature
   
 Objective:  Deliver to a Shady Wizard
@@ -442,22 +466,6 @@ Additional rewards? None
 Note: This particular variant is because the thieves guild don't like killing - So the objective it to steal from the thief without being caught :)
 
 Wonder if i can tag the thief as part of the town crime faction? 
-
---------
-
-## Quest: Dark Missive: Assassinate the Assassin
-  
-Objective:  Find and eliminate a assassin
-
-Missive note: One of my clients has had a hit raised against him. Send a message to the upstart who raised the kill order by eliminating the assassin holed up in <bandit camp>
-
-Quest giver: Outlaw refuge fence
-  
-Gold Reward 1000g
-  
-Additional rewards? 
-
-Note: Add a Assassin NPC (Perked to the eyeballs) to a bandit camp in the hold
 
 --------
 
