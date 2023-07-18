@@ -6,6 +6,7 @@
 * Add all of the Requiem / Hunterborn Materials to the appropriate existing missive lists
 * Make the missive board give more details on the quests.
 * Fix the rewards so the value of the item is taken into account.
+* fix the bounties from missives so that you are now told you have one, and this scales to the item as well
 * Expand the existing INN quests to include fish and Veggies.
 * Missive boards in Towns.
 
