@@ -224,7 +224,7 @@ ________
   
 ________
 
-## Quest: Dark Missive: Deliveries Poison (DONE)
+## Quest: Dark Missive: Deliveries Poison
 
 Objective: Collect poison from a alchemist NPC and deliver to the "shady" NPC requesting it OR Collect Scroll from the A Refuge wizard NPC and deliver to the "shady" NPC requesting it OR Collect Skooma from the A Dealer NPC and deliver to the "shady" NPC requesting it
   
@@ -234,9 +234,10 @@ Gold Reward Twice the value of the items.
   
 Additional rewards? None
   
-Varient 1 - Poison
-Varient 2 - Scrolls
-Varient 3 - Skooma 
+Varient 1 - Poison Status: Done
+Varient 2 - Scrolls Status: Done
+Varient 3 - Skooma Status: Done
+Varient 4 - Soul Gems
 
 --------
 
@@ -295,7 +296,7 @@ Four Varients
   
 --------
 
-## Quest: Dark Missive: Body parts disposal (WIP)
+## Quest: Dark Missive: Body parts disposal
   
 Objective:  Collect Body parts from a dead drop and drop them ioff at Priest NPC
 
@@ -308,8 +309,8 @@ Gold Reward 1000g Automatically given to the player on talking to the Priest
 Additional rewards? 
 
 two Varients
-1) Local Priest, Local Drop (WIP)
-2) Local Priest, Distant drop
+1) Local Priest, Local Drop Status: Done
+2) Local Priest, Distant drop Status: Done
   
 --------
 
@@ -326,12 +327,12 @@ Gold Reward 1000g Automatically given to the player on talking to the Priest
 Additional rewards? 
 
 Four Varients
-1) Local Shady, Local Drop (WIP)
-2) Local Shady, Distant drop
+1) Local Shady, Local Drop Status: Done
+2) Local Shady, Distant drop Status: Done
 
 --------
 
-## Quest: Dark Missive: Collect Intelligence  (DONE)
+## Quest: Dark Missive: Collect Intelligence  
   
 Objective:  The numbers Job 
   
@@ -342,8 +343,8 @@ Gold Reward 50g
 Additional rewards? None
 
 Two Varients
-1) Local store
-2) Other Hold.
+1) Local store  Status: Done
+2) Other Hold.  Status: Done
 
 --------
 
@@ -465,9 +466,11 @@ Quest giver: Outlaw refuge fence
 
 Gold Reward 100% of the item + 100g
 
+Status: Done
+
 --------
 
-## Quest: Poison Crafting (if i have time)
+## Quest: Poison Crafting (WIP)
 Objective: Craft 1-3 poisons and deliver to buyer.
 
 Missive Note: An Inept Client has been hoodwinked into thinking he can enter the jarl's palace if he can poison his rivals away - He's going to get caught - but that's never stopped us from making a profit.
@@ -490,7 +493,7 @@ When item is receipted into inventory - check if its a potion and if it is - che
 ## Dark missives
   
 * Prison visitation to go talk to a prisoner in a random prison and XYZ (speechcraft style RP or smuggling stuff into prisons)
-* Necromancy spell scroll smuggling (pick up X spells or tomes from a dead drop, get them to Y NPC in a city on the other side of skyrim)
+* Necromancy spell scroll smuggling (pick up X spells or tomes from a dead drop, get them to Y NPC in a city on the other side of skyrim)  (done)
 * A missive placed on a town which has a khajiit camp where you go beat up the khajiits to force them to move on
 * Missives in Windhelm to go brawl/attack random dark elves or argonians that belong to Windhelm
 * Missive to collect a item from a dead budy in the hall of the dead "one of my operatives was killed in action. His body has been taken to the hall of the dead - but if i know him right - he swallowed the item i asked him to retrive. Go and get it"
@@ -507,8 +510,8 @@ When item is receipted into inventory - check if its a potion and if it is - che
 
 ## Good guy missives
   
-* Temper a weapon/armor for a NPC. (collect it - temper it and return it)
-* Enchant a weapon/armor for a NPC. (collect it - temper it and return it)
+* Temper a weapon/armor for a NPC. (collect it - temper it and return it)  WIP
+* Enchant a weapon/armor for a NPC. (collect it - temper it and return it) WIP
 * Newspaper delivery a la black horse courier (there's a black horse courier mod out there too)
   
   
