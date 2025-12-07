@@ -1,25 +1,24 @@
-Load Plugin between Wildlander and Wildlander full. 
 
-Left side - the end is fine
+## Changelog 
+06/12 @ 22:30 - Version 1.1
+* Fixed quest item counts on Fish for Inn, Meat for Inn, Wizard Robes
+* Fixed times on Harvest quests
+* Fixed distance Harvest quests to use someone from the destination not in the current Hold
+* Added Craft to quests which require crafting (E.G Cook meals for the Jarl)
+* Amended wording on the Harvest quest to Duckling's suggestions
+* Corrected Activation board script to handle Jayserpa's new dynamic quests
 
-run Reqtificator after installation.
+07/12 @ 22:30 - Version 1.2
+* Fixed issues with Enchant quest and Alchemy quests not remembering their Enchant/Potions
+* Refactored missive quest board descriptions.
+* Moved alchemy missives to Misc quests.
+* Increased reward from Shopping quests
 
+07/12 @ 09:00 - Version 1.3
+* Corrected reload of missives boards from a new Skyrim session>
+* Added New Restock Reward to the MCM. 
+* Fixed Shopping missives failing to start on some occasions.
 
-Known issues
-1) Some tailoring recipes Cannot currently be crafted.
-2) Restock can ask for clutter items you cant make - so those you will need to find.
-3) Some "kill the leader" quests Auto complete - if you do the dungeon while the quest is spawned on the missive board.
-
-
-Version 1.0
-Initial Release
-
-V1.1
-Fix for 1.1.6 
-
-V1.2 24/12
-Fix for visiting both missive boards in a hold removing all quests from the first board.
-
-V1.3 15/01
-Added Quests raise dispostion patch
-Fixed missive boards to regen quests when empty (e.g if visiting two toens in same holds and identical quests are selected, the first missive board empties when the second starts the quests)
+## Known issues
+* Soul gem quests are confusing because you don't know if it needs full or empty ones. 
+> This is because Dylan changed the name of soul gems from vanilla, both full and empty have the same name. Its already fixed in R4.
